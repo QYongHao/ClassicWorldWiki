@@ -1,0 +1,46 @@
+---
+title: Classes Overview
+description: A reference page outlining the different adventurer classes in Maplestory, including their unique characteristics and playstyles.
+---
+
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+
+## Classes in Maplestory
+
+Maplestory offers a variety of classes for players to choose from, each with its unique characteristics and playstyles. Here is an overview of the different classes:
+
+### Bowman
+
+* A ranged attacker class known for their agility and accuracy.
+* Specializes in dealing damage from a distance using their bows and arrows.
+* Job advancements: Bowman, Ranger, Bowmaster.
+
+### Magician
+
+* A spellcaster class known for their ability to cast powerful magic spells.
+* Specializes in dealing damage to enemies using their magical abilities.
+* Job advancements: Magician, Fire/Poison Mage, Arch Mage.
+
+### Thief
+
+* A stealthy class known for their agility and ability to deal critical damage.
+* Specializes in dealing damage to enemies quickly and quietly.
+* Job advancements: Thief, Assassin, Night Lord.
+
+### Warrior
+
+* A melee attacker class known for their strength and ability to deal massive damage.
+* Specializes in dealing damage to enemies up close.
+* Job advancements: Warrior, Hero, Paladin.
+
+### Pirate
+
+* A unique class known for their ability to deal damage using their guns and cannons.
+* Specializes in dealing damage to enemies from a distance.
+* Job advancements: Pirate, Gunslinger, Captain.
+
+## Further reading
+
+- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- Check out the individual class pages for more information on each class's skills, playstyle, and job advancements.

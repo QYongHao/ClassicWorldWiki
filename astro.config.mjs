@@ -15,12 +15,19 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Leveling Guide', slug: 'guides/leveling' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Class',
+					items: [
+						{ label: 'Classes Overview', slug: 'class/classes-overview' },
+						{ label: 'Bowman', slug: 'class/bowman' },
+						{ label: 'Thief', slug: 'class/thief' },
+						{ label: 'Warrior', slug: 'class/warrior' },
+						{ label: 'Magician', slug: 'class/magician' },
+						{ label: 'Pirate', slug: 'class/pirate' },
+					],
 				},
 			],
 		}),
