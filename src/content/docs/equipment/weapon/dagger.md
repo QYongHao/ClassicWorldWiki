@@ -1,0 +1,29 @@
+---
+title: Dagger
+description: A reference page for Dagger weapons in Maplestory, including stats, usage, and classes that wield them.
+---
+
+Daggers are fast, single-handed weapons favored by Thief class characters for their quick attack speed and poison-based abilities. They excel in close-quarters combat and stealth attacks.
+
+## Weapon Stats
+
+* **Attack Speed:** Fastest (1)
+* **Base Attack:** 20~30
+* **Req. Level:** 15
+* **Req. STR:** 30
+* **Req. DEX:** 80
+
+## Class Usage
+
+Daggers are primarily used by:
+* Rogues (Thief 2nd Job)
+* Hermits (Thief 3rd Job)
+* Night Walkers (Thief 4th Job)
+
+## Special Features
+
+* Enables use of throwing star attacks
+* Boosts poison and dark-element skills
+* Increases critical hit chance
+* Low weight for improved mobility
+* Compatible with shield off-hand items

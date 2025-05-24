@@ -1,0 +1,30 @@
+---
+title: Ring
+description: A reference page for Rings in Maplestory, including stats, usage, and benefits.
+---
+
+Rings are powerful accessories that provide significant stat boosts and special effects. Players can equip multiple rings for stacking benefits.
+
+## Equipment Stats
+
+* **Defense:** 1~4
+* **Req. Level:** 20~150 (varies by tier)
+* **Slots:** 1
+* **Set Bonuses:** Often part of accessory sets
+
+## Class Usage
+
+Rings benefit all classes:
+* Warriors (for STR and HP boosts)
+* Magicians (for INT and MP boosts)
+* Archers (for DEX and accuracy)
+* Thieves (for LUK and critical rate)
+* Pirates (for balanced stat increases)
+
+## Special Features
+
+* Can equip up to 4 rings simultaneously
+* Some rings provide unique active skills
+* High-end rings offer boss damage bonuses
+* Often part of powerful boss accessory sets
+* Certain rings provide experience bonuses

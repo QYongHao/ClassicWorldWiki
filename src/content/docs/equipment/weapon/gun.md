@@ -1,0 +1,29 @@
+---
+title: Gun
+description: A reference page for Gun weapons in Maplestory, including stats, usage, and classes that wield them.
+---
+
+Guns are powerful ranged weapons used exclusively by Pirates, combining ranged attacks with explosive damage. They offer a unique blend of mobility and firepower.
+
+## Weapon Stats
+
+* **Attack Speed:** Medium (6)
+* **Base Attack:** 28~45
+* **Req. Level:** 20
+* **Req. STR:** 50
+* **Req. DEX:** 80
+
+## Class Usage
+
+Guns are the signature weapon for:
+* Gunslingers (Pirate 2nd Job)
+* Outlaws (Pirate 3rd Job)
+* Corsairs (Pirate 4th Job)
+
+## Special Features
+
+* Ability to attack while moving
+* Explosive bullet types (flame, ice, lightning)
+* Knockback effects on enemies
+* Dual-wield capability with additional revolvers
+* Special bullet charging mechanics

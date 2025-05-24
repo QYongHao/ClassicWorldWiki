@@ -1,0 +1,28 @@
+---
+title: Two-Handed Blunt Weapons
+description: A reference page for Two-Handed Blunt Weapons in Maplestory, including stats, usage, and benefits.
+---
+
+Two-handed blunt weapons like hammers and maces deliver powerful crushing blows. They sacrifice attack speed for high damage potential.
+
+## Weapon Stats
+
+* **Attack Speed:** Slow (6)
+* **Weapon Attack:** 80~180
+* **Req. Level:** 20~200 (varies by tier)
+* **Req. STR:** High
+* **Knockback Chance:** High
+
+## Class Usage
+
+Primarily used by:
+* Warriors (especially Crusaders and Paladins)
+* Some Pirates (for high damage output)
+
+## Special Features
+
+* Highest base damage among warrior weapons
+* Increased chance to knockback enemies
+* Some weapons provide bonus HP
+* Certain weapons have elemental attributes
+* Often used for bossing due to high damage

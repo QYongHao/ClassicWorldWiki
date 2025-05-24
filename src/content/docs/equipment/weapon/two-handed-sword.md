@@ -1,0 +1,28 @@
+---
+title: Two-Handed Swords
+description: A reference page for Two-Handed Swords in Maplestory, including stats, usage, and benefits.
+---
+
+Two-handed swords offer balanced performance with good damage and attack speed. They are versatile weapons for warriors.
+
+## Weapon Stats
+
+* **Attack Speed:** Normal (5)
+* **Weapon Attack:** 85~165
+* **Req. Level:** 20~200 (varies by tier)
+* **Req. STR:** High
+* **Accuracy:** High
+
+## Class Usage
+
+Primarily used by:
+* Warriors (especially Heroes and Dark Knights)
+* Some Pirates (for balanced performance)
+
+## Special Features
+
+* Balanced damage and attack speed
+* High accuracy for consistent hits
+* Some swords provide bonus HP
+* Certain swords have elemental attributes
+* Good for both mobbing and bossing

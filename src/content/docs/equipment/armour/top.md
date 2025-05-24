@@ -1,0 +1,30 @@
+---
+title: Top Armor
+description: A reference page for Top Armor in Maplestory, including stats, usage, and benefits.
+---
+
+Top armor provides upper body protection and is a fundamental part of any character's defense. It comes in various materials and tiers.
+
+## Equipment Stats
+
+* **Defense:** 15~60
+* **Req. Level:** 15~200 (varies by tier)
+* **Slots:** 1
+* **Set Bonuses:** Often part of armor sets
+
+## Class Usage
+
+Top armor is used by all classes:
+* Warriors (for highest defense values)
+* Magicians (for INT boosts)
+* Archers (for DEX boosts)
+* Thieves (for LUK boosts)
+* Pirates (for balanced stats)
+
+## Special Features
+
+* Some top armor provides bonus HP/MP
+* Certain sets provide additional stats
+* High-end tops may provide skill bonuses
+* Often part of complete armor sets with additional bonuses
+* Can be replaced by overall armor

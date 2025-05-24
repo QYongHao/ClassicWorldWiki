@@ -1,0 +1,28 @@
+---
+title: Staffs
+description: A reference page for Staffs in Maplestory, including stats, usage, and benefits.
+---
+
+Staffs are powerful magical weapons that sacrifice attack speed for higher magic damage. They are favored by damage-focused magicians.
+
+## Weapon Stats
+
+* **Attack Speed:** Slow (6)
+* **Magic Attack:** 90~180
+* **Req. Level:** 20~200 (varies by tier)
+* **Req. INT:** High
+* **Elemental Attributes:** Often have strong elemental properties
+
+## Class Usage
+
+Primarily used by:
+* Magicians (especially Fire/Poison and Ice/Lightning)
+* Battle Mages (for melee magic attacks)
+
+## Special Features
+
+* Highest magic attack among magician weapons
+* Some staffs provide bonus MP
+* Certain staffs enhance specific elements significantly
+* Often have impressive visual effects
+* Can be used with magic guard skills

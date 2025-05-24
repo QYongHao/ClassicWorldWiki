@@ -1,0 +1,28 @@
+---
+title: Claw
+description: A reference page for Claw weapons in Maplestory, including stats, usage, and classes that wield them.
+---
+
+Claws are lightweight melee weapons primarily wielded by Thief class characters in Maplestory. These weapons emphasize speed and critical hits, making them ideal for quick combo attacks.
+
+## Weapon Stats
+
+* **Attack Speed:** Fast (2)
+* **Base Attack:** 16~25
+* **Req. Level:** 10
+* **Req. STR:** 25
+* **Req. DEX:** 25
+
+## Class Usage
+
+Claws are the signature weapon for:
+* Assassins (Thief 2nd Job)
+* Night Lords (Thief 3rd Job)
+* Dual Blades (Special Thief Branch)
+
+## Special Features
+
+* Allows use of Thief-exclusive skills like Haste and Drain
+* Enables combo attacks through skill chaining
+* High critical hit rate bonuses
+* Lightweight for faster movement

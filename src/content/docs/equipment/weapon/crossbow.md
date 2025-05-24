@@ -1,0 +1,28 @@
+---
+title: Crossbow
+description: A reference page for Crossbow weapons in Maplestory, including stats, usage, and classes that wield them.
+---
+
+Crossbows are powerful ranged weapons that sacrifice attack speed for higher damage per shot. They are primarily used by expert Bowmen who specialize in precision attacks.
+
+## Weapon Stats
+
+* **Attack Speed:** Slow (8)
+* **Base Attack:** 35~50
+* **Req. Level:** 30
+* **Req. STR:** 40
+* **Req. DEX:** 120
+
+## Class Usage
+
+Crossbows are the signature weapon for:
+* Snipers (Bowman 3rd Job)
+* Marksmen (Bowman 4th Job)
+* Wind Archers (Cygnus Knights)
+
+## Special Features
+
+* Highest single-shot damage among ranged weapons
+* Piercing attacks that can hit multiple enemies
+* Specialized arrow types (e.g., armor-piercing, freezing)
+* Longest attack range of any bowman weapon

@@ -1,0 +1,29 @@
+---
+title: One-Handed Axes
+description: A reference page for One-Handed Axes in Maplestory, including stats, usage, and benefits.
+---
+
+One-handed axes offer a balance between damage and versatility, allowing for shield usage or dual-wielding.
+
+## Weapon Stats
+
+* **Attack Speed:** Fast (4)
+* **Weapon Attack:** 70~140
+* **Req. Level:** 20~200 (varies by tier)
+* **Req. STR:** Moderate
+* **Critical Chance:** Moderate
+
+## Class Usage
+
+Primarily used by:
+* Warriors (especially Fighters and Crusaders)
+* Pirates (for versatile combat options)
+* Can be dual-wielded by certain classes
+
+## Special Features
+
+* Faster attack speed than two-handed variants
+* Can be paired with shields for defense
+* Some axes provide bonus critical rate
+* Certain axes have bleed effects
+* Good for both mobbing and bossing

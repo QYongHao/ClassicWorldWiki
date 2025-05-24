@@ -1,0 +1,29 @@
+---
+title: Bottom Armor
+description: A reference page for Bottom armor (pants) in Maplestory, including stats, usage, and benefits.
+---
+
+Bottom armor provides leg protection and is an essential part of any character's defense. It comes in various materials and tiers.
+
+## Equipment Stats
+
+* **Defense:** 15~60
+* **Req. Level:** 15~200 (varies by tier)
+* **Slots:** 1
+* **Set Bonuses:** Often part of armor sets
+
+## Class Usage
+
+Bottom armor is used by all classes:
+* Warriors (for highest defense values)
+* Magicians (for INT boosts)
+* Archers (for DEX boosts)
+* Thieves (for LUK boosts)
+* Pirates (for balanced stats)
+
+## Special Features
+
+* Some bottom armor provides bonus HP/MP
+* Certain sets provide additional movement speed
+* High-end bottom armor may provide skill bonuses
+* Often part of complete armor sets with additional bonuses

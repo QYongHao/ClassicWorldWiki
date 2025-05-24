@@ -1,0 +1,29 @@
+---
+title: Earring
+description: A reference page for Earrings in Maplestory, including stats, usage, and benefits.
+---
+
+Earrings are stylish accessories that provide various stat boosts and special effects. They are popular among all classes for their versatility.
+
+## Equipment Stats
+
+* **Defense:** 1~3
+* **Req. Level:** 15~120 (varies by tier)
+* **Slots:** 1
+* **Set Bonuses:** Often part of accessory sets
+
+## Class Usage
+
+Earrings benefit all classes:
+* Warriors (for STR and HP boosts)
+* Magicians (for INT and MP boosts)
+* Archers (for DEX and accuracy)
+* Thieves (for LUK and avoidability)
+* Pirates (for balanced stat increases)
+
+## Special Features
+
+* Can be potentialed for additional stats
+* Some earrings provide elemental resistance
+* High-end earrings offer unique effects like cooldown reduction
+* Often part of boss accessory sets

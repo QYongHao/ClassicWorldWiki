@@ -1,0 +1,28 @@
+---
+title: Wands
+description: A reference page for Wands in Maplestory, including stats, usage, and benefits.
+---
+
+Wands are magical weapons that channel elemental powers. They provide balanced magic attack and casting speed.
+
+## Weapon Stats
+
+* **Attack Speed:** Normal (5)
+* **Magic Attack:** 75~160
+* **Req. Level:** 20~200 (varies by tier)
+* **Req. INT:** High
+* **Elemental Attributes:** Often have fire/ice/lightning properties
+
+## Class Usage
+
+Primarily used by:
+* Magicians (all specializations)
+* Some hybrid classes with magic abilities
+
+## Special Features
+
+* Boosts magic attack power
+* Some wands provide MP cost reduction
+* Certain wands enhance specific elements
+* Often have elegant visual effects
+* Can be used with magic guard skills

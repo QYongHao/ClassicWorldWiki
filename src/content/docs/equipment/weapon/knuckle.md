@@ -1,0 +1,28 @@
+---
+title: Knuckles
+description: A reference page for Knuckles in Maplestory, including stats, usage, and benefits.
+---
+
+Knuckles are fast, close-range weapons used by brawlers. They enable rapid combos and powerful melee attacks.
+
+## Weapon Stats
+
+* **Attack Speed:** Very Fast (2)
+* **Weapon Attack:** 65~135
+* **Req. Level:** 20~200 (varies by tier)
+* **Req. STR/DEX:** Balanced
+* **Combo Potential:** High
+
+## Class Usage
+
+Primarily used by:
+* Brawlers (Pirate class)
+* Some Warriors (for fast attack speed)
+
+## Special Features
+
+* Fastest attack speed among melee weapons
+* Enables combo attacks
+* Some knuckles provide bonus attack speed
+* Certain knuckles have stun effects
+* Excellent for rapid damage output

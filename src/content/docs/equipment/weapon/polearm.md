@@ -1,0 +1,28 @@
+---
+title: Polearms
+description: A reference page for Polearms in Maplestory, including stats, usage, and benefits.
+---
+
+Polearms are heavy weapons that deliver powerful sweeping attacks. They combine decent range with high damage potential.
+
+## Weapon Stats
+
+* **Attack Speed:** Slow (6)
+* **Weapon Attack:** 90~170
+* **Req. Level:** 20~200 (varies by tier)
+* **Req. STR:** Very High
+* **Attack Range:** Extended
+
+## Class Usage
+
+Primarily used by:
+* Warriors (especially Dark Knights)
+* Some Pirates (for high damage output)
+
+## Special Features
+
+* Powerful sweeping attack animations
+* Some polearms provide bonus HP
+* Certain polearms have knockback effects
+* Excellent for mobbing due to wide attacks
+* Can be used with power strike skills

@@ -1,0 +1,28 @@
+---
+title: Spears
+description: A reference page for Spears in Maplestory, including stats, usage, and benefits.
+---
+
+Spears provide warriors with extended attack range, allowing them to hit enemies from further away than other melee weapons.
+
+## Weapon Stats
+
+* **Attack Speed:** Normal (5)
+* **Weapon Attack:** 80~160
+* **Req. Level:** 20~200 (varies by tier)
+* **Req. STR:** High
+* **Attack Range:** Extended
+
+## Class Usage
+
+Primarily used by:
+* Warriors (especially Spearmen/Dark Knights)
+* Some Pirates (for ranged melee attacks)
+
+## Special Features
+
+* Longest melee attack range
+* Some spears provide bonus HP
+* Certain spears have piercing effects
+* Good for mobbing due to range advantage
+* Can be used with power strike skills

@@ -1,0 +1,30 @@
+---
+title: Gloves
+description: A reference page for Gloves in Maplestory, including stats, usage, and benefits.
+---
+
+Gloves provide hand protection and often include special bonuses for attack speed or critical rate. They are essential for all classes.
+
+## Equipment Stats
+
+* **Defense:** 8~35
+* **Req. Level:** 10~200 (varies by tier)
+* **Slots:** 1
+* **Set Bonuses:** Often part of armor sets
+
+## Class Usage
+
+Gloves benefit all classes:
+* Warriors (for attack speed and accuracy)
+* Magicians (for INT and casting speed)
+* Archers (for DEX and attack speed)
+* Thieves (for LUK and critical rate)
+* Pirates (for balanced stats)
+
+## Special Features
+
+* Some gloves provide attack speed bonuses
+* Certain gloves increase critical rate
+* High-end gloves may provide skill bonuses
+* Often part of complete armor sets
+* Some gloves provide additional weapon attack/magic attack
