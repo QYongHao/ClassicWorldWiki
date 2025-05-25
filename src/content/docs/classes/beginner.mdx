@@ -1,0 +1,59 @@
+---
+title: Beginner
+description: Starting class for all characters
+---
+import Table from '/src/components/Table.astro';
+
+export const beginnerSkills = [
+    {
+        "Skill Name": "Three Snails",
+        "Level": 1,
+        "Description": "Summon 3 snails to fight for you",
+        "Effect": "Deploys attack snails (3 max)",
+        "Type": "Active"
+    },
+    {
+        "Skill Name": "Recovery",
+        "Level": 1,
+        "Description": "Automatic HP/MP regeneration",
+        "Effect": "Recovers 10% HP/MP every 10 sec",
+        "Type": "Passive"
+    },
+    {
+        "Skill Name": "Nimble Feet",
+        "Level": 3,
+        "Description": "Improved movement capabilities",
+        "Effect": "+10 Movement Speed",
+        "Type": "Passive"
+    },
+    {
+        "Skill Name": "Legendary Spirit",
+        "Level": 6,
+        "Description": "Experience boost",
+        "Effect": "+5% Bonus Experience",
+        "Type": "Passive"
+    },
+    {
+        "Skill Name": "Monster Rider",
+        "Level": 10,
+        "Description": "Mount wild pigs",
+        "Effect": "Ride specific monsters for 60 sec",
+        "Type": "Active"
+    }
+];
+
+# Beginner
+
+## Starting Stats
+- Level 1
+- 4 STR, 4 DEX, 4 INT, 4 LUK
+- 12 HP, 12 MP
+
+## Skills
+<Table 
+  data={beginnerSkills}
+/>
+
+## First Job Advancement
+- Available at Level 10
+- Choose from Warrior, Magician, Bowman, Thief, or Pirate
