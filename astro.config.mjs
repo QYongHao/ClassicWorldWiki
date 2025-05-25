@@ -21,123 +21,107 @@ export default defineConfig({
 					label: 'Classes',
 					items: [
 						{ label: 'Classes Overview', slug: 'classes/classes-overview' },
+						{ label: 'Beginner', slug: 'classes/beginner' },
 						{
 							label: 'Bowman',
-							collapsed: true,
 							items: [
 								{ label: 'Bowman', slug: 'classes/bowman' },
 								{
 									label: 'Hunter',
-									items: [
-										{ label: 'Hunter', slug: 'classes/bowman/hunter' },
-										{ label: 'Ranger', slug: 'classes/bowman/ranger' }
-									]
+									slug: 'classes/bowman/hunter',
+									badge: { text: 'Archer', variant: 'tip' }
 								},
+								{ label: 'Ranger', slug: 'classes/bowman/ranger' },
 								{
 									label: 'Crossbowman',
-									items: [
-										{ label: 'Crossbowman', slug: 'classes/bowman/crossbowman' },
-										{ label: 'Sniper', slug: 'classes/bowman/sniper' }
-									]
-								}
-							]
-						},
-						{
-							label: 'Thief',
-							collapsed: true,
-							items: [
-								{ label: 'Thief', slug: 'classes/thief' },
-								{
-									label: 'Assassin',
-									items: [
-										{ label: 'Assassin', slug: 'classes/thief/assassin' },
-										{ label: 'Hermit', slug: 'classes/thief/hermit' }
-									]
+									slug: 'classes/bowman/crossbowman',
+									badge: { text: 'Crossbow', variant: 'note' }
 								},
-								{
-									label: 'Bandit',
-									items: [
-										{ label: 'Bandit', slug: 'classes/thief/bandit' },
-										{ label: 'Chief Bandit', slug: 'classes/thief/chief-bandit' }
-									]
-								}
-							]
-						},
-						{
-							label: 'Warrior',
-							collapsed: true,
-							items: [
-								{ label: 'Warrior', slug: 'classes/warrior' },
-								{
-									label: 'Fighter',
-									items: [
-										{ label: 'Fighter', slug: 'classes/warrior/fighter' },
-										{ label: 'Crusader', slug: 'classes/warrior/crusader' }
-									]
-								},
-								{
-									label: 'Page',
-									items: [
-										{ label: 'Page', slug: 'classes/warrior/page' },
-										{ label: 'White Knight', slug: 'classes/warrior/white-knight' }
-									]
-								},
-								{
-									label: 'Spearman',
-									items: [
-										{ label: 'Spearman', slug: 'classes/warrior/spearman' },
-										{ label: 'Dragon Knight', slug: 'classes/warrior/dragon-knight' }
-									]
-								}
+								{ label: 'Sniper', slug: 'classes/bowman/sniper' }
 							]
 						},
 						{
 							label: 'Magician',
-							collapsed: true,
 							items: [
 								{ label: 'Magician', slug: 'classes/magician' },
 								{
-									label: 'Fire/Poison Wizard',
-									items: [
-										{ label: 'Wizard', slug: 'classes/magician/fire-poison-wizard' },
-										{ label: 'Mage', slug: 'classes/magician/fire-poison-mage' }
-									]
+									label: 'Wizard (Fire/Poison)',
+									slug: 'classes/magician/fire-poison-wizard',
+									badge: { text: 'F/P', variant: 'danger' }
 								},
+								{ label: 'Mage (Fire/Poison)', slug: 'classes/magician/fire-poison-mage' },
 								{
-									label: 'Ice/Lightning Wizard',
-									items: [
-										{ label: 'Wizard', slug: 'classes/magician/ice-lightning-wizard' },
-										{ label: 'Mage', slug: 'classes/magician/ice-lightning-mage' }
-									]
+									label: 'Wizard (Ice/Lightning)',
+									slug: 'classes/magician/ice-lightning-wizard',
+									badge: { text: 'I/L', variant: 'note' }
 								},
+								{ label: 'Mage (Ice/Lightning)', slug: 'classes/magician/ice-lightning-mage' },
 								{
 									label: 'Cleric',
-									items: [
-										{ label: 'Cleric', slug: 'classes/magician/cleric' },
-										{ label: 'Priest', slug: 'classes/magician/priest' }
-									]
-								}
+									slug: 'classes/magician/cleric',
+									badge: { text: 'Holy', variant: 'success' }
+								},
+								{ label: 'Priest', slug: 'classes/magician/priest' }
 							]
 						},
 						{
 							label: 'Pirate',
-							collapsed: true,
 							items: [
 								{ label: 'Pirate', slug: 'classes/pirate' },
 								{
 									label: 'Brawler',
-									items: [
-										{ label: 'Brawler', slug: 'classes/pirate/brawler' },
-										{ label: 'Marauder', slug: 'classes/pirate/marauder' }
-									]
+									slug: 'classes/pirate/brawler',
+									badge: { text: 'Brawler', variant: 'tip' }
 								},
+								{ label: 'Marauder', slug: 'classes/pirate/marauder' },
 								{
 									label: 'Gunslinger',
-									items: [
-										{ label: 'Gunslinger', slug: 'classes/pirate/gunslinger' },
-										{ label: 'Outlaw', slug: 'classes/pirate/outlaw' }
-									]
-								}
+									slug: 'classes/pirate/gunslinger',
+									badge: { text: 'Gunslinger', variant: 'note' }
+								},
+								{ label: 'Outlaw', slug: 'classes/pirate/outlaw' }
+							]
+						},
+						{
+							label: 'Thief',
+							items: [
+								{ label: 'Thief', slug: 'classes/thief' },
+								{
+									label: 'Assassin',
+									slug: 'classes/thief/assassin',
+									badge: { text: 'Assassin', variant: 'danger' }
+								},
+								{ label: 'Hermit', slug: 'classes/thief/hermit' },
+								{
+									label: 'Bandit',
+									slug: 'classes/thief/bandit',
+									badge: { text: 'Bandit', variant: 'caution' }
+								},
+								{ label: 'Chief Bandit', slug: 'classes/thief/chief-bandit' }
+							]
+						},
+						{
+							label: 'Warrior',
+							items: [
+								{ label: 'Warrior', slug: 'classes/warrior' },
+								{
+									label: 'Fighter',
+									slug: 'classes/warrior/fighter',
+									badge: { text: 'Fighter', variant: 'tip' }
+								},
+								{ label: 'Crusader', slug: 'classes/warrior/crusader' },
+								{
+									label: 'Page',
+									slug: 'classes/warrior/page',
+									badge: { text: 'Page', variant: 'note' }
+								},
+								{ label: 'White Knight', slug: 'classes/warrior/white-knight' },
+								{
+									label: 'Spearman',
+									slug: 'classes/warrior/spearman',
+									badge: { text: 'Spearman', variant: 'success' }
+								},
+								{ label: 'Dragon Knight', slug: 'classes/warrior/dragon-knight' }
 							]
 						},
 					],
@@ -175,7 +159,7 @@ export default defineConfig({
 								{ label: 'Cape', slug: 'equipment/armour/cape' },
 								{ label: 'Gloves', slug: 'equipment/armour/gloves' },
 								{ label: 'Hat', slug: 'equipment/armour/hat' },
-								{ label: 'Overall', slug: 'equipment/armour/ovarall' },
+								{ label: 'Overall', slug: 'equipment/armour/overall' },
 								{ label: 'Shield', slug: 'equipment/armour/shield' },
 								{ label: 'Shoes', slug: 'equipment/armour/shoes' },
 								{ label: 'Top', slug: 'equipment/armour/top' }
