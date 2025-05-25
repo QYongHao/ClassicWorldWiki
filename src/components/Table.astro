@@ -1,6 +1,21 @@
 ---
+interface TextContent {
+    type: "text";
+    value: string | number;
+}
+
+interface ImageContent {
+    type: "image";
+    src: string;
+    alt: string;
+    width?: number;
+    height?: number;
+}
+
+type CellContent = TextContent | ImageContent;
+
 interface DataRow {
-    [key: string]: string | number;
+    [key: string]: CellContent | string | number;
 }
 
 interface Props {
@@ -25,9 +40,27 @@ const computedHeaders: string[] =
             {
                 data.map((row) => (
                     <tr>
-                        {computedHeaders.map((header) => (
-                            <td>{row[header]}</td>
-                        ))}
+                        {computedHeaders.map((header) => {
+                            const cell = row[header];
+                            return (
+                                <td>
+                                    {typeof cell === "object" &&
+                                    cell.type === "text" ? (
+                                        cell.value
+                                    ) : typeof cell === "object" &&
+                                      cell.type === "image" ? (
+                                        <img
+                                            src={cell.src}
+                                            alt={cell.alt}
+                                            width={cell.width}
+                                            height={cell.height}
+                                        />
+                                    ) : (
+                                        cell
+                                    )}
+                                </td>
+                            );
+                        })}
                     </tr>
                 ))
             }
@@ -70,6 +103,13 @@ const computedHeaders: string[] =
         padding: var(--sl-nav-pad-x);
         color: var(--sl-color-gray-4);
         border-bottom: 1px solid var(--sl-color-hairline-light);
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    td img {
+        display: block;
+        margin: 0 auto;
     }
 
     tr:hover {
