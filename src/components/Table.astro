@@ -1,9 +1,12 @@
 ---
+import { Image } from "astro:assets";
+
 interface TextContent {
     type: "text";
     value: string | number;
 }
 
+const DEFAULT_IMAGE_SIZE = 36;
 interface ImageContent {
     type: "image";
     src: string;
@@ -49,11 +52,16 @@ const computedHeaders: string[] =
                                         cell.value
                                     ) : typeof cell === "object" &&
                                       cell.type === "image" ? (
-                                        <img
+                                        <Image
                                             src={cell.src}
                                             alt={cell.alt}
-                                            width={cell.width}
-                                            height={cell.height}
+                                            width={
+                                                cell.width || DEFAULT_IMAGE_SIZE
+                                            }
+                                            height={
+                                                cell.height ||
+                                                DEFAULT_IMAGE_SIZE
+                                            }
                                         />
                                     ) : (
                                         cell
