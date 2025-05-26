@@ -29,13 +29,13 @@ export default defineConfig({
 								{
 									label: 'Hunter',
 									slug: 'classes/bowman/hunter',
-									badge: { text: 'Archer', variant: 'tip' }
+									badge: { text: 'Hunter', variant: 'tip' }
 								},
 								{ label: 'Ranger', slug: 'classes/bowman/ranger' },
 								{
 									label: 'Crossbowman',
 									slug: 'classes/bowman/crossbowman',
-									badge: { text: 'Crossbow', variant: 'note' }
+									badge: { text: 'Crossbowman', variant: 'note' }
 								},
 								{ label: 'Sniper', slug: 'classes/bowman/sniper' }
 							]

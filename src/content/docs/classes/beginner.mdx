@@ -3,48 +3,7 @@ title: Beginner
 description: Starting class for all characters
 ---
 import Table from '/src/components/Table.astro';
-import threeSnails from '/src/assets/skills/beginner/three-snails.png';
-import recovery from '/src/assets/skills/beginner/recovery.png';
-import nimbleFeet from '/src/assets/skills/beginner/nimble-feet.png';
-
-export const beginnerSkills = [
-    {
-        "Icon": {
-            type: "image",
-            src: threeSnails,
-            alt: "Three Snails"
-        },
-        "Skill Name": "Three Snails",
-        "Level": 1,
-        "Description": "Summon 3 snails to fight for you",
-        "Effect": "Deploys attack snails (3 max)",
-        "Type": "Active"
-    },
-    {
-        "Icon": {
-            type: "image",
-            src: recovery,
-            alt: "Recovery"
-        },
-        "Skill Name": "Recovery",
-        "Level": 1,
-        "Description": "Automatic HP/MP regeneration",
-        "Effect": "Recovers 10% HP/MP every 10 sec",
-        "Type": "Passive"
-    },
-    {
-        "Icon": {
-            type: "image",
-            src: nimbleFeet,
-            alt: "Nimble Feet"
-        },
-        "Skill Name": "Nimble Feet",
-        "Level": 3,
-        "Description": "Improved movement capabilities",
-        "Effect": "+10 Movement Speed",
-        "Type": "Passive"
-    }
-];
+import { beginnerSkills } from '../../data/beginnerSkills';
 
 ## Starting Stats
 - Level 1
