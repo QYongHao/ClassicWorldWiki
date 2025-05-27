@@ -1,36 +1,44 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: Welcome to MapleStory Classic World Wiki
+description: Your comprehensive guide to MapleStory Classic - Classes, Skills, Equipment and Strategies.
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: Relive the Golden Era of MapleStory
   image:
-    file: ../../assets/houston.webp
+    file: ../../assets/mushroom.png
   actions:
-    - text: Example Guide
+    - text: Class Guides
+      link: /classes/classes-overview/
+      icon: open-book
+    - text: Equipment Catalog
+      link: /equipment/weapon/bow/
+      icon: seti:nunjucks
+    - text: Leveling Guide
       link: /guides/leveling/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
+      icon: rocket
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## Explore the World of MapleStory
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Class Guides" icon="open-book">
+		Detailed breakdown of all classes including Bowman, Warrior, Thief, Magician and Pirate progression paths.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Equipment Catalog" icon="seti:nunjucks">
+		Complete database of weapons, armor and accessories with stats and acquisition methods.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Leveling Strategies" icon="rocket">
+		Optimal training routes and efficiency guides for 1-200 leveling.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Skill Database" icon="star">
+		Complete listing of all class skills with damage formulas and animations.
 	</Card>
 </CardGrid>
+
+### Recent Updates
+- Added full Crossbowman skill breakdown
+- Updated Warrior equipment recommendations
+- New leveling maps for Lv 30-50 range
+- Revised beginner class selection guide
