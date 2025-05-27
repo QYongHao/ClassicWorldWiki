@@ -24,6 +24,7 @@ export default defineConfig({
 						{ label: 'Beginner', slug: 'classes/beginner' },
 						{
 							label: 'Bowman',
+      collapsed: true,
 							items: [
 								{ label: 'Bowman', slug: 'classes/bowman' },
 								{
@@ -42,6 +43,7 @@ export default defineConfig({
 						},
 						{
 							label: 'Magician',
+      collapsed: true,
 							items: [
 								{ label: 'Magician', slug: 'classes/magician' },
 								{
@@ -66,6 +68,7 @@ export default defineConfig({
 						},
 						{
 							label: 'Pirate',
+      collapsed: true,
 							items: [
 								{ label: 'Pirate', slug: 'classes/pirate' },
 								{
@@ -84,6 +87,7 @@ export default defineConfig({
 						},
 						{
 							label: 'Thief',
+      collapsed: true,
 							items: [
 								{ label: 'Thief', slug: 'classes/thief' },
 								{
@@ -102,6 +106,7 @@ export default defineConfig({
 						},
 						{
 							label: 'Warrior',
+      collapsed: true,
 							items: [
 								{ label: 'Warrior', slug: 'classes/warrior' },
 								{
