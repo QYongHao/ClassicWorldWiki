@@ -2,13 +2,16 @@
 title: Gunslinger (Pirate 2nd Job)
 description: Skills and progression for Pirate's gun path
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/pirate/gunslingerSkills.js';
 
 # Gunslinger
 
 ## Skills
-- Grenade
-- Blank Shot
-- Gun Mastery
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 30

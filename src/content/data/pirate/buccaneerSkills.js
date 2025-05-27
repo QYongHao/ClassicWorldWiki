@@ -1,0 +1,1163 @@
+import mapleWarrior from '/src/assets/skills/Maple Warrior.png';
+import dragonStrike from '/src/assets/skills/Dragon Strike.png';
+import energyOrb from '/src/assets/skills/Energy Orb.png';
+import superTransformation from '/src/assets/skills/Super Transformation.png';
+import demolition from '/src/assets/skills/Demolition.png';
+import snatch from '/src/assets/skills/Snatch.png';
+import barrage from '/src/assets/skills/Barrage.png';
+import herosWill from '/src/assets/skills/Hero\'s Will.png';
+import speedInfusion from '/src/assets/skills/Speed Infusion.png';
+import timeLeap from '/src/assets/skills/Time Leap.png';
+
+export const skills = [
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Maple Warrior",
+      "src": mapleWarrior
+    },
+    "Skill Name": "Maple Warrior",
+    "Master Level": 0,
+    "Description": "For a set period of time, the stats of every member in your party will be boosted.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -10; For 30 seconds, all stats +1%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -10; For 60 seconds, all stats +1%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -10; For 90 seconds, all stats +2%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -10; For 120 seconds, all stats +2%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -10; For 150 seconds, all stats +3%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -20; For 180 seconds, all stats +3%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -20; For 210 seconds, all stats +4%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -20; For 240 seconds, all stats +4%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -20; For 270 seconds, all stats +5%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -20; For 300 seconds, all stats +5%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -30; For 330 seconds, all stats +6%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -30; For 360 seconds, all stats +6%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -30; For 390 seconds, all stats +7%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -30; For 420 seconds, all stats +7%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -30; For 450 seconds, all stats +8%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -40; For 480 seconds, all stats +8%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -40; For 510 seconds, all stats +9%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -40; For 540 seconds, all stats +9%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -40; For 570 seconds, all stats +10%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -40; For 600 seconds, all stats +10%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -50; For 630 seconds, all stats +11%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -50; For 660 seconds, all stats +11%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -50; For 690 seconds, all stats +11%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -50; For 720 seconds, all stats +11%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -60; For 750 seconds, all stats +12%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -60; For 780 seconds, all stats +12%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -60; For 810 seconds, all stats +12%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -60; For 840 seconds, all stats +12%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -70; For 870 seconds, all stats +13%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -70; For 900 seconds, all stats +13%"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Dragon Strike",
+      "src": dragonStrike
+    },
+    "Skill Name": "Dragon Strike",
+    "Master Level": 0,
+    "Description": "Summons a sleeping dragon from the depths of the ground to apply damage to a number of monsters.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -21; Damage 275%, attacks 4 monsters"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -21; Damage 290%, attacks 4 monsters"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -22; Damage 305%, attacks 4 monsters"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -22; Damage 320%, attacks 4 monsters"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -23; Damage 335%, attacks 4 monsters"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -23; Damage 350%, attacks 4 monsters"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -24; Damage 365%, attacks 4 monsters"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -24; Damage 380%, attacks 4 monsters"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -25; Damage 395%, attacks 4 monsters"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -25; Damage 410%, attacks 4 monsters"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -26; Damage 475%, attacks 5 monsters"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -26; Damage 490%, attacks 5 monsters"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -27; Damage 505%, attacks 5 monsters"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -27; Damage 520%, attacks 5 monsters"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -28; Damage 535%, attacks 5 monsters"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -28; Damage 550%, attacks 5 monsters"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -29; Damage 565%, attacks 5 monsters"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -29; Damage 580%, attacks 5 monsters"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -30; Damage 595%, attacks 5 monsters"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -30; Damage 610%, attacks 5 monsters"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -31; Damage 675%, attacks 6 monsters"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -31; Damage 690%, attacks 6 monsters"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -32; Damage 705%, attacks 6 monsters"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -32; Damage 720%, attacks 6 monsters"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -33; Damage 735%, attacks 6 monsters"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -33; Damage 750%, attacks 6 monsters"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -34; Damage 765%, attacks 6 monsters"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -34; Damage 780%, attacks 6 monsters"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -35; Damage 795%, attacks 6 monsters"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -35; Damage 810%, attacks 6 monsters"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Energy Orb",
+      "src": energyOrb
+    },
+    "Skill Name": "Energy Orb",
+    "Master Level": 0,
+    "Description": "Uses a blast of powerful energy to strike a monster. If there are other monsters around the affected monster, they will also be affected by this potent ball of energy. Only available when the energy is fully charged.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Damage 300%, attacks 2 monsters"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Damage 320%, attacks 2 monsters"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Damage 340%, attacks 2 monsters"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Damage 360%, attacks 2 monsters"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Damage 380%, attacks 2 monsters"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Damage 400%, attacks 2 monsters"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Damage 420%, attacks 3 monsters"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Damage 440%, attacks 3 monsters"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Damage 460%, attacks 3 monsters"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Damage 480%, attacks 3 monsters"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Damage 510%, attacks 3 monsters"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Damage 530%, attacks 3 monsters"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Damage 550%, attacks 4 monsters"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Damage 570%, attacks 4 monsters"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Damage 590%, attacks 4 monsters"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Damage 610%, attacks 4 monsters"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Damage 630%, attacks 4 monsters"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Damage 650%, attacks 4 monsters"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Damage 670%, attacks 5 monsters"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Damage 690%, attacks 5 monsters"
+      },
+      {
+        "Levels": 21,
+        "Effect": "Damage 720%, attacks 5 monsters"
+      },
+      {
+        "Levels": 22,
+        "Effect": "Damage 740%, attacks 5 monsters"
+      },
+      {
+        "Levels": 23,
+        "Effect": "Damage 760%, attacks 5 monsters"
+      },
+      {
+        "Levels": 24,
+        "Effect": "Damage 780%, attacks 5 monsters"
+      },
+      {
+        "Levels": 25,
+        "Effect": "Damage 800%, attacks 6 monsters"
+      },
+      {
+        "Levels": 26,
+        "Effect": "Damage 820%, attacks 6 monsters"
+      },
+      {
+        "Levels": 27,
+        "Effect": "Damage 840%, attacks 6 monsters"
+      },
+      {
+        "Levels": 28,
+        "Effect": "Damage 860%, attacks 6 monsters"
+      },
+      {
+        "Levels": 29,
+        "Effect": "Damage 880%, attacks 6 monsters"
+      },
+      {
+        "Levels": 30,
+        "Effect": "Damage 900%, attacks 6 monsters"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Super Transformation",
+      "src": superTransformation
+    },
+    "Skill Name": "Super Transformation",
+    "Master Level": 0,
+    "Description": "Skills unlocked: Shockwave, Demolition, Snatch.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -22; weapon & magic def. +41,\\n Cooldown: 370 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -24; weapon & magic def. +42,\\n Cooldown: 360 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -26; weapon & magic def. +43,\\n Cooldown: 350 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -28; weapon & magic def. +44,\\n Cooldown: 340 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -30; weapon & magic def. +45,\\n Cooldown: 330 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -32; weapon & magic def. +46,\\n Cooldown: 320 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -34; weapon & magic def. +47,\\n Cooldown: 310 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -36; weapon & magic def. +48,\\n Cooldown: 300 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -38; weapon & magic def. +49,\\n Cooldown: 290 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -40; weapon & magic def. +50,\\n Cooldown: 280 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -42; weapon & magic def. +51 & mastery +5%,\\n Cooldown: 270 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -44; weapon & magic def. +52 & mastery +5%,\\n Cooldown: 260 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -46; weapon & magic def. +53 & mastery +5%,\\n Cooldown: 250 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -48; weapon & magic def. +54 & mastery +5%,\\n Cooldown: 240 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -50; weapon & magic def. +55 & mastery +5%,\\n Cooldown: 230 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -52; weapon & magic def. +56 & mastery +5%,\\n Cooldown: 220 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -54; weapon & magic def. +57 & mastery +5%,\\n Cooldown: 210 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -56; weapon & magic def. +58 & mastery +5%,\\n Cooldown: 200 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -58; weapon & magic def. +59 & mastery +5%,\\n Cooldown: 190 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -60; weapon & magic def. +60 & mastery +5%,\\n Cooldown: 180 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Demolition",
+      "src": demolition
+    },
+    "Skill Name": "Demolition",
+    "Master Level": 0,
+    "Description": "Apply a significant damage to a single monster by attacking it in a blinding speed. Only available when under a state of Super Transformation",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 150% per hit"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 160% per hit"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 170% per hit"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 180% per hit"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 190% per hit"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 200% per hit"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 210% per hit"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 220% per hit"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 230% per hit"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -20; Attacks a monster 8 times with damage 240% per hit"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 260% per hit"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 270% per hit"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 280% per hit"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 290% per hit"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 300% per hit"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 310% per hit"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 320% per hit"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 330% per hit"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 340% per hit"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -35; Attacks a monster 8 times with damage 350% per hit"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 370% per hit"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 380% per hit"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 390% per hit"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 400% per hit"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 410% per hit"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 420% per hit"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 430% per hit"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 440% per hit"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 450% per hit"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -50; Attacks a monster 8 times with damage 460% per hit"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Snatch",
+      "src": snatch
+    },
+    "Skill Name": "Snatch",
+    "Master Level": 0,
+    "Description": "Applies damage to a monster that's far away, and drags it right in front of you. Only available when under a state of Super Transformation",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -11; Damage 210%, attacks 2 monsters"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12; Damage 220%, attacks 2 monsters"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -13; Damage 230%, attacks 2 monsters"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -14; Damage 240%, attacks 2 monsters"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -15; Damage 250%, attacks 2 monsters"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -16; Damage 260%, attacks 2 monsters"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -17; Damage 270%, attacks 3 monsters"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -18; Damage 280%, attacks 3 monsters"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -19; Damage 290%, attacks 3 monsters"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -20; Damage 300%, attacks 3 monsters"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -21; Damage 360%, attacks 3 monsters"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -22; Damage 370%, attacks 3 monsters"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -23; Damage 380%, attacks 4 monsters"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -24; Damage 390%, attacks 4 monsters"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -25; Damage 400%, attacks 4 monsters"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -26; Damage 410%, attacks 4 monsters"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -27; Damage 420%, attacks 4 monsters"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -28; Damage 430%, attacks 4 monsters"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -29; Damage 440%, attacks 5 monsters"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -30; Damage 450%, attacks 5 monsters"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -31; Damage 510%, attacks 5 monsters"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -32; Damage 520%, attacks 5 monsters"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -33; Damage 530%, attacks 5 monsters"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -34; Damage 540%, attacks 5 monsters"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -35; Damage 550%, attacks 6 monsters"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -36; Damage 560%, attacks 6 monsters"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -37; Damage 570%, attacks 6 monsters"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -38; Damage 580%, attacks 6 monsters"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -39; Damage 590%, attacks 6 monsters"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -40; Damage 600%, attacks 6 monsters"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Barrage",
+      "src": barrage
+    },
+    "Skill Name": "Barrage",
+    "Master Level": 0,
+    "Description": "Attacks a monster nearby 6 times in quick succession.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -21; Damage 144%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -21; Damage 148%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -22; Damage 152%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -22; Damage 156%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -23; Damage 160%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -23; Damage 164%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -24; Damage 168%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -24; Damage 172%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -25; Damage 176%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -25; Damage 180%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -26; Damage 194%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -26; Damage 198%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -27; Damage 202%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -27; Damage 206%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -28; Damage 210%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -28; Damage 214%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -29; Damage 218%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -29; Damage 222%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -30; Damage 226%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -30; Damage 230%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -31; Damage 244%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -31; Damage 248%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -32; Damage 252%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -32; Damage 256%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -33; Damage 260%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -33; Damage 264%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -34; Damage 268%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -34; Damage 272%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -35; Damage 276%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -35; Damage 280%"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Hero's Will",
+      "src": herosWill
+    },
+    "Skill Name": "Hero's Will",
+    "Master Level": 0,
+    "Description": "Enables one to shrug off the seduce status condition.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -30; Cooldown: 10 minutes"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -30; Cooldown: 9 minutes"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -30; Cooldown: 8 minutes"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -30; Cooldown: 7 minutes"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -30; Cooldown: 6 minutes"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Speed Infusion",
+      "src": speedInfusion
+    },
+    "Skill Name": "Speed Infusion",
+    "Master Level": 0,
+    "Description": "Uses HP and MP to temporarily increase the attacking speed of a weapon. This can be combined with other weapon boosters, and everyone in the party will have their attacking speed increased.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "HP -78, MP -78; Boosts weapon attack speed for 110 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "HP -76, MP -76; Boosts weapon attack speed for 120 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "HP -74, MP -74; Boosts weapon attack speed for 130 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "HP -72, MP -72; Boosts weapon attack speed for 140 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "HP -70, MP -70; Boosts weapon attack speed for 150 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "HP -68, MP -68; Boosts weapon attack speed for 160 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "HP -66, MP -66; Boosts weapon attack speed for 170 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "HP -64, MP -64; Boosts weapon attack speed for 180 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "HP -62, MP -62; Boosts weapon attack speed for 190 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "HP -60, MP -60; Boosts weapon attack speed for 200 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "HP -58, MP -58; Boosts weapon attack speed for 210 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "HP -56, MP -56; Boosts weapon attack speed for 220 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "HP -54, MP -54; Boosts weapon attack speed for 230 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "HP -52, MP -52; Boosts weapon attack speed for 240 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "HP -50, MP -50; Boosts weapon attack speed for 250 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "HP -48, MP -48; Boosts weapon attack speed for 260 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "HP -46, MP -46; Boosts weapon attack speed for 270 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "HP -44, MP -44; Boosts weapon attack speed for 280 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "HP -42, MP -42; Boosts weapon attack speed for 290 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "HP -40, MP -40; Boosts weapon attack speed for 300 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Time Leap",
+      "src": timeLeap
+    },
+    "Skill Name": "Time Leap",
+    "Master Level": 0,
+    "Description": "Resets the waiting time for skills for yourself and everyone in the party. This does not reset the waiting time for Time Leap. Only available when the energy is fully charged.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -195; Cooldown: 49 minutes"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -190; Cooldown: 48 minutes"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -185; Cooldown: 47 minutes"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -180; Cooldown: 46 minutes"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -175; Cooldown: 45 minutes"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -170; Cooldown: 44 minutes"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -165; Cooldown: 43 minutes"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -160; Cooldown: 42 minutes"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -155; Cooldown: 41 minutes"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -150; Cooldown: 40 minutes"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -145; Cooldown: 39 minutes"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -140; Cooldown: 38 minutes"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -135; Cooldown: 37 minutes"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -130; Cooldown: 36 minutes"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -125; Cooldown: 35 minutes"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -120; Cooldown: 34 minutes"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -115; Cooldown: 33 minutes"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -110; Cooldown: 32 minutes"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -105; Cooldown: 31 minutes"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -100; Cooldown: 30 minutes"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -95; Cooldown: 29 minutes"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -90; Cooldown: 28 minutes"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -85; Cooldown: 27 minutes"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -80; Cooldown: 26 minutes"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -75; Cooldown: 25 minutes"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -70; Cooldown: 24 minutes"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -65; Cooldown: 23 minutes"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -60; Cooldown: 22 minutes"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -55; Cooldown: 21 minutes"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -50; Cooldown: 20 minutes"
+      }
+    ],
+    "Type": "Active"
+  }
+];

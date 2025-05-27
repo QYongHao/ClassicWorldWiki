@@ -1,14 +1,17 @@
 ---
 title: Chief Bandit (Thief 3rd Job)
-description: Skills and progression for Thief's dagger path
+description: Skills and progression for Thief's dagger mastery path
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/thief/chiefBanditSkills.js';
 
 # Chief Bandit
 
 ## Skills
-- Assaulter
-- Band of Thieves
-- Meso Guard
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 70

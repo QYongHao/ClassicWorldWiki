@@ -2,13 +2,16 @@
 title: Ice/Lightning Mage (Magician 3rd Job)
 description: Skills and progression for Magician's Ice/Lightning path
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/magician/mageIceLightningSkills.js';
 
 # Ice/Lightning Mage
 
 ## Skills
-- Ice Strike
-- Thunder Spear
-- Elemental Reset
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 70

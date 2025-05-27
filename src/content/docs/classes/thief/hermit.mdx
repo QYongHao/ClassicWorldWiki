@@ -2,13 +2,16 @@
 title: Hermit (Thief 3rd Job)
 description: Skills and progression for Thief's third job advancement
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/thief/hermitSkills.js';
 
 # Hermit
 
 ## Skills
-- Band of Thieves
-- Meso Explosion
-- Shadow Partner
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 70

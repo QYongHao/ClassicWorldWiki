@@ -2,13 +2,16 @@
 title: Fighter (Warrior 2nd Job)
 description: Skills and progression for Warrior's second job advancement
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/warrior/fighterSkills.js';
 
 # Fighter
 
 ## Skills
-- Power Strike
-- Slash Blast
-- Iron Body
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 30

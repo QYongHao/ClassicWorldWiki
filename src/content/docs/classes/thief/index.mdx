@@ -2,6 +2,8 @@
 title: Thief
 description: A reference page for the Thief class in Maplestory, including their skills, playstyle, and job advancements.
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/thief/thiefSkills.js';
 
 The Thief is a stealthy class in Maplestory, known for their agility and ability to deal critical damage. They specialize in dealing damage to enemies quickly and quietly.
 
@@ -12,10 +14,10 @@ The Thief is a stealthy class in Maplestory, known for their agility and ability
 * 3rd Job: Night Lord
 
 ## Skills
-
-* Critical Throw: Deals critical damage to enemies, with a chance to stun.
-* Haste: Increases the player's movement speed and attack speed.
-* Showdown: Deals damage to enemies in a small area, with a chance to stun.
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Playstyle
 

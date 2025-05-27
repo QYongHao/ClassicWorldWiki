@@ -1,0 +1,821 @@
+import shieldMastery from '/src/assets/skills/Shield Mastery.png';
+import chakra from '/src/assets/skills/Chakra.png';
+import assaulter from '/src/assets/skills/Assaulter.png';
+import pickpocket from '/src/assets/skills/Pickpocket.png';
+import bandOfThieves from '/src/assets/skills/Band of Thieves.png';
+import mesoGuard from '/src/assets/skills/Meso Guard.png';
+import mesoExplosion from '/src/assets/skills/Meso Explosion.png';
+
+export const skills = [
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Shield Mastery",
+      "src": shieldMastery
+    },
+    "Skill Name": "Shield Mastery",
+    "Master Level": 20,
+    "Description": "Increases the def. of the equipped shield. Only works when the shield is equipped.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Shield def. +5%; Has to be equipped"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Shield def. +10%; Has to be equipped"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Shield def. +15%; Has to be equipped"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Shield def. +20%; Has to be equipped"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Shield def. +25%; Has to be equipped"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Shield def. +30%; Has to be equipped"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Shield def. +35%; Has to be equipped"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Shield def. +40%; Has to be equipped"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Shield def. +45%; Has to be equipped"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Shield def. +50%; Has to be equipped"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Shield def. +55%; Has to be equipped"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Shield def. +60%; Has to be equipped"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Shield def. +65%; Has to be equipped"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Shield def. +70%; Has to be equipped"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Shield def. +75%; Has to be equipped"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Shield def. +80%; Has to be equipped"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Shield def. +85%; Has to be equipped"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Shield def. +90%; Has to be equipped"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Shield def. +95%; Has to be equipped"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Shield def. +100%; Has to be equipped"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Chakra",
+      "src": chakra
+    },
+    "Skill Name": "Chakra",
+    "Master Level": 30,
+    "Description": "Uses MP to recover HP. Only works when the HP is less than 50%, and it'll stop if either attacked or moved.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -15; Recovery rate 68%; Damage during the recovery if hit: 99%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -15; Recovery rate 76%; Damage during the recovery if hit: 98%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -15; Recovery rate 84%; Damage during the recovery if hit: 97%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -15; Recovery rate 92%; Damage during the recovery if hit: 96%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -15; Recovery rate 100%; Damage during the recovery if hit: 95%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -15; Recovery rate 108%; Damage during the recovery if hit: 94%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -15; Recovery rate 116%; Damage during the recovery if hit: 93%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -15; Recovery rate 124%; Damage during the recovery if hit: 92%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -15; Recovery rate 132%; Damage during the recovery if hit: 91%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -15; Recovery rate 140%; Damage during the recovery if hit: 90%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -21; Recovery rate 148%; Damage during the recovery if hit: 89%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -21; Recovery rate 156%; Damage during the recovery if hit: 88%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -21; Recovery rate 164%; Damage during the recovery if hit: 87%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -21; Recovery rate 172%; Damage during the recovery if hit: 86%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -21; Recovery rate 180%; Damage during the recovery if hit: 85%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -21; Recovery rate 188%; Damage during the recovery if hit: 84%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -21; Recovery rate 196%; Damage during the recovery if hit: 83%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -21; Recovery rate 204%; Damage during the recovery if hit: 82%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -21; Recovery rate 212%; Damage during the recovery if hit: 81%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -21; Recovery rate 220%; Damage during the recovery if hit: 80%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -27; Recovery rate 228%; Damage during the recovery if hit: 79%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -27; Recovery rate 236%; Damage during the recovery if hit: 78%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -27; Recovery rate 244%; Damage during the recovery if hit: 77%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -27; Recovery rate 252%; Damage during the recovery if hit: 76%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -27; Recovery rate 260%; Damage during the recovery if hit: 75%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -27; Recovery rate 268%; Damage during the recovery if hit: 74%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -27; Recovery rate 276%; Damage during the recovery if hit: 73%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -27; Recovery rate 284%; Damage during the recovery if hit: 72%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -27; Recovery rate 292%; Damage during the recovery if hit: 71%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -27; Recovery rate 300%; Damage during the recovery if hit: 70%"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Assaulter",
+      "src": assaulter
+    },
+    "Skill Name": "Assaulter",
+    "Master Level": 30,
+    "Description": "Attacks a single monster with incredible power and speed. The attacked may even be stunned.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -12; Damage 210%, stun for 2 seconds with 22% success rate"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12; Damage 220%, stun for 2 seconds with 24% success rate"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -12; Damage 230%, stun for 2 seconds with 26% success rate"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -12; Damage 240%, stun for 2 seconds with 28% success rate"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -12; Damage 250%, stun for 2 seconds with 30% success rate"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -12; Damage 260%, stun for 2 seconds with 32% success rate"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -12; Damage 270%, stun for 2 seconds with 34% success rate"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -12; Damage 280%, stun for 2 seconds with 36% success rate"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -12; Damage 290%, stun for 2 seconds with 38% success rate"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -12; Damage 300%, stun for 2 second with 40% success rate"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -19; Damage 310%, stun for 3 seconds with 42% success rate"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -19; Damage 320%, stun for 3 seconds with 44% success rate"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -19; Damage 330%, stun for 3 seconds with 46% success rate"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -19; Damage 340%, stun for 3 seconds with 48% success rate"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -19; Damage 350%, stun for 3 seconds with 50% success rate"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -19; Damage 360%, stun for 3 seconds with 52% success rate"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -19; Damage 370%, stun for 3 seconds with 54% success rate"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -19; Damage 380%, stun for 3 seconds with 56% success rate"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -19; Damage 390%, stun for 3 seconds with 58% success rate"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -19; Damage 400%, stun for 3 seconds with 60% success rate"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -26; Damage 405%, stun for 4 seconds with 62% success rate"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -26; Damage 410%, stun for 4 seconds with 64% success rate"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -26; Damage 415%, stun for 4 seconds with 66% success rate"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -26; Damage 420%, stun for 4 seconds with 68% success rate"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -26; Damage 425%, stun for 4 seconds with 70% success rate"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -26; Damage 430%, stun for 4 seconds with 72% success rate"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -26; Damage 435%, stun for 4 seconds with 74% success rate"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -26; Damage 440%, stun for 4 seconds with 76% success rate"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -26; Damage 445%, stun for 4 seconds with 78% success rate"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -26; Damage 450%, stun for 4 seconds with 80% success rate"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Pickpocket",
+      "src": pickpocket
+    },
+    "Skill Name": "Pickpocket",
+    "Master Level": 20,
+    "Description": "Temporarily causes additional mesos to dropped off from the attacked monsters. The amount of mesos dropped is in proportion to the skill level and damage done to the monsters.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -31; For 90 seconds, monster's meso drop rate if attacked: 22%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -32; For 90 seconds, monster's meso drop rate if attacked: 24%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -33; For 90 seconds, monster's meso drop rate if attacked: 26%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -34; For 90 seconds, monster's meso drop rate if attacked: 28%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -35; For 90 seconds, monster's meso drop rate if attacked: 30%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -36; For 120 seconds, monster's meso drop rate if attacked: 32%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -37; For 120 seconds, monster's meso drop rate if attacked: 34%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -38; For 120 seconds, monster's meso drop rate if attacked: 36%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -39; For 120 seconds, monster's meso drop rate if attacked: 38%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -40; For 120 seconds, monster's meso drop rate if attacked: 40%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -41; For 150 seconds, monster's meso drop rate if attacked: 42%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -42; For 150 seconds, monster's meso drop rate if attacked: 44%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -43; For 150 seconds, monster's meso drop rate if attacked: 46%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -44; For 150 seconds, monster's meso drop rate if attacked: 48%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -45; For 150 seconds, monster's meso drop rate if attacked: 50%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -46; For 180 seconds, monster's meso drop rate if attacked: 52%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -47; For 180 seconds, monster's meso drop rate if attacked: 54%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -48; For 180 seconds, monster's meso drop rate if attacked: 56%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -49; For 180 seconds, monster's meso drop rate if attacked: 58%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -50; For 180 seconds, monster's meso drop rate if attacked: 60%"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Band of Thieves",
+      "src": bandOfThieves
+    },
+    "Skill Name": "Band of Thieves",
+    "Master Level": 30,
+    "Description": "Summons fellow bandits to attack up to 6 monsters around the area.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -10; Damage 110%, 1 \"other self\" will attack enemies in a 135% area range"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -10; Damage 120%, 1 \"other self\" will attack enemies in a 135% area range"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -10; Damage 130%, 1 \"other self\" will attack enemies in a 135% area range"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -10; Damage 140%, 1 \"other self\" will attack enemies in a 135% area range"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -10; Damage 150%, 1 \"other self\" will attack enemies in a 135% area range"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -13; Damage 160%, 1 \"other self\" will attack enemies in a 135% area range"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -13; Damage 120%, 2 \"other selves\" will attack enemies in a 135% area range"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -13; Damage 130%, 2 \"other selves\" will attack enemies in a 135% area range"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -13; Damage 140%, 2 \"other selves\" will attack enemies in a 140% area range"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -13; Damage 150%, 2 \"other selves\" will attack enemies in a 140% area range"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -16; Damage 160%, 2 \"other selves\" will attack enemies in a 140% area range"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -16; Damage 170%, 2 \"other selves\" will attack enemies in a 140% area range"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -16; Damage 130%, 3 \"other selves\" will attack enemies in a 140% area range"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -16; Damage 140%, 3 \"other selves\" will attack enemies in a 140% area range"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -16; Damage 150%, 3 \"other selves\" will attack enemies in a 140% area range"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -19; Damage 160%, 3 \"other selves\" will attack enemies in a 140% area range"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -19; Damage 170%, 3 \"other selves\" will attack enemies in a 145% area range"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -19; Damage 180%, 3 \"other selves\" will attack enemies in a 145% area range"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -19; Damage 140%, 4 \"other selves\" will attack enemies in a 145% area range"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -19; Damage 150%, 4 \"other selves\" will attack enemies in a 145% area range"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -22; Damage 160%, 4 \"other selves\" will attack enemies in a 145% area range"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -22; Damage 170%, 4 \"other selves\" will attack enemies in a 145% area range"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -22; Damage 180%, 4 \"other selves\" will attack enemies in a 145% area range"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -22; Damage 190%, 4 \"other selves\" will attack enemies in a 145% area range"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -22; Damage 160%, 5 \"other selves\" will attack enemies in a 150% area range"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -25; Damage 170%, 5 \"other selves\" will attack enemies in a 150% area range"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -25; Damage 180%, 5 \"other selves\" will attack enemies in a 150% area range"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -25; Damage 190%, 5 \"other selves\" will attack enemies in a 150% area range"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -25; Damage 200%, 5 \"other selves\" will attack enemies in a 150% area range"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -25; Damage 210%, 5 \"other selves\" will attack enemies in a 150% area range"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Meso Guard",
+      "src": mesoGuard
+    },
+    "Skill Name": "Meso Guard",
+    "Master Level": 20,
+    "Description": "Uses mesos to guard 50% of the damage received. A certain amount of mesos will be used when getting a hit based on the damage received. The skill will be turned off when mesos are used up or timer reaches 0. The HP will get a full hit if that happens.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -20; 90% of the guarded damage replaced with mesos for 33 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -20; 90% of the guarded damage replaced with mesos for 36 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -20; 89% of the guarded damage replaced with mesos for 39 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -20; 89% of the guarded damage replaced with mesos for 42 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -20; 88% of the guarded damage replaced with mesos for 45 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -25; 88% of the guarded damage replaced with mesos for 58 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -25; 87% of the guarded damage replaced with mesos for 61 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -25; 87% of the guarded damage replaced with mesos for 64 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -25; 86% of the guarded damage replaced with mesos for 67 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -25; 86% of the guarded damage replaced with mesos for 70 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -30; 85% of the guarded damage replaced with mesos for 83 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -30; 85% of the guarded damage replaced with mesos for 86 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -30; 84% of the guarded damage replaced with mesos for 89 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -30; 84% of the guarded damage replaced with mesos for 92 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -30; 83% of the guarded damage replaced with mesos for 95 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -35; 82% of the guarded damage replaced with mesos for 108 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -35; 81% of the guarded damage replaced with mesos for 111 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -35; 80% of the guarded damage replaced with mesos for 114 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -35; 79% of the guarded damage replaced with mesos for 117 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -35; 78% of the guarded damage replaced with mesos for 120 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Meso Explosion",
+      "src": mesoExplosion
+    },
+    "Skill Name": "Meso Explosion",
+    "Master Level": 30,
+    "Description": "Explodes the mesos dropped on the ground around you to attack up to 6 monsters. The mesos from the monsters killed by someone else will not be able to be used for this.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -18; Mastery 50%, explode up to 10"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -18; Mastery 52%, explode up to 10"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -18; Mastery 54%, explode up to 10"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -18; Mastery 56%, explode up to 10"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -18; Mastery 58%, explode up to 10"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -18; Mastery 60%, explode up to 12"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -18; Mastery 62%, explode up to 12"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -18; Mastery 64%, explode up to 12"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -18; Mastery 66%, explode up to 12"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -18; Mastery 68%, explode up to 12"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -24; Mastery 70%, explode up to 14"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -24; Mastery 72%, explode up to 14"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -24; Mastery 74%, explode up to 14"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -24; Mastery 76%, explode up to 14"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -24; Mastery 78%, explode up to 14"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -24; Mastery 80%, explode up to 16"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -24; Mastery 82%, explode up to 16"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -24; Mastery 84%, explode up to 16"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -24; Mastery 86%, explode up to 16"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -24; Mastery 88%, explode up to 16"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -30; Mastery 90%, explode up to 18"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -30; Mastery 92%, explode up to 18"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -30; Mastery 93%, explode up to 18"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -30; Mastery 94%, explode up to 18"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -30; Mastery 95%, explode up to 18"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -30; Mastery 96%, explode up to 20"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -30; Mastery 97%, explode up to 20"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -30; Mastery 98%, explode up to 20"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -30; Mastery 99%, explode up to 20"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -30; Mastery 100%, explode up to 20"
+      }
+    ],
+    "Type": "Active"
+  }
+];

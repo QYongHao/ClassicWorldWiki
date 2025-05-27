@@ -3,7 +3,7 @@ title: Bowman
 description: A reference page for the Bowman class in Maplestory, including their skills, playstyle, and job advancements.
 ---
 import Table from '/src/components/Table.astro';
-import { archerSkills } from '../../../data/archer/archerSkills.js';
+import { skills } from '../../../data/archer/bowmanSkills.js';
 
 The Bowman is a ranged attacker class in Maplestory, known for their agility and accuracy. They specialize in dealing damage from a distance using their bows and arrows.
 
@@ -15,7 +15,8 @@ The Bowman is a ranged attacker class in Maplestory, known for their agility and
 
 ## Skills
 <Table 
-  data={archerSkills}
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
 />
 
 ## Playstyle

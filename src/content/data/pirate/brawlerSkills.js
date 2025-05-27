@@ -1,0 +1,635 @@
+import improveMaxhp from '/src/assets/skills/Improve MaxHP.png';
+import knucklerMastery from '/src/assets/skills/Knuckler Mastery.png';
+import backspinBlow from '/src/assets/skills/Backspin Blow.png';
+import doubleUppercut from '/src/assets/skills/Double Uppercut.png';
+import corkscrewBlow from '/src/assets/skills/Corkscrew Blow.png';
+import mpRecovery from '/src/assets/skills/MP Recovery.png';
+import knucklerBooster from '/src/assets/skills/Knuckler Booster.png';
+import oakBarrel from '/src/assets/skills/Oak Barrel.png';
+
+export const skills = [
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Improve MaxHP",
+      "src": improveMaxhp
+    },
+    "Skill Name": "Improve MaxHP",
+    "Master Level": 10,
+    "Description": "Apply AP to MaxHP to improve the rate of increase for MaxHP.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "If Level UP, +3 more; if AP applied, +2 more on top of MaxHP"
+      },
+      {
+        "Levels": 2,
+        "Effect": "If Level UP, +6 more; if AP applied, +4 more on top of MaxHP"
+      },
+      {
+        "Levels": 3,
+        "Effect": "If Level UP, +9 more; if AP applied, +6 more on top of MaxHP"
+      },
+      {
+        "Levels": 4,
+        "Effect": "If Level UP, +12 more; if AP applied, +8 more on top of MaxHP"
+      },
+      {
+        "Levels": 5,
+        "Effect": "If Level UP, +15 more; if AP applied, +10 more on top of MaxHP"
+      },
+      {
+        "Levels": 6,
+        "Effect": "If Level UP, +18 more; if AP applied, +12 more on top of MaxHP"
+      },
+      {
+        "Levels": 7,
+        "Effect": "If Level UP, +21 more; if AP applied, +14 more on top of MaxHP"
+      },
+      {
+        "Levels": 8,
+        "Effect": "If Level UP, +24 more; if AP applied, +16 more on top of MaxHP"
+      },
+      {
+        "Levels": 9,
+        "Effect": "If Level UP, +27 more; if AP applied, +18 more on top of MaxHP"
+      },
+      {
+        "Levels": 10,
+        "Effect": "If Level UP, +30 more; if AP applied, +20 more on top of MaxHP"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Knuckler Mastery",
+      "src": knucklerMastery
+    },
+    "Skill Name": "Knuckler Mastery",
+    "Master Level": 20,
+    "Description": "Boosts the accuracy and the mastery of Knucklers. This skill only applies when you equip a Knuckler.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Knuckler mastery 15%, accuracy +1."
+      },
+      {
+        "Levels": 2,
+        "Effect": "Knuckler mastery 15%, accuracy +2."
+      },
+      {
+        "Levels": 3,
+        "Effect": "Knuckler mastery 20%, accuracy +3."
+      },
+      {
+        "Levels": 4,
+        "Effect": "Knuckler mastery 20%, accuracy +4."
+      },
+      {
+        "Levels": 5,
+        "Effect": "Knuckler mastery 25%, accuracy +5."
+      },
+      {
+        "Levels": 6,
+        "Effect": "Knuckler mastery 25%, accuracy +6."
+      },
+      {
+        "Levels": 7,
+        "Effect": "Knuckler mastery 30%, accuracy +7."
+      },
+      {
+        "Levels": 8,
+        "Effect": "Knuckler mastery 30%, accuracy +8."
+      },
+      {
+        "Levels": 9,
+        "Effect": "Knuckler mastery 35%, accuracy +9."
+      },
+      {
+        "Levels": 10,
+        "Effect": "Knuckler mastery 35%, accuracy +10."
+      },
+      {
+        "Levels": 11,
+        "Effect": "Knuckler mastery 40%, accuracy +11."
+      },
+      {
+        "Levels": 12,
+        "Effect": "Knuckler mastery 40%, accuracy +12."
+      },
+      {
+        "Levels": 13,
+        "Effect": "Knuckler mastery 45%, accuracy +13."
+      },
+      {
+        "Levels": 14,
+        "Effect": "Knuckler mastery 45%, accuracy +14."
+      },
+      {
+        "Levels": 15,
+        "Effect": "Knuckler mastery 50%, accuracy +15."
+      },
+      {
+        "Levels": 16,
+        "Effect": "Knuckler mastery 50%, accuracy +16."
+      },
+      {
+        "Levels": 17,
+        "Effect": "Knuckler mastery 55%, accuracy +17."
+      },
+      {
+        "Levels": 18,
+        "Effect": "Knuckler mastery 55%, accuracy +18."
+      },
+      {
+        "Levels": 19,
+        "Effect": "Knuckler mastery 60%, accuracy +19."
+      },
+      {
+        "Levels": 20,
+        "Effect": "Knuckler mastery 60%, accuracy +20."
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Backspin Blow",
+      "src": backspinBlow
+    },
+    "Skill Name": "Backspin Blow",
+    "Master Level": 20,
+    "Description": "This skill allows you to quickly slide back and elbow multiple monsters at once to apply damage and temporarily stun them.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -12; Damage 88%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12; Damage 96%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -14; Damage 104%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -14; Damage 112%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -16; Damage 120%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -16; Damage 128%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -18; Damage 136%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -18; Damage 144%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -20; Damage 152%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -20; Damage 160%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -22; Damage 168%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -22; Damage 176%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -24; Damage 184%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -24; Damage 192%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -26; Damage 200%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -26; Damage 208%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -28; Damage 216%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -28; Damage 224%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -30; Damage 232%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -30; Damage 240%, attacks up to 3 monsters"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Double Uppercut",
+      "src": doubleUppercut
+    },
+    "Skill Name": "Double Uppercut",
+    "Master Level": 20,
+    "Description": "A quick round of two punches to apply damage and temporarily stun a monster.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -15; Damage 100%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -15; Damage 110%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -15; Damage 120%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -15; Damage 130%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -15; Damage 140%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -20; Damage 150%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -20; Damage 160%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -20; Damage 170%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -20; Damage 180%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -20; Damage 190%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -25; Damage 200%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -25; Damage 210%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -25; Damage 220%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -25; Damage 230%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -25; Damage 240%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -30; Damage 250%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -30; Damage 260%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -30; Damage 270%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -30; Damage 280%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -30; Damage 290%"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Corkscrew Blow",
+      "src": corkscrewBlow
+    },
+    "Skill Name": "Corkscrew Blow",
+    "Master Level": 20,
+    "Description": "This skill allows you to run forward and punch multiple monsters in front at once.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -20; Damage up to 135%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -20; Damage up to 150%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -20; Damage up to 165%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -20; Damage up to 180%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -24; Damage up to 195%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -24; Damage up to 210%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -24; Damage up to 225%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -24; Damage up to 240%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -28; Damage up to 255%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -28; Damage up to 270%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -28; Damage up to 285%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -28; Damage up to 300%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -32; Damage up to 315%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -32; Damage up to 330%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -32; Damage up to 345%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -32; Damage up to 360%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -36; Damage up to 375%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -36; Damage up to 390%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -36; Damage up to 405%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -36; Damage up to 420%, attacks up to 3 monsters"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "MP Recovery",
+      "src": mpRecovery
+    },
+    "Skill Name": "MP Recovery",
+    "Master Level": 10,
+    "Description": "Recovers MP by using up a bit of HP.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MaxHP -10%; Converts 55% of the used HP to MP, \\nCooldown: 70 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MaxHP -10%; Converts 60% of the used HP to MP, \\nCooldown: 65 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MaxHP -10%; Converts 65% of the used HP to MP, \\nCooldown: 60 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MaxHP -10%; Converts 70% of the used HP to MP, \\nCooldown: 55 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MaxHP -10%; Converts 75% of the used HP to MP, \\nCooldown: 50 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MaxHP -10%; Converts 80% of the used HP to MP, \\nCooldown: 45 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MaxHP -10%; Converts 85% of the used HP to MP, \\nCooldown: 40 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MaxHP -10%; Converts 90% of the used HP to MP, \\nCooldown: 35 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MaxHP -10%; Converts 95% of the used HP to MP, \\nCooldown: 30 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MaxHP -10%; Converts 100% of the used HP to MP, \\nCooldown: 25 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Knuckler Booster",
+      "src": knucklerBooster
+    },
+    "Skill Name": "Knuckler Booster",
+    "Master Level": 20,
+    "Description": "Uses parts of HP and MP to temporarily boost the speed of a Knuckler. This skill can only be triggered when a Knuckler is equipped.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "HP -29, MP -29; Improves speed of Knuckler for 10 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "HP -28, MP -28; Improves speed of Knuckler for 20 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "HP -27, MP -27; Improves speed of Knuckler for 30 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "HP -26, MP -26; Improves speed of Knuckler for 40 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "HP -25, MP -25; Improves speed of Knuckler for 50 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "HP -24, MP -24; Improves speed of Knuckler for 60 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "HP -23, MP -23; Improves speed of Knuckler for 70 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "HP -22, MP -22; Improves speed of Knuckler for 80 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "HP -21, MP -21; Improves speed of Knuckler for 90 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "HP -20, MP -20; Improves speed of Knuckler for 100 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "HP -19, MP -19; Improves speed of Knuckler for 110 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "HP -18, MP -18; Improves speed of Knuckler for 120 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "HP -17, MP -17; Improves speed of Knuckler for 130 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "HP -16, MP -16; Improves speed of Knuckler for 140 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "HP -15, MP -15; Improves speed of Knuckler for 150 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "HP -14, MP -14; Improves speed of Knuckler for 160 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "HP -13, MP -13; Improves speed of Knuckler for 170 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "HP -12, MP -12; Improves speed of Knuckler for 180 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "HP -11, MP -11; Improves speed of Knuckler for 190 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "HP -10, MP -10; Improves speed of Knuckler for 200 seconds"
+      }
+    ],
+    "Type": "Supportive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Oak Barrel",
+      "src": oakBarrel
+    },
+    "Skill Name": "Oak Barrel",
+    "Master Level": 10,
+    "Description": "This skill will allow you to safely navigate your way through monsters without being recognized by them...by donning an Oak Barrel. Some clever monsters may be able to tell, though, so be careful.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -11; sustained for 10 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12; sustained for 20 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -13; sustained for 30 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -14; sustained for 40 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -15; sustained for 50 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -16; sustained for 60 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -17; sustained for 70 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -18; sustained for 80 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -19; sustained for 90 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -20; sustained for 100 seconds"
+      }
+    ],
+    "Type": "Active"
+  }
+];

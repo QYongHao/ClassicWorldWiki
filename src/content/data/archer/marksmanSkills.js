@@ -1,0 +1,1109 @@
+import marksmanBoost from '/src/assets/skills/Marksman Boost.png';
+import mapleWarrior from '/src/assets/skills/Maple Warrior.png';
+import piercingArrow from '/src/assets/skills/Piercing Arrow.png';
+import sharpEyes from '/src/assets/skills/Sharp Eyes.png';
+import dragonsBreath from '/src/assets/skills/Dragon\'s Breath.png';
+import frostprey from '/src/assets/skills/Frostprey.png';
+import blind from '/src/assets/skills/Blind.png';
+import snipe from '/src/assets/skills/Snipe.png';
+import herosWill from '/src/assets/skills/Hero\'s Will.png';
+
+export const skills = [
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Marksman Boost",
+      "src": marksmanBoost
+    },
+    "Skill Name": "Marksman Boost",
+    "Master Level": 0,
+    "Description": "Passive skill",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Crossbow mastery 65%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Crossbow mastery 65%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Crossbow mastery 65%, weapon attack +1"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Crossbow mastery 65%, weapon attack +1"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Crossbow mastery 65%, weapon attack +1"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Crossbow mastery 70%, weapon attack +2"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Crossbow mastery 70%, weapon attack +2"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Crossbow mastery 70%, weapon attack +2"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Crossbow mastery 70%, weapon attack +3"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Crossbow mastery 70%, weapon attack +3"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Crossbow mastery 75%, weapon attack +3"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Crossbow mastery 75%, weapon attack +4"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Crossbow mastery 75%, weapon attack +4"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Crossbow mastery 75%, weapon attack +4"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Crossbow mastery 75%, weapon attack +5"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Crossbow mastery 80%, weapon attack +5"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Crossbow mastery 80%, weapon attack +5"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Crossbow mastery 80%, weapon attack +6"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Crossbow mastery 80%, weapon attack +6"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Crossbow mastery 80%, weapon attack +6"
+      },
+      {
+        "Levels": 21,
+        "Effect": "Crossbow mastery 85%, weapon attack +7"
+      },
+      {
+        "Levels": 22,
+        "Effect": "Crossbow mastery 85%, weapon attack +7"
+      },
+      {
+        "Levels": 23,
+        "Effect": "Crossbow mastery 85%, weapon attack +7"
+      },
+      {
+        "Levels": 24,
+        "Effect": "Crossbow mastery 85%, weapon attack +8"
+      },
+      {
+        "Levels": 25,
+        "Effect": "Crossbow mastery 85%, weapon attack +8"
+      },
+      {
+        "Levels": 26,
+        "Effect": "Crossbow mastery 90%, weapon attack +8"
+      },
+      {
+        "Levels": 27,
+        "Effect": "Crossbow mastery 90%, weapon attack +9"
+      },
+      {
+        "Levels": 28,
+        "Effect": "Crossbow mastery 90%, weapon attack +9"
+      },
+      {
+        "Levels": 29,
+        "Effect": "Crossbow mastery 90%, weapon attack +9"
+      },
+      {
+        "Levels": 30,
+        "Effect": "Crossbow mastery 90%, weapon attack +10"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Maple Warrior",
+      "src": mapleWarrior
+    },
+    "Skill Name": "Maple Warrior",
+    "Master Level": 0,
+    "Description": "Increase all player's stats in party by certain percentage",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -10; For 30 seconds, all stats +1%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -10; For 60 seconds, all stats +1%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -10; For 90 seconds, all stats +2%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -10; For 120 seconds, all stats +2%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -10; For 150 seconds, all stats +3%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -20; For 180 seconds, all stats +3%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -20; For 210 seconds, all stats +4%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -20; For 240 seconds, all stats +4%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -20; For 270 seconds, all stats +5%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -20; For 300 seconds, all stats +5%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -30; For 330 seconds, all stats +6%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -30; For 360 seconds, all stats +6%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -30; For 390 seconds, all stats +7%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -30; For 420 seconds, all stats +7%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -30; For 450 seconds, all stats +8%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -40; For 480 seconds, all stats +8%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -40; For 510 seconds, all stats +9%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -40; For 540 seconds, all stats +9%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -40; For 570 seconds, all stats +10%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -40; For 600 seconds, all stats +10%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -50; For 630 seconds, all stats +11%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -50; For 660 seconds, all stats +11%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -50; For 690 seconds, all stats +11%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -50; For 720 seconds, all stats +11%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -60; For 750 seconds, all stats +12%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -60; For 780 seconds, all stats +12%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -60; For 810 seconds, all stats +12%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -60; For 840 seconds, all stats +12%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -70; For 870 seconds, all stats +13%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -70; For 900 seconds, all stats +13%"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Piercing Arrow",
+      "src": piercingArrow
+    },
+    "Skill Name": "Piercing Arrow",
+    "Master Level": 0,
+    "Description": "Charge to fire a special arrow that penetrates through monsters. The arrow's power increases by 20% with each monster it pierces, inflicting more damage to each consecutive monster.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -18; Damage 320%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -18; Damage 340%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -18; Damage 360%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -18; Damage 380%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -18; Damage 400%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -18; Damage 420%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -18; Damage 440%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -18; Damage 460%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -18; Damage 480%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -18; Damage 500%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -28; Damage 520%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -28; Damage 540%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -28; Damage 560%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -28; Damage 580%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -28; Damage 600%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -28; Damage 620%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -28; Damage 640%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -28; Damage 660%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -28; Damage 680%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -28; Damage 700%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -38; Damage 715%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -38; Damage 730%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -38; Damage 745%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -38; Damage 760%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -38; Damage 775%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -37; Damage 790%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -36; Damage 805%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -35; Damage 820%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -34; Damage 835%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -33; Damage 850%, attacks up to 6 enemies"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Sharp Eyes",
+      "src": sharpEyes
+    },
+    "Skill Name": "Sharp Eyes",
+    "Master Level": 0,
+    "Description": "Grants party members the ability to locate enemy weaknesses, and in turn inflict more damage by exploiting them.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -29; For 10 seconds, critical rate +1%, critical damage +111% (x1.11 for magical skills)"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -29; For 20 seconds, critical rate +1%, critical damage +112% (x1.12 for magical skills)"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -29; For 30 seconds, critical rate +2%, critical damage +113% (x1.13 for magical skills)"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -29; For 40 seconds, critical rate +2%, critical damage +114% (x1.14 for magical skills)"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -29; For 50 seconds, critical rate +3%, critical damage +115% (x1.15 for magical skills)"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -29; For 60 seconds, critical rate +3%, critical damage +116% (x1.16 for magical skills)"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -29; For 70 seconds, critical rate +4%, critical damage +117% (x1.17 for magical skills)"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -29; For 80 seconds, critical rate +4%, critical damage +118% (x1.18 for magical skills)"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -29; For 90 seconds, critical rate +5%, critical damage +119% (x1.19 for magical skills)"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -29; For 100 seconds, critical rate +5%, critical damage +120% (x1.20 for magical skills)"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -37; For 110 seconds, critical rate +6%, critical damage +121% (x1.21 for magical skills)"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -37; For 120 seconds, critical rate +6%, critical damage +122% (x1.22 for magical skills)"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -37; For 130 seconds, critical rate +7%, critical damage +123% (x1.23 for magical skills)"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -37; For 140 seconds, critical rate +7%, critical damage +124% (x1.24 for magical skills)"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -37; For 150 seconds, critical rate +8%, critical damage +125% (x1.25 for magical skills)"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -37; For 160 seconds, critical rate +8%, critical damage +126% (x1.26 for magical skills)"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -37; For 170 seconds, critical rate +9%, critical damage +127% (x1.27 for magical skills)"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -37; For 180 seconds, critical rate +9%, critical damage +128% (x1.28 for magical skills)"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -37; For 190 seconds, critical rate +10%, critical damage +129% (x1.29 for magical skills)"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -37; For 200 seconds, critical rate +10%, critical damage +130% (x1.30 for magical skills)"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -45; For 210 seconds, critical rate +11%, critical damage +131% (x1.31 for magical skills)"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -45; For 220 seconds, critical rate +11%, critical damage +132% (x1.32 for magical skills)"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -45; For 230 seconds, critical rate +12%, critical damage +133% (x1.33 for magical skills)"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -45; For 240 seconds, critical rate +12%, critical damage +134% (x1.34 for magical skills)"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -45; For 250 seconds, critical rate +13%, critical damage +135% (x1.35 for magical skills)"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -44; For 260 seconds, critical rate +13%, critical damage +136% (x1.36 for magical skills)"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -43; For 270 seconds, critical rate +14%, critical damage +137% (x1.37 for magical skills)"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -42; For 280 seconds, critical rate +14%, critical damage +138% (x1.38 for magical skills)"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -41; For 290 seconds, critical rate +15%, critical damage +139% (x1.39 for magical skills)"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -40; For 300 seconds, critical rate +15%, critical damage +140% (x1.40 for magical skills)"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Dragon's Breath",
+      "src": dragonsBreath
+    },
+    "Skill Name": "Dragon's Breath",
+    "Master Level": 0,
+    "Description": "Drawing upon the spirit of the dragon, fires a powerful arrow of tremendous force that will knock targets back.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -24; Damage 42%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -24; Damage 44%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -24; Damage 46%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -24; Damage 48%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -24; Damage 50%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -24; Damage 52%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -24; Damage 54%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -24; Damage 56%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -24; Damage 58%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -24; Damage 60%, attacks up to 4 enemies"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -30; Damage 62%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -30; Damage 64%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -30; Damage 66%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -30; Damage 68%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -30; Damage 70%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -30; Damage 72%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -30; Damage 74%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -30; Damage 76%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -30; Damage 78%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -30; Damage 80%, attacks up to 5 enemies"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -36; Damage 82%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -36; Damage 84%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -36; Damage 86%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -36; Damage 88%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -36; Damage 90%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -36; Damage 92%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -36; Damage 94%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -36; Damage 96%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -36; Damage 98%, attacks up to 6 enemies"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -36; Damage 100%, attacks up to 6 enemies"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Frostprey",
+      "src": frostprey
+    },
+    "Skill Name": "Frostprey",
+    "Master Level": 0,
+    "Description": "Temporarily summons the Frostprey, an ice-based hawk. Attacks up to 4 monsters.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -42; For 113 seconds, attack 255%, freeze for 1 second"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -44; For 116 seconds, attack 260%, freeze for 1 second"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -46; For 119 seconds, attack 265%, freeze for 1 second"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -48; For 122 seconds, attack 270%, freeze for 1 second"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -50; For 125 seconds, attack 275%, freeze for 1 second"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -52; For 128 seconds, attack 280%, freeze for 1 second"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -54; For 131 seconds, attack 285%, freeze for 1 second"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -56; For 134 seconds, attack 290%, freeze for 1 second"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -58; For 137 seconds, attack 295%, freeze for 1 second"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -60; For 140 seconds, attack 300%, freeze for 1 second"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -62; For 143 seconds, attack 355%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -64; For 146 seconds, attack 360%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -66; For 149 seconds, attack 365%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -68; For 152 seconds, attack 370%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -70; For 155 seconds, attack 375%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -72; For 158 seconds, attack 380%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -74; For 161 seconds, attack 385%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -76; For 164 seconds, attack 390%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -78; For 167 seconds, attack 395%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -80; For 170 seconds, attack 400%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -82; For 173 seconds, attack 455%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -84; For 176 seconds, attack 460%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -86; For 179 seconds, attack 465%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -88; For 182 seconds, attack 470%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -90; For 185 seconds, attack 475%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -92; For 188 seconds, attack 480%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -94; For 191 seconds, attack 485%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -96; For 194 seconds, attack 490%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -98; For 197 seconds, attack 495%, freeze for 3 seconds"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -100; For 200 seconds, attack 500%, freeze for 3 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Blind",
+      "src": blind
+    },
+    "Skill Name": "Blind",
+    "Master Level": 0,
+    "Description": "Aims at a monster's eyes with a certain success rate, decreasing its accuracy when successful.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -12; Within 35 seconds, with 11% success rate, decrease enemy accuracy by 1% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12; Within 40 seconds, with 12% success rate, decrease enemy accuracy by 2% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -12; Within 45 seconds, with 13% success rate, decrease enemy accuracy by 3% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -12; Within 50 seconds, with 14% success rate, decrease enemy accuracy by 4% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -12; Within 55 seconds, with 15% success rate, decrease enemy accuracy by 5% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -12; Within 60 seconds, with 16% success rate, decrease enemy accuracy by 6% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -12; Within 65 seconds, with 17% success rate, decrease enemy accuracy by 7% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -12; Within 70 seconds, with 18% success rate, decrease enemy accuracy by 8% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -12; Within 75 seconds, with 19% success rate, decrease enemy accuracy by 9% (1% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -12; Within 80 seconds, with 20% success rate, decrease enemy accuracy by 10% (4% for bosses) for 5 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -24; Within 85 seconds, with 21% success rate, decrease enemy accuracy by 11% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -24; Within 90 seconds, with 22% success rate, decrease enemy accuracy by 12% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -24; Within 95 seconds, with 23% success rate, decrease enemy accuracy by 13% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -24; Within 100 seconds, with 24% success rate, decrease enemy accuracy by 14% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -24; Within 105 seconds, with 25% success rate, decrease enemy accuracy by 15% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -24; Within 110 seconds, with 26% success rate, decrease enemy accuracy by 16% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -24; Within 115 seconds, with 27% success rate, decrease enemy accuracy by 17% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -24; Within 120 seconds, with 28% success rate, decrease enemy accuracy by 18% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -24; Within 125 seconds, with 29% success rate, decrease enemy accuracy by 19% (4% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -24; Within 130 seconds, with 30% success rate, decrease enemy accuracy by 20% (7% for bosses) for 10 seconds"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -36; Within 135 seconds, with 31% success rate, decrease enemy accuracy by 21% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -36; Within 140 seconds, with 32% success rate, decrease enemy accuracy by 22% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -36; Within 145 seconds, with 33% success rate, decrease enemy accuracy by 23% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -36; Within 150 seconds, with 34% success rate, decrease enemy accuracy by 24% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -36; Within 155 seconds, with 35% success rate, decrease enemy accuracy by 25% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -36; Within 160 seconds, with 36% success rate, decrease enemy accuracy by 26% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -36; Within 165 seconds, with 37% success rate, decrease enemy accuracy by 27% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -36; Within 170 seconds, with 38% success rate, decrease enemy accuracy by 28% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -36; Within 175 seconds, with 39% success rate, decrease enemy accuracy by 29% (7% for bosses) for 15 seconds"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -36; Within 180 seconds, with 40% success rate, decrease enemy accuracy by 30% (10% for bosses) for 15 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Snipe",
+      "src": snipe
+    },
+    "Skill Name": "Snipe",
+    "Master Level": 0,
+    "Description": "Delivers a powerful blow to a monster by aiming for its weak spot.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -40; Cooldown: 250 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -39; Cooldown: 240 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -38; Cooldown: 230 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -37; Cooldown: 220 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -36; Cooldown: 210 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -35; Cooldown: 200 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -34; Cooldown: 190 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -33; Cooldown: 180 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -32; Cooldown: 170 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -31; Cooldown: 160 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -30; Cooldown: 150 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -29; Cooldown: 140 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -28; Cooldown: 130 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -27; Cooldown: 120 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -26; Cooldown: 110 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -25; Cooldown: 100 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -24; Cooldown: 90 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -23; Cooldown: 80 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -22; Cooldown: 70 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -21; Cooldown: 60 seconds"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -20; Cooldown: 50 seconds"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -19; Cooldown: 45 seconds"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -18; Cooldown: 40 seconds"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -17; Cooldown: 35 seconds"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -16; Cooldown: 30 seconds"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -15; Cooldown: 25 seconds"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -14; Cooldown: 20 seconds"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -13; Cooldown: 15 seconds"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -12; Cooldown: 10 seconds"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -11; Cooldown: 5 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Hero's Will",
+      "src": herosWill
+    },
+    "Skill Name": "Hero's Will",
+    "Master Level": 0,
+    "Description": "Enables one to shrug off the seduce status condition.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -30; Cooldown: 10 minutes"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -30; Cooldown: 9 minutes"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -30; Cooldown: 8 minutes"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -30; Cooldown: 7 minutes"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -30; Cooldown: 6 minutes"
+      }
+    ],
+    "Type": "Active"
+  }
+];

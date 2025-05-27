@@ -2,13 +2,16 @@
 title: Priest (Magician 3rd Job)
 description: Skills and progression for Magician's healing path
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/magician/priestSkills.js';
 
 # Priest
 
 ## Skills
-- Shining Ray
-- Holy Symbol
-- Mystic Door
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 70

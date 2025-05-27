@@ -3,7 +3,7 @@ title: Beginner
 description: Starting class for all characters
 ---
 import Table from '/src/components/Table.astro';
-import { beginnerSkills } from '../../data/beginnerSkills';
+import { skills } from '../../data/beginnerSkills';
 
 ## Starting Stats
 - Level 1
@@ -12,7 +12,8 @@ import { beginnerSkills } from '../../data/beginnerSkills';
 
 ## Skills
 <Table 
-  data={beginnerSkills}
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
 />
 
 ## First Job Advancement

@@ -2,13 +2,16 @@
 title: Bandit (Thief 2nd Job)
 description: Skills and progression for Thief's dagger path
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/thief/banditSkills.js';
 
 # Bandit
 
 ## Skills
-- Double Stab
-- Drain
-- Haste
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 30

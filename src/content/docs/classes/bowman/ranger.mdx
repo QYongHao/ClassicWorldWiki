@@ -3,13 +3,14 @@ title: Ranger (Bowman 3rd Job)
 description: Skills and progression for Bowman's third job advancement
 ---
 import Table from '/src/components/Table.astro';
-import { rangerSkills } from '../../../data/archer/rangerSkills.js';
+import { skills } from '../../../data/archer/rangerSkills.js';
 
 # Ranger
 
 ## Skills
 <Table 
-  data={rangerSkills}
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
 />
 
 ## Requirements

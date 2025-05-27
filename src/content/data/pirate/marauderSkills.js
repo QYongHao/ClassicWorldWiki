@@ -1,0 +1,727 @@
+import stunMastery from '/src/assets/skills/Stun Mastery.png';
+import energyCharge from '/src/assets/skills/Energy Charge.png';
+import energyBlast from '/src/assets/skills/Energy Blast.png';
+import energyDrain from '/src/assets/skills/Energy Drain.png';
+import transformation from '/src/assets/skills/Transformation.png';
+import shockwave from '/src/assets/skills/Shockwave.png';
+
+export const skills = [
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Stun Mastery",
+      "src": stunMastery
+    },
+    "Skill Name": "Stun Mastery",
+    "Master Level": 20,
+    "Description": "When attacking a monster that's stunned, the critical attack will be triggered at a set rate.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Critical rate +22%, critical damage +3%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Critical rate +24%, critical damage +6%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Critical rate +26%, critical damage +9%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Critical rate +28%, critical damage +12%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Critical rate +30%, critical damage +15%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Critical rate +32%, critical damage +18%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Critical rate +34%, critical damage +21%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Critical rate +36%, critical damage +24%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Critical rate +38%, critical damage +27%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Critical rate +40%, critical damage +30%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Critical rate +42%, critical damage +33%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Critical rate +44%, critical damage +36%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Critical rate +46%, critical damage +39%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Critical rate +48%, critical damage +42%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Critical rate +50%, critical damage +45%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Critical rate +52%, critical damage +48%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Critical rate +54%, critical damage +51%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Critical rate +56%, critical damage +54%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Critical rate +58%, critical damage +57%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Critical rate +60%, critical damage +60%"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Energy Charge",
+      "src": energyCharge
+    },
+    "Skill Name": "Energy Charge",
+    "Master Level": 40,
+    "Description": "A set amount of energy is charged after every attack (1.5x amount on bosses). When the energy bar is fully charged with 10,000, it will automatically trigger various effects such as Touch damage and Stance, and it will allow you to use energy-related skills. Energy decays at a rate of 200 for every 10 seconds of inactivity.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Charging rate 75; Once triggered, sustained for 41 seconds, damage 5%,\\n accuracy +1, avoidability +1, stance 51%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Charging rate 78; Once triggered, sustained for 41 seconds, damage 10%,\\n accuracy +1, avoidability +1, stance 52%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Charging rate 81; Once triggered, sustained for 42 seconds, damage 15%,\\n accuracy +2, avoidability +2, stance 53%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Charging rate 84; Once triggered, sustained for 42 seconds, damage 20%,\\n accuracy +2, avoidability +2, weapon att. +11, stance 54%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Charging rate 87; Once triggered, sustained for 43 seconds, damage 25%,\\n accuracy +3, avoidability +3, weapon att. +11, stance 55%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Charging rate 90; Once triggered, sustained for 43 seconds, damage 30%,\\n accuracy +3, avoidability +3, weapon att. +11, stance 56%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Charging rate 93; Once triggered, sustained for 44 seconds, damage 35%,\\n accuracy +4, avoidability +4, weapon att. +11, stance 57%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Charging rate 96; Once triggered, sustained for 44 seconds, damage 40%,\\n accuracy +4, avoidability +4, weapon att. +12, stance 58%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Charging rate 99; Once triggered, sustained for 45 seconds, damage 45%,\\n accuracy +5, avoidability +5, weapon att. +12, stance 59%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Charging rate 102; Once triggered, sustained for 45 seconds, damage 50%,\\n accuracy +5, avoidability +5, weapon att. +12, stance 60%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Charging rate 105; Once triggered, sustained for 46 seconds, damage 55%,\\n accuracy +6, avoidability +6, weapon att. +12, stance 61%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Charging rate 108; Once triggered, sustained for 46 seconds, damage 60%,\\n accuracy +6, avoidability +6, weapon att. +13, stance 62%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Charging rate 111; Once triggered, sustained for 47 seconds, damage 65%,\\n accuracy +7, avoidability +7, weapon att. +13, stance 63%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Charging rate 114; Once triggered, sustained for 47 seconds, damage 70%,\\n accuracy +7, avoidability +7, weapon att. +13, stance 64%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Charging rate 118; Once triggered, sustained for 48 seconds, damage 75%,\\n accuracy +8, avoidability +8, weapon att. +13, stance 65%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Charging rate 122; Once triggered, sustained for 48 seconds, damage 80%,\\n accuracy +8, avoidability +8, weapon att. +14, stance 66%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Charging rate 126; Once triggered, sustained for 49 seconds, damage 85%,\\n accuracy +9, avoidability +9, weapon att. +14, stance 67%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Charging rate 130; Once triggered, sustained for 49 seconds, damage 90%,\\n accuracy +9, avoidability +9, weapon att. +14, stance 68%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Charging rate 134; Once triggered, sustained for 50 seconds, damage 95%,\\n accuracy +10, avoidability +10, weapon att. +14, stance 69%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Charging rate 138; Once triggered, sustained for 50 seconds, damage 100%,\\n accuracy +10, avoidability +10, weapon att. +15, stance 70%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "Charging rate 142; Once triggered, sustained for 51 seconds, damage 105%,\\n accuracy +11, avoidability +11, weapon att. +15, stance 71%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "Charging rate 146; Once triggered, sustained for 51 seconds, damage 110%,\\n accuracy +11, avoidability +11, weapon att. +15, stance 72%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "Charging rate 150; Once triggered, sustained for 52 seconds, damage 115%,\\n accuracy +12, avoidability +12, weapon att. +15, stance 73%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "Charging rate 154; Once triggered, sustained for 52 seconds, damage 120%,\\n accuracy +12, avoidability +12, weapon att. +16, stance 74%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "Charging rate 158; Once triggered, sustained for 53 seconds, damage 125%,\\n accuracy +13, avoidability +13, weapon att. +16, stance 75%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "Charging rate 162; Once triggered, sustained for 53 seconds, damage 130%,\\n accuracy +13, avoidability +13, weapon att. +16, stance 76%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "Charging rate 166; Once triggered, sustained for 54 seconds, damage 135%,\\n accuracy +14, avoidability +14, weapon att. +16, stance 77%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "Charging rate 171; Once triggered, sustained for 54 seconds, damage 140%,\\n accuracy +14, avoidability +14, weapon att. +17, stance 78%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "Charging rate 176; Once triggered, sustained for 55 seconds, damage 145%,\\n accuracy +15, avoidability +15, weapon att. +17, stance 79%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "Charging rate 181; Once triggered, sustained for 55 seconds, damage 150%,\\n accuracy +15, avoidability +15, weapon att. +17, stance 80%"
+      },
+      {
+        "Levels": 31,
+        "Effect": "Charging rate 186; Once triggered, sustained for 56 seconds, damage 155%,\\n accuracy +16, avoidability +16, weapon att. +17, stance 81%"
+      },
+      {
+        "Levels": 32,
+        "Effect": "Charging rate 191; Once triggered, sustained for 56 seconds, damage 160%,\\n accuracy +16, avoidability +16, weapon att. +18, stance 82%"
+      },
+      {
+        "Levels": 33,
+        "Effect": "Charging rate 196; Once triggered, sustained for 57 seconds, damage 165%,\\n accuracy +17, avoidability +17, weapon att. +18, stance 83%"
+      },
+      {
+        "Levels": 34,
+        "Effect": "Charging rate 201; Once triggered, sustained for 57 seconds, damage 170%,\\n accuracy +17, avoidability +17, weapon att. +18, stance 84%"
+      },
+      {
+        "Levels": 35,
+        "Effect": "Charging rate 206; Once triggered, sustained for 58 seconds, damage 175%,\\n accuracy +18, avoidability +18, weapon att. +18, stance 85%"
+      },
+      {
+        "Levels": 36,
+        "Effect": "Charging rate 211; Once triggered, sustained for 58 seconds, damage 180%,\\n accuracy +18, avoidability +18, weapon att. +19, stance 86%"
+      },
+      {
+        "Levels": 37,
+        "Effect": "Charging rate 216; Once triggered, sustained for 59 seconds, damage 185%,\\n accuracy +19, avoidability +19, weapon att. +19, stance 87%"
+      },
+      {
+        "Levels": 38,
+        "Effect": "Charging rate 221; Once triggered, sustained for 59 seconds, damage 190%,\\n accuracy +19, avoidability +19, weapon att. +19, stance 88%"
+      },
+      {
+        "Levels": 39,
+        "Effect": "Charging rate 226; Once triggered, sustained for 60 seconds, damage 195%,\\n accuracy +20, avoidability +20, weapon att. +19, stance 89%"
+      },
+      {
+        "Levels": 40,
+        "Effect": "Charging rate 231; Once triggered, sustained for 60 seconds, damage 200%,\\n accuracy +20, avoidability +20, weapon att. +20, stance 90%"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Energy Blast",
+      "src": energyBlast
+    },
+    "Skill Name": "Energy Blast",
+    "Master Level": 30,
+    "Description": "Blasts a ball of energy to attack multiple monsters at once. This skill can only be used when the energy is fully charged.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Damage 246%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Damage 252%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Damage 258%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Damage 264%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Damage 270%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Damage 276%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Damage 282%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Damage 288%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Damage 294%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Damage 300%, attacks up to 2 monsters"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Damage 306%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Damage 312%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Damage 318%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Damage 324%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Damage 330%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Damage 336%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Damage 342%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Damage 348%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Damage 354%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Damage 360%, attacks up to 3 monsters"
+      },
+      {
+        "Levels": 21,
+        "Effect": "Damage 366%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 22,
+        "Effect": "Damage 372%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 23,
+        "Effect": "Damage 378%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 24,
+        "Effect": "Damage 384%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 25,
+        "Effect": "Damage 390%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 26,
+        "Effect": "Damage 396%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 27,
+        "Effect": "Damage 402%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 28,
+        "Effect": "Damage 408%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 29,
+        "Effect": "Damage 414%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 30,
+        "Effect": "Damage 420%, attacks up to 4 monsters"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Energy Drain",
+      "src": energyDrain
+    },
+    "Skill Name": "Energy Drain",
+    "Master Level": 20,
+    "Description": "Uses energy to convert the lost HP of a monster into your own HP. This skill can only be used when the energy is full charged.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Damage 265%, 11% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Damage 270%, 11% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Damage 275%, 12% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Damage 280%, 12% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Damage 285%, 13% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Damage 290%, 13% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Damage 295%, 14% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Damage 300%, 14% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Damage 305%, 15% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Damage 310%, 15% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Damage 315%, 16% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Damage 320%, 16% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Damage 325%, 17% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Damage 330%, 17% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Damage 335%, 18% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Damage 340%, 18% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Damage 345%, 19% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Damage 350%, 19% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Damage 355%, 20% of the damage is used to recover HP"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Damage 360%, 20% of the damage is used to recover HP"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Transformation",
+      "src": transformation
+    },
+    "Skill Name": "Transformation",
+    "Master Level": 20,
+    "Description": "Transforms you into a more powerful state for 120 seconds. Morphing skills such as Barrel and other Transformation will be unavailable to use in this state.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -22; Weapon & magic def. +2,\\n Cooldown: 370 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -24; Weapon & magic def. +4,\\n Cooldown: 360 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -26; Weapon & magic def. +6,\\n Cooldown: 350 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -28; Weapon & magic def. +8,\\n Cooldown: 340 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -30; Weapon & magic def. +10,\\n Cooldown: 330 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -32; Weapon & magic def. +12,\\n Cooldown: 320 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -34; Weapon & magic def. +14,\\n Cooldown: 310 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -36; Weapon & magic def. +16,\\n Cooldown: 300 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -38; Weapon & magic def. +18,\\n Cooldown: 290 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -40; Weapon & magic def. +20,\\n Cooldown: 280 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -42, Weapon & magic def. +22,\\n Cooldown: 270 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -44; Weapon & magic def. +24,\\n Cooldown: 260 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -46; Weapon & magic def. +26,\\n Cooldown: 250 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -48; Weapon & magic def. +28,\\n Cooldown: 240 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -50; Weapon & magic def. +30,\\n Cooldown: 230 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -52; Weapon & magic def. +32,\\n Cooldown: 220 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -54; Weapon & magic def. +34,\\n Cooldown: 210 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -56; Weapon & magic def. +36,\\n Cooldown: 200 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -58; Weapon & magic def. +38,\\n Cooldown: 190 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -60; Weapon & magic def. +40,\\n Cooldown: 180 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Shockwave",
+      "src": shockwave
+    },
+    "Skill Name": "Shockwave",
+    "Master Level": 30,
+    "Description": "Strikes the ground with tremendous force, affecting multiple monsters. This skill can only be used during Transformation or Super Transformation.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -18; Damage 265%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -18; Damage 280%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -18; Damage 295%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -18; Damage 310%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -18; Damage 325%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -22; Damage 340%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -22; Damage 355%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -22; Damage 370%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -22; Damage 385%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -22; Damage 400%, attacks up to 4 monsters"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -26; Damage 415%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -26; Damage 430%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -26; Damage 445%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -26; Damage 460%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -26; Damage 475%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -30; Damage 490%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -30; Damage 505%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -30; Damage 520%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -30; Damage 535%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -30; Damage 550%, attacks up to 5 monsters"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -34; Damage 565%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -34; Damage 580%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -34; Damage 595%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -34; Damage 610%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -34; Damage 625%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -38; Damage 640%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -38; Damage 655%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -38; Damage 670%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -38; Damage 685%, attacks up to 6 monsters"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -38; Damage 700%, attacks up to 6 monsters"
+      }
+    ],
+    "Type": "Active"
+  }
+];

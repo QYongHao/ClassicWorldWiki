@@ -1,0 +1,647 @@
+import mpEater from '/src/assets/skills/MP Eater.png';
+import teleport from '/src/assets/skills/Teleport.png';
+import heal from '/src/assets/skills/Heal.png';
+import invincible from '/src/assets/skills/Invincible.png';
+import bless from '/src/assets/skills/Bless.png';
+import holyArrow from '/src/assets/skills/Holy Arrow.png';
+
+export const skills = [
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "MP Eater",
+      "src": mpEater
+    },
+    "Skill Name": "MP Eater",
+    "Master Level": 20,
+    "Description": "Absorbs the enemy's MP when attacking with Magic skills, until it reaches 0.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "For every attack, with 11% success rate, absorb 21% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 2,
+        "Effect": "For every attack, with 12% success rate, absorb 22% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 3,
+        "Effect": "For every attack, with 13% success rate, absorb 23% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 4,
+        "Effect": "For every attack, with 14% success rate, absorb 24% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 5,
+        "Effect": "For every attack, with 15% success rate, absorb 25% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 6,
+        "Effect": "For every attack, with 16% success rate, absorb 26% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 7,
+        "Effect": "For every attack, with 17% success rate, absorb 27% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 8,
+        "Effect": "For every attack, with 18% success rate, absorb 28% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 9,
+        "Effect": "For every attack, with 19% success rate, absorb 29% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 10,
+        "Effect": "For every attack, with 20% success rate, absorb 30% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 11,
+        "Effect": "For every attack, with 21% success rate, absorb 31% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 12,
+        "Effect": "For every attack, with 22% success rate, absorb 32% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 13,
+        "Effect": "For every attack, with 23% success rate, absorb 33% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 14,
+        "Effect": "For every attack, with 24% success rate, absorb 34% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 15,
+        "Effect": "For every attack, with 25% success rate, absorb 35% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 16,
+        "Effect": "For every attack, with 26% success rate, absorb 36% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 17,
+        "Effect": "For every attack, with 27% success rate, absorb 37% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 18,
+        "Effect": "For every attack, with 28% success rate, absorb 38% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 19,
+        "Effect": "For every attack, with 29% success rate, absorb 39% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 20,
+        "Effect": "For every attack, with 30% success rate, absorb 40% of the enemy's MaxMP."
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Teleport",
+      "src": teleport
+    },
+    "Skill Name": "Teleport",
+    "Master Level": 20,
+    "Description": "Use the arrow keys to teleport to other places in the same map on a set distance.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -60; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -57; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -54; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -51; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -48; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -45; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -42; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -39; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -36; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -33; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -31; Teleport, with 132 in distance"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -29; Teleport, with 134 in distance"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -27; Teleport, with 136 in distance"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -25; Teleport, with 138 in distance"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -23; Teleport, with 140 in distance"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -21; Teleport, with 142 in distance"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -19; Teleport, with 144 in distance"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -17; Teleport, with 146 in distance"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -15; Teleport, with 148 in distance"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -13; Teleport, with 150 in distance"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Heal",
+      "src": heal
+    },
+    "Skill Name": "Heal",
+    "Master Level": 30,
+    "Description": "Recovers the HP of all party members around the area. The amount of healing depends on the number of people being healed, and the undead monster in the vicinity of this will receive damage.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -12, Recovery rate 10%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12, Recovery rate 20%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -12, Recovery rate 30%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -12, Recovery rate 40%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -12, Recovery rate 50%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -12, Recovery rate 60%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -12, Recovery rate 70%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -12, Recovery rate 80%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -12, Recovery rate 90%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -12, Recovery rate 100%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -12, Recovery rate 110%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -12, Recovery rate 120%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -12, Recovery rate 130%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -12, Recovery rate 140%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -12, Recovery rate 150%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -24, Recovery rate 160%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -24, Recovery rate 170%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -24, Recovery rate 180%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -24, Recovery rate 190%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -24, Recovery rate 200%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -24, Recovery rate 210%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -24, Recovery rate 220%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -24, Recovery rate 230%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -24, Recovery rate 240%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -24, Recovery rate 250%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -24, Recovery rate 260%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -24, Recovery rate 270%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -24, Recovery rate 280%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -24, Recovery rate 290%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -24, Recovery rate 300%"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Invincible",
+      "src": invincible
+    },
+    "Skill Name": "Invincible",
+    "Master Level": 20,
+    "Description": "Temporarily decreases the weapon damage received. It has no effect, however, on the magic attack.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP 15; Weapon damage -11% for 15 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP 15; Weapon damage -12% for 30 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP 15; Weapon damage -13% for 45 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP 15; Weapon damage -14% for 60 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP 15; Weapon damage -15% for 75 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP 15; Weapon damage -16% for 90 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP 15; Weapon damage -17% for 105 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP 15; Weapon damage -18% for 120 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP 15; Weapon damage -19% for 135 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP 15; Weapon damage -20% for 150 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP 30; Weapon damage -21% for 165 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP 30; Weapon damage -22% for 180 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP 30; Weapon damage -23% for 195 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP 30; Weapon damage -24% for 210 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP 30; Weapon damage -25% for 225 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP 30; Weapon damage -26% for 240 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP 30; Weapon damage -27% for 255 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP 30; Weapon damage -28% for 270 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP 30; Weapon damage -29% for 285 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP 30; Weapon damage -30% for 300 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Bless",
+      "src": bless
+    },
+    "Skill Name": "Bless",
+    "Master Level": 20,
+    "Description": "Temporarily increases the weapon def., magic def., accuracy, and avoidability of all party members around the area. This cannot be combined with a skill or a potion.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -12; +1 on accuracy, avoidability, weapon and magic def. for 10 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12; +2 on accuracy, avoidability, weapon and magic def. for 20 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -12; +3 on accuracy, avoidability, weapon and magic def. for 30 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -12; +4 on accuracy, avoidability, weapon and magic def. for 40 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -12; +5 on accuracy, avoidability, weapon and magic def. for 50 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -12; +6 on accuracy, avoidability, weapon and magic def. for 60 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -12; +7 on accuracy, avoidability, weapon and magic def. for 70 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -12; +8 on accuracy, avoidability, weapon and magic def. for 80 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -12; +9 on accuracy, avoidability, weapon and magic def. for 90 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -12; +10 on accuracy, avoidability, weapon and magic def. for 100 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -24; +11 on accuracy, avoidability, weapon and magic def. for 110 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -24; +12 on accuracy, avoidability, weapon and magic def. for 120 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -24; +13 on accuracy, avoidability, weapon and magic def. for 130 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -24; +14 on accuracy, avoidability, weapon and magic def. for 140 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -24; +15 on accuracy, avoidability, weapon and magic def. for 150 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -24; +16 on accuracy, avoidability, weapon and magic def. for 160 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -24; +17 on accuracy, avoidability, weapon and magic def. for 170 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -24; +18 on accuracy, avoidability, weapon and magic def. for 180 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -24; +19 on accuracy, avoidability, weapon and magic def. for 190 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -24; +20 on accuracy, avoidability, weapon and magic def. for 200 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Holy Arrow",
+      "src": holyArrow
+    },
+    "Skill Name": "Holy Arrow",
+    "Master Level": 30,
+    "Description": "Attacks a single monster by firing Holy Arrows. Very effective against the undead's or devil-based monsters.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -12; Spell attack 22, mastery 15%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12; Spell attack 24, mastery 15%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -12; Spell attack 26, mastery 15%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -12; Spell attack 28, mastery 20%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -12; Spell attack 30, mastery 20%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -12; Spell attack 32, mastery 20%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -12; Spell attack 34, mastery 25%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -12; Spell attack 36, mastery 25%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -12; Spell attack 38, mastery 25%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -12; Spell attack 40, mastery 30%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -12; Spell attack 42, mastery 30%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -12; Spell attack 44, mastery 30%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -12; Spell attack 46, mastery 35%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -12; Spell attack 48, mastery 35%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -12; Spell attack 50, mastery 35%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -24; Spell attack 52, mastery 40%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -24; Spell attack 54, mastery 40%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -24; Spell attack 56, mastery 40%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -24; Spell attack 58, mastery 45%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -24; Spell attack 60, mastery 45%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -24; Spell attack 62, mastery 45%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -24; Spell attack 64, mastery 50%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -24; Spell attack 66, mastery 50%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -24; Spell attack 68, mastery 50%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -24; Spell attack 70, mastery 55%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -24; Spell attack 72, mastery 55%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -24; Spell attack 74, mastery 55%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -24; Spell attack 76, mastery 60%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -24; Spell attack 78, mastery 60%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -24; Spell attack 80, mastery 60%"
+      }
+    ],
+    "Type": "Active"
+  }
+];

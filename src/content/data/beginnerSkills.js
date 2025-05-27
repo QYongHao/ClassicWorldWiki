@@ -1,8 +1,8 @@
-import threeSnails from '/src/assets/skills/beginner/three-snails.png';
-import recovery from '/src/assets/skills/beginner/recovery.png';
-import nimbleFeet from '/src/assets/skills/beginner/nimble-feet.png';
+import threeSnails from '/src/assets/skills/Three Snails.png';
+import recovery from '/src/assets/skills/Recovery.png';
+import nimbleFeet from '/src/assets/skills/Nimble Feet.png';
 
-export const beginnerSkills = [
+export const skills = [
     {
         "Icon": {
             type: "image",

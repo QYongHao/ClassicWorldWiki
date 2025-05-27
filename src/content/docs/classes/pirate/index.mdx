@@ -2,6 +2,8 @@
 title: Pirate
 description: A reference page for the Pirate class in Maplestory, including their skills, playstyle, and job advancements.
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/pirate/pirateSkills.js';
 
 The Pirate is a unique class in Maplestory, known for their ability to deal damage using their guns and cannons. They specialize in dealing damage to enemies from a distance.
 
@@ -12,10 +14,10 @@ The Pirate is a unique class in Maplestory, known for their ability to deal dama
 * 3rd Job: Captain
 
 ## Skills
-
-* Double Shot: Fires two bullets at once, dealing damage to enemies.
-* Cannon Shot: Deals damage to enemies in a medium area.
-* Showdown: Deals damage to enemies in a small area, with a chance to stun.
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Playstyle
 

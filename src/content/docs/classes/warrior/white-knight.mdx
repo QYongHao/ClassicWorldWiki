@@ -2,13 +2,16 @@
 title: White Knight (Warrior 3rd Job)
 description: Skills and progression for Warrior's sword path
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/warrior/whiteKnightSkills.js';
 
 # White Knight
 
 ## Skills
-- Charge Blow
-- Magic Crash
-- Sword Mastery
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 70

@@ -2,13 +2,16 @@
 title: Marauder (Pirate 3rd Job)
 description: Skills and progression for Pirate's third job advancement
 ---
+import Table from '/src/components/Table.astro';
+import { skills } from '../../../data/pirate/marauderSkills.js';
 
 # Marauder
 
 ## Skills
-- Energy Blast
-- Shockwave
-- Transformation
+<Table 
+  data={skills}
+  headers={["Icon", "Skill Name", "Master Level", "Description", "Type"]}
+/>
 
 ## Requirements
 - Level 70
