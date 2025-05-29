@@ -1,0 +1,79 @@
+[
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Three Snails",
+      "src": "/src/assets/skills/Three Snails.png"
+    },
+    "Skill Name": "Three Snails",
+    "Master Level": 3,
+    "Description": "Hurls snail shells to attack monsters from long distance",
+    "Type": "Active",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -10, Damage 10"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -15, Damage 25"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -20, Damage 40"
+      }
+    ]
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Recovery",
+      "src": "/src/assets/skills/Recovery.png"
+    },
+    "Skill Name": "Recovery",
+    "Master Level": 3,
+    "Description": "Enables the user to recover HP constantly for 30 sec",
+    "Type": "Supportive",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -10, Recovers 24 HP in 30 sec"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -20, Recovers 48 HP in 30 sec"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -30, Recovers 72 HP in 30 sec"
+      }
+    ],
+    "Cooldown": "10 min"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Nimble Feet",
+      "src": "/src/assets/skills/Nimble Feet.png"
+    },
+    "Skill Name": "Nimble Feet",
+    "Master Level": 3,
+    "Description": "Enables quick movement for short durations",
+    "Type": "Supportive",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -10, Speed +10 for 4 sec"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -15, Speed +15 for 8 sec"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -20, Speed +20 for 12 sec"
+      }
+    ],
+    "Cooldown": "1 min"
+  }
+]

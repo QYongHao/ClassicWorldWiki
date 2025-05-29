@@ -1,0 +1,496 @@
+[
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "The Blessing of Amazon",
+      "src": "/src/assets/skills/The Blessing of Amazon.png"
+    },
+    "Skill Name": "The Blessing of Amazon",
+    "Master Level": 16,
+    "Description": "Increases accuracy.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Accuracy +1"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Accuracy +2"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Accuracy +3"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Accuracy +4"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Accuracy +5"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Accuracy +6"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Accuracy +7"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Accuracy +8"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Accuracy +9"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Accuracy +10"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Accuracy +11"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Accuracy +12"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Accuracy +13"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Accuracy +14"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Accuracy +15"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Accuracy +16"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Critical Shot",
+      "src": "/src/assets/skills/Critical Shot.png"
+    },
+    "Skill Name": "Critical Shot",
+    "Master Level": 20,
+    "Description": "Gives attacks a chance to deal critical damage with a given success rate.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Critical rate +12%, critical damage +5%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Critical rate +14%, critical damage +10%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Critical rate +16%, critical damage +15%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Critical rate +18%, critical damage +20%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Critical rate +20%, critical damage +25%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Critical rate +22%, critical damage +30%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Critical rate +24%, critical damage +35%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Critical rate +26%, critical damage +40%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Critical rate +28%, critical damage +45%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Critical rate +30%, critical damage +50%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Critical rate +32%, critical damage +55%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Critical rate +34%, critical damage +60%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Critical rate +36%, critical damage +65%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Critical rate +38%, critical damage +70%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Critical rate +40%, critical damage +75%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Critical rate +42%, critical damage +80%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Critical rate +44%, critical damage +85%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Critical rate +46%, critical damage +90%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Critical rate +48%, critical damage +95%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Critical rate +50%, critical damage +100%"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "The Eye of Amazon",
+      "src": "/src/assets/skills/The Eye of Amazon.png"
+    },
+    "Skill Name": "The Eye of Amazon",
+    "Master Level": 8,
+    "Description": "Increases the reach of attacks for bows and crossbows.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Range of attack for bows and crossbows: +15"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Range of attack for bows and crossbows: +30"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Range of attack for bows and crossbows: +45"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Range of attack for bows and crossbows: +60"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Range of attack for bows and crossbows: +75"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Range of attack for bows and crossbows: +90"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Range of attack for bows and crossbows: +105"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Range of attack for bows and crossbows: +120"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Focus",
+      "src": "/src/assets/skills/Focus.png"
+    },
+    "Skill Name": "Focus",
+    "Master Level": 20,
+    "Description": "Focus to temporarily increase accuracy and avoidability.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -8; Accuracy +1, avoidability +1 for 70 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -8; Accuracy +2, avoidability +2 for 80 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -8; Accuracy +3, avoidability +3 for 90 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -8; Accuracy +4, avoidability +4 for 100 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -8; Accuracy +5, avoidability +5 for 110 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -10; Accuracy +6, avoidability +6 for 130 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -10; Accuracy +7, avoidability +7 for 140 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -10; Accuracy +8, avoidability +8 for 150 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -10; Accuracy +9, avoidability +9 for 160 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -10; Accuracy +10, avoidability +10 for 170 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -13; Accuracy +11, avoidability +11 for 195 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -13; Accuracy +12, avoidability +12 for 205 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -13; Accuracy +13, avoidability +13 for 215 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -13; Accuracy +14, avoidability +14 for 225 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -13; Accuracy +15, avoidability +15 for 235 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -16; Accuracy +16, avoidability +16 for 260 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -16; Accuracy +17, avoidability +17 for 270 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -16; Accuracy +18, avoidability +18 for 280 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -16; Accuracy +19, avoidability +19 for 290 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -16; Accuracy +20, avoidability +20 for 300 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Arrow Blow",
+      "src": "/src/assets/skills/Arrow Blow.png"
+    },
+    "Skill Name": "Arrow Blow",
+    "Master Level": 20,
+    "Description": "Fires an arrow with authority. Applies more damage than usual.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -7; Damage 190%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -8; Damage 193%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -8; Damage 196%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -8; Damage 200%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -9; Damage 203%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -9; Damage 206%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -9; Damage 210%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -10; Damage 213%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -10; Damage 216%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -10; Damage 220%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -11; Damage 223%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -11; Damage 226%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -11; Damage 230%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -12; Damage 233%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -12; Damage 236%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -12; Damage 240%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -13; Damage 243%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -13; Damage 248%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -13; Damage 252%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -14; Damage 260%"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Double Shot",
+      "src": "/src/assets/skills/Double Shot.png"
+    },
+    "Skill Name": "Double Shot",
+    "Master Level": 20,
+    "Description": "Fires two arrows at once to attack an enemy twice.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -10; Damage 92%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -10; Damage 94%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -10; Damage 96%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -10; Damage 98%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -11; Damage 100%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -11; Damage 102%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -11; Damage 104%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -12; Damage 106%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -12; Damage 108%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -12; Damage 110%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -13; Damage 112%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -13; Damage 114%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -13; Damage 116%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -14; Damage 118%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -14; Damage 120%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -14; Damage 122%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -15; Damage 124%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -15; Damage 126%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -15; Damage 128%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -16; Damage 130%"
+      }
+    ],
+    "Type": "Active"
+  }
+]

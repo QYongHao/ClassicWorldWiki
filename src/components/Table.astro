@@ -32,7 +32,7 @@ const computedHeaders: string[] =
     headers ?? (data[0] ? Object.keys(data[0]) : []);
 ---
 
-<div class="starlight-table">
+<div>
     <table class={className}>
         <thead>
             <tr>
@@ -77,91 +77,21 @@ const computedHeaders: string[] =
 </div>
 
 <style>
-    .starlight-table {
-        overflow-x: auto;
-        margin: var(--sl-nav-pad-x) 0;
-        border-radius: 0.5rem;
-        box-shadow: var(--sl-shadow-sm);
-        overflow: hidden;
-    }
-
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        background: var(--sl-color-bg);
-        font-family: var(--__sl-font);
-        font-size: var(--sl-text-sm);
-        line-height: var(--sl-line-height);
-    }
-
     th {
-        background: linear-gradient(
-            to bottom,
-            var(--sl-color-gray-6),
-            var(--sl-color-gray-5)
-        );
-        color: var(--sl-color-gray-1);
-        font-weight: 500;
         padding: var(--sl-nav-pad-x);
-        text-align: left;
-        border-bottom: 1px solid var(--sl-color-hairline-light);
     }
 
     td {
-        padding: var(--sl-nav-pad-x);
-        color: var(--sl-color-gray-4);
+        padding-inline-start: 1rem;
         border-bottom: 1px solid var(--sl-color-hairline-light);
-        display: table-cell;
         vertical-align: middle;
     }
 
     td img {
-        display: block;
         margin: 0 auto;
     }
 
-    tr:hover {
-        background: var(--sl-color-gray-2);
-        box-shadow: var(--sl-shadow-sm);
-    }
-
-    tr:last-child td {
-        border-bottom: none;
-    }
-
-    @media (max-width: 640px) {
-        th,
-        td {
-            white-space: nowrap;
-            min-width: 120px;
-            font-size: 12px;
-        }
-    }
-
     @media (prefers-color-scheme: dark) {
-        .starlight-table {
-            box-shadow: var(--sl-shadow-sm);
-        }
-
-        table {
-            background: var(--sl-color-bg);
-        }
-
-        th {
-            background: linear-gradient(
-                to bottom,
-                var(--sl-color-gray-5),
-                var(--sl-color-gray-6)
-            );
-            color: var(--sl-color-gray-2);
-            border-bottom-color: var(--sl-color-hairline);
-        }
-
-        td {
-            color: var(--sl-color-gray-3);
-            border-bottom-color: var(--sl-color-hairline);
-        }
-
         tr:hover {
             background: var(--sl-color-gray-7);
             box-shadow: var(--sl-shadow-sm);

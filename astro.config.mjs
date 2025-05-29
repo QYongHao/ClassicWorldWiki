@@ -20,113 +20,113 @@ export default defineConfig({
 				{
 					label: 'Classes',
 					items: [
-						{ label: 'Classes Overview', slug: 'classes/classes-overview' },
+						{ label: 'Classes Overview', slug: 'classes' },
 						{ label: 'Beginner', slug: 'classes/beginner' },
 						{
 							label: 'Bowman',
-      collapsed: true,
+							collapsed: true,
 							items: [
 								{ label: 'Bowman', slug: 'classes/bowman' },
 								{
 									label: 'Hunter',
-									slug: 'classes/bowman/hunter',
+									slug: 'classes/hunter',
 									badge: { text: '2nd', variant: 'tip' }
 								},
-								{ label: 'Ranger', slug: 'classes/bowman/ranger', badge: { text: '3rd', variant: 'tip' } },
+								{ label: 'Ranger', slug: 'classes/ranger', badge: { text: '3rd', variant: 'tip' } },
 								{
 									label: 'Crossbowman',
-									slug: 'classes/bowman/crossbowman',
+									slug: 'classes/crossbowman',
 									badge: { text: '2nd', variant: 'note' }
 								},
-								{ label: 'Sniper', slug: 'classes/bowman/sniper', badge: { text: '3rd', variant: 'note' } }
+								{ label: 'Sniper', slug: 'classes/sniper', badge: { text: '3rd', variant: 'note' } }
 							]
 						},
 						{
 							label: 'Magician',
-      collapsed: true,
+							collapsed: true,
 							items: [
 								{ label: 'Magician', slug: 'classes/magician' },
 								{
 									label: 'Wizard (Fire/Poison)',
-									slug: 'classes/magician/fire-poison-wizard',
+									slug: 'classes/fire-poison-wizard',
 									badge: { text: '2nd', variant: 'danger' }
 								},
-								{ label: 'Mage (Fire/Poison)', slug: 'classes/magician/fire-poison-mage', badge: { text: '3rd', variant: 'danger' } },
+								{ label: 'Mage (Fire/Poison)', slug: 'classes/fire-poison-mage', badge: { text: '3rd', variant: 'danger' } },
 								{
 									label: 'Wizard (Ice/Lightning)',
-									slug: 'classes/magician/ice-lightning-wizard',
+									slug: 'classes/ice-lightning-wizard',
 									badge: { text: '2nd', variant: 'note' }
 								},
-								{ label: 'Mage (Ice/Lightning)', slug: 'classes/magician/ice-lightning-mage', badge: { text: '3rd', variant: 'note' } },
+								{ label: 'Mage (Ice/Lightning)', slug: 'classes/ice-lightning-mage', badge: { text: '3rd', variant: 'note' } },
 								{
 									label: 'Cleric',
-									slug: 'classes/magician/cleric',
+									slug: 'classes/cleric',
 									badge: { text: '2nd', variant: 'success' }
 								},
-								{ label: 'Priest', slug: 'classes/magician/priest', badge: { text: '3rd', variant: 'success' } }
+								{ label: 'Priest', slug: 'classes/priest', badge: { text: '3rd', variant: 'success' } }
 							]
 						},
 						{
 							label: 'Pirate',
-      collapsed: true,
+							collapsed: true,
 							items: [
 								{ label: 'Pirate', slug: 'classes/pirate' },
 								{
 									label: 'Brawler',
-									slug: 'classes/pirate/brawler',
+									slug: 'classes/brawler',
 									badge: { text: '2nd', variant: 'tip' }
 								},
-								{ label: 'Marauder', slug: 'classes/pirate/marauder', badge: { text: '3rd', variant: 'tip' } },
+								{ label: 'Marauder', slug: 'classes/marauder', badge: { text: '3rd', variant: 'tip' } },
 								{
 									label: 'Gunslinger',
-									slug: 'classes/pirate/gunslinger',
+									slug: 'classes/gunslinger',
 									badge: { text: '2nd', variant: 'note' }
 								},
-								{ label: 'Outlaw', slug: 'classes/pirate/outlaw', badge: { text: '3rd', variant: 'note' } }
+								{ label: 'Outlaw', slug: 'classes/outlaw', badge: { text: '3rd', variant: 'note' } }
 							]
 						},
 						{
 							label: 'Thief',
-      collapsed: true,
+							collapsed: true,
 							items: [
 								{ label: 'Thief', slug: 'classes/thief' },
 								{
 									label: 'Assassin',
-									slug: 'classes/thief/assassin',
+									slug: 'classes/assassin',
 									badge: { text: '2nd', variant: 'danger' }
 								},
-								{ label: 'Hermit', slug: 'classes/thief/hermit', badge: { text: '3rd', variant: 'danger' } },
+								{ label: 'Hermit', slug: 'classes/hermit', badge: { text: '3rd', variant: 'danger' } },
 								{
 									label: 'Bandit',
-									slug: 'classes/thief/bandit',
+									slug: 'classes/bandit',
 									badge: { text: '2nd', variant: 'caution' }
 								},
-								{ label: 'Chief Bandit', slug: 'classes/thief/chief-bandit', badge: { text: '3rd', variant: 'caution' } }
+								{ label: 'Chief Bandit', slug: 'classes/chief-bandit', badge: { text: '3rd', variant: 'caution' } }
 							]
 						},
 						{
 							label: 'Warrior',
-      collapsed: true,
+							collapsed: true,
 							items: [
 								{ label: 'Warrior', slug: 'classes/warrior' },
 								{
 									label: 'Fighter',
-									slug: 'classes/warrior/fighter',
+									slug: 'classes/fighter',
 									badge: { text: '2nd', variant: 'tip' }
 								},
-								{ label: 'Crusader', slug: 'classes/warrior/crusader', badge: { text: '3rd', variant: 'tip' } },
+								{ label: 'Crusader', slug: 'classes/crusader', badge: { text: '3rd', variant: 'tip' } },
 								{
 									label: 'Page',
-									slug: 'classes/warrior/page',
+									slug: 'classes/page',
 									badge: { text: '2nd', variant: 'note' }
 								},
-								{ label: 'White Knight', slug: 'classes/warrior/white-knight', badge: { text: '3rd', variant: 'note' } },
+								{ label: 'White Knight', slug: 'classes/white-knight', badge: { text: '3rd', variant: 'note' } },
 								{
 									label: 'Spearman',
-									slug: 'classes/warrior/spearman',
+									slug: 'classes/spearman',
 									badge: { text: '2nd', variant: 'success' }
 								},
-								{ label: 'Dragon Knight', slug: 'classes/warrior/dragon-knight', badge: { text: '3rd', variant: 'success' } }
+								{ label: 'Dragon Knight', slug: 'classes/dragon-knight', badge: { text: '3rd', variant: 'success' } }
 							]
 						},
 					],

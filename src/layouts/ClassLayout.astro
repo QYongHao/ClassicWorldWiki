@@ -1,0 +1,17 @@
+---
+import { LinkCard } from "@astrojs/starlight/components";
+import Table from "../components/Table.astro";
+import { getEntry } from "astro:content";
+interface Props {
+    job: string;
+}
+const { job } = Astro.props;
+const jobSkills = await getEntry("skills", job);
+---
+
+<Table
+    data={jobSkills?.data}
+    headers={["Icon", "Skill Name", "Description", "Type"]}
+/>
+<LinkCard title="See Details" href=`/classes/${job}/skills` ` />
+<slot />

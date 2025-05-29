@@ -1,0 +1,22 @@
+---
+import { Image } from "astro:assets";
+import Table from "../components/Table.astro";
+import { getEntry } from "astro:content";
+const { job } = Astro.props;
+const jobSkills = await getEntry("skills", job);
+---
+
+{
+    jobSkills?.data.map((skill) => (
+        <Fragment>
+            <Image
+                src={skill["Icon"].src}
+                alt={skill["Icon"].alt}
+                width={skill["Icon"].src.width}
+                height={skill["Icon"].src.height}
+            />
+            {skill["Skill Name"]}
+            <Table data={skill["Levels"]} />
+        </Fragment>
+    ))
+}

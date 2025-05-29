@@ -1,0 +1,640 @@
+[
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "MP Eater",
+      "src": "/src/assets/skills/MP Eater.png"
+    },
+    "Skill Name": "MP Eater",
+    "Master Level": 20,
+    "Description": "Absorbs the enemy's MP when attacking with Magic skills, until it reaches 0.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "For every attack, with 11% success rate, absorb 21% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 2,
+        "Effect": "For every attack, with 12% success rate, absorb 22% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 3,
+        "Effect": "For every attack, with 13% success rate, absorb 23% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 4,
+        "Effect": "For every attack, with 14% success rate, absorb 24% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 5,
+        "Effect": "For every attack, with 15% success rate, absorb 25% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 6,
+        "Effect": "For every attack, with 16% success rate, absorb 26% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 7,
+        "Effect": "For every attack, with 17% success rate, absorb 27% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 8,
+        "Effect": "For every attack, with 18% success rate, absorb 28% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 9,
+        "Effect": "For every attack, with 19% success rate, absorb 29% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 10,
+        "Effect": "For every attack, with 20% success rate, absorb 30% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 11,
+        "Effect": "For every attack, with 21% success rate, absorb 31% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 12,
+        "Effect": "For every attack, with 22% success rate, absorb 32% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 13,
+        "Effect": "For every attack, with 23% success rate, absorb 33% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 14,
+        "Effect": "For every attack, with 24% success rate, absorb 34% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 15,
+        "Effect": "For every attack, with 25% success rate, absorb 35% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 16,
+        "Effect": "For every attack, with 26% success rate, absorb 36% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 17,
+        "Effect": "For every attack, with 27% success rate, absorb 37% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 18,
+        "Effect": "For every attack, with 28% success rate, absorb 38% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 19,
+        "Effect": "For every attack, with 29% success rate, absorb 39% of the enemy's MaxMP."
+      },
+      {
+        "Levels": 20,
+        "Effect": "For every attack, with 30% success rate, absorb 40% of the enemy's MaxMP."
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Meditation",
+      "src": "/src/assets/skills/Meditation.png"
+    },
+    "Skill Name": "Meditation",
+    "Master Level": 20,
+    "Description": "Meditate for a bit to temporarily boost up the magic attack of party members around the area.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -10; Party's magic attack +1 for 10 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -10; Party's magic attack +2 for 20 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -10; Party's magic attack +3 for 30 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -10; Party's magic attack +4 for 40 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -10; Party's magic attack +5 for 50 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -10; Party's magic attack +6 for 60 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -10; Party's magic attack +7 for 70 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -10; Party's magic attack +8 for 80 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -10; Party's magic attack +9 for 90 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -10; Party's magic attack +10 for 100 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -20; Party's magic attack +11 for 110 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -20; Party's magic attack +12 for 120 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -20; Party's magic attack +13 for 130 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -20; Party's magic attack +14 for 140 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -20; Party's magic attack +15 for 150 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -20; Party's magic attack +16 for 160 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -20; Party's magic attack +17 for 170 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -20; Party's magic attack +18 for 180 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -20; Party's magic attack +19 for 190 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -20; Party's magic attack +20 for 200 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Teleport",
+      "src": "/src/assets/skills/Teleport.png"
+    },
+    "Skill Name": "Teleport",
+    "Master Level": 20,
+    "Description": "Use the arrow keys to teleport to other places in the same map on a set distance.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -60; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -57; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -54; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -51; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -48; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -45; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -42; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -39; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -36; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -33; Teleport, with 130 in distance"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -31; Teleport, with 132 in distance"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -29; Teleport, with 134 in distance"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -27; Teleport, with 136 in distance"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -25; Teleport, with 138 in distance"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -23; Teleport, with 140 in distance"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -21; Teleport, with 142 in distance"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -19; Teleport, with 144 in distance"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -17; Teleport, with 146 in distance"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -15; Teleport, with 148 in distance"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -13; Teleport, with 150 in distance"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Slow",
+      "src": "/src/assets/skills/Slow.png"
+    },
+    "Skill Name": "Slow",
+    "Master Level": 20,
+    "Description": "Temporarily slows down the movement of up to 6 monsters. Cannot be used on the same monsters more than twice in a row.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -8; Enemy's moving speed -2 for 2 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -8; Enemy's moving speed -4 for 4 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -8; Enemy's moving speed -6 for 6 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -8; Enemy's moving speed -8 for 8 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -8; Enemy's moving speed -10 for 10 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -8; Enemy's moving speed -12 for 12 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -8; Enemy's moving speed -14 for 14 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -8; Enemy's moving speed -16 for 16 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -8; Enemy's moving speed -18 for 18 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -8; Enemy's moving speed -20 for 20 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -16; Enemy's moving speed -22 for 22 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -16; Enemy's moving speed -24 for 24 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -16; Enemy's moving speed -26 for 26 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -16; Enemy's moving speed -28 for 28 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -16; Enemy's moving speed -30 for 30 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -16; Enemy's moving speed -32 for 32 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -16; Enemy's moving speed -34 for 34 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -16; Enemy's moving speed -36 for 36 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -16; Enemy's moving speed -38 for 38 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -16; Enemy's moving speed -40 for 40 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Cold Beam",
+      "src": "/src/assets/skills/Cold Beam.png"
+    },
+    "Skill Name": "Cold Beam",
+    "Master Level": 30,
+    "Description": "Attacks a single monster with a sharp piece of Ice. The monster will freeze if hit. Damages the fire-based enemies 1.5 times more, where as the ice-based enemies get only half the damage.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -12; Spell attack 13, mastery 15%, freeze for 1 second"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -12; Spell attack 16, mastery 15%, freeze for 1 second"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -12; Spell attack 19, mastery 15%, freeze for 1 second"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -12; Spell attack 22, mastery 20%, freeze for 1 second"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -12; Spell attack 25, mastery 20%, freeze for 1 second"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -12; Spell attack 28, mastery 20%, freeze for 1 second"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -12; Spell attack 31, mastery 25%, freeze for 1 second"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -12; Spell attack 34, mastery 25%, freeze for 1 second"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -12; Spell attack 37, mastery 25%, freeze for 1 second"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -12; Spell attack 40, mastery 30%, freeze for 1 second"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -12; Spell attack 43, mastery 30%, freeze for 1 second"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -12; Spell attack 46, mastery 30%, freeze for 1 second"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -12; Spell attack 49, mastery 35%, freeze for 1 second"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -12; Spell attack 52, mastery 35%, freeze for 1 second"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -12; Spell attack 55, mastery 35%, freeze for 1 second"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -24; Spell attack 58, mastery 40%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -24; Spell attack 61, mastery 40%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -24; Spell attack 64, mastery 40%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -24; Spell attack 67, mastery 45%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -24; Spell attack 70, mastery 45%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -24; Spell attack 73, mastery 45%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -24; Spell attack 76, mastery 50%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -24; Spell attack 79, mastery 50%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -24; Spell attack 82, mastery 50%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -24; Spell attack 85, mastery 55%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -24; Spell attack 88, mastery 55%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -24; Spell attack 91, mastery 55%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -24; Spell attack 94, mastery 60%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -24; Spell attack 97, mastery 60%, freeze for 2 seconds"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -24; Spell attack 100, mastery 60%, freeze for 2 seconds"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Thunder Bolt",
+      "src": "/src/assets/skills/Thunder Bolt.png"
+    },
+    "Skill Name": "Thunder Bolt",
+    "Master Level": 30,
+    "Description": "Attacks surrounding monsters with a thunder bolt. All monsters in the range receive damage.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -20; Spell attack 2, mastery 15%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -20; Spell attack 4, mastery 15%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -20; Spell attack 6, mastery 15%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -20; Spell attack 8, mastery 20%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -20; Spell attack 10, mastery 20%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -20; Spell attack 12, mastery 20%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -20; Spell attack 14, mastery 25%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -20; Spell attack 16, mastery 25%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -20; Spell attack 18, mastery 25%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -20; Spell attack 20, mastery 30%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -20; Spell attack 22, mastery 30%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -20; Spell attack 24, mastery 30%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -20; Spell attack 26, mastery 35%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -20; Spell attack 28, mastery 35%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -20; Spell attack 30, mastery 35%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -40; Spell attack 32, mastery 40%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -40; Spell attack 34, mastery 40%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -40; Spell attack 36, mastery 40%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -40; Spell attack 38, mastery 45%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -40; Spell attack 40, mastery 45%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -40; Spell attack 42, mastery 45%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -40; Spell attack 44, mastery 50%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -40; Spell attack 46, mastery 50%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -40; Spell attack 48, mastery 50%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -40; Spell attack 50, mastery 55%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -40; Spell attack 52, mastery 55%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -40; Spell attack 54, mastery 55%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -40; Spell attack 56, mastery 60%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -40; Spell attack 58, mastery 60%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -40; Spell attack 60, mastery 60%"
+      }
+    ],
+    "Type": "Active"
+  }
+]

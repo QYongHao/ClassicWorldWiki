@@ -1,0 +1,640 @@
+[
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Crossbow Mastery",
+      "src": "/src/assets/skills/Crossbow Mastery.png"
+    },
+    "Skill Name": "Crossbow Mastery",
+    "Master Level": 20,
+    "Description": "Increases the crossbow mastery and accuracy. It only applies when a crossbow is in hand.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Crossbow mastery +15%, accuracy +1"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Crossbow mastery +15%, accuracy +2"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Crossbow mastery +20%, accuracy +3"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Crossbow mastery +20%, accuracy +4"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Crossbow mastery +25%, accuracy +5"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Crossbow mastery +25%, accuracy +6"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Crossbow mastery +30%, accuracy +7"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Crossbow mastery +30%, accuracy +8"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Crossbow mastery +35%, accuracy +9"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Crossbow mastery +35%, accuracy +10"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Crossbow mastery +40%, accuracy +11"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Crossbow mastery +40%, accuracy +12"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Crossbow mastery +45%, accuracy +13"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Crossbow mastery +45%, accuracy +14"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Crossbow mastery +50%, accuracy +15"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Crossbow mastery +50%, accuracy +16"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Crossbow mastery +55%, accuracy +17"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Crossbow mastery +55%, accuracy +18"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Crossbow mastery +60%, accuracy +19"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Crossbow mastery +60%, accuracy +20"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Final Attack : Crossbow",
+      "src": "/src/assets/skills/Final Attack.png"
+    },
+    "Skill Name": "Final Attack : Crossbow",
+    "Master Level": 30,
+    "Description": "Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a crossbow.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "Success rate 2%, final attack with crossbow damage 105%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "Success rate 4%, final attack with crossbow damage 110%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "Success rate 6%, final attack with crossbow damage 115%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "Success rate 8%, final attack with crossbow damage 120%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "Success rate 10%, final attack with crossbow damage 125%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "Success rate 12%, final attack with crossbow damage 130%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "Success rate 14%, final attack with crossbow damage 135%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "Success rate 16%, final attack with crossbow damage 140%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "Success rate 18%, final attack with crossbow damage 145%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "Success rate 20%, final attack with crossbow damage 150%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "Success rate 22%, final attack with crossbow damage 155%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "Success rate 24%, final attack with crossbow damage 160%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "Success rate 26%, final attack with crossbow damage 165%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "Success rate 28%, final attack with crossbow damage 170%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "Success rate 30%, final attack with crossbow damage 175%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "Success rate 32%, final attack with crossbow damage 180%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "Success rate 34%, final attack with crossbow damage 185%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "Success rate 36%, final attack with crossbow damage 190%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "Success rate 38%, final attack with crossbow damage 195%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "Success rate 40%, final attack with crossbow damage 200%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "Success rate 42%, final attack with crossbow damage 205%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "Success rate 44%, final attack with crossbow damage 210%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "Success rate 46%, final attack with crossbow damage 215%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "Success rate 48%, final attack with crossbow damage 220%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "Success rate 50%, final attack with crossbow damage 225%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "Success rate 52%, final attack with crossbow damage 230%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "Success rate 54%, final attack with crossbow damage 235%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "Success rate 56%, final attack with crossbow damage 240%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "Success rate 58%, final attack with crossbow damage 245%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "Success rate 60%, final attack with crossbow damage 250%"
+      }
+    ],
+    "Type": "Passive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Crossbow Booster",
+      "src": "/src/assets/skills/Crossbow Booster.png"
+    },
+    "Skill Name": "Crossbow Booster",
+    "Master Level": 20,
+    "Description": "Uses HP and MP to temporarily boost up the attacking speed with a crossbow. It only works with a crossbow in hand.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "HP -29, MP -29; Improves crossbow speed for 10 seconds"
+      },
+      {
+        "Levels": 2,
+        "Effect": "HP -28, MP -28; Improves crossbow speed for 20 seconds"
+      },
+      {
+        "Levels": 3,
+        "Effect": "HP -27, MP -27; Improves crossbow speed for 30 seconds"
+      },
+      {
+        "Levels": 4,
+        "Effect": "HP -26, MP -26; Improves crossbow speed for 40 seconds"
+      },
+      {
+        "Levels": 5,
+        "Effect": "HP -25, MP -25; Improves crossbow speed for 50 seconds"
+      },
+      {
+        "Levels": 6,
+        "Effect": "HP -24, MP -24; Improves crossbow speed for 60 seconds"
+      },
+      {
+        "Levels": 7,
+        "Effect": "HP -23, MP -23; Improves crossbow speed for 70 seconds"
+      },
+      {
+        "Levels": 8,
+        "Effect": "HP -22, MP -22; Improves crossbow speed for 80 seconds"
+      },
+      {
+        "Levels": 9,
+        "Effect": "HP -21, MP -21; Improves crossbow speed for 90 seconds"
+      },
+      {
+        "Levels": 10,
+        "Effect": "HP -20, MP -20; Improves crossbow speed for 100 seconds"
+      },
+      {
+        "Levels": 11,
+        "Effect": "HP -19, MP -19; Improves crossbow speed for 110 seconds"
+      },
+      {
+        "Levels": 12,
+        "Effect": "HP -18, MP -18; Improves crossbow speed for 120 seconds"
+      },
+      {
+        "Levels": 13,
+        "Effect": "HP -17, MP -17; Improves crossbow speed for 130 seconds"
+      },
+      {
+        "Levels": 14,
+        "Effect": "HP -16, MP -16; Improves crossbow speed for 140 seconds"
+      },
+      {
+        "Levels": 15,
+        "Effect": "HP -15, MP -15; Improves crossbow speed for 150 seconds"
+      },
+      {
+        "Levels": 16,
+        "Effect": "HP -14, MP -14; Improves crossbow speed for 160 seconds"
+      },
+      {
+        "Levels": 17,
+        "Effect": "HP -13, MP -13; Improves crossbow speed for 170 seconds"
+      },
+      {
+        "Levels": 18,
+        "Effect": "HP -12, MP -12; Improves crossbow speed for 180 seconds"
+      },
+      {
+        "Levels": 19,
+        "Effect": "HP -11, MP -11; Improves crossbow speed for 190 seconds"
+      },
+      {
+        "Levels": 20,
+        "Effect": "HP -10, MP -10; Improves crossbow speed for 200 seconds"
+      }
+    ],
+    "Type": "Supportive"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Power Knock-Back",
+      "src": "/src/assets/skills/Power Knock-Back.png"
+    },
+    "Skill Name": "Power Knock-Back",
+    "Master Level": 20,
+    "Description": "Perform a melee swing with your crossbow. Has a chance of pushing off the monsters it hits. As the level rises, the number of monsters that one can push off with one swing increases.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -8; Knock-back rate 5%, damage 105%, knock-back up to 2 enemies 130 distance away"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -8; Knock-back rate 10%, damage 110%, knock-back up to 2 enemies 130 distance away"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -8; Knock-back rate 15%, damage 115%, knock-back up to 2 enemies 130 distance away"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -8; Knock-back rate 20%, damage 120%, knock-back up to 2 enemies 130 distance away"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -8; Knock-back rate 25%, damage 125%, knock-back up to 2 enemies 130 distance away"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -8; Knock-back rate 30%, damage 130%, knock-back up to 3 enemies 130 distance away"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -8; Knock-back rate 35%, damage 135%, knock-back up to 3 enemies 130 distance away"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -8; Knock-back rate 40%, damage 140%, knock-back up to 3 enemies 130 distance away"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -8; Knock-back rate 45%, damage 145%, knock-back up to 3 enemies 130 distance away"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -8; Knock-back rate 50%, damage 150%, knock-back up to 3 enemies 130 distance away"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -15; Knock-back rate 54%, damage 155%, knock-back up to 4 enemies 150 distance away"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -15; Knock-back rate 58%, damage 160%, knock-back up to 4 enemies 150 distance away"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -15; Knock-back rate 62%, damage 165%, knock-back up to 4 enemies 150 distance away"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -15; Knock-back rate 66%, damage 170%, knock-back up to 4 enemies 150 distance away"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -15; Knock-back rate 70%, damage 175%, knock-back up to 4 enemies 150 distance away"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -15; Knock-back rate 74%, damage 180%, knock-back up to 5 enemies 150 distance away"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -15; Knock-back rate 78%, damage 185%, knock-back up to 5 enemies 150 distance away"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -15; Knock-back rate 82%, damage 190%, knock-back up to 5 enemies 150 distance away"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -15; Knock-back rate 86%, damage 195%, knock-back up to 5 enemies 150 distance away"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -15; Knock-back rate 90%, damage 200%, knock-back up to 6 enemies 150 distance away"
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Soul Arrow : Crossbow",
+      "src": "/src/assets/skills/Soul Arrow.png"
+    },
+    "Skill Name": "Soul Arrow : Crossbow",
+    "Master Level": 20,
+    "Description": "Temporarily allows the character to fire crossbow arrows without using up the arrows. Only works with a crossbow in hand.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -15; Attack for 30 sec without using up an arrow."
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -15; Attack for 60 sec without using up an arrow."
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -15; Attack for 90 sec without using up an arrow."
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -15; Attack for 120 sec without using up an arrow."
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -15; Attack for 150 sec without using up an arrow."
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -15; Attack for 180 sec without using up an arrow."
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -15; Attack for 210 sec without using up an arrow."
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -15; Attack for 240 sec without using up an arrow."
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -15; Attack for 270 sec without using up an arrow."
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -15; Attack for 300 sec without using up an arrow."
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -20; Attack for 330 sec without using up an arrow."
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -20; Attack for 360 sec without using up an arrow."
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -20; Attack for 390 sec without using up an arrow."
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -20; Attack for 420 sec without using up an arrow."
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -20; Attack for 450 sec without using up an arrow."
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -20; Attack for 480 sec without using up an arrow."
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -20; Attack for 510 sec without using up an arrow."
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -20; Attack for 540 sec without using up an arrow."
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -20; Attack for 570 sec without using up an arrow."
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -20; Attack for 600 sec without using up an arrow."
+      }
+    ],
+    "Type": "Active"
+  },
+  {
+    "Icon": {
+      "type": "image",
+      "alt": "Iron Arrow",
+      "src": "/src/assets/skills/Iron Arrow.png"
+    },
+    "Skill Name": "Iron Arrow",
+    "Master Level": 30,
+    "Description": "Attacks up to 6 monsters at once with a powerful arrow, which penetrates through them. Damage decreases as the arrow flies through.",
+    "Levels": [
+      {
+        "Levels": 1,
+        "Effect": "MP -23; Damage 122%"
+      },
+      {
+        "Levels": 2,
+        "Effect": "MP -23; Damage 124%"
+      },
+      {
+        "Levels": 3,
+        "Effect": "MP -23; Damage 126%"
+      },
+      {
+        "Levels": 4,
+        "Effect": "MP -23; Damage 128%"
+      },
+      {
+        "Levels": 5,
+        "Effect": "MP -23; Damage 130%"
+      },
+      {
+        "Levels": 6,
+        "Effect": "MP -24; Damage 132%"
+      },
+      {
+        "Levels": 7,
+        "Effect": "MP -24; Damage 134%"
+      },
+      {
+        "Levels": 8,
+        "Effect": "MP -24; Damage 136%"
+      },
+      {
+        "Levels": 9,
+        "Effect": "MP -24; Damage 138%"
+      },
+      {
+        "Levels": 10,
+        "Effect": "MP -24; Damage 140%"
+      },
+      {
+        "Levels": 11,
+        "Effect": "MP -25; Damage 142%"
+      },
+      {
+        "Levels": 12,
+        "Effect": "MP -25; Damage 144%"
+      },
+      {
+        "Levels": 13,
+        "Effect": "MP -25; Damage 146%"
+      },
+      {
+        "Levels": 14,
+        "Effect": "MP -25; Damage 148%"
+      },
+      {
+        "Levels": 15,
+        "Effect": "MP -25; Damage 150%"
+      },
+      {
+        "Levels": 16,
+        "Effect": "MP -26; Damage 152%"
+      },
+      {
+        "Levels": 17,
+        "Effect": "MP -26; Damage 154%"
+      },
+      {
+        "Levels": 18,
+        "Effect": "MP -26; Damage 156%"
+      },
+      {
+        "Levels": 19,
+        "Effect": "MP -26; Damage 158%"
+      },
+      {
+        "Levels": 20,
+        "Effect": "MP -27; Damage 160%"
+      },
+      {
+        "Levels": 21,
+        "Effect": "MP -27; Damage 162%"
+      },
+      {
+        "Levels": 22,
+        "Effect": "MP -27; Damage 164%"
+      },
+      {
+        "Levels": 23,
+        "Effect": "MP -27; Damage 166%"
+      },
+      {
+        "Levels": 24,
+        "Effect": "MP -27; Damage 168%"
+      },
+      {
+        "Levels": 25,
+        "Effect": "MP -27; Damage 170%"
+      },
+      {
+        "Levels": 26,
+        "Effect": "MP -28; Damage 172%"
+      },
+      {
+        "Levels": 27,
+        "Effect": "MP -28; Damage 174%"
+      },
+      {
+        "Levels": 28,
+        "Effect": "MP -28; Damage 176%"
+      },
+      {
+        "Levels": 29,
+        "Effect": "MP -28; Damage 178%"
+      },
+      {
+        "Levels": 30,
+        "Effect": "MP -28; Damage 180%"
+      }
+    ],
+    "Type": "Active"
+  }
+]
