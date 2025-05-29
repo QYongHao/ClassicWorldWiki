@@ -2,6 +2,8 @@
 import { Image } from "astro:assets";
 import Table from "../components/Table.astro";
 import { getEntry } from "astro:content";
+import { Card } from "@astrojs/starlight/components";
+
 const { job } = Astro.props;
 const jobSkills = await getEntry("skills", job);
 ---
@@ -9,13 +11,15 @@ const jobSkills = await getEntry("skills", job);
 {
     jobSkills?.data.map((skill) => (
         <Fragment>
-            <Image
-                src={skill["Icon"].src}
-                alt={skill["Icon"].alt}
-                width={skill["Icon"].src.width}
-                height={skill["Icon"].src.height}
-            />
-            {skill["Skill Name"]}
+            <Card title={skill["Skill Name"]}>
+                <Image
+                    src={skill["Icon"].src}
+                    alt={skill["Icon"].alt}
+                    width={skill["Icon"].src.width}
+                    height={skill["Icon"].src.height}
+                />
+                {skill["Description"]}
+            </Card>
             <Table data={skill["Levels"]} />
         </Fragment>
     ))
