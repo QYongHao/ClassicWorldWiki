@@ -1,0 +1,12 @@
+---
+import Table from "../components/Table.astro";
+import { getEntry } from "astro:content";
+interface Props {
+    type: string;
+}
+const { type } = Astro.props;
+const weapons = await getEntry("weapons", type);
+---
+
+<Table data={weapons?.data} />
+<slot />

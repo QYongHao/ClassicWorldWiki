@@ -24,5 +24,38 @@ export const collections = {
 				Effect: z.string()
 			}))
 		}))
+	}),
+	weapons: defineCollection({
+		loader: glob({ pattern: '**/*.json', base: './src/data/equipment/weapons' }),
+		schema: z.array(z.object({
+			name: z.string(),
+			image_url: z.string(),
+			requirements: z.object({
+				level: z.number(),
+				strength: z.number(),
+				dexterity: z.number(),
+				intelligence: z.number(),
+				luck: z.number()
+			}),
+			classes: z.array(z.string()),
+			stats: z.object({
+				category: z.string(),
+				attack_speed: z.string(),
+				weapon_attack: z.optional(z.string()),
+				number_of_upgrades_available: z.optional(z.string())
+			}),
+			sources: z.object({
+				dropped_by: z.array(z.object({
+					monster_name: z.string(),
+					monster_id: z.string()
+				})),
+				sold_by: z.array(z.object({
+					npc_name: z.string(),
+					npc_id: z.string(),
+					price: z.string(),
+					npc_image: z.string()
+				}))
+			})
+		}))
 	})
 };
