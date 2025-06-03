@@ -1,7 +1,6 @@
 [
   {
     "name": "Steel Fingerless Gloves",
-    "image_url": "/static/images/lib/character/01082000.png",
     "requirements": {
       "level": 15,
       "strength": 40,
@@ -30,11 +29,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Fingerless Gloves",
+      "src": "/src/assets/armour/Steel Fingerless Gloves.png"
     }
   },
   {
     "name": "White Fingerless Gloves",
-    "image_url": "/static/images/lib/character/01082001.png",
     "requirements": {
       "level": 25,
       "strength": 75,
@@ -63,11 +66,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Fingerless Gloves",
+      "src": "/src/assets/armour/White Fingerless Gloves.png"
     }
   },
   {
     "name": "Work Gloves",
-    "image_url": "/static/images/lib/character/01082002.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -101,11 +108,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Work Gloves",
+      "src": "/src/assets/armour/Work Gloves.png"
     }
   },
   {
     "name": "Juno",
-    "image_url": "/static/images/lib/character/01082003.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -130,11 +141,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Juno",
+      "src": "/src/assets/armour/Juno.png"
     }
   },
   {
     "name": "Venon",
-    "image_url": "/static/images/lib/character/01082004.png",
     "requirements": {
       "level": 20,
       "strength": 60,
@@ -167,11 +182,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Venon",
+      "src": "/src/assets/armour/Venon.png"
     }
   },
   {
     "name": "Steel Missel",
-    "image_url": "/static/images/lib/character/01082005.png",
     "requirements": {
       "level": 30,
       "strength": 90,
@@ -213,11 +232,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Missel",
+      "src": "/src/assets/armour/Steel Missel.png"
     }
   },
   {
     "name": "Orihalcon Missel",
-    "image_url": "/static/images/lib/character/01082006.png",
     "requirements": {
       "level": 30,
       "strength": 90,
@@ -247,11 +270,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Orihalcon Missel",
+      "src": "/src/assets/armour/Orihalcon Missel.png"
     }
   },
   {
     "name": "Bronze Missel",
-    "image_url": "/static/images/lib/character/01082007.png",
     "requirements": {
       "level": 30,
       "strength": 90,
@@ -280,11 +307,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Missel",
+      "src": "/src/assets/armour/Bronze Missel.png"
     }
   },
   {
     "name": "Steel Briggon",
-    "image_url": "/static/images/lib/character/01082008.png",
     "requirements": {
       "level": 35,
       "strength": 125,
@@ -313,11 +344,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Briggon",
+      "src": "/src/assets/armour/Steel Briggon.png"
     }
   },
   {
     "name": "Steel Brist",
-    "image_url": "/static/images/lib/character/01082009.png",
     "requirements": {
       "level": 50,
       "strength": 180,
@@ -351,11 +386,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Brist",
+      "src": "/src/assets/armour/Steel Brist.png"
     }
   },
   {
     "name": "Mithril Brist",
-    "image_url": "/static/images/lib/character/01082010.png",
     "requirements": {
       "level": 50,
       "strength": 180,
@@ -426,11 +465,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Brist",
+      "src": "/src/assets/armour/Mithril Brist.png"
     }
   },
   {
     "name": "Gold Brist",
-    "image_url": "/static/images/lib/character/01082011.png",
     "requirements": {
       "level": 50,
       "strength": 180,
@@ -469,11 +512,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Brist",
+      "src": "/src/assets/armour/Gold Brist.png"
     }
   },
   {
     "name": "Basic Archer Gloves",
-    "image_url": "/static/images/lib/character/01082012.png",
     "requirements": {
       "level": 15,
       "strength": 0,
@@ -498,11 +545,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Basic Archer Gloves",
+      "src": "/src/assets/armour/Basic Archer Gloves.png"
     }
   },
   {
     "name": "Blue Diros",
-    "image_url": "/static/images/lib/character/01082013.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -522,11 +573,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Diros",
+      "src": "/src/assets/armour/Blue Diros.png"
     }
   },
   {
     "name": "Red Diros",
-    "image_url": "/static/images/lib/character/01082014.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -547,11 +602,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Diros",
+      "src": "/src/assets/armour/Red Diros.png"
     }
   },
   {
     "name": "Green Diros",
-    "image_url": "/static/images/lib/character/01082015.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -572,11 +631,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Diros",
+      "src": "/src/assets/armour/Green Diros.png"
     }
   },
   {
     "name": "Blue Savata",
-    "image_url": "/static/images/lib/character/01082016.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -613,11 +676,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Savata",
+      "src": "/src/assets/armour/Blue Savata.png"
     }
   },
   {
     "name": "Red Savata",
-    "image_url": "/static/images/lib/character/01082017.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -643,11 +710,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Savata",
+      "src": "/src/assets/armour/Red Savata.png"
     }
   },
   {
     "name": "Dark Savata",
-    "image_url": "/static/images/lib/character/01082018.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -673,11 +744,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Savata",
+      "src": "/src/assets/armour/Dark Savata.png"
     }
   },
   {
     "name": "Lemona",
-    "image_url": "/static/images/lib/character/01082019.png",
     "requirements": {
       "level": 15,
       "strength": 0,
@@ -702,11 +777,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lemona",
+      "src": "/src/assets/armour/Lemona.png"
     }
   },
   {
     "name": "Blue Morrican",
-    "image_url": "/static/images/lib/character/01082020.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -731,11 +810,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Morrican",
+      "src": "/src/assets/armour/Blue Morrican.png"
     }
   },
   {
     "name": "Green Morrican",
-    "image_url": "/static/images/lib/character/01082021.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -756,11 +839,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Morrican",
+      "src": "/src/assets/armour/Green Morrican.png"
     }
   },
   {
     "name": "Purple Morrican",
-    "image_url": "/static/images/lib/character/01082022.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -781,11 +868,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Morrican",
+      "src": "/src/assets/armour/Purple Morrican.png"
     }
   },
   {
     "name": "Iron Knuckle",
-    "image_url": "/static/images/lib/character/01082023.png",
     "requirements": {
       "level": 40,
       "strength": 150,
@@ -823,11 +914,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Iron Knuckle",
+      "src": "/src/assets/armour/Iron Knuckle.png"
     }
   },
   {
     "name": "Adamantium Knuckle",
-    "image_url": "/static/images/lib/character/01082024.png",
     "requirements": {
       "level": 40,
       "strength": 150,
@@ -865,11 +960,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Adamantium Knuckle",
+      "src": "/src/assets/armour/Adamantium Knuckle.png"
     }
   },
   {
     "name": "Dark Knuckle",
-    "image_url": "/static/images/lib/character/01082025.png",
     "requirements": {
       "level": 40,
       "strength": 150,
@@ -923,11 +1022,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Knuckle",
+      "src": "/src/assets/armour/Dark Knuckle.png"
     }
   },
   {
     "name": "Ocean Mesana",
-    "image_url": "/static/images/lib/character/01082026.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -964,11 +1067,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ocean Mesana",
+      "src": "/src/assets/armour/Ocean Mesana.png"
     }
   },
   {
     "name": "Blood Mesana",
-    "image_url": "/static/images/lib/character/01082027.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -989,11 +1096,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blood Mesana",
+      "src": "/src/assets/armour/Blood Mesana.png"
     }
   },
   {
     "name": "Dark Mesana",
-    "image_url": "/static/images/lib/character/01082028.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -1023,11 +1134,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Mesana",
+      "src": "/src/assets/armour/Dark Mesana.png"
     }
   },
   {
     "name": "Brown Duo",
-    "image_url": "/static/images/lib/character/01082029.png",
     "requirements": {
       "level": 15,
       "strength": 0,
@@ -1056,11 +1171,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Duo",
+      "src": "/src/assets/armour/Brown Duo.png"
     }
   },
   {
     "name": "Blue Duo",
-    "image_url": "/static/images/lib/character/01082030.png",
     "requirements": {
       "level": 15,
       "strength": 0,
@@ -1080,11 +1199,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Duo",
+      "src": "/src/assets/armour/Blue Duo.png"
     }
   },
   {
     "name": "Black Duo",
-    "image_url": "/static/images/lib/character/01082031.png",
     "requirements": {
       "level": 15,
       "strength": 0,
@@ -1104,11 +1227,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Duo",
+      "src": "/src/assets/armour/Black Duo.png"
     }
   },
   {
     "name": "Bronze Mischief",
-    "image_url": "/static/images/lib/character/01082032.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -1137,11 +1264,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Mischief",
+      "src": "/src/assets/armour/Bronze Mischief.png"
     }
   },
   {
     "name": "Mithril Mischief",
-    "image_url": "/static/images/lib/character/01082033.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -1162,11 +1293,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Mischief",
+      "src": "/src/assets/armour/Mithril Mischief.png"
     }
   },
   {
     "name": "Dark Mischief",
-    "image_url": "/static/images/lib/character/01082034.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -1187,11 +1322,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Mischief",
+      "src": "/src/assets/armour/Dark Mischief.png"
     }
   },
   {
     "name": "Yellow Briggon",
-    "image_url": "/static/images/lib/character/01082035.png",
     "requirements": {
       "level": 35,
       "strength": 125,
@@ -1221,11 +1360,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Briggon",
+      "src": "/src/assets/armour/Yellow Briggon.png"
     }
   },
   {
     "name": "Dark Briggon",
-    "image_url": "/static/images/lib/character/01082036.png",
     "requirements": {
       "level": 35,
       "strength": 125,
@@ -1263,11 +1406,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Briggon",
+      "src": "/src/assets/armour/Dark Briggon.png"
     }
   },
   {
     "name": "Bronze Wolfskin",
-    "image_url": "/static/images/lib/character/01082037.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -1308,11 +1455,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Wolfskin",
+      "src": "/src/assets/armour/Bronze Wolfskin.png"
     }
   },
   {
     "name": "Mithril Wolfskin",
-    "image_url": "/static/images/lib/character/01082038.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -1338,11 +1489,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Wolfskin",
+      "src": "/src/assets/armour/Mithril Wolfskin.png"
     }
   },
   {
     "name": "Dark Wolfskin",
-    "image_url": "/static/images/lib/character/01082039.png",
     "requirements": {
       "level": 25,
       "strength": 0,
@@ -1363,11 +1518,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Wolfskin",
+      "src": "/src/assets/armour/Dark Wolfskin.png"
     }
   },
   {
     "name": "Steel Sylvia",
-    "image_url": "/static/images/lib/character/01082042.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1400,11 +1559,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Sylvia",
+      "src": "/src/assets/armour/Steel Sylvia.png"
     }
   },
   {
     "name": "Silver Sylvia",
-    "image_url": "/static/images/lib/character/01082043.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1442,11 +1605,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Silver Sylvia",
+      "src": "/src/assets/armour/Silver Sylvia.png"
     }
   },
   {
     "name": "Gold Sylvia",
-    "image_url": "/static/images/lib/character/01082044.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1472,11 +1639,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Sylvia",
+      "src": "/src/assets/armour/Gold Sylvia.png"
     }
   },
   {
     "name": "Gold Arbion",
-    "image_url": "/static/images/lib/character/01082045.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -1510,11 +1681,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Arbion",
+      "src": "/src/assets/armour/Gold Arbion.png"
     }
   },
   {
     "name": "Steel Arbion",
-    "image_url": "/static/images/lib/character/01082046.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -1567,11 +1742,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Arbion",
+      "src": "/src/assets/armour/Steel Arbion.png"
     }
   },
   {
     "name": "Orihalcon Arbion",
-    "image_url": "/static/images/lib/character/01082047.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -1605,11 +1784,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Orihalcon Arbion",
+      "src": "/src/assets/armour/Orihalcon Arbion.png"
     }
   },
   {
     "name": "Brown Marker",
-    "image_url": "/static/images/lib/character/01082048.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1634,11 +1817,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Marker",
+      "src": "/src/assets/armour/Brown Marker.png"
     }
   },
   {
     "name": "Green Marker",
-    "image_url": "/static/images/lib/character/01082049.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1668,11 +1855,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Marker",
+      "src": "/src/assets/armour/Green Marker.png"
     }
   },
   {
     "name": "Black Marker",
-    "image_url": "/static/images/lib/character/01082050.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1702,11 +1893,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Marker",
+      "src": "/src/assets/armour/Black Marker.png"
     }
   },
   {
     "name": "Red Lutia",
-    "image_url": "/static/images/lib/character/01082051.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1735,11 +1930,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Lutia",
+      "src": "/src/assets/armour/Red Lutia.png"
     }
   },
   {
     "name": "Blue Lutia",
-    "image_url": "/static/images/lib/character/01082052.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1773,11 +1972,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Lutia",
+      "src": "/src/assets/armour/Blue Lutia.png"
     }
   },
   {
     "name": "Black Lutia",
-    "image_url": "/static/images/lib/character/01082053.png",
     "requirements": {
       "level": 30,
       "strength": 0,
@@ -1807,11 +2010,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Lutia",
+      "src": "/src/assets/armour/Black Lutia.png"
     }
   },
   {
     "name": "Red Noel",
-    "image_url": "/static/images/lib/character/01082054.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -1840,11 +2047,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Noel",
+      "src": "/src/assets/armour/Red Noel.png"
     }
   },
   {
     "name": "Blue Noel",
-    "image_url": "/static/images/lib/character/01082055.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -1878,11 +2089,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Noel",
+      "src": "/src/assets/armour/Blue Noel.png"
     }
   },
   {
     "name": "Dark Noel",
-    "image_url": "/static/images/lib/character/01082056.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -1916,11 +2131,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Noel",
+      "src": "/src/assets/armour/Dark Noel.png"
     }
   },
   {
     "name": "Bronze Clench",
-    "image_url": "/static/images/lib/character/01082059.png",
     "requirements": {
       "level": 60,
       "strength": 210,
@@ -1962,11 +2181,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Clench",
+      "src": "/src/assets/armour/Bronze Clench.png"
     }
   },
   {
     "name": "Sapphire Clench",
-    "image_url": "/static/images/lib/character/01082060.png",
     "requirements": {
       "level": 60,
       "strength": 210,
@@ -2001,11 +2224,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sapphire Clench",
+      "src": "/src/assets/armour/Sapphire Clench.png"
     }
   },
   {
     "name": "Dark Clench",
-    "image_url": "/static/images/lib/character/01082061.png",
     "requirements": {
       "level": 60,
       "strength": 210,
@@ -2044,11 +2271,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Clench",
+      "src": "/src/assets/armour/Dark Clench.png"
     }
   },
   {
     "name": "Red Arten",
-    "image_url": "/static/images/lib/character/01082062.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2106,11 +2337,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Arten",
+      "src": "/src/assets/armour/Red Arten.png"
     }
   },
   {
     "name": "Blue Arten",
-    "image_url": "/static/images/lib/character/01082063.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2148,11 +2383,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Arten",
+      "src": "/src/assets/armour/Blue Arten.png"
     }
   },
   {
     "name": "Dark Arten",
-    "image_url": "/static/images/lib/character/01082064.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2190,11 +2429,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Arten",
+      "src": "/src/assets/armour/Dark Arten.png"
     }
   },
   {
     "name": "Blue Moon Gloves",
-    "image_url": "/static/images/lib/character/01082065.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -2232,11 +2475,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Moon Gloves",
+      "src": "/src/assets/armour/Blue Moon Gloves.png"
     }
   },
   {
     "name": "Brown Moon Gloves",
-    "image_url": "/static/images/lib/character/01082066.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -2315,11 +2562,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Moon Gloves",
+      "src": "/src/assets/armour/Brown Moon Gloves.png"
     }
   },
   {
     "name": "Red Moon Gloves",
-    "image_url": "/static/images/lib/character/01082067.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -2358,11 +2609,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Moon Gloves",
+      "src": "/src/assets/armour/Red Moon Gloves.png"
     }
   },
   {
     "name": "Bronze Scaler",
-    "image_url": "/static/images/lib/character/01082068.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -2403,11 +2658,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Scaler",
+      "src": "/src/assets/armour/Bronze Scaler.png"
     }
   },
   {
     "name": "Mithril Scaler",
-    "image_url": "/static/images/lib/character/01082069.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -2449,11 +2708,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Scaler",
+      "src": "/src/assets/armour/Mithril Scaler.png"
     }
   },
   {
     "name": "Gold Scaler",
-    "image_url": "/static/images/lib/character/01082070.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -2483,11 +2746,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Scaler",
+      "src": "/src/assets/armour/Gold Scaler.png"
     }
   },
   {
     "name": "Aqua Brace",
-    "image_url": "/static/images/lib/character/01082071.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2529,11 +2796,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Aqua Brace",
+      "src": "/src/assets/armour/Aqua Brace.png"
     }
   },
   {
     "name": "Gold Brace",
-    "image_url": "/static/images/lib/character/01082072.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2579,11 +2850,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Brace",
+      "src": "/src/assets/armour/Gold Brace.png"
     }
   },
   {
     "name": "Dark Brace",
-    "image_url": "/static/images/lib/character/01082073.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2625,11 +2900,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Brace",
+      "src": "/src/assets/armour/Dark Brace.png"
     }
   },
   {
     "name": "Dark Cleave",
-    "image_url": "/static/images/lib/character/01082074.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2683,11 +2962,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Cleave",
+      "src": "/src/assets/armour/Dark Cleave.png"
     }
   },
   {
     "name": "Red Cleave",
-    "image_url": "/static/images/lib/character/01082075.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2721,11 +3004,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Cleave",
+      "src": "/src/assets/armour/Red Cleave.png"
     }
   },
   {
     "name": "Gold Cleave",
-    "image_url": "/static/images/lib/character/01082076.png",
     "requirements": {
       "level": 40,
       "strength": 0,
@@ -2771,11 +3058,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Cleave",
+      "src": "/src/assets/armour/Gold Cleave.png"
     }
   },
   {
     "name": "Dark Penance",
-    "image_url": "/static/images/lib/character/01082080.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -2811,11 +3102,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Penance",
+      "src": "/src/assets/armour/Dark Penance.png"
     }
   },
   {
     "name": "Red Pennance",
-    "image_url": "/static/images/lib/character/01082081.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -2858,11 +3153,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Pennance",
+      "src": "/src/assets/armour/Red Pennance.png"
     }
   },
   {
     "name": "Blue Pennance",
-    "image_url": "/static/images/lib/character/01082082.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -2910,11 +3209,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Pennance",
+      "src": "/src/assets/armour/Blue Pennance.png"
     }
   },
   {
     "name": "Dark Willow",
-    "image_url": "/static/images/lib/character/01082083.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -2953,11 +3256,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Willow",
+      "src": "/src/assets/armour/Dark Willow.png"
     }
   },
   {
     "name": "Blue Willow",
-    "image_url": "/static/images/lib/character/01082084.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -2999,11 +3306,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Willow",
+      "src": "/src/assets/armour/Blue Willow.png"
     }
   },
   {
     "name": "Red Willow",
-    "image_url": "/static/images/lib/character/01082085.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -3046,11 +3357,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Willow",
+      "src": "/src/assets/armour/Red Willow.png"
     }
   },
   {
     "name": "Steel Manute",
-    "image_url": "/static/images/lib/character/01082086.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3086,11 +3401,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Manute",
+      "src": "/src/assets/armour/Steel Manute.png"
     }
   },
   {
     "name": "Gold Manute",
-    "image_url": "/static/images/lib/character/01082087.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3143,11 +3462,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Manute",
+      "src": "/src/assets/armour/Gold Manute.png"
     }
   },
   {
     "name": "Dark Manute",
-    "image_url": "/static/images/lib/character/01082088.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3188,11 +3511,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Manute",
+      "src": "/src/assets/armour/Dark Manute.png"
     }
   },
   {
     "name": "Oaker Garner",
-    "image_url": "/static/images/lib/character/01082089.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3227,11 +3554,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Oaker Garner",
+      "src": "/src/assets/armour/Oaker Garner.png"
     }
   },
   {
     "name": "Sephia Garner",
-    "image_url": "/static/images/lib/character/01082090.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3267,11 +3598,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sephia Garner",
+      "src": "/src/assets/armour/Sephia Garner.png"
     }
   },
   {
     "name": "Dark Garner",
-    "image_url": "/static/images/lib/character/01082091.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3311,11 +3646,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Garner",
+      "src": "/src/assets/armour/Dark Garner.png"
     }
   },
   {
     "name": "Bronze Pow",
-    "image_url": "/static/images/lib/character/01082092.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3354,11 +3693,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Pow",
+      "src": "/src/assets/armour/Bronze Pow.png"
     }
   },
   {
     "name": "Steal Pow",
-    "image_url": "/static/images/lib/character/01082093.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3398,11 +3741,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steal Pow",
+      "src": "/src/assets/armour/Steal Pow.png"
     }
   },
   {
     "name": "Gold Pow",
-    "image_url": "/static/images/lib/character/01082094.png",
     "requirements": {
       "level": 60,
       "strength": 0,
@@ -3438,11 +3785,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Pow",
+      "src": "/src/assets/armour/Gold Pow.png"
     }
   },
   {
     "name": "Bronze Rover",
-    "image_url": "/static/images/lib/character/01082095.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -3484,11 +3835,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Rover",
+      "src": "/src/assets/armour/Bronze Rover.png"
     }
   },
   {
     "name": "Silver Rover",
-    "image_url": "/static/images/lib/character/01082096.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -3531,11 +3886,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Silver Rover",
+      "src": "/src/assets/armour/Silver Rover.png"
     }
   },
   {
     "name": "Gold Rover",
-    "image_url": "/static/images/lib/character/01082097.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -3578,11 +3937,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Rover",
+      "src": "/src/assets/armour/Gold Rover.png"
     }
   },
   {
     "name": "Brown Lorin",
-    "image_url": "/static/images/lib/character/01082098.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -3633,11 +3996,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Lorin",
+      "src": "/src/assets/armour/Brown Lorin.png"
     }
   },
   {
     "name": "Blue Lorin",
-    "image_url": "/static/images/lib/character/01082099.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -3677,11 +4044,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Lorin",
+      "src": "/src/assets/armour/Blue Lorin.png"
     }
   },
   {
     "name": "Dark Lorin",
-    "image_url": "/static/images/lib/character/01082100.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -3729,11 +4100,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Lorin",
+      "src": "/src/assets/armour/Dark Lorin.png"
     }
   },
   {
     "name": "Bronze Husk",
-    "image_url": "/static/images/lib/character/01082103.png",
     "requirements": {
       "level": 70,
       "strength": 240,
@@ -3767,11 +4142,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Husk",
+      "src": "/src/assets/armour/Bronze Husk.png"
     }
   },
   {
     "name": "Mithril Husk",
-    "image_url": "/static/images/lib/character/01082104.png",
     "requirements": {
       "level": 70,
       "strength": 240,
@@ -3814,11 +4193,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Husk",
+      "src": "/src/assets/armour/Mithril Husk.png"
     }
   },
   {
     "name": "Dark Husk",
-    "image_url": "/static/images/lib/character/01082105.png",
     "requirements": {
       "level": 70,
       "strength": 240,
@@ -3857,11 +4240,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Husk",
+      "src": "/src/assets/armour/Dark Husk.png"
     }
   },
   {
     "name": "Blue Eyes",
-    "image_url": "/static/images/lib/character/01082106.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -3903,11 +4290,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Eyes",
+      "src": "/src/assets/armour/Blue Eyes.png"
     }
   },
   {
     "name": "Gold Eyes",
-    "image_url": "/static/images/lib/character/01082107.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -3970,11 +4361,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Eyes",
+      "src": "/src/assets/armour/Gold Eyes.png"
     }
   },
   {
     "name": "Dark Eyes",
-    "image_url": "/static/images/lib/character/01082108.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -4021,11 +4416,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Eyes",
+      "src": "/src/assets/armour/Dark Eyes.png"
     }
   },
   {
     "name": "Red Cordon",
-    "image_url": "/static/images/lib/character/01082109.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4065,11 +4464,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Cordon",
+      "src": "/src/assets/armour/Red Cordon.png"
     }
   },
   {
     "name": "Blue Cordon",
-    "image_url": "/static/images/lib/character/01082110.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4109,11 +4512,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Cordon",
+      "src": "/src/assets/armour/Blue Cordon.png"
     }
   },
   {
     "name": "Green Cordon",
-    "image_url": "/static/images/lib/character/01082111.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4145,11 +4552,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Cordon",
+      "src": "/src/assets/armour/Green Cordon.png"
     }
   },
   {
     "name": "Dark Cordon",
-    "image_url": "/static/images/lib/character/01082112.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4197,11 +4608,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Cordon",
+      "src": "/src/assets/armour/Dark Cordon.png"
     }
   },
   {
     "name": "Sapphire Emperor",
-    "image_url": "/static/images/lib/character/01082114.png",
     "requirements": {
       "level": 80,
       "strength": 270,
@@ -4249,11 +4664,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sapphire Emperor",
+      "src": "/src/assets/armour/Sapphire Emperor.png"
     }
   },
   {
     "name": "Emerald Emperor",
-    "image_url": "/static/images/lib/character/01082115.png",
     "requirements": {
       "level": 80,
       "strength": 270,
@@ -4289,11 +4708,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Emerald Emperor",
+      "src": "/src/assets/armour/Emerald Emperor.png"
     }
   },
   {
     "name": "Blood Emperor",
-    "image_url": "/static/images/lib/character/01082116.png",
     "requirements": {
       "level": 80,
       "strength": 270,
@@ -4349,11 +4772,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blood Emperor",
+      "src": "/src/assets/armour/Blood Emperor.png"
     }
   },
   {
     "name": "Dark Emperor",
-    "image_url": "/static/images/lib/character/01082117.png",
     "requirements": {
       "level": 80,
       "strength": 270,
@@ -4401,11 +4828,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Emperor",
+      "src": "/src/assets/armour/Dark Emperor.png"
     }
   },
   {
     "name": "Green Larceny",
-    "image_url": "/static/images/lib/character/01082118.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4449,11 +4880,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Larceny",
+      "src": "/src/assets/armour/Green Larceny.png"
     }
   },
   {
     "name": "Purple Larceny",
-    "image_url": "/static/images/lib/character/01082119.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4493,11 +4928,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Larceny",
+      "src": "/src/assets/armour/Purple Larceny.png"
     }
   },
   {
     "name": "Blood Larceny",
-    "image_url": "/static/images/lib/character/01082120.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4525,11 +4964,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blood Larceny",
+      "src": "/src/assets/armour/Blood Larceny.png"
     }
   },
   {
     "name": "Green Clarity",
-    "image_url": "/static/images/lib/character/01082121.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4566,11 +5009,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Clarity",
+      "src": "/src/assets/armour/Green Clarity.png"
     }
   },
   {
     "name": "Blue Clarity",
-    "image_url": "/static/images/lib/character/01082122.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4611,11 +5058,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Clarity",
+      "src": "/src/assets/armour/Blue Clarity.png"
     }
   },
   {
     "name": "Dark Clarity",
-    "image_url": "/static/images/lib/character/01082123.png",
     "requirements": {
       "level": 80,
       "strength": 0,
@@ -4660,11 +5111,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Clarity",
+      "src": "/src/assets/armour/Dark Clarity.png"
     }
   },
   {
     "name": "Red Focus",
-    "image_url": "/static/images/lib/character/01082125.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -4695,11 +5150,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Focus",
+      "src": "/src/assets/armour/Red Focus.png"
     }
   },
   {
     "name": "Green Focus",
-    "image_url": "/static/images/lib/character/01082126.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -4734,11 +5193,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Focus",
+      "src": "/src/assets/armour/Green Focus.png"
     }
   },
   {
     "name": "Dark Focus",
-    "image_url": "/static/images/lib/character/01082127.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -4773,11 +5236,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Focus",
+      "src": "/src/assets/armour/Dark Focus.png"
     }
   },
   {
     "name": "Green Imperial",
-    "image_url": "/static/images/lib/character/01082128.png",
     "requirements": {
       "level": 90,
       "strength": 300,
@@ -4808,11 +5275,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Imperial",
+      "src": "/src/assets/armour/Green Imperial.png"
     }
   },
   {
     "name": "Purple Imperial",
-    "image_url": "/static/images/lib/character/01082129.png",
     "requirements": {
       "level": 90,
       "strength": 300,
@@ -4855,11 +5326,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Imperial",
+      "src": "/src/assets/armour/Purple Imperial.png"
     }
   },
   {
     "name": "Dark Imperial",
-    "image_url": "/static/images/lib/character/01082130.png",
     "requirements": {
       "level": 90,
       "strength": 300,
@@ -4894,11 +5369,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Imperial",
+      "src": "/src/assets/armour/Dark Imperial.png"
     }
   },
   {
     "name": "Blue Sage",
-    "image_url": "/static/images/lib/character/01082131.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -4926,11 +5405,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Sage",
+      "src": "/src/assets/armour/Blue Sage.png"
     }
   },
   {
     "name": "Green Sage",
-    "image_url": "/static/images/lib/character/01082132.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -4962,11 +5445,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Sage",
+      "src": "/src/assets/armour/Green Sage.png"
     }
   },
   {
     "name": "Red Sage",
-    "image_url": "/static/images/lib/character/01082133.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -4998,11 +5485,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Sage",
+      "src": "/src/assets/armour/Red Sage.png"
     }
   },
   {
     "name": "Dark Pachone",
-    "image_url": "/static/images/lib/character/01082134.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -5046,11 +5537,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Pachone",
+      "src": "/src/assets/armour/Dark Pachone.png"
     }
   },
   {
     "name": "Blue Anelin",
-    "image_url": "/static/images/lib/character/01082135.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5109,11 +5604,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Anelin",
+      "src": "/src/assets/armour/Blue Anelin.png"
     }
   },
   {
     "name": "Green Anelin",
-    "image_url": "/static/images/lib/character/01082136.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5144,11 +5643,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Anelin",
+      "src": "/src/assets/armour/Green Anelin.png"
     }
   },
   {
     "name": "Red Anelin",
-    "image_url": "/static/images/lib/character/01082137.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5171,11 +5674,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Anelin",
+      "src": "/src/assets/armour/Red Anelin.png"
     }
   },
   {
     "name": "Dark Anelin",
-    "image_url": "/static/images/lib/character/01082138.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5203,11 +5710,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Anelin",
+      "src": "/src/assets/armour/Dark Anelin.png"
     }
   },
   {
     "name": "Green Korben",
-    "image_url": "/static/images/lib/character/01082139.png",
     "requirements": {
       "level": 100,
       "strength": 330,
@@ -5255,11 +5766,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Korben",
+      "src": "/src/assets/armour/Green Korben.png"
     }
   },
   {
     "name": "Blue Korben",
-    "image_url": "/static/images/lib/character/01082140.png",
     "requirements": {
       "level": 100,
       "strength": 330,
@@ -5307,11 +5822,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Korben",
+      "src": "/src/assets/armour/Blue Korben.png"
     }
   },
   {
     "name": "Dark Korben",
-    "image_url": "/static/images/lib/character/01082141.png",
     "requirements": {
       "level": 100,
       "strength": 330,
@@ -5343,11 +5862,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Korben",
+      "src": "/src/assets/armour/Dark Korben.png"
     }
   },
   {
     "name": "Green Mystra",
-    "image_url": "/static/images/lib/character/01082142.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -5386,11 +5909,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Mystra",
+      "src": "/src/assets/armour/Green Mystra.png"
     }
   },
   {
     "name": "Purple Mystra",
-    "image_url": "/static/images/lib/character/01082143.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -5424,11 +5951,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Mystra",
+      "src": "/src/assets/armour/Purple Mystra.png"
     }
   },
   {
     "name": "Dark Mystra",
-    "image_url": "/static/images/lib/character/01082144.png",
     "requirements": {
       "level": 90,
       "strength": 0,
@@ -5468,11 +5999,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Mystra",
+      "src": "/src/assets/armour/Dark Mystra.png"
     }
   },
   {
     "name": "Yellow Work Gloves",
-    "image_url": "/static/images/lib/character/01082145.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -5503,11 +6038,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Work Gloves",
+      "src": "/src/assets/armour/Yellow Work Gloves.png"
     }
   },
   {
     "name": "Red Work Gloves",
-    "image_url": "/static/images/lib/character/01082146.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -5533,11 +6072,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Work Gloves",
+      "src": "/src/assets/armour/Red Work Gloves.png"
     }
   },
   {
     "name": "Blue Work Gloves",
-    "image_url": "/static/images/lib/character/01082147.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -5563,11 +6106,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Work Gloves",
+      "src": "/src/assets/armour/Blue Work Gloves.png"
     }
   },
   {
     "name": "Purple Work Gloves",
-    "image_url": "/static/images/lib/character/01082148.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -5593,11 +6140,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Work Gloves",
+      "src": "/src/assets/armour/Purple Work Gloves.png"
     }
   },
   {
     "name": "Brown Work Gloves",
-    "image_url": "/static/images/lib/character/01082149.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -5626,11 +6177,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Work Gloves",
+      "src": "/src/assets/armour/Brown Work Gloves.png"
     }
   },
   {
     "name": "Grey Work Gloves",
-    "image_url": "/static/images/lib/character/01082150.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -5661,11 +6216,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Grey Work Gloves",
+      "src": "/src/assets/armour/Grey Work Gloves.png"
     }
   },
   {
     "name": "Green Ciara",
-    "image_url": "/static/images/lib/character/01082151.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5729,11 +6288,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Ciara",
+      "src": "/src/assets/armour/Green Ciara.png"
     }
   },
   {
     "name": "Blue Ciara",
-    "image_url": "/static/images/lib/character/01082152.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5769,11 +6332,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Ciara",
+      "src": "/src/assets/armour/Blue Ciara.png"
     }
   },
   {
     "name": "Red Ciara",
-    "image_url": "/static/images/lib/character/01082153.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5801,11 +6368,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Ciara",
+      "src": "/src/assets/armour/Red Ciara.png"
     }
   },
   {
     "name": "Purple Ciara",
-    "image_url": "/static/images/lib/character/01082154.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5833,11 +6404,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Ciara",
+      "src": "/src/assets/armour/Purple Ciara.png"
     }
   },
   {
     "name": "Red Arcina",
-    "image_url": "/static/images/lib/character/01082158.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5897,11 +6472,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Arcina",
+      "src": "/src/assets/armour/Red Arcina.png"
     }
   },
   {
     "name": "Blue Arcina",
-    "image_url": "/static/images/lib/character/01082159.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5929,11 +6508,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Arcina",
+      "src": "/src/assets/armour/Blue Arcina.png"
     }
   },
   {
     "name": "Green Arcina",
-    "image_url": "/static/images/lib/character/01082160.png",
     "requirements": {
       "level": 100,
       "strength": 0,
@@ -5961,11 +6544,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Arcina",
+      "src": "/src/assets/armour/Green Arcina.png"
     }
   },
   {
     "name": "Red Hunter Gloves",
-    "image_url": "/static/images/lib/character/01082163.png",
     "requirements": {
       "level": 110,
       "strength": 0,
@@ -5988,11 +6575,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Hunter Gloves",
+      "src": "/src/assets/armour/Red Hunter Gloves.png"
     }
   },
   {
     "name": "Blue Elemental Gloves",
-    "image_url": "/static/images/lib/character/01082164.png",
     "requirements": {
       "level": 110,
       "strength": 0,
@@ -6015,11 +6606,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Elemental Gloves",
+      "src": "/src/assets/armour/Blue Elemental Gloves.png"
     }
   },
   {
     "name": "Black Garina Gloves",
-    "image_url": "/static/images/lib/character/01082167.png",
     "requirements": {
       "level": 110,
       "strength": 0,
@@ -6041,11 +6636,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Garina Gloves",
+      "src": "/src/assets/armour/Black Garina Gloves.png"
     }
   },
   {
     "name": "Blue Dragon Gauntlet",
-    "image_url": "/static/images/lib/character/01082168.png",
     "requirements": {
       "level": 110,
       "strength": 360,
@@ -6068,11 +6667,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Dragon Gauntlet",
+      "src": "/src/assets/armour/Blue Dragon Gauntlet.png"
     }
   },
   {
     "name": "Lunar Gloves",
-    "image_url": "/static/images/lib/character/01082174.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -6101,11 +6704,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lunar Gloves",
+      "src": "/src/assets/armour/Lunar Gloves.png"
     }
   },
   {
     "name": "Red Marker",
-    "image_url": "/static/images/lib/character/01082175.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -6131,11 +6738,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Marker",
+      "src": "/src/assets/armour/Red Marker.png"
     }
   },
   {
     "name": "Blue Marker",
-    "image_url": "/static/images/lib/character/01082176.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -6161,11 +6772,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Marker",
+      "src": "/src/assets/armour/Blue Marker.png"
     }
   },
   {
     "name": "Purple Marker",
-    "image_url": "/static/images/lib/character/01082177.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -6191,11 +6806,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Marker",
+      "src": "/src/assets/armour/Purple Marker.png"
     }
   },
   {
     "name": "Pink Marker",
-    "image_url": "/static/images/lib/character/01082178.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -6221,11 +6840,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Marker",
+      "src": "/src/assets/armour/Pink Marker.png"
     }
   },
   {
     "name": "Yellow Marker",
-    "image_url": "/static/images/lib/character/01082179.png",
     "requirements": {
       "level": 20,
       "strength": 0,
@@ -6250,11 +6873,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Marker",
+      "src": "/src/assets/armour/Yellow Marker.png"
     }
   },
   {
     "name": "Green Lagger Halfglove",
-    "image_url": "/static/images/lib/character/01082180.png",
     "requirements": {
       "level": 15,
       "strength": 15,
@@ -6287,11 +6914,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Lagger Halfglove",
+      "src": "/src/assets/armour/Green Lagger Halfglove.png"
     }
   },
   {
     "name": "Brown Leather Armor Glove",
-    "image_url": "/static/images/lib/character/01082183.png",
     "requirements": {
       "level": 20,
       "strength": 20,
@@ -6324,11 +6955,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Leather Armor Glove",
+      "src": "/src/assets/armour/Brown Leather Armor Glove.png"
     }
   },
   {
     "name": "Hard Leather Glove",
-    "image_url": "/static/images/lib/character/01082186.png",
     "requirements": {
       "level": 25,
       "strength": 25,
@@ -6361,11 +6996,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hard Leather Glove",
+      "src": "/src/assets/armour/Hard Leather Glove.png"
     }
   },
   {
     "name": "Yellow Tartis",
-    "image_url": "/static/images/lib/character/01082189.png",
     "requirements": {
       "level": 30,
       "strength": 30,
@@ -6398,11 +7037,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Tartis",
+      "src": "/src/assets/armour/Yellow Tartis.png"
     }
   },
   {
     "name": "Brown Jeweled",
-    "image_url": "/static/images/lib/character/01082192.png",
     "requirements": {
       "level": 35,
       "strength": 35,
@@ -6439,11 +7082,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Jeweled",
+      "src": "/src/assets/armour/Brown Jeweled.png"
     }
   },
   {
     "name": "Brown Barbee",
-    "image_url": "/static/images/lib/character/01082195.png",
     "requirements": {
       "level": 40,
       "strength": 40,
@@ -6489,11 +7136,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Barbee",
+      "src": "/src/assets/armour/Brown Barbee.png"
     }
   },
   {
     "name": "Brown Royce",
-    "image_url": "/static/images/lib/character/01082198.png",
     "requirements": {
       "level": 50,
       "strength": 50,
@@ -6539,11 +7190,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Royce",
+      "src": "/src/assets/armour/Brown Royce.png"
     }
   },
   {
     "name": "Black Schult",
-    "image_url": "/static/images/lib/character/01082201.png",
     "requirements": {
       "level": 60,
       "strength": 60,
@@ -6582,11 +7237,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Schult",
+      "src": "/src/assets/armour/Black Schult.png"
     }
   },
   {
     "name": "Black Bisk",
-    "image_url": "/static/images/lib/character/01082204.png",
     "requirements": {
       "level": 70,
       "strength": 70,
@@ -6625,11 +7284,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Bisk",
+      "src": "/src/assets/armour/Black Bisk.png"
     }
   },
   {
     "name": "Blue Halfglove",
-    "image_url": "/static/images/lib/character/01082207.png",
     "requirements": {
       "level": 80,
       "strength": 80,
@@ -6673,11 +7336,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Halfglove",
+      "src": "/src/assets/armour/Blue Halfglove.png"
     }
   },
   {
     "name": "Red Martier",
-    "image_url": "/static/images/lib/character/01082210.png",
     "requirements": {
       "level": 90,
       "strength": 90,
@@ -6712,11 +7379,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Martier",
+      "src": "/src/assets/armour/Red Martier.png"
     }
   },
   {
     "name": "Black Skellduke",
-    "image_url": "/static/images/lib/character/01082213.png",
     "requirements": {
       "level": 100,
       "strength": 100,
@@ -6767,11 +7438,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Skellduke",
+      "src": "/src/assets/armour/Black Skellduke.png"
     }
   },
   {
     "name": "Canopus Glove",
-    "image_url": "/static/images/lib/character/01082216.png",
     "requirements": {
       "level": 110,
       "strength": 110,
@@ -6794,11 +7469,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Canopus Glove",
+      "src": "/src/assets/armour/Canopus Glove.png"
     }
   },
   {
     "name": "Dragon Gauntlet",
-    "image_url": "/static/images/lib/character/01082218.png",
     "requirements": {
       "level": 70,
       "strength": 240,
@@ -6820,11 +7499,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Gauntlet",
+      "src": "/src/assets/armour/Dragon Gauntlet.png"
     }
   },
   {
     "name": "Mechanical Glove",
-    "image_url": "/static/images/lib/character/01082222.png",
     "requirements": {
       "level": 70,
       "strength": 0,
@@ -6850,11 +7533,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mechanical Glove",
+      "src": "/src/assets/armour/Mechanical Glove.png"
     }
   },
   {
     "name": "Stormcaster Gloves",
-    "image_url": "/static/images/lib/character/01082223.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -6881,11 +7568,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stormcaster Gloves",
+      "src": "/src/assets/armour/Stormcaster Gloves.png"
     }
   },
   {
     "name": "Green Mittens",
-    "image_url": "/static/images/lib/character/01082228.png",
     "requirements": {
       "level": 15,
       "strength": 0,
@@ -6910,11 +7601,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Mittens",
+      "src": "/src/assets/armour/Green Mittens.png"
     }
   },
   {
     "name": "Glitter Gloves",
-    "image_url": "/static/images/lib/character/01082230.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -6935,11 +7630,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Glitter Gloves",
+      "src": "/src/assets/armour/Glitter Gloves.png"
     }
   },
   {
     "name": "Goddess Wristband",
-    "image_url": "/static/images/lib/character/01082232.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -6967,11 +7666,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Goddess Wristband",
+      "src": "/src/assets/armour/Goddess Wristband.png"
     }
   },
   {
     "name": "Timeless Bergamot",
-    "image_url": "/static/images/lib/character/01082234.png",
     "requirements": {
       "level": 150,
       "strength": 390,
@@ -6999,11 +7702,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Bergamot",
+      "src": "/src/assets/armour/Timeless Bergamot.png"
     }
   },
   {
     "name": "Timeless Hermosa",
-    "image_url": "/static/images/lib/character/01082235.png",
     "requirements": {
       "level": 150,
       "strength": 0,
@@ -7032,11 +7739,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Hermosa",
+      "src": "/src/assets/armour/Timeless Hermosa.png"
     }
   },
   {
     "name": "Timeless Presto",
-    "image_url": "/static/images/lib/character/01082236.png",
     "requirements": {
       "level": 150,
       "strength": 0,
@@ -7064,11 +7775,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Presto",
+      "src": "/src/assets/armour/Timeless Presto.png"
     }
   },
   {
     "name": "Timeless Lubav",
-    "image_url": "/static/images/lib/character/01082237.png",
     "requirements": {
       "level": 150,
       "strength": 0,
@@ -7096,11 +7811,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Lubav",
+      "src": "/src/assets/armour/Timeless Lubav.png"
     }
   },
   {
     "name": "Timeless Charlston",
-    "image_url": "/static/images/lib/character/01082238.png",
     "requirements": {
       "level": 150,
       "strength": 120,
@@ -7128,11 +7847,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Charlston",
+      "src": "/src/assets/armour/Timeless Charlston.png"
     }
   },
   {
     "name": "Reverse Bergamot",
-    "image_url": "/static/images/lib/character/01082239.png",
     "requirements": {
       "level": 150,
       "strength": 390,
@@ -7160,11 +7883,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Bergamot",
+      "src": "/src/assets/armour/Reverse Bergamot.png"
     }
   },
   {
     "name": "Reverse Hermosa",
-    "image_url": "/static/images/lib/character/01082240.png",
     "requirements": {
       "level": 150,
       "strength": 0,
@@ -7193,11 +7920,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Hermosa",
+      "src": "/src/assets/armour/Reverse Hermosa.png"
     }
   },
   {
     "name": "Reverse Presto",
-    "image_url": "/static/images/lib/character/01082241.png",
     "requirements": {
       "level": 150,
       "strength": 0,
@@ -7225,11 +7956,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Presto",
+      "src": "/src/assets/armour/Reverse Presto.png"
     }
   },
   {
     "name": "Reverse Lubav",
-    "image_url": "/static/images/lib/character/01082242.png",
     "requirements": {
       "level": 150,
       "strength": 0,
@@ -7257,11 +7992,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Lubav",
+      "src": "/src/assets/armour/Reverse Lubav.png"
     }
   },
   {
     "name": "Reverse Charlston",
-    "image_url": "/static/images/lib/character/01082243.png",
     "requirements": {
       "level": 150,
       "strength": 120,
@@ -7289,11 +8028,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Charlston",
+      "src": "/src/assets/armour/Reverse Charlston.png"
     }
   },
   {
     "name": "Flamekeeper Cordon",
-    "image_url": "/static/images/lib/character/01082246.png",
     "requirements": {
       "level": 50,
       "strength": 0,
@@ -7324,11 +8067,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flamekeeper Cordon",
+      "src": "/src/assets/armour/Flamekeeper Cordon.png"
     }
   },
   {
     "name": "Maple Gage",
-    "image_url": "/static/images/lib/character/01082252.png",
     "requirements": {
       "level": 13,
       "strength": 0,
@@ -7357,11 +8104,15 @@
         }
       ],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Gage",
+      "src": "/src/assets/armour/Maple Gage.png"
     }
   },
   {
     "name": "Mushking Leather Glove",
-    "image_url": "/static/images/lib/character/01082254.png",
     "requirements": {
       "level": 35,
       "strength": 0,
@@ -7387,11 +8138,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mushking Leather Glove",
+      "src": "/src/assets/armour/Mushking Leather Glove.png"
     }
   },
   {
     "name": "Andras Gloves",
-    "image_url": "/static/images/lib/character/01082256.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -7412,11 +8167,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Andras Gloves",
+      "src": "/src/assets/armour/Andras Gloves.png"
     }
   },
   {
     "name": "Marbas Gloves",
-    "image_url": "/static/images/lib/character/01082257.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -7437,11 +8196,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Marbas Gloves",
+      "src": "/src/assets/armour/Marbas Gloves.png"
     }
   },
   {
     "name": "Valefor Gloves",
-    "image_url": "/static/images/lib/character/01082258.png",
     "requirements": {
       "level": 10,
       "strength": 0,
@@ -7462,11 +8225,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Valefor Gloves",
+      "src": "/src/assets/armour/Valefor Gloves.png"
     }
   },
   {
     "name": "Amdusias Gloves",
-    "image_url": "/static/images/lib/character/01082259.png",
     "requirements": {
       "level": 0,
       "strength": 0,
@@ -7487,11 +8254,15 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Amdusias Gloves",
+      "src": "/src/assets/armour/Amdusias Gloves.png"
     }
   },
   {
     "name": "Crocell Gloves",
-    "image_url": "/static/images/lib/character/01082260.png",
     "requirements": {
       "level": 0,
       "strength": 0,
@@ -7512,6 +8283,11 @@
     "sources": {
       "dropped_by": [],
       "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crocell Gloves",
+      "src": "/src/assets/armour/Crocell Gloves.png"
     }
   }
 ]
