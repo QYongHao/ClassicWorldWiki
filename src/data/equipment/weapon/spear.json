@@ -1,0 +1,2398 @@
+[
+  {
+    "name": "Spear",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Bowman",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Orange Mushroom",
+          "monster_id": "1210102"
+        },
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        },
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Spear",
+      "src": "/src/assets/weapon/Spear.png"
+    }
+  },
+  {
+    "name": "Fork on a Stick",
+    "requirements": {
+      "level": 15,
+      "strength": 15,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Bowman",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Sand Rat",
+          "monster_id": "2110300"
+        },
+        {
+          "monster_name": "Ear Plug Plead",
+          "monster_id": "2100106"
+        },
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        },
+        {
+          "monster_name": "Blue Mushroom",
+          "monster_id": "2220100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "7,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "7,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fork on a Stick",
+      "src": "/src/assets/weapon/Fork on a Stick.png"
+    }
+  },
+  {
+    "name": "Forked Spear",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Evil Eye",
+          "monster_id": "2230100"
+        },
+        {
+          "monster_name": "Cactus",
+          "monster_id": "2100103"
+        },
+        {
+          "monster_name": "Sentinel",
+          "monster_id": "3000000"
+        },
+        {
+          "monster_name": "Freezer",
+          "monster_id": "9420501"
+        },
+        {
+          "monster_name": "Toad",
+          "monster_id": "9420000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "62,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Forked Spear",
+      "src": "/src/assets/weapon/Forked Spear.png"
+    }
+  },
+  {
+    "name": "Nakamaki",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Desert Giant",
+          "monster_id": "4230600"
+        },
+        {
+          "monster_name": "Triple Rumo",
+          "monster_id": "3110303"
+        },
+        {
+          "monster_name": "Zombie Mushroom",
+          "monster_id": "2230101"
+        },
+        {
+          "monster_name": "Rumo",
+          "monster_id": "3110302"
+        },
+        {
+          "monster_name": "Slimy",
+          "monster_id": "9420510"
+        },
+        {
+          "monster_name": "Wild Boar",
+          "monster_id": "2230102"
+        },
+        {
+          "monster_name": "Planey",
+          "monster_id": "3230304"
+        },
+        {
+          "monster_name": "Jr. Pepe Doll",
+          "monster_id": "9410011"
+        },
+        {
+          "monster_name": "Curse Eye",
+          "monster_id": "3230100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Nakamaki",
+      "src": "/src/assets/weapon/Nakamaki.png"
+    }
+  },
+  {
+    "name": "Serpent's Tongue",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rombot",
+          "monster_id": "4130103"
+        },
+        {
+          "monster_name": "Plateon",
+          "monster_id": "4230120"
+        },
+        {
+          "monster_name": "Electrophant",
+          "monster_id": "9400543"
+        },
+        {
+          "monster_name": "Morphed Blin",
+          "monster_id": "6130202"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Platoon Chronos",
+          "monster_id": "4230114"
+        },
+        {
+          "monster_name": "Red Kentaurus",
+          "monster_id": "8140102"
+        },
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Serpent's Tongue",
+      "src": "/src/assets/weapon/Serpent's Tongue.png"
+    }
+  },
+  {
+    "name": "Zeco",
+    "requirements": {
+      "level": 40,
+      "strength": 130,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Poopa",
+          "monster_id": "4230200"
+        },
+        {
+          "monster_name": "Tippo Blue",
+          "monster_id": "9420505"
+        },
+        {
+          "monster_name": "Ligator",
+          "monster_id": "3110100"
+        },
+        {
+          "monster_name": "Green Mushroom",
+          "monster_id": "1110100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Zeco",
+      "src": "/src/assets/weapon/Zeco.png"
+    }
+  },
+  {
+    "name": "Holy Spear",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Samiho",
+          "monster_id": "5100004"
+        },
+        {
+          "monster_name": "Homun",
+          "monster_id": "6110300"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Water Goblin",
+          "monster_id": "9400012"
+        },
+        {
+          "monster_name": "Grizzly",
+          "monster_id": "5120500"
+        },
+        {
+          "monster_name": "Transformed Pink Perfume",
+          "monster_id": "9410027"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Holy Spear",
+      "src": "/src/assets/weapon/Holy Spear.png"
+    }
+  },
+  {
+    "name": "Redemption",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "87 (82 - 92)",
+      "accuracy": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Eagle Swordsman",
+          "monster_id": "9600014"
+        },
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Transformed Blue Perfume",
+          "monster_id": "9410023"
+        },
+        {
+          "monster_name": "Rodeo",
+          "monster_id": "9420533"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Transformed Yeti",
+          "monster_id": "6300001"
+        },
+        {
+          "monster_name": "Squid",
+          "monster_id": "8141300"
+        },
+        {
+          "monster_name": "Female Thief",
+          "monster_id": "9600016"
+        },
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Phantom Watch",
+          "monster_id": "8142000"
+        },
+        {
+          "monster_name": "Blue Mushmom",
+          "monster_id": "9400205"
+        },
+        {
+          "monster_name": "Dual Beetle",
+          "monster_id": "7130003"
+        },
+        {
+          "monster_name": "Dark Drake",
+          "monster_id": "6230601"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Male Thief",
+          "monster_id": "9600015"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Redemption",
+      "src": "/src/assets/weapon/Redemption.png"
+    }
+  },
+  {
+    "name": "Fish Spear",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "42 (37 - 47)",
+      "accuracy": "5 (4 - 6)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Star Pixie",
+          "monster_id": "3230200"
+        },
+        {
+          "monster_name": "Jr. Cerebes",
+          "monster_id": "4230108"
+        },
+        {
+          "monster_name": "Coke Slime",
+          "monster_id": "9500151"
+        },
+        {
+          "monster_name": "Plow Ox",
+          "monster_id": "9600007"
+        },
+        {
+          "monster_name": "Ashigaru",
+          "monster_id": "9400404"
+        },
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        },
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        },
+        {
+          "monster_name": "Jr. Pepe",
+          "monster_id": "5400000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fish Spear",
+      "src": "/src/assets/weapon/Fish Spear.png"
+    }
+  },
+  {
+    "name": "Bamboo Spear",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "43 (38 - 48)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Raimu the Warrior",
+          "npc_id": "9110001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9110001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bamboo Spear",
+      "src": "/src/assets/weapon/Bamboo Spear.png"
+    }
+  },
+  {
+    "name": "Omega Spear",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Goby",
+          "monster_id": "7130020"
+        },
+        {
+          "monster_name": "Ghost Pirate",
+          "monster_id": "7140000"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Jonin",
+          "monster_id": "9400402"
+        },
+        {
+          "monster_name": "Birk",
+          "monster_id": "8140110"
+        },
+        {
+          "monster_name": "Berserkie",
+          "monster_id": "9420514"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Omega Spear",
+      "src": "/src/assets/weapon/Omega Spear.png"
+    }
+  },
+  {
+    "name": "Fairfrozen",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Snowman",
+          "monster_id": "8220001"
+        },
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        },
+        {
+          "monster_name": "Oblivion Monk",
+          "monster_id": "8200009"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fairfrozen",
+      "src": "/src/assets/weapon/Fairfrozen.png"
+    }
+  },
+  {
+    "name": "Maple Impaler",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "weapon_attack": "65 (60 - 70)",
+      "accuracy": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Impaler",
+      "src": "/src/assets/weapon/Maple Impaler.png"
+    }
+  },
+  {
+    "name": "Pumpkin Spear",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "accuracy": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Ashigaru",
+          "monster_id": "9400404"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pumpkin Spear",
+      "src": "/src/assets/weapon/Pumpkin Spear.png"
+    }
+  },
+  {
+    "name": "Fish Spear",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "40 (36 - 44)",
+      "accuracy": "4 (3 - 5)",
+      "speed": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fish Spear",
+      "src": "/src/assets/weapon/Fish Spear.png"
+    }
+  },
+  {
+    "name": "Red Ski",
+    "requirements": {
+      "level": 13,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "hp": "50 (45 - 55)",
+      "weapon_attack": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Ski",
+      "src": "/src/assets/weapon/Red Ski.png"
+    }
+  },
+  {
+    "name": "Orange Ski",
+    "requirements": {
+      "level": 33,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "mp": "50 (45 - 55)",
+      "weapon_attack": "55 (50 - 60)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Fire Raccoon",
+          "monster_id": "9400001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Orange Ski",
+      "src": "/src/assets/weapon/Orange Ski.png"
+    }
+  },
+  {
+    "name": "Green Ski",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "weapon_attack": "78 (73 - 83)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Ski",
+      "src": "/src/assets/weapon/Green Ski.png"
+    }
+  },
+  {
+    "name": "Sky Ski",
+    "requirements": {
+      "level": 85,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "94 (89 - 99)",
+      "accuracy": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bodyguards A B Boss",
+          "monster_id": "9400116"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sky Ski",
+      "src": "/src/assets/weapon/Sky Ski.png"
+    }
+  },
+  {
+    "name": "Forked Spear",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Forked Spear",
+      "src": "/src/assets/weapon/Forked Spear.png"
+    }
+  },
+  {
+    "name": "Serpent's Tongue",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Serpent's Tongue",
+      "src": "/src/assets/weapon/Serpent's Tongue.png"
+    }
+  },
+  {
+    "name": "Holy Spear",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Holy Spear",
+      "src": "/src/assets/weapon/Holy Spear.png"
+    }
+  },
+  {
+    "name": "Redemption",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "97 (92 - 102)",
+      "accuracy": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Redemption",
+      "src": "/src/assets/weapon/Redemption.png"
+    }
+  },
+  {
+    "name": "Omega Spear",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Omega Spear",
+      "src": "/src/assets/weapon/Omega Spear.png"
+    }
+  },
+  {
+    "name": "Forked Spear",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Forked Spear",
+      "src": "/src/assets/weapon/Forked Spear.png"
+    }
+  },
+  {
+    "name": "Serpent's Tongue",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Serpent's Tongue",
+      "src": "/src/assets/weapon/Serpent's Tongue.png"
+    }
+  },
+  {
+    "name": "Holy Spear",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Holy Spear",
+      "src": "/src/assets/weapon/Holy Spear.png"
+    }
+  },
+  {
+    "name": "Redemption",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "97 (92 - 102)",
+      "accuracy": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Redemption",
+      "src": "/src/assets/weapon/Redemption.png"
+    }
+  },
+  {
+    "name": "Omega Spear",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Omega Spear",
+      "src": "/src/assets/weapon/Omega Spear.png"
+    }
+  },
+  {
+    "name": "Pinaka",
+    "requirements": {
+      "level": 100,
+      "strength": 310,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Lyka",
+          "monster_id": "8220006"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Furious Scarlion Boss",
+          "monster_id": "9420549"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Maverick B",
+          "monster_id": "9400258"
+        },
+        {
+          "monster_name": "Dual Birk",
+          "monster_id": "8140111"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Oblivion Monk Trainee",
+          "monster_id": "8200010"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pinaka",
+      "src": "/src/assets/weapon/Pinaka.png"
+    }
+  },
+  {
+    "name": "Forked Spear",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Forked Spear",
+      "src": "/src/assets/weapon/Forked Spear.png"
+    }
+  },
+  {
+    "name": "Serpent's Tongue",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Serpent's Tongue",
+      "src": "/src/assets/weapon/Serpent's Tongue.png"
+    }
+  },
+  {
+    "name": "Holy Spear",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Holy Spear",
+      "src": "/src/assets/weapon/Holy Spear.png"
+    }
+  },
+  {
+    "name": "Redemption",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "87 (82 - 92)",
+      "accuracy": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Redemption",
+      "src": "/src/assets/weapon/Redemption.png"
+    }
+  },
+  {
+    "name": "Omega Spear",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Omega Spear",
+      "src": "/src/assets/weapon/Omega Spear.png"
+    }
+  },
+  {
+    "name": "Dragon Faltizan",
+    "requirements": {
+      "level": 110,
+      "strength": 340,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "107 (102 - 112)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Faltizan",
+      "src": "/src/assets/weapon/Dragon Faltizan.png"
+    }
+  },
+  {
+    "name": "Fishing Pole",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "67 (62 - 72)",
+      "accuracy": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fishing Pole",
+      "src": "/src/assets/weapon/Fishing Pole.png"
+    }
+  },
+  {
+    "name": "Maple Soul Spear",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "85 (80 - 90)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Soul Spear",
+      "src": "/src/assets/weapon/Maple Soul Spear.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "70 (65 - 75)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (Spear)",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (Spear)",
+      "src": "/src/assets/weapon/Singapore Flag (Spear).png"
+    }
+  },
+  {
+    "name": "Malaysia Flag (Spear)",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Malaysia Flag (Spear)",
+      "src": "/src/assets/weapon/Malaysia Flag (Spear).png"
+    }
+  },
+  {
+    "name": "Sunspear",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sunspear",
+      "src": "/src/assets/weapon/Sunspear.png"
+    }
+  },
+  {
+    "name": "Maplemas Tree",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "mp": "100 (90 - 110)",
+      "weapon_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maplemas Tree",
+      "src": "/src/assets/weapon/Maplemas Tree.png"
+    }
+  },
+  {
+    "name": "Timeless Alchupiz",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "100 (98 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Alchupiz",
+      "src": "/src/assets/weapon/Timeless Alchupiz.png"
+    }
+  },
+  {
+    "name": "Pooh Pooh Shovel",
+    "requirements": {
+      "level": 105,
+      "strength": 325,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "105 (100 - 110)",
+      "accuracy": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pooh Pooh Shovel",
+      "src": "/src/assets/weapon/Pooh Pooh Shovel.png"
+    }
+  },
+  {
+    "name": "Reverse Alchupiz",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "98 (96 - 100)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Alchupiz",
+      "src": "/src/assets/weapon/Reverse Alchupiz.png"
+    }
+  },
+  {
+    "name": "Seraphim Spear",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "85 (80 - 90)",
+      "accuracy": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Spear",
+      "src": "/src/assets/weapon/Seraphim Spear.png"
+    }
+  },
+  {
+    "name": "Speargrave (Spear)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (Spear)",
+      "src": "/src/assets/weapon/Speargrave (Spear).png"
+    }
+  },
+  {
+    "name": "Flairgrave (Spear)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (Spear)",
+      "src": "/src/assets/weapon/Flairgrave (Spear).png"
+    }
+  },
+  {
+    "name": "Balrog's Omega Spear",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "89 (84 - 94)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Omega Spear",
+      "src": "/src/assets/weapon/Balrog's Omega Spear.png"
+    }
+  },
+  {
+    "name": "Balrog's Fairfrozen",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Fairfrozen",
+      "src": "/src/assets/weapon/Balrog's Fairfrozen.png"
+    }
+  },
+  {
+    "name": "Stormshear",
+    "requirements": {
+      "level": 100,
+      "strength": 310,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stormshear",
+      "src": "/src/assets/weapon/Stormshear.png"
+    }
+  },
+  {
+    "name": "King Pepe Nakamaki",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Nakamaki",
+      "src": "/src/assets/weapon/King Pepe Nakamaki.png"
+    }
+  },
+  {
+    "name": "Astaroth Spear",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Spear",
+      "attack_speed": "Fast (5)",
+      "str": "10 (9 - 11)",
+      "weapon_attack": "46 (41 - 51)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth Spear",
+      "src": "/src/assets/weapon/Astaroth Spear.png"
+    }
+  }
+]

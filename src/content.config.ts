@@ -15,7 +15,7 @@ export const collections = {
 	skills: defineCollection({
 		loader: glob({ pattern: '**/*.json', base: './src/data/skills' }),
 		schema: ({ image }) => z.array(z.object({
-			Icon: imageSchema({ image }),
+			"Icon": imageSchema({ image }),
 			"Skill Name": z.string(),
 			"Description": z.string(),
 			"Type": z.string(),
@@ -26,10 +26,10 @@ export const collections = {
 		}))
 	}),
 	weapons: defineCollection({
-		loader: glob({ pattern: '**/*.json', base: './src/data/equipment/weapons' }),
-		schema: z.array(z.object({
+		loader: glob({ pattern: '**/*.json', base: './src/data/equipment/weapon' }),
+		schema: ({ image }) => z.array(z.object({
 			name: z.string(),
-			image_url: z.string(),
+			icon: z.optional(imageSchema({ image })),
 			requirements: z.object({
 				level: z.number(),
 				strength: z.number(),

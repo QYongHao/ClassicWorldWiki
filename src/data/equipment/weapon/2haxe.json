@@ -1,0 +1,1926 @@
+[
+  {
+    "name": "Two-Handed Axe",
+    "requirements": {
+      "level": 25,
+      "strength": 85,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "47 (42 - 52)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "Flower Fish",
+          "monster_id": "2230200"
+        },
+        {
+          "monster_name": "Duck",
+          "monster_id": "9600002"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Two-Handed Axe",
+      "src": "/src/assets/weapon/Two-Handed Axe.png"
+    }
+  },
+  {
+    "name": "Metal Axe",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Bowman",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Frog",
+          "monster_id": "9420001"
+        },
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Metal Axe",
+      "src": "/src/assets/weapon/Metal Axe.png"
+    }
+  },
+  {
+    "name": "Iron Axe",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Zombie Mushroom",
+          "monster_id": "2230101"
+        },
+        {
+          "monster_name": "Horny Mushroom",
+          "monster_id": "2110200"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Iron Axe",
+      "src": "/src/assets/weapon/Iron Axe.png"
+    }
+  },
+  {
+    "name": "The Rising",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Clang",
+          "monster_id": "4230104"
+        },
+        {
+          "monster_name": "Mecateon",
+          "monster_id": "4230121"
+        },
+        {
+          "monster_name": "Master Robo",
+          "monster_id": "4230112"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Gryphon",
+          "monster_id": "9400544"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Dark Fission",
+          "monster_id": "9420529"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Rising",
+      "src": "/src/assets/weapon/The Rising.png"
+    }
+  },
+  {
+    "name": "Niam",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Scorpion",
+          "monster_id": "2110301"
+        },
+        {
+          "monster_name": "Jr. Wraith",
+          "monster_id": "3230101"
+        },
+        {
+          "monster_name": "Meercat",
+          "monster_id": "2100108"
+        },
+        {
+          "monster_name": "Cold Eye",
+          "monster_id": "4230100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Niam",
+      "src": "/src/assets/weapon/Niam.png"
+    }
+  },
+  {
+    "name": "Sabretooth",
+    "requirements": {
+      "level": 40,
+      "strength": 130,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tick",
+          "monster_id": "3210207"
+        },
+        {
+          "monster_name": "Iron Mutae",
+          "monster_id": "4110300"
+        },
+        {
+          "monster_name": "Drake",
+          "monster_id": "5130100"
+        },
+        {
+          "monster_name": "Wild Boar",
+          "monster_id": "2230102"
+        },
+        {
+          "monster_name": "Freezer",
+          "monster_id": "4230124"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sabretooth",
+      "src": "/src/assets/weapon/Sabretooth.png"
+    }
+  },
+  {
+    "name": "Blue Axe",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Cellion",
+          "monster_id": "3210200"
+        },
+        {
+          "monster_name": "Flower Fish",
+          "monster_id": "2230200"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "47,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Axe",
+      "src": "/src/assets/weapon/Blue Axe.png"
+    }
+  },
+  {
+    "name": "The Shining",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "The Book Ghost",
+          "monster_id": "5120506"
+        },
+        {
+          "monster_name": "White Fang",
+          "monster_id": "5140000"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Water Goblin",
+          "monster_id": "9400012"
+        },
+        {
+          "monster_name": "MT-09",
+          "monster_id": "5120100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Shining",
+      "src": "/src/assets/weapon/The Shining.png"
+    }
+  },
+  {
+    "name": "Chrono",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Deep Buffoon",
+          "monster_id": "6400100"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Taurospear",
+          "monster_id": "7130101"
+        },
+        {
+          "monster_name": "Blue Mushmom",
+          "monster_id": "9400205"
+        },
+        {
+          "monster_name": "Dual Beetle",
+          "monster_id": "7130003"
+        },
+        {
+          "monster_name": "Blue King Goblin",
+          "monster_id": "7130401"
+        },
+        {
+          "monster_name": "Dark Drake",
+          "monster_id": "6230601"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Chrono",
+      "src": "/src/assets/weapon/Chrono.png"
+    }
+  },
+  {
+    "name": "Helios",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Leader A",
+          "monster_id": "9400110"
+        },
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Vikerola",
+          "monster_id": "9420539"
+        },
+        {
+          "monster_name": "Risell Squid",
+          "monster_id": "8142100"
+        },
+        {
+          "monster_name": "Death Teddy",
+          "monster_id": "7130010"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Helios",
+      "src": "/src/assets/weapon/Helios.png"
+    }
+  },
+  {
+    "name": "Colonian Axe",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pianus (R)",
+          "monster_id": "8510000"
+        },
+        {
+          "monster_name": "Memory Guardian",
+          "monster_id": "8200003"
+        },
+        {
+          "monster_name": "Pianus (L)",
+          "monster_id": "8520000"
+        },
+        {
+          "monster_name": "Dreamy Ghost",
+          "monster_id": "9400013"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Colonian Axe",
+      "src": "/src/assets/weapon/Colonian Axe.png"
+    }
+  },
+  {
+    "name": "Maple Dragon Axe",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "weapon_attack": "68 (63 - 73)",
+      "accuracy": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Dragon Axe",
+      "src": "/src/assets/weapon/Maple Dragon Axe.png"
+    }
+  },
+  {
+    "name": "Iron Axe",
+    "requirements": {
+      "level": 15,
+      "strength": 45,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Street Slime",
+          "monster_id": "9400538"
+        },
+        {
+          "monster_name": "Urban Fungus",
+          "monster_id": "9400539"
+        },
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        },
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        },
+        {
+          "monster_name": "Blue Mushroom",
+          "monster_id": "2220100"
+        },
+        {
+          "monster_name": "Ghost Stump",
+          "monster_id": "1140100"
+        },
+        {
+          "monster_name": "Green Mushroom",
+          "monster_id": "1110100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Iron Axe",
+      "src": "/src/assets/weapon/Iron Axe.png"
+    }
+  },
+  {
+    "name": "The Rising",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Rising",
+      "src": "/src/assets/weapon/The Rising.png"
+    }
+  },
+  {
+    "name": "The Shining",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Shining",
+      "src": "/src/assets/weapon/The Shining.png"
+    }
+  },
+  {
+    "name": "Chrono",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Chrono",
+      "src": "/src/assets/weapon/Chrono.png"
+    }
+  },
+  {
+    "name": "Helios",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Helios",
+      "src": "/src/assets/weapon/Helios.png"
+    }
+  },
+  {
+    "name": "The Rising",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Rising",
+      "src": "/src/assets/weapon/The Rising.png"
+    }
+  },
+  {
+    "name": "The Shining",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Shining",
+      "src": "/src/assets/weapon/The Shining.png"
+    }
+  },
+  {
+    "name": "Chrono",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Chrono",
+      "src": "/src/assets/weapon/Chrono.png"
+    }
+  },
+  {
+    "name": "Helios",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Helios",
+      "src": "/src/assets/weapon/Helios.png"
+    }
+  },
+  {
+    "name": "Tavar",
+    "requirements": {
+      "level": 100,
+      "strength": 310,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190005"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Ephenia",
+          "monster_id": "5250007"
+        },
+        {
+          "monster_name": "Qualm Monk Trainee",
+          "monster_id": "8200006"
+        },
+        {
+          "monster_name": "Petrifighter",
+          "monster_id": "9420517"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190002"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tavar",
+      "src": "/src/assets/weapon/Tavar.png"
+    }
+  },
+  {
+    "name": "The Rising",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Rising",
+      "src": "/src/assets/weapon/The Rising.png"
+    }
+  },
+  {
+    "name": "The Shining",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Shining",
+      "src": "/src/assets/weapon/The Shining.png"
+    }
+  },
+  {
+    "name": "Chrono",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Chrono",
+      "src": "/src/assets/weapon/Chrono.png"
+    }
+  },
+  {
+    "name": "Helios",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Helios",
+      "src": "/src/assets/weapon/Helios.png"
+    }
+  },
+  {
+    "name": "Dragon Battle Axe",
+    "requirements": {
+      "level": 110,
+      "strength": 340,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "107 (102 - 112)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Battle Axe",
+      "src": "/src/assets/weapon/Dragon Battle Axe.png"
+    }
+  },
+  {
+    "name": "Maple Demon Axe",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "4 (3 - 5)",
+      "weapon_attack": "85 (80 - 90)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Demon Axe",
+      "src": "/src/assets/weapon/Maple Demon Axe.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "70 (65 - 75)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (Two Handed Axe)",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (Two Handed Axe)",
+      "src": "/src/assets/weapon/Singapore Flag (Two Handed Axe).png"
+    }
+  },
+  {
+    "name": "Malaysia Flag (Two Handed Axe)",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Malaysia Flag (Two Handed Axe)",
+      "src": "/src/assets/weapon/Malaysia Flag (Two Handed Axe).png"
+    }
+  },
+  {
+    "name": "Crescent Moon",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crescent Moon",
+      "src": "/src/assets/weapon/Crescent Moon.png"
+    }
+  },
+  {
+    "name": "Timeless Tabarzin",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "114 (112 - 116)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Tabarzin",
+      "src": "/src/assets/weapon/Timeless Tabarzin.png"
+    }
+  },
+  {
+    "name": "Reverse Tabarzin",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "112 (110 - 114)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Tabarzin",
+      "src": "/src/assets/weapon/Reverse Tabarzin.png"
+    }
+  },
+  {
+    "name": "Seraphim Two-handed Axe",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "68 (63 - 73)",
+      "accuracy": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Two-handed Axe",
+      "src": "/src/assets/weapon/Seraphim Two-handed Axe.png"
+    }
+  },
+  {
+    "name": "Speargrave (Two-Handed Axe)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (Two-Handed Axe)",
+      "src": "/src/assets/weapon/Speargrave (Two-Handed Axe).png"
+    }
+  },
+  {
+    "name": "Flairgrave (Two-Handed Axe)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (Two-Handed Axe)",
+      "src": "/src/assets/weapon/Flairgrave (Two-Handed Axe).png"
+    }
+  },
+  {
+    "name": "Balrog's Helios",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "89 (84 - 94)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Helios",
+      "src": "/src/assets/weapon/Balrog's Helios.png"
+    }
+  },
+  {
+    "name": "Balrog's Colonian Axe",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "94 (89 - 99)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Colonian Axe",
+      "src": "/src/assets/weapon/Balrog's Colonian Axe.png"
+    }
+  },
+  {
+    "name": "Redner",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Redner",
+      "src": "/src/assets/weapon/Redner.png"
+    }
+  },
+  {
+    "name": "GMS Battle Axe",
+    "requirements": {
+      "level": 120,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "112 (107 - 117)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "GMS Battle Axe",
+      "src": "/src/assets/weapon/GMS Battle Axe.png"
+    }
+  },
+  {
+    "name": "King Pepe Niam",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Niam",
+      "src": "/src/assets/weapon/King Pepe Niam.png"
+    }
+  },
+  {
+    "name": "Astaroth Axe",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "10 (9 - 11)",
+      "weapon_attack": "46 (41 - 51)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth Axe",
+      "src": "/src/assets/weapon/Astaroth Axe.png"
+    }
+  }
+]

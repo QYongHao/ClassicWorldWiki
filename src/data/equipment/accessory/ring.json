@@ -1,0 +1,1900 @@
+[
+  {
+    "name": "Scoreboard Quote Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Scoreboard Quote Ring",
+      "src": "/src/assets/accessory/Scoreboard Quote Ring.png"
+    }
+  },
+  {
+    "name": "Ring of Moon Stone: 1 Carat",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "speed": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Moon Stone: 1 Carat",
+      "src": "/src/assets/accessory/Ring of Moon Stone  1 Carat.png"
+    }
+  },
+  {
+    "name": "Ring of Moon Stone: 2 Carats",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "speed": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Moon Stone: 2 Carats",
+      "src": "/src/assets/accessory/Ring of Moon Stone  2 Carats.png"
+    }
+  },
+  {
+    "name": "Ring of Moon Stone: 3 Carats",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "speed": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Moon Stone: 3 Carats",
+      "src": "/src/assets/accessory/Ring of Moon Stone  3 Carats.png"
+    }
+  },
+  {
+    "name": "Ring of Shining Star: 1 Carat",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "jump": "2 (1 - 3)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Shining Star: 1 Carat",
+      "src": "/src/assets/accessory/Ring of Shining Star  1 Carat.png"
+    }
+  },
+  {
+    "name": "Ring of Shining Star: 2 Carats",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "jump": "2 (1 - 3)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Shining Star: 2 Carats",
+      "src": "/src/assets/accessory/Ring of Shining Star  2 Carats.png"
+    }
+  },
+  {
+    "name": "Ring of Shining Star: 3 Carats",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "jump": "2 (1 - 3)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Shining Star: 3 Carats",
+      "src": "/src/assets/accessory/Ring of Shining Star  3 Carats.png"
+    }
+  },
+  {
+    "name": "Gold Heart Ring: 1 Carat",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "hp": "60 (54 - 66)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Heart Ring: 1 Carat",
+      "src": "/src/assets/accessory/Gold Heart Ring  1 Carat.png"
+    }
+  },
+  {
+    "name": "Gold Heart Ring: 2 Carats",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "hp": "60 (54 - 66)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Heart Ring: 2 Carats",
+      "src": "/src/assets/accessory/Gold Heart Ring  2 Carats.png"
+    }
+  },
+  {
+    "name": "Gold Heart Ring: 3 Carats",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "hp": "60 (54 - 66)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Heart Ring: 3 Carats",
+      "src": "/src/assets/accessory/Gold Heart Ring  3 Carats.png"
+    }
+  },
+  {
+    "name": "Ring of Silver Wing: 1 Carat",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "mp": "60 (54 - 66)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Silver Wing: 1 Carat",
+      "src": "/src/assets/accessory/Ring of Silver Wing  1 Carat.png"
+    }
+  },
+  {
+    "name": "Ring of Silver Wing: 2 Carats",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "mp": "60 (54 - 66)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Silver Wing: 2 Carats",
+      "src": "/src/assets/accessory/Ring of Silver Wing  2 Carats.png"
+    }
+  },
+  {
+    "name": "Ring of Silver Wing: 3 Carats",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "mp": "60 (54 - 66)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Silver Wing: 3 Carats",
+      "src": "/src/assets/accessory/Ring of Silver Wing  3 Carats.png"
+    }
+  },
+  {
+    "name": "1 Carat Lovebirds Wedding Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "hp": "150 (140 - 160)",
+      "mp": "150 (140 - 160)",
+      "weapon_attack": "1 (0 - 2)",
+      "magic_attack": "1 (0 - 2)",
+      "speed": "5 (4 - 6)",
+      "jump": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "1 Carat Lovebirds Wedding Ring",
+      "src": "/src/assets/accessory/1 Carat Lovebirds Wedding Ring.png"
+    }
+  },
+  {
+    "name": "2 Carat Lovebirds Wedding Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "hp": "150 (140 - 160)",
+      "mp": "150 (140 - 160)",
+      "weapon_attack": "1 (0 - 2)",
+      "magic_attack": "1 (0 - 2)",
+      "speed": "5 (4 - 6)",
+      "jump": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "2 Carat Lovebirds Wedding Ring",
+      "src": "/src/assets/accessory/2 Carat Lovebirds Wedding Ring.png"
+    }
+  },
+  {
+    "name": "3 Carat Lovebirds Wedding Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "4 (3 - 5)",
+      "dex": "4 (3 - 5)",
+      "int": "4 (3 - 5)",
+      "luk": "4 (3 - 5)",
+      "hp": "150 (140 - 160)",
+      "mp": "150 (140 - 160)",
+      "weapon_attack": "1 (0 - 2)",
+      "magic_attack": "1 (0 - 2)",
+      "speed": "5 (4 - 6)",
+      "jump": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "3 Carat Lovebirds Wedding Ring",
+      "src": "/src/assets/accessory/3 Carat Lovebirds Wedding Ring.png"
+    }
+  },
+  {
+    "name": "1 Carat Promise Wedding Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "hp": "350 (340 - 360)",
+      "mp": "350 (340 - 360)",
+      "weapon_attack": "2 (1 - 3)",
+      "magic_attack": "2 (1 - 3)",
+      "speed": "5 (4 - 6)",
+      "jump": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "1 Carat Promise Wedding Ring",
+      "src": "/src/assets/accessory/1 Carat Promise Wedding Ring.png"
+    }
+  },
+  {
+    "name": "2 Carat Promise Wedding Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "4 (3 - 5)",
+      "dex": "4 (3 - 5)",
+      "int": "4 (3 - 5)",
+      "luk": "4 (3 - 5)",
+      "hp": "350 (340 - 360)",
+      "mp": "350 (340 - 360)",
+      "weapon_attack": "2 (1 - 3)",
+      "magic_attack": "2 (1 - 3)",
+      "speed": "5 (4 - 6)",
+      "jump": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "2 Carat Promise Wedding Ring",
+      "src": "/src/assets/accessory/2 Carat Promise Wedding Ring.png"
+    }
+  },
+  {
+    "name": "3 Carat Promise Wedding Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "5 (4 - 6)",
+      "dex": "5 (4 - 6)",
+      "int": "5 (4 - 6)",
+      "luk": "5 (4 - 6)",
+      "hp": "350 (340 - 360)",
+      "mp": "350 (340 - 360)",
+      "weapon_attack": "2 (1 - 3)",
+      "magic_attack": "2 (1 - 3)",
+      "speed": "5 (4 - 6)",
+      "jump": "5 (4 - 6)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "3 Carat Promise Wedding Ring",
+      "src": "/src/assets/accessory/3 Carat Promise Wedding Ring.png"
+    }
+  },
+  {
+    "name": "Amorian Aura Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Amorian Aura Ring",
+      "src": "/src/assets/accessory/Amorian Aura Ring.png"
+    }
+  },
+  {
+    "name": "Ring of Alchemist",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "number_of_upgrades_available": "1"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Alchemist",
+      "src": "/src/assets/accessory/Ring of Alchemist.png"
+    }
+  },
+  {
+    "name": "Spiegelmann's Ring",
+    "requirements": {
+      "level": 51,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "weapon_attack": "1 (0 - 2)"
+    },
+    "sell_price": "Sell Price: 75000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Spiegelmann's Ring",
+      "src": "/src/assets/accessory/Spiegelmann's Ring.png"
+    }
+  },
+  {
+    "name": "Spiegelmann's Ring",
+    "requirements": {
+      "level": 51,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "magic_attack": "1 (0 - 2)"
+    },
+    "sell_price": "Sell Price: 75000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Spiegelmann's Ring",
+      "src": "/src/assets/accessory/Spiegelmann's Ring.png"
+    }
+  },
+  {
+    "name": "Lilin's Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "hp": "30 (27 - 33)",
+      "mp": "30 (27 - 33)",
+      "weapon_attack": "3 (2 - 4)",
+      "magic_attack": "3 (2 - 4)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lilin's Ring",
+      "src": "/src/assets/accessory/Lilin's Ring.png"
+    }
+  },
+  {
+    "name": "Circle of Ancient Thought",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "5 (4 - 6)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Circle of Ancient Thought",
+      "src": "/src/assets/accessory/Circle of Ancient Thought.png"
+    }
+  },
+  {
+    "name": "Circle of Ancient Strength",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "5 (4 - 6)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Circle of Ancient Strength",
+      "src": "/src/assets/accessory/Circle of Ancient Strength.png"
+    }
+  },
+  {
+    "name": "Lilin's Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "hp": "10 (9 - 11)",
+      "mp": "10 (9 - 11)",
+      "weapon_attack": "1 (0 - 2)",
+      "magic_attack": "1 (0 - 2)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lilin's Ring",
+      "src": "/src/assets/accessory/Lilin's Ring.png"
+    }
+  },
+  {
+    "name": "Lilin's Ring",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "hp": "20 (18 - 22)",
+      "mp": "20 (18 - 22)",
+      "weapon_attack": "2 (1 - 3)",
+      "magic_attack": "2 (1 - 3)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lilin's Ring",
+      "src": "/src/assets/accessory/Lilin's Ring.png"
+    }
+  },
+  {
+    "name": "Ephenia's Ring",
+    "requirements": {
+      "level": 105,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "hp": "100 (90 - 110)",
+      "mp": "100 (90 - 110)",
+      "accuracy": "1 (0 - 2)",
+      "avoidability": "1 (0 - 2)",
+      "number_of_upgrades_available": "3"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Moonstone Wedding Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "3"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Moonstone Wedding Ring",
+      "src": "/src/assets/accessory/Moonstone Wedding Ring.png"
+    }
+  },
+  {
+    "name": "Star Gem Wedding Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "3"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Star Gem Wedding Ring",
+      "src": "/src/assets/accessory/Star Gem Wedding Ring.png"
+    }
+  },
+  {
+    "name": "Golden Heart Wedding Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "2"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Heart Wedding Ring",
+      "src": "/src/assets/accessory/Golden Heart Wedding Ring.png"
+    }
+  },
+  {
+    "name": "Silver Swan Wedding Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "2"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Silver Swan Wedding Ring",
+      "src": "/src/assets/accessory/Silver Swan Wedding Ring.png"
+    }
+  },
+  {
+    "name": "Happy Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Happy Ring",
+      "src": "/src/assets/accessory/Happy Ring.png"
+    }
+  },
+  {
+    "name": "Zombie Army Ring",
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "hp": "100 (90 - 110)",
+      "mp": "100 (90 - 110)",
+      "speed": "10 (9 - 11)",
+      "jump": "10 (9 - 11)",
+      "number_of_upgrades_available": "3"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Zombie Army Ring",
+      "src": "/src/assets/accessory/Zombie Army Ring.png"
+    }
+  },
+  {
+    "name": "Magnus' Fury",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "15 (13 - 17)",
+      "dex": "15 (13 - 17)",
+      "int": "15 (13 - 17)",
+      "luk": "15 (13 - 17)",
+      "hp": "150 (140 - 160)",
+      "mp": "150 (140 - 160)",
+      "magic_attack": "25 (22 - 28)",
+      "accuracy": "150 (145 - 155)",
+      "avoidability": "150 (145 - 155)",
+      "speed": "18 (16 - 20)",
+      "jump": "10 (9 - 11)",
+      "number_of_upgrades_available": "1"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Magnus' Fury",
+      "src": "/src/assets/accessory/Magnus' Fury.png"
+    }
+  },
+  {
+    "name": "Hilla's Fury",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "15 (13 - 17)",
+      "dex": "15 (13 - 17)",
+      "int": "15 (13 - 17)",
+      "luk": "15 (13 - 17)",
+      "hp": "150 (140 - 160)",
+      "mp": "150 (140 - 160)",
+      "weapon_attack": "25 (22 - 28)",
+      "accuracy": "150 (145 - 155)",
+      "avoidability": "150 (145 - 155)",
+      "speed": "18 (16 - 20)",
+      "jump": "10 (9 - 11)",
+      "number_of_upgrades_available": "1"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hilla's Fury",
+      "src": "/src/assets/accessory/Hilla's Fury.png"
+    }
+  },
+  {
+    "name": "Ring of Passion",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "speed": "10 (9 - 11)",
+      "jump": "10 (9 - 11)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ring of Passion",
+      "src": "/src/assets/accessory/Ring of Passion.png"
+    }
+  },
+  {
+    "name": "Ring of Experience",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Ring of Overdrive",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "12 (10 - 14)",
+      "dex": "12 (10 - 14)",
+      "int": "12 (10 - 14)",
+      "luk": "12 (10 - 14)",
+      "hp": "500 (490 - 510)",
+      "mp": "500 (490 - 510)",
+      "weapon_attack": "8 (7 - 9)",
+      "magic_attack": "8 (7 - 9)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Maple Music Festival Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "weapon_attack": "2 (1 - 3)",
+      "magic_attack": "10 (9 - 11)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "8-Blessing Ring",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "number_of_upgrades_available": "8"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Ellin Savior's Ring",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "hp": "100 (90 - 110)",
+      "mp": "100 (90 - 110)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ellin Savior's Ring",
+      "src": "/src/assets/accessory/Ellin Savior's Ring.png"
+    }
+  },
+  {
+    "name": "Monster Book Ring",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring",
+      "src": "/src/assets/accessory/Monster Book Ring.png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 1>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "hp": "50 (45 - 55)",
+      "mp": "25 (22 - 28)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 1>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 1 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 2>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "hp": "100 (90 - 110)",
+      "mp": "50 (45 - 55)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 2>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 2 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 3>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "hp": "150 (140 - 160)",
+      "mp": "75 (67 - 83)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 3>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 3 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 4>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "4 (3 - 5)",
+      "dex": "4 (3 - 5)",
+      "int": "4 (3 - 5)",
+      "luk": "4 (3 - 5)",
+      "hp": "250 (240 - 260)",
+      "mp": "125 (115 - 135)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 4>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 4 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 5>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "5 (4 - 6)",
+      "dex": "5 (4 - 6)",
+      "int": "5 (4 - 6)",
+      "luk": "5 (4 - 6)",
+      "hp": "350 (340 - 360)",
+      "mp": "175 (165 - 185)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 5>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 5 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 6>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "6 (5 - 7)",
+      "dex": "6 (5 - 7)",
+      "int": "6 (5 - 7)",
+      "luk": "6 (5 - 7)",
+      "hp": "450 (440 - 460)",
+      "mp": "225 (215 - 235)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 6>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 6 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 7>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "7 (6 - 8)",
+      "dex": "7 (6 - 8)",
+      "int": "7 (6 - 8)",
+      "luk": "7 (6 - 8)",
+      "hp": "575 (565 - 585)",
+      "mp": "290 (280 - 300)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 7>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 7 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 8>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "8 (7 - 9)",
+      "dex": "8 (7 - 9)",
+      "int": "8 (7 - 9)",
+      "luk": "8 (7 - 9)",
+      "hp": "700 (690 - 710)",
+      "mp": "350 (340 - 360)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 8>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 8 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 9>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "9 (8 - 10)",
+      "dex": "9 (8 - 10)",
+      "int": "9 (8 - 10)",
+      "luk": "9 (8 - 10)",
+      "hp": "850 (840 - 860)",
+      "mp": "425 (415 - 435)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 9>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 9 .png"
+    }
+  },
+  {
+    "name": "Monster Book Ring <Tier 10>",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Ring",
+      "str": "10 (9 - 11)",
+      "dex": "10 (9 - 11)",
+      "int": "10 (9 - 11)",
+      "luk": "10 (9 - 11)",
+      "hp": "1000 (990 - 1010)",
+      "mp": "500 (490 - 510)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monster Book Ring <Tier 10>",
+      "src": "/src/assets/accessory/Monster Book Ring  Tier 10 .png"
+    }
+  }
+]

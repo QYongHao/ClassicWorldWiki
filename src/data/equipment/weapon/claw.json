@@ -1,0 +1,3328 @@
+[
+  {
+    "name": "Garnier",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pig",
+          "monster_id": "9300058"
+        },
+        {
+          "monster_name": "Pig",
+          "monster_id": "1210100"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Garnier",
+      "src": "/src/assets/weapon/Garnier.png"
+    }
+  },
+  {
+    "name": "Steel Titans",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 35
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "12 (10 - 14)",
+      "weapon_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Rooster",
+          "monster_id": "9420005"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "22,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Titans",
+      "src": "/src/assets/weapon/Steel Titans.png"
+    }
+  },
+  {
+    "name": "Mithril Titans",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 35
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "12 (10 - 14)",
+      "weapon_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Titans",
+      "src": "/src/assets/weapon/Mithril Titans.png"
+    }
+  },
+  {
+    "name": "Gold Titans",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 35
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "12 (10 - 14)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Titans",
+      "src": "/src/assets/weapon/Gold Titans.png"
+    }
+  },
+  {
+    "name": "Bronze Igor",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "14 (12 - 16)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Axe Stump",
+          "monster_id": "2130100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Igor",
+      "src": "/src/assets/weapon/Bronze Igor.png"
+    }
+  },
+  {
+    "name": "Steel Igor",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "14 (12 - 16)",
+      "weapon_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Igor",
+      "src": "/src/assets/weapon/Steel Igor.png"
+    }
+  },
+  {
+    "name": "Adamantium Igor",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "14 (12 - 16)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Desert Rabbit (M)",
+          "monster_id": "2100101"
+        },
+        {
+          "monster_name": "Dark Axe Stump",
+          "monster_id": "2130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Adamantium Igor",
+      "src": "/src/assets/weapon/Adamantium Igor.png"
+    }
+  },
+  {
+    "name": "Meba",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 65
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "16 (14 - 18)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Meba",
+      "src": "/src/assets/weapon/Meba.png"
+    }
+  },
+  {
+    "name": "Steel Guards",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "18 (16 - 20)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        },
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Guards",
+      "src": "/src/assets/weapon/Steel Guards.png"
+    }
+  },
+  {
+    "name": "Mithril Guards",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "18 (16 - 20)",
+      "weapon_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "9300060"
+        },
+        {
+          "monster_name": "Dark Axe Stump",
+          "monster_id": "2130100"
+        },
+        {
+          "monster_name": "Wild Boar",
+          "monster_id": "2230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Guards",
+      "src": "/src/assets/weapon/Mithril Guards.png"
+    }
+  },
+  {
+    "name": "Adamantium Guards",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "18 (16 - 20)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bloctopus",
+          "monster_id": "3230302"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Adamantium Guards",
+      "src": "/src/assets/weapon/Adamantium Guards.png"
+    }
+  },
+  {
+    "name": "Bronze Guardian",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "20 (18 - 22)",
+      "weapon_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Freezer",
+          "monster_id": "9420501"
+        },
+        {
+          "monster_name": "King Bloctopus",
+          "monster_id": "3230103"
+        },
+        {
+          "monster_name": "Kiyo",
+          "monster_id": "3100102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Guardian",
+      "src": "/src/assets/weapon/Bronze Guardian.png"
+    }
+  },
+  {
+    "name": "Silver Guardian",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "20 (18 - 22)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Axe Stump",
+          "monster_id": "2130100"
+        },
+        {
+          "monster_name": "Triple Rumo",
+          "monster_id": "3110303"
+        },
+        {
+          "monster_name": "Planey",
+          "monster_id": "3230304"
+        },
+        {
+          "monster_name": "Fire Boar",
+          "monster_id": "3210100"
+        },
+        {
+          "monster_name": "Copper Drake",
+          "monster_id": "4130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Silver Guardian",
+      "src": "/src/assets/weapon/Silver Guardian.png"
+    }
+  },
+  {
+    "name": "Dark Guardian",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "20 (18 - 22)",
+      "weapon_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rombot",
+          "monster_id": "4130103"
+        },
+        {
+          "monster_name": "Oly Oly",
+          "monster_id": "9420530"
+        },
+        {
+          "monster_name": "Cold Eye",
+          "monster_id": "4230100"
+        },
+        {
+          "monster_name": "Jr. Lioner",
+          "monster_id": "3210201"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Guardian",
+      "src": "/src/assets/weapon/Dark Guardian.png"
+    }
+  },
+  {
+    "name": "Steel Avarice",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 120
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "22 (19 - 25)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Fang",
+          "monster_id": "5140000"
+        },
+        {
+          "monster_name": "Poopa",
+          "monster_id": "4230200"
+        },
+        {
+          "monster_name": "Brown Teddy",
+          "monster_id": "3000005"
+        },
+        {
+          "monster_name": "Pink Teddy",
+          "monster_id": "3110101"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Avarice",
+      "src": "/src/assets/weapon/Steel Avarice.png"
+    }
+  },
+  {
+    "name": "Blood Avarice",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 120
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "2 (1 - 3)",
+      "weapon_attack": "22 (19 - 25)",
+      "weapon_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nependeath",
+          "monster_id": "4230105"
+        },
+        {
+          "monster_name": "Nependeath",
+          "monster_id": "4230122"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Green Bubble Tea",
+          "monster_id": "9410007"
+        },
+        {
+          "monster_name": "Jr. Pepe Doll",
+          "monster_id": "9410011"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blood Avarice",
+      "src": "/src/assets/weapon/Blood Avarice.png"
+    }
+  },
+  {
+    "name": "Adamantium Avarice",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 120
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "22 (19 - 25)",
+      "weapon_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Wraith",
+          "monster_id": "3230101"
+        },
+        {
+          "monster_name": "Tortie",
+          "monster_id": "4130101"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Adamantium Avarice",
+      "src": "/src/assets/weapon/Adamantium Avarice.png"
+    }
+  },
+  {
+    "name": "Dark Avarice",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 120
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "22 (19 - 25)",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Lupin",
+          "monster_id": "3210800"
+        },
+        {
+          "monster_name": "Sparker",
+          "monster_id": "4230123"
+        },
+        {
+          "monster_name": "Block Golem",
+          "monster_id": "4230109"
+        },
+        {
+          "monster_name": "Cold Eye",
+          "monster_id": "4230100"
+        },
+        {
+          "monster_name": "Drake",
+          "monster_id": "5130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Avarice",
+      "src": "/src/assets/weapon/Dark Avarice.png"
+    }
+  },
+  {
+    "name": "Steel Slain",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "26 (23 - 29)",
+      "avoidability": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Cerebes",
+          "monster_id": "4230108"
+        },
+        {
+          "monster_name": "Robo",
+          "monster_id": "4230111"
+        },
+        {
+          "monster_name": "Red Porky",
+          "monster_id": "4230501"
+        },
+        {
+          "monster_name": "Propelly",
+          "monster_id": "3230303"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Slain",
+      "src": "/src/assets/weapon/Steel Slain.png"
+    }
+  },
+  {
+    "name": "Blood Slain",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "3 (2 - 4)",
+      "weapon_attack": "26 (23 - 29)",
+      "avoidability": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rombot",
+          "monster_id": "4130103"
+        },
+        {
+          "monster_name": "Dark Yeti",
+          "monster_id": "6400000"
+        },
+        {
+          "monster_name": "Goat",
+          "monster_id": "9600004"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "4230103"
+        },
+        {
+          "monster_name": "Electrophant",
+          "monster_id": "9400543"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "9300060"
+        },
+        {
+          "monster_name": "Black Goat",
+          "monster_id": "9600005"
+        },
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blood Slain",
+      "src": "/src/assets/weapon/Blood Slain.png"
+    }
+  },
+  {
+    "name": "Sapphire Slain",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "26 (23 - 29)",
+      "avoidability": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Malady",
+          "monster_id": "5300100"
+        },
+        {
+          "monster_name": "Master Robo",
+          "monster_id": "4230112"
+        },
+        {
+          "monster_name": "Python",
+          "monster_id": "9420002"
+        },
+        {
+          "monster_name": "Dark Pepe",
+          "monster_id": "6230200"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Pepe",
+          "monster_id": "6130103"
+        },
+        {
+          "monster_name": "I.AM.ROBOT",
+          "monster_id": "9400546"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sapphire Slain",
+      "src": "/src/assets/weapon/Sapphire Slain.png"
+    }
+  },
+  {
+    "name": "Dark Slain",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "4 (3 - 5)",
+      "weapon_attack": "26 (23 - 29)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Master Chronos",
+          "monster_id": "4230115"
+        },
+        {
+          "monster_name": "Ultra Gray",
+          "monster_id": "4230118"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Slain",
+      "src": "/src/assets/weapon/Dark Slain.png"
+    }
+  },
+  {
+    "name": "Bronze Gigantic",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "30 (27 - 33)",
+      "avoidability": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Klock",
+          "monster_id": "8140200"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bronze Gigantic",
+      "src": "/src/assets/weapon/Bronze Gigantic.png"
+    }
+  },
+  {
+    "name": "Blood Gigantic",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "4 (3 - 5)",
+      "weapon_attack": "30 (27 - 33)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Goby",
+          "monster_id": "7130020"
+        },
+        {
+          "monster_name": "Wild Kargo",
+          "monster_id": "6230100"
+        },
+        {
+          "monster_name": "Dark Pepe",
+          "monster_id": "6230200"
+        },
+        {
+          "monster_name": "Bone Fish",
+          "monster_id": "8140600"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blood Gigantic",
+      "src": "/src/assets/weapon/Blood Gigantic.png"
+    }
+  },
+  {
+    "name": "Sapphire Gigantic",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "4 (3 - 5)",
+      "weapon_attack": "30 (27 - 33)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Ice Drake",
+          "monster_id": "6230600"
+        },
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Yellow King Goblin",
+          "monster_id": "7130400"
+        },
+        {
+          "monster_name": "Homun",
+          "monster_id": "6110300"
+        },
+        {
+          "monster_name": "Transformed Pink Perfume",
+          "monster_id": "9410027"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sapphire Gigantic",
+      "src": "/src/assets/weapon/Sapphire Gigantic.png"
+    }
+  },
+  {
+    "name": "Dark Gigantic",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "5 (4 - 6)",
+      "weapon_attack": "30 (27 - 33)",
+      "avoidability": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Transformed Yeti",
+          "monster_id": "6300001"
+        },
+        {
+          "monster_name": "Python",
+          "monster_id": "9420002"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Dark Pepe",
+          "monster_id": "6230200"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Gigantic",
+      "src": "/src/assets/weapon/Dark Gigantic.png"
+    }
+  },
+  {
+    "name": "Brown Scarab",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "4 (3 - 5)",
+      "weapon_attack": "34 (30 - 38)",
+      "weapon_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Transformed Yellow Perfume",
+          "monster_id": "9410025"
+        },
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Transformed Yeti",
+          "monster_id": "6300001"
+        },
+        {
+          "monster_name": "Homun",
+          "monster_id": "6110300"
+        },
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Fancy Amplifier",
+          "monster_id": "9410029"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Scarab",
+      "src": "/src/assets/weapon/Brown Scarab.png"
+    }
+  },
+  {
+    "name": "Green Scarab",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "5 (4 - 6)",
+      "weapon_attack": "34 (30 - 38)",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Rash",
+          "monster_id": "7130501"
+        },
+        {
+          "monster_name": "Site",
+          "monster_id": "6110301"
+        },
+        {
+          "monster_name": "Buffoon",
+          "monster_id": "6300100"
+        },
+        {
+          "monster_name": "Dark Klock",
+          "monster_id": "8140300"
+        },
+        {
+          "monster_name": "Fancy Amplifier",
+          "monster_id": "9410029"
+        },
+        {
+          "monster_name": "Dreamy Ghost",
+          "monster_id": "9400013"
+        },
+        {
+          "monster_name": "Kru",
+          "monster_id": "6130208"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Scarab",
+      "src": "/src/assets/weapon/Green Scarab.png"
+    }
+  },
+  {
+    "name": "Blue Scarab",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "5 (4 - 6)",
+      "weapon_attack": "34 (30 - 38)",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Gatekeeper",
+          "monster_id": "8160000"
+        },
+        {
+          "monster_name": "Rash",
+          "monster_id": "7130500"
+        },
+        {
+          "monster_name": "Wolf Spider",
+          "monster_id": "9400545"
+        },
+        {
+          "monster_name": "Lycanthrope",
+          "monster_id": "8140000"
+        },
+        {
+          "monster_name": "Captain",
+          "monster_id": "7130104"
+        },
+        {
+          "monster_name": "Bone Fish",
+          "monster_id": "8140600"
+        },
+        {
+          "monster_name": "Black Bear Swordsman",
+          "monster_id": "9600012"
+        },
+        {
+          "monster_name": "Cheap Amplifier",
+          "monster_id": "9410028"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Scarab",
+      "src": "/src/assets/weapon/Blue Scarab.png"
+    }
+  },
+  {
+    "name": "Black Scarab",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "6 (5 - 7)",
+      "weapon_attack": "34 (30 - 38)",
+      "weapon_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Deep Buffoon",
+          "monster_id": "6400100"
+        },
+        {
+          "monster_name": "Blood Harp",
+          "monster_id": "8140002"
+        },
+        {
+          "monster_name": "Female Mannequin",
+          "monster_id": "9410033"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Kid Mannequin",
+          "monster_id": "9410032"
+        },
+        {
+          "monster_name": "Werewolf",
+          "monster_id": "7130200"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        },
+        {
+          "monster_name": "D. Roy",
+          "monster_id": "7110300"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Scarab",
+      "src": "/src/assets/weapon/Black Scarab.png"
+    }
+  },
+  {
+    "name": "Maple Claw",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "20 (18 - 22)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Claw",
+      "src": "/src/assets/weapon/Maple Claw.png"
+    }
+  },
+  {
+    "name": "Black Mamba",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 230
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "5 (4 - 6)",
+      "weapon_attack": "38 (34 - 42)",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Gatekeeper",
+          "monster_id": "8160000"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Dual Birk",
+          "monster_id": "8140111"
+        },
+        {
+          "monster_name": "Gallopera",
+          "monster_id": "9420540"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Mamba",
+      "src": "/src/assets/weapon/Black Mamba.png"
+    }
+  },
+  {
+    "name": "Maple Kandayo",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "23 (20 - 26)",
+      "avoidability": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Kandayo",
+      "src": "/src/assets/weapon/Maple Kandayo.png"
+    }
+  },
+  {
+    "name": "Casters",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 260
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "6 (5 - 7)",
+      "weapon_attack": "42 (37 - 47)",
+      "weapon_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Headless Horseman",
+          "monster_id": "9400549"
+        },
+        {
+          "monster_name": "Blue Dragon Turtle",
+          "monster_id": "8140700"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Chief Qualm Guardian",
+          "monster_id": "8200008"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Casters",
+      "src": "/src/assets/weapon/Casters.png"
+    }
+  },
+  {
+    "name": "Adamantium Guards",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "4 (3 - 5)",
+      "weapon_attack": "23 (20 - 26)",
+      "weapon_def": "2 (1 - 3)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Adamantium Guards",
+      "src": "/src/assets/weapon/Adamantium Guards.png"
+    }
+  },
+  {
+    "name": "Dark Slain",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "6 (5 - 7)",
+      "weapon_attack": "31 (27 - 35)",
+      "accuracy": "5 (4 - 6)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Slain",
+      "src": "/src/assets/weapon/Dark Slain.png"
+    }
+  },
+  {
+    "name": "Dark Gigantic",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "7 (6 - 8)",
+      "weapon_attack": "35 (31 - 39)",
+      "accuracy": "5 (4 - 6)",
+      "avoidability": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Gigantic",
+      "src": "/src/assets/weapon/Dark Gigantic.png"
+    }
+  },
+  {
+    "name": "Black Scarab",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "8 (7 - 9)",
+      "weapon_attack": "39 (35 - 43)",
+      "weapon_def": "5 (4 - 6)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Scarab",
+      "src": "/src/assets/weapon/Black Scarab.png"
+    }
+  },
+  {
+    "name": "Black Mamba",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "5 (4 - 6)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "43 (38 - 48)",
+      "weapon_def": "4 (3 - 5)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Mamba",
+      "src": "/src/assets/weapon/Black Mamba.png"
+    }
+  },
+  {
+    "name": "Adamantium Guards",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "4 (3 - 5)",
+      "weapon_attack": "23 (20 - 26)",
+      "weapon_def": "2 (1 - 3)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Adamantium Guards",
+      "src": "/src/assets/weapon/Adamantium Guards.png"
+    }
+  },
+  {
+    "name": "Dark Slain",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "6 (5 - 7)",
+      "weapon_attack": "31 (27 - 35)",
+      "accuracy": "5 (4 - 6)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Slain",
+      "src": "/src/assets/weapon/Dark Slain.png"
+    }
+  },
+  {
+    "name": "Dark Gigantic",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "7 (6 - 8)",
+      "weapon_attack": "35 (31 - 39)",
+      "accuracy": "5 (4 - 6)",
+      "avoidability": "4 (3 - 5)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Gigantic",
+      "src": "/src/assets/weapon/Dark Gigantic.png"
+    }
+  },
+  {
+    "name": "Black Scarab",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "8 (7 - 9)",
+      "weapon_attack": "39 (35 - 43)",
+      "weapon_def": "5 (4 - 6)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Scarab",
+      "src": "/src/assets/weapon/Black Scarab.png"
+    }
+  },
+  {
+    "name": "Black Mamba",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "5 (4 - 6)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "43 (38 - 48)",
+      "weapon_def": "4 (3 - 5)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Mamba",
+      "src": "/src/assets/weapon/Black Mamba.png"
+    }
+  },
+  {
+    "name": "Adamantium Guards",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "18 (16 - 20)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Adamantium Guards",
+      "src": "/src/assets/weapon/Adamantium Guards.png"
+    }
+  },
+  {
+    "name": "Dark Slain",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "4 (3 - 5)",
+      "weapon_attack": "26 (23 - 29)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Slain",
+      "src": "/src/assets/weapon/Dark Slain.png"
+    }
+  },
+  {
+    "name": "Dark Gigantic",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "5 (4 - 6)",
+      "weapon_attack": "30 (27 - 33)",
+      "avoidability": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Gigantic",
+      "src": "/src/assets/weapon/Dark Gigantic.png"
+    }
+  },
+  {
+    "name": "Black Scarab",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "6 (5 - 7)",
+      "weapon_attack": "34 (30 - 38)",
+      "weapon_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Scarab",
+      "src": "/src/assets/weapon/Black Scarab.png"
+    }
+  },
+  {
+    "name": "Black Mamba",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "5 (4 - 6)",
+      "weapon_attack": "38 (34 - 42)",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Mamba",
+      "src": "/src/assets/weapon/Black Mamba.png"
+    }
+  },
+  {
+    "name": "Dragon Green Sleve",
+    "requirements": {
+      "level": 110,
+      "strength": 0,
+      "dexterity": 150,
+      "intelligence": 0,
+      "luck": 320
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "7 (6 - 8)",
+      "weapon_attack": "50 (45 - 55)",
+      "avoidability": "7 (6 - 8)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Green Sleve",
+      "src": "/src/assets/weapon/Dragon Green Sleve.png"
+    }
+  },
+  {
+    "name": "Dragon Purple Sleve",
+    "requirements": {
+      "level": 110,
+      "strength": 0,
+      "dexterity": 150,
+      "intelligence": 0,
+      "luck": 320
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "7 (6 - 8)",
+      "weapon_attack": "50 (45 - 55)",
+      "avoidability": "7 (6 - 8)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Purple Sleve",
+      "src": "/src/assets/weapon/Dragon Purple Sleve.png"
+    }
+  },
+  {
+    "name": "Red Craven",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 290
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "6 (5 - 7)",
+      "weapon_attack": "46 (41 - 51)",
+      "weapon_def": "6 (5 - 7)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Veetron",
+          "monster_id": "9420515"
+        },
+        {
+          "monster_name": "Black Kentaurus",
+          "monster_id": "8140101"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Maverick B",
+          "monster_id": "9400258"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Chief Qualm Guardian",
+          "monster_id": "8200008"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Craven",
+      "src": "/src/assets/weapon/Red Craven.png"
+    }
+  },
+  {
+    "name": "Shinobi Bracer",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Faster (3)",
+      "luk": "5 (4 - 6)",
+      "weapon_attack": "28 (25 - 31)",
+      "weapon_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Shinobi Bracer",
+      "src": "/src/assets/weapon/Shinobi Bracer.png"
+    }
+  },
+  {
+    "name": "Maple Skanda",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Faster (3)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "33 (29 - 37)",
+      "avoidability": "25 (22 - 28)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Skanda",
+      "src": "/src/assets/weapon/Maple Skanda.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "12 (10 - 14)",
+      "weapon_def": "2 (1 - 3)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "28 (25 - 31)",
+      "avoidability": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (claw)",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "12 (10 - 14)",
+      "weapon_def": "2 (1 - 3)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (claw)",
+      "src": "/src/assets/weapon/Singapore Flag (claw).png"
+    }
+  },
+  {
+    "name": "Malaysia Flag (Claw)",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "12 (10 - 14)",
+      "weapon_def": "2 (1 - 3)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Malaysia Flag (Claw)",
+      "src": "/src/assets/weapon/Malaysia Flag (Claw).png"
+    }
+  },
+  {
+    "name": "Beginner Thief Wrist Guard",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 25,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "9 (8 - 10)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Beginner Thief Wrist Guard",
+      "src": "/src/assets/weapon/Beginner Thief Wrist Guard.png"
+    }
+  },
+  {
+    "name": "Black Hole",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "36 (32 - 40)",
+      "weapon_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Hole",
+      "src": "/src/assets/weapon/Black Hole.png"
+    }
+  },
+  {
+    "name": "Magical Mitten",
+    "requirements": {
+      "level": 8,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "10 (9 - 11)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Magical Mitten",
+      "src": "/src/assets/weapon/Magical Mitten.png"
+    }
+  },
+  {
+    "name": "Neva",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (5)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "30 (27 - 33)",
+      "avoidability": "5 (4 - 6)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Neva",
+      "src": "/src/assets/weapon/Neva.png"
+    }
+  },
+  {
+    "name": "Kuma",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 25,
+      "intelligence": 0,
+      "luck": 25
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "12 (10 - 14)",
+      "weapon_def": "1 (0 - 2)",
+      "avoidability": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kuma",
+      "src": "/src/assets/weapon/Kuma.png"
+    }
+  },
+  {
+    "name": "Kumasuma",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 120
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (5)",
+      "dex": "1 (0 - 2)",
+      "weapon_attack": "24 (21 - 27)",
+      "weapon_def": "2 (1 - 3)",
+      "avoidability": "8 (7 - 9)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kumasuma",
+      "src": "/src/assets/weapon/Kumasuma.png"
+    }
+  },
+  {
+    "name": "Kumamagna",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 230
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Faster (3)",
+      "dex": "3 (2 - 4)",
+      "weapon_attack": "42 (37 - 47)",
+      "weapon_def": "3 (2 - 4)",
+      "avoidability": "14 (12 - 16)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kumamagna",
+      "src": "/src/assets/weapon/Kumamagna.png"
+    }
+  },
+  {
+    "name": "Timeless Lampion",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 160,
+      "intelligence": 0,
+      "luck": 350
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "8 (7 - 9)",
+      "weapon_attack": "56 (54 - 58)",
+      "avoidability": "8 (7 - 9)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Lampion",
+      "src": "/src/assets/weapon/Timeless Lampion.png"
+    }
+  },
+  {
+    "name": "Steel Avarice for Transformation",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 120
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "22 (19 - 25)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Avarice for Transformation",
+      "src": "/src/assets/weapon/Steel Avarice for Transformation.png"
+    }
+  },
+  {
+    "name": "Reverse Lampion",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 160,
+      "intelligence": 0,
+      "luck": 350
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "8 (7 - 9)",
+      "weapon_attack": "54 (52 - 56)",
+      "avoidability": "8 (7 - 9)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Lampion",
+      "src": "/src/assets/weapon/Reverse Lampion.png"
+    }
+  },
+  {
+    "name": "Raven's Claw",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 230
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (5)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "38 (34 - 42)",
+      "weapon_def": "5 (4 - 6)",
+      "avoidability": "7 (6 - 8)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Raven's Claw",
+      "src": "/src/assets/weapon/Raven's Claw.png"
+    }
+  },
+  {
+    "name": "Night Raven's Claw",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 300
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Faster (3)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "40 (36 - 44)",
+      "weapon_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Night Raven's Claw",
+      "src": "/src/assets/weapon/Night Raven's Claw.png"
+    }
+  },
+  {
+    "name": "Dawn Raven's Claw",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 260
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "45 (40 - 50)",
+      "weapon_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dawn Raven's Claw",
+      "src": "/src/assets/weapon/Dawn Raven's Claw.png"
+    }
+  },
+  {
+    "name": "Dusk Raven's Claw",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 230
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "38 (34 - 42)",
+      "weapon_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dusk Raven's Claw",
+      "src": "/src/assets/weapon/Dusk Raven's Claw.png"
+    }
+  },
+  {
+    "name": "Seraphim Claw",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Faster (3)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "20 (18 - 22)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Claw",
+      "src": "/src/assets/weapon/Seraphim Claw.png"
+    }
+  },
+  {
+    "name": "Speargrave (Claw)",
+    "requirements": {
+      "level": 115,
+      "strength": 0,
+      "dexterity": 155,
+      "intelligence": 0,
+      "luck": 335
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "8 (7 - 9)",
+      "weapon_attack": "52 (47 - 57)",
+      "avoidability": "7 (6 - 8)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (Claw)",
+      "src": "/src/assets/weapon/Speargrave (Claw).png"
+    }
+  },
+  {
+    "name": "Flairgrave (Claw)",
+    "requirements": {
+      "level": 115,
+      "strength": 0,
+      "dexterity": 115,
+      "intelligence": 0,
+      "luck": 335
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "8 (7 - 9)",
+      "weapon_attack": "52 (47 - 57)",
+      "avoidability": "7 (6 - 8)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (Claw)",
+      "src": "/src/assets/weapon/Flairgrave (Claw).png"
+    }
+  },
+  {
+    "name": "Balrog's Black Mamba",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 230
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "5 (4 - 6)",
+      "weapon_attack": "35 (31 - 39)",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Black Mamba",
+      "src": "/src/assets/weapon/Balrog's Black Mamba.png"
+    }
+  },
+  {
+    "name": "Balrog's Caster",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 260
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "dex": "5 (4 - 6)",
+      "weapon_attack": "39 (35 - 43)",
+      "weapon_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Caster",
+      "src": "/src/assets/weapon/Balrog's Caster.png"
+    }
+  },
+  {
+    "name": "Bain Biter",
+    "requirements": {
+      "level": 58,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "4 (3 - 5)",
+      "weapon_attack": "33 (29 - 37)",
+      "weapon_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bain Biter",
+      "src": "/src/assets/weapon/Bain Biter.png"
+    }
+  },
+  {
+    "name": "Sweet Fork Cake",
+    "requirements": {
+      "level": 8,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "10 (9 - 11)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "King Pepe Dark Guardian",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "20 (18 - 22)",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Dark Guardian",
+      "src": "/src/assets/weapon/King Pepe Dark Guardian.png"
+    }
+  },
+  {
+    "name": "Astaroth Claw",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "luk": "10 (9 - 11)",
+      "weapon_attack": "18 (16 - 20)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth Claw",
+      "src": "/src/assets/weapon/Astaroth Claw.png"
+    }
+  },
+  {
+    "name": "Oven Mitt",
+    "requirements": {
+      "level": 8,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Claw",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "10 (9 - 11)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Oven Mitt",
+      "src": "/src/assets/weapon/Oven Mitt.png"
+    }
+  }
+]

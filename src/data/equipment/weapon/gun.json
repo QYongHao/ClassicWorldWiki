@@ -1,0 +1,1524 @@
+[
+  {
+    "name": "Pistol",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "13 (11 - 15)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stump",
+          "monster_id": "130100"
+        },
+        {
+          "monster_name": "Chlorotrap",
+          "monster_id": "9420527"
+        },
+        {
+          "monster_name": "Ribbon Pig",
+          "monster_id": "9300059"
+        },
+        {
+          "monster_name": "Ribbon Pig",
+          "monster_id": "1210101"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pistol",
+      "src": "/src/assets/weapon/Pistol.png"
+    }
+  },
+  {
+    "name": "Dellinger Special",
+    "requirements": {
+      "level": 15,
+      "strength": 15,
+      "dexterity": 25,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "18 (16 - 20)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        },
+        {
+          "monster_name": "Axe Stump",
+          "monster_id": "1130100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "6,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dellinger Special",
+      "src": "/src/assets/weapon/Dellinger Special.png"
+    }
+  },
+  {
+    "name": "The Negotiator",
+    "requirements": {
+      "level": 20,
+      "strength": 20,
+      "dexterity": 35,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "22 (19 - 25)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Seacle",
+          "monster_id": "2230105"
+        },
+        {
+          "monster_name": "Trucker",
+          "monster_id": "9420507"
+        },
+        {
+          "monster_name": "Ear Plug Plead",
+          "monster_id": "2100106"
+        },
+        {
+          "monster_name": "Horny Mushroom",
+          "monster_id": "2110200"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Negotiator",
+      "src": "/src/assets/weapon/The Negotiator.png"
+    }
+  },
+  {
+    "name": "Golden Hook",
+    "requirements": {
+      "level": 25,
+      "strength": 25,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "27 (24 - 30)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Scorpion",
+          "monster_id": "2110301"
+        },
+        {
+          "monster_name": "Zombie Mushroom",
+          "monster_id": "2230101"
+        },
+        {
+          "monster_name": "Scarf Plead",
+          "monster_id": "2100107"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Hook",
+      "src": "/src/assets/weapon/Golden Hook.png"
+    }
+  },
+  {
+    "name": "Cold Mind",
+    "requirements": {
+      "level": 30,
+      "strength": 30,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "31 (27 - 35)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Drumming Bunny",
+          "monster_id": "3230400"
+        },
+        {
+          "monster_name": "Jr. Grupin",
+          "monster_id": "3210202"
+        },
+        {
+          "monster_name": "Jr. Lioner",
+          "monster_id": "3210201"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "50,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        },
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cold Mind",
+      "src": "/src/assets/weapon/Cold Mind.png"
+    }
+  },
+  {
+    "name": "Shooting Star",
+    "requirements": {
+      "level": 35,
+      "strength": 35,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "36 (32 - 40)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Toy Trojan",
+          "monster_id": "3230305"
+        },
+        {
+          "monster_name": "Helly",
+          "monster_id": "3210206"
+        },
+        {
+          "monster_name": "Jr. Wraith",
+          "monster_id": "3230101"
+        },
+        {
+          "monster_name": "Chronos",
+          "monster_id": "3230306"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Shooting Star",
+      "src": "/src/assets/weapon/Shooting Star.png"
+    }
+  },
+  {
+    "name": "Lunar Shooter",
+    "requirements": {
+      "level": 40,
+      "strength": 40,
+      "dexterity": 105,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "40 (36 - 44)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Blue Flower Serpent",
+          "monster_id": "4230503"
+        },
+        {
+          "monster_name": "Desert Giant",
+          "monster_id": "4230600"
+        },
+        {
+          "monster_name": "Mossy Snail",
+          "monster_id": "4250000"
+        },
+        {
+          "monster_name": "Zeta Gray",
+          "monster_id": "4230117"
+        },
+        {
+          "monster_name": "Curse Eye",
+          "monster_id": "3230100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "160,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lunar Shooter",
+      "src": "/src/assets/weapon/Lunar Shooter.png"
+    }
+  },
+  {
+    "name": "Mr. Rasfelt",
+    "requirements": {
+      "level": 50,
+      "strength": 50,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "49 (44 - 54)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "The Book Ghost",
+          "monster_id": "5120506"
+        },
+        {
+          "monster_name": "Master Robo",
+          "monster_id": "4230112"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Firebomb",
+          "monster_id": "5100002"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        },
+        {
+          "monster_name": "Ginseng Jar",
+          "monster_id": "4230506"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mr. Rasfelt",
+      "src": "/src/assets/weapon/Mr. Rasfelt.png"
+    }
+  },
+  {
+    "name": "Burning Hell",
+    "requirements": {
+      "level": 60,
+      "strength": 60,
+      "dexterity": 175,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "58 (53 - 63)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Selkie Jr.",
+          "monster_id": "9420511"
+        },
+        {
+          "monster_name": "Dark Stone Golem",
+          "monster_id": "5130102"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Roid",
+          "monster_id": "5110301"
+        },
+        {
+          "monster_name": "Sage Cat",
+          "monster_id": "6130209"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Burning Hell",
+      "src": "/src/assets/weapon/Burning Hell.png"
+    }
+  },
+  {
+    "name": "Abyss Shooter",
+    "requirements": {
+      "level": 70,
+      "strength": 70,
+      "dexterity": 210,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Cerebes",
+          "monster_id": "7130001"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Jester Scarlion",
+          "monster_id": "9420535"
+        },
+        {
+          "monster_name": "Dark Klock",
+          "monster_id": "8140300"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Abyss Shooter",
+      "src": "/src/assets/weapon/Abyss Shooter.png"
+    }
+  },
+  {
+    "name": "Infinity's Wrath",
+    "requirements": {
+      "level": 80,
+      "strength": 80,
+      "dexterity": 245,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "66 (61 - 71)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Harp",
+          "monster_id": "8140001"
+        },
+        {
+          "monster_name": "Buffoon",
+          "monster_id": "6300100"
+        },
+        {
+          "monster_name": "Nightshadow",
+          "monster_id": "9400579"
+        },
+        {
+          "monster_name": "Dual Ghost Pirate",
+          "monster_id": "7160000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Infinity's Wrath",
+      "src": "/src/assets/weapon/Infinity's Wrath.png"
+    }
+  },
+  {
+    "name": "The Peacemaker",
+    "requirements": {
+      "level": 90,
+      "strength": 90,
+      "dexterity": 275,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "70 (65 - 75)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Snowman",
+          "monster_id": "8220001"
+        },
+        {
+          "monster_name": "Furious Scarlion Boss",
+          "monster_id": "9420549"
+        },
+        {
+          "monster_name": "Phantom Watch",
+          "monster_id": "8142000"
+        },
+        {
+          "monster_name": "Oblivion Monk",
+          "monster_id": "8200009"
+        },
+        {
+          "monster_name": "Rexton",
+          "monster_id": "8140702"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Peacemaker",
+      "src": "/src/assets/weapon/The Peacemaker.png"
+    }
+  },
+  {
+    "name": "Concerto",
+    "requirements": {
+      "level": 100,
+      "strength": 100,
+      "dexterity": 295,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "74 (69 - 79)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Lyka",
+          "monster_id": "8220006"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Griffey",
+          "monster_id": "8180001"
+        },
+        {
+          "monster_name": "Furious Scarlion Boss",
+          "monster_id": "9420549"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Maverick V",
+          "monster_id": "9400259"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190005"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190002"
+        },
+        {
+          "monster_name": "Dark Cornian",
+          "monster_id": "8150201"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Concerto",
+      "src": "/src/assets/weapon/Concerto.png"
+    }
+  },
+  {
+    "name": "Dragonfire Revolver",
+    "requirements": {
+      "level": 110,
+      "strength": 110,
+      "dexterity": 315,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "78 (73 - 83)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragonfire Revolver",
+      "src": "/src/assets/weapon/Dragonfire Revolver.png"
+    }
+  },
+  {
+    "name": "Pirate's Pistol",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 20,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "11 (9 - 13)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pirate's Pistol",
+      "src": "/src/assets/weapon/Pirate's Pistol.png"
+    }
+  },
+  {
+    "name": "Cold Mind",
+    "requirements": {
+      "level": 20,
+      "strength": 20,
+      "dexterity": 35,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "31 (27 - 35)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cold Mind",
+      "src": "/src/assets/weapon/Cold Mind.png"
+    }
+  },
+  {
+    "name": "Mr. Rasfelt",
+    "requirements": {
+      "level": 35,
+      "strength": 35,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "49 (44 - 54)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mr. Rasfelt",
+      "src": "/src/assets/weapon/Mr. Rasfelt.png"
+    }
+  },
+  {
+    "name": "Burning Hell",
+    "requirements": {
+      "level": 50,
+      "strength": 50,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "58 (53 - 63)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Burning Hell",
+      "src": "/src/assets/weapon/Burning Hell.png"
+    }
+  },
+  {
+    "name": "Abyss Shooter",
+    "requirements": {
+      "level": 60,
+      "strength": 60,
+      "dexterity": 175,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Abyss Shooter",
+      "src": "/src/assets/weapon/Abyss Shooter.png"
+    }
+  },
+  {
+    "name": "Infinity's Wrath",
+    "requirements": {
+      "level": 70,
+      "strength": 70,
+      "dexterity": 210,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "66 (61 - 71)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Infinity's Wrath",
+      "src": "/src/assets/weapon/Infinity's Wrath.png"
+    }
+  },
+  {
+    "name": "Maple Gun",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "36 (32 - 40)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Gun",
+      "src": "/src/assets/weapon/Maple Gun.png"
+    }
+  },
+  {
+    "name": "Maple Storm Pistol",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "dex": "3 (2 - 4)",
+      "weapon_attack": "44 (39 - 49)",
+      "avoidability": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Storm Pistol",
+      "src": "/src/assets/weapon/Maple Storm Pistol.png"
+    }
+  },
+  {
+    "name": "Maple Cannon Shooter",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "dex": "5 (4 - 6)",
+      "hp": "100 (90 - 110)",
+      "weapon_attack": "60 (55 - 65)",
+      "avoidability": "25 (22 - 28)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Cannon Shooter",
+      "src": "/src/assets/weapon/Maple Cannon Shooter.png"
+    }
+  },
+  {
+    "name": "Timeless Blindness",
+    "requirements": {
+      "level": 150,
+      "strength": 120,
+      "dexterity": 335,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "84 (82 - 86)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Blindness",
+      "src": "/src/assets/weapon/Timeless Blindness.png"
+    }
+  },
+  {
+    "name": "Reverse Blindness",
+    "requirements": {
+      "level": 150,
+      "strength": 120,
+      "dexterity": 335,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "82 (80 - 84)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Blindness",
+      "src": "/src/assets/weapon/Reverse Blindness.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "67 (62 - 72)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Seraphim Gun",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "36 (32 - 40)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Gun",
+      "src": "/src/assets/weapon/Seraphim Gun.png"
+    }
+  },
+  {
+    "name": "Judgement",
+    "requirements": {
+      "level": 115,
+      "strength": 115,
+      "dexterity": 325,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "dex": "2 (1 - 3)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Judgement",
+      "src": "/src/assets/weapon/Judgement.png"
+    }
+  },
+  {
+    "name": "Kyrin's Pistol",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "27 (24 - 30)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kyrin's Pistol",
+      "src": "/src/assets/weapon/Kyrin's Pistol.png"
+    }
+  },
+  {
+    "name": "Balrog's Infinity",
+    "requirements": {
+      "level": 80,
+      "strength": 80,
+      "dexterity": 245,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "63 (58 - 68)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Infinity",
+      "src": "/src/assets/weapon/Balrog's Infinity.png"
+    }
+  },
+  {
+    "name": "Balrog's Peacemaker",
+    "requirements": {
+      "level": 90,
+      "strength": 90,
+      "dexterity": 275,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "67 (62 - 72)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Peacemaker",
+      "src": "/src/assets/weapon/Balrog's Peacemaker.png"
+    }
+  },
+  {
+    "name": "Bain Shooter",
+    "requirements": {
+      "level": 58,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (4)",
+      "dex": "6 (5 - 7)",
+      "weapon_attack": "61 (56 - 66)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bain Shooter",
+      "src": "/src/assets/weapon/Bain Shooter.png"
+    }
+  },
+  {
+    "name": "King Pepe Shooting Star",
+    "requirements": {
+      "level": 35,
+      "strength": 35,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "40 (36 - 44)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Shooting Star",
+      "src": "/src/assets/weapon/King Pepe Shooting Star.png"
+    }
+  },
+  {
+    "name": "Astaroth Gun",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gun",
+      "attack_speed": "Normal (6)",
+      "dex": "10 (9 - 11)",
+      "weapon_attack": "28 (25 - 31)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth Gun",
+      "src": "/src/assets/weapon/Astaroth Gun.png"
+    }
+  }
+]

@@ -1,0 +1,1497 @@
+[
+  {
+    "name": "Steel Knuckler",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "18 (16 - 20)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Knuckler",
+      "src": "/src/assets/weapon/Steel Knuckler.png"
+    }
+  },
+  {
+    "name": "Leather Arms",
+    "requirements": {
+      "level": 15,
+      "strength": 20,
+      "dexterity": 15,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "22 (19 - 25)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stump",
+          "monster_id": "130100"
+        },
+        {
+          "monster_name": "Green Mushroom",
+          "monster_id": "1110100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "6,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Leather Arms",
+      "src": "/src/assets/weapon/Leather Arms.png"
+    }
+  },
+  {
+    "name": "Double Tail Knuckler",
+    "requirements": {
+      "level": 20,
+      "strength": 30,
+      "dexterity": 20,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "26 (23 - 29)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Necki",
+          "monster_id": "2130103"
+        },
+        {
+          "monster_name": "Jr. Sentinel",
+          "monster_id": "5200000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Double Tail Knuckler",
+      "src": "/src/assets/weapon/Double Tail Knuckler.png"
+    }
+  },
+  {
+    "name": "Norman Grip",
+    "requirements": {
+      "level": 25,
+      "strength": 45,
+      "dexterity": 25,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Evil Eye",
+          "monster_id": "2230100"
+        },
+        {
+          "monster_name": "Bellamoa",
+          "monster_id": "2100105"
+        },
+        {
+          "monster_name": "Meercat",
+          "monster_id": "2100108"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Norman Grip",
+      "src": "/src/assets/weapon/Norman Grip.png"
+    }
+  },
+  {
+    "name": "Prime Hands",
+    "requirements": {
+      "level": 30,
+      "strength": 60,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "34 (30 - 38)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Chirppy",
+          "monster_id": "3230307"
+        },
+        {
+          "monster_name": "Mask Fish",
+          "monster_id": "3230104"
+        },
+        {
+          "monster_name": "Leatty",
+          "monster_id": "5300000"
+        },
+        {
+          "monster_name": "Curse Eye",
+          "monster_id": "3230100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "52,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        },
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "75,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Prime Hands",
+      "src": "/src/assets/weapon/Prime Hands.png"
+    }
+  },
+  {
+    "name": "Silver Maiden",
+    "requirements": {
+      "level": 35,
+      "strength": 75,
+      "dexterity": 35,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "38 (34 - 42)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tweeter",
+          "monster_id": "3230308"
+        },
+        {
+          "monster_name": "Panda Teddy",
+          "monster_id": "3210203"
+        },
+        {
+          "monster_name": "Propelly",
+          "monster_id": "3230303"
+        },
+        {
+          "monster_name": "Curse Eye",
+          "monster_id": "3230100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Silver Maiden",
+      "src": "/src/assets/weapon/Silver Maiden.png"
+    }
+  },
+  {
+    "name": "Neozard",
+    "requirements": {
+      "level": 40,
+      "strength": 90,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Block Golem",
+          "monster_id": "4230109"
+        },
+        {
+          "monster_name": "Moon Bunny",
+          "monster_id": "4230300"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        },
+        {
+          "monster_name": "Chipmunk",
+          "monster_id": "4230500"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Neozard",
+      "src": "/src/assets/weapon/Neozard.png"
+    }
+  },
+  {
+    "name": "Fury Claw",
+    "requirements": {
+      "level": 50,
+      "strength": 120,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "50 (45 - 55)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Clang",
+          "monster_id": "4230104"
+        },
+        {
+          "monster_name": "Plateon",
+          "monster_id": "4230120"
+        },
+        {
+          "monster_name": "Reinforced Mithril Mutae",
+          "monster_id": "5110300"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Master Chronos",
+          "monster_id": "4230115"
+        },
+        {
+          "monster_name": "Hector",
+          "monster_id": "5130104"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fury Claw",
+      "src": "/src/assets/weapon/Fury Claw.png"
+    }
+  },
+  {
+    "name": "Psycho Claw",
+    "requirements": {
+      "level": 60,
+      "strength": 150,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "58 (53 - 63)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bellflower Root",
+          "monster_id": "5120501"
+        },
+        {
+          "monster_name": "Coolie Zombie",
+          "monster_id": "5130107"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Red Drake",
+          "monster_id": "6130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Psycho Claw",
+      "src": "/src/assets/weapon/Psycho Claw.png"
+    }
+  },
+  {
+    "name": "Beia Crash",
+    "requirements": {
+      "level": 70,
+      "strength": 180,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Klock",
+          "monster_id": "8140200"
+        },
+        {
+          "monster_name": "Taurospear",
+          "monster_id": "7130101"
+        },
+        {
+          "monster_name": "Blue King Goblin",
+          "monster_id": "7130401"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Beia Crash",
+      "src": "/src/assets/weapon/Beia Crash.png"
+    }
+  },
+  {
+    "name": "Steelno",
+    "requirements": {
+      "level": 80,
+      "strength": 210,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "66 (61 - 71)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Dual Birk",
+          "monster_id": "8140111"
+        },
+        {
+          "monster_name": "Lycanthrope",
+          "monster_id": "8140000"
+        },
+        {
+          "monster_name": "Homunculus",
+          "monster_id": "7110301"
+        },
+        {
+          "monster_name": "Birk",
+          "monster_id": "8140110"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steelno",
+      "src": "/src/assets/weapon/Steelno.png"
+    }
+  },
+  {
+    "name": "White Fangz",
+    "requirements": {
+      "level": 90,
+      "strength": 240,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "70 (65 - 75)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Skelegon",
+          "monster_id": "8190003"
+        },
+        {
+          "monster_name": "Papulatus",
+          "monster_id": "8500002"
+        },
+        {
+          "monster_name": "Squid",
+          "monster_id": "8141300"
+        },
+        {
+          "monster_name": "Chief Memory Guardian",
+          "monster_id": "8200004"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Fangz",
+      "src": "/src/assets/weapon/White Fangz.png"
+    }
+  },
+  {
+    "name": "King Cent",
+    "requirements": {
+      "level": 100,
+      "strength": 270,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "74 (69 - 79)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Memory Guardian",
+          "monster_id": "8200003"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Maverick V",
+          "monster_id": "9400259"
+        },
+        {
+          "monster_name": "Skelosaurus",
+          "monster_id": "8190004"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dark Wyvern",
+          "monster_id": "8150302"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        },
+        {
+          "monster_name": "Lilynouch",
+          "monster_id": "8220005"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Cent",
+      "src": "/src/assets/weapon/King Cent.png"
+    }
+  },
+  {
+    "name": "Dragon Slash Claw",
+    "requirements": {
+      "level": 110,
+      "strength": 300,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "78 (73 - 83)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Slash Claw",
+      "src": "/src/assets/weapon/Dragon Slash Claw.png"
+    }
+  },
+  {
+    "name": "Scallywag Knuckler",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 20,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "16 (14 - 18)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Scallywag Knuckler",
+      "src": "/src/assets/weapon/Scallywag Knuckler.png"
+    }
+  },
+  {
+    "name": "Prime Hands",
+    "requirements": {
+      "level": 20,
+      "strength": 30,
+      "dexterity": 20,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "34 (30 - 38)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Prime Hands",
+      "src": "/src/assets/weapon/Prime Hands.png"
+    }
+  },
+  {
+    "name": "Fury Claw",
+    "requirements": {
+      "level": 35,
+      "strength": 75,
+      "dexterity": 35,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "50 (45 - 55)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fury Claw",
+      "src": "/src/assets/weapon/Fury Claw.png"
+    }
+  },
+  {
+    "name": "Seraphims",
+    "requirements": {
+      "level": 50,
+      "strength": 120,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "58 (53 - 63)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphims",
+      "src": "/src/assets/weapon/Seraphims.png"
+    }
+  },
+  {
+    "name": "Beia Crash",
+    "requirements": {
+      "level": 60,
+      "strength": 150,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Beia Crash",
+      "src": "/src/assets/weapon/Beia Crash.png"
+    }
+  },
+  {
+    "name": "Steelno",
+    "requirements": {
+      "level": 70,
+      "strength": 180,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "66 (61 - 71)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steelno",
+      "src": "/src/assets/weapon/Steelno.png"
+    }
+  },
+  {
+    "name": "Maple Knuckle",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "38 (34 - 42)",
+      "accuracy": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Knuckle",
+      "src": "/src/assets/weapon/Maple Knuckle.png"
+    }
+  },
+  {
+    "name": "Maple Storm Finger",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "weapon_attack": "46 (41 - 51)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Storm Finger",
+      "src": "/src/assets/weapon/Maple Storm Finger.png"
+    }
+  },
+  {
+    "name": "Maple Golden Claw",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "hp": "100 (90 - 110)",
+      "weapon_attack": "60 (55 - 65)",
+      "accuracy": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Golden Claw",
+      "src": "/src/assets/weapon/Maple Golden Claw.png"
+    }
+  },
+  {
+    "name": "Timeless Equinox",
+    "requirements": {
+      "level": 150,
+      "strength": 330,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "84 (82 - 86)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Equinox",
+      "src": "/src/assets/weapon/Timeless Equinox.png"
+    }
+  },
+  {
+    "name": "Reverse Equinox",
+    "requirements": {
+      "level": 150,
+      "strength": 330,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "82 (80 - 84)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Equinox",
+      "src": "/src/assets/weapon/Reverse Equinox.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "67 (62 - 72)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Seraphim Knuckler",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "38 (34 - 42)",
+      "accuracy": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Knuckler",
+      "src": "/src/assets/weapon/Seraphim Knuckler.png"
+    }
+  },
+  {
+    "name": "Balrog's Steel Renault",
+    "requirements": {
+      "level": 80,
+      "strength": 210,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "63 (58 - 68)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Steel Renault",
+      "src": "/src/assets/weapon/Balrog's Steel Renault.png"
+    }
+  },
+  {
+    "name": "Balrog's White Evil",
+    "requirements": {
+      "level": 90,
+      "strength": 240,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "67 (62 - 72)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's White Evil",
+      "src": "/src/assets/weapon/Balrog's White Evil.png"
+    }
+  },
+  {
+    "name": "GMS Knuckle",
+    "requirements": {
+      "level": 120,
+      "strength": 330,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "GMS Knuckle",
+      "src": "/src/assets/weapon/GMS Knuckle.png"
+    }
+  },
+  {
+    "name": "Flairgrave (Knuckle)",
+    "requirements": {
+      "level": 115,
+      "strength": 315,
+      "dexterity": 115,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (Knuckle)",
+      "src": "/src/assets/weapon/Flairgrave (Knuckle).png"
+    }
+  },
+  {
+    "name": "Speargrave (Knuckle)",
+    "requirements": {
+      "level": 115,
+      "strength": 315,
+      "dexterity": 115,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Fast (5)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (Knuckle)",
+      "src": "/src/assets/weapon/Speargrave (Knuckle).png"
+    }
+  },
+  {
+    "name": "King Pepe Silver Maiden",
+    "requirements": {
+      "level": 35,
+      "strength": 75,
+      "dexterity": 35,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Silver Maiden",
+      "src": "/src/assets/weapon/King Pepe Silver Maiden.png"
+    }
+  },
+  {
+    "name": "Astaroth Knuckles",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Knuckle",
+      "attack_speed": "Normal (6)",
+      "str": "10 (9 - 11)",
+      "weapon_attack": "32 (28 - 36)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth Knuckles",
+      "src": "/src/assets/weapon/Astaroth Knuckles.png"
+    }
+  }
+]

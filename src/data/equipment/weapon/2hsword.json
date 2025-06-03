@@ -1,0 +1,2716 @@
+[
+  {
+    "name": "Two-Handed Sword",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "40 (36 - 44)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Krappy",
+          "monster_id": "2230107"
+        },
+        {
+          "monster_name": "Pinboom",
+          "monster_id": "2230108"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "12,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Two-Handed Sword",
+      "src": "/src/assets/weapon/Two-Handed Sword.png"
+    }
+  },
+  {
+    "name": "Wooden Sword",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Bowman",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Red Snail",
+          "monster_id": "130101"
+        },
+        {
+          "monster_name": "Frog",
+          "monster_id": "9420001"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Wooden Sword",
+      "src": "/src/assets/weapon/Wooden Sword.png"
+    }
+  },
+  {
+    "name": "Scimitar",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "50 (45 - 55)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Goat",
+          "monster_id": "9600004"
+        },
+        {
+          "monster_name": "Sand Rat",
+          "monster_id": "2110300"
+        },
+        {
+          "monster_name": "Ear Plug Plead",
+          "monster_id": "2100106"
+        },
+        {
+          "monster_name": "Plow Ox",
+          "monster_id": "9600007"
+        },
+        {
+          "monster_name": "Dark Leatty",
+          "monster_id": "5300001"
+        },
+        {
+          "monster_name": "Block Golem",
+          "monster_id": "4230109"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "152,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Scimitar",
+      "src": "/src/assets/weapon/Scimitar.png"
+    }
+  },
+  {
+    "name": "Lion's Fang",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "70 (65 - 75)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mr. Alli",
+          "monster_id": "6130204"
+        },
+        {
+          "monster_name": "Clang",
+          "monster_id": "4230104"
+        },
+        {
+          "monster_name": "Drumming Bunny",
+          "monster_id": "3230400"
+        },
+        {
+          "monster_name": "Master Robo",
+          "monster_id": "4230112"
+        },
+        {
+          "monster_name": "Tortie",
+          "monster_id": "4130101"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Propelly",
+          "monster_id": "3230303"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        },
+        {
+          "monster_name": "I.AM.ROBOT",
+          "monster_id": "9400546"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lion's Fang",
+      "src": "/src/assets/weapon/Lion's Fang.png"
+    }
+  },
+  {
+    "name": "Blue Screamer",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Wolf Spider",
+          "monster_id": "9400545"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Lycanthrope",
+          "monster_id": "8140000"
+        },
+        {
+          "monster_name": "Red Kentaurus",
+          "monster_id": "8140102"
+        },
+        {
+          "monster_name": "Black Bear Swordsman",
+          "monster_id": "9600012"
+        },
+        {
+          "monster_name": "Dreamy Ghost",
+          "monster_id": "9400013"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Screamer",
+      "src": "/src/assets/weapon/Blue Screamer.png"
+    }
+  },
+  {
+    "name": "Berzerker",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "95 (90 - 100)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pianus (R)",
+          "monster_id": "8510000"
+        },
+        {
+          "monster_name": "Green Cornian",
+          "monster_id": "8150200"
+        },
+        {
+          "monster_name": "Pianus (L)",
+          "monster_id": "8520000"
+        },
+        {
+          "monster_name": "Censer",
+          "monster_id": "9600017"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Berzerker",
+      "src": "/src/assets/weapon/Berzerker.png"
+    }
+  },
+  {
+    "name": "Lionheart",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "55 (50 - 60)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "The Book Ghost",
+          "monster_id": "5120506"
+        },
+        {
+          "monster_name": "Barnard Gray",
+          "monster_id": "4230116"
+        },
+        {
+          "monster_name": "Tweeter",
+          "monster_id": "3230308"
+        },
+        {
+          "monster_name": "Clown Monkey",
+          "monster_id": "9410003"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Plow Ox",
+          "monster_id": "9600007"
+        },
+        {
+          "monster_name": "Mask Fish",
+          "monster_id": "3230104"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        },
+        {
+          "monster_name": "Wild Boar",
+          "monster_id": "2230102"
+        },
+        {
+          "monster_name": "Hogul",
+          "monster_id": "5100005"
+        },
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "350,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lionheart",
+      "src": "/src/assets/weapon/Lionheart.png"
+    }
+  },
+  {
+    "name": "Zard",
+    "requirements": {
+      "level": 40,
+      "strength": 130,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "60 (55 - 65)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Sakura Cellion",
+          "monster_id": "9400509"
+        },
+        {
+          "monster_name": "Electrophant",
+          "monster_id": "9400543"
+        },
+        {
+          "monster_name": "Angry Stray Dog",
+          "monster_id": "9410002"
+        },
+        {
+          "monster_name": "Play Seal",
+          "monster_id": "9500146"
+        },
+        {
+          "monster_name": "Platoon Chronos",
+          "monster_id": "4230114"
+        },
+        {
+          "monster_name": "Black Goat",
+          "monster_id": "9600005"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        },
+        {
+          "monster_name": "Cellion",
+          "monster_id": "5120001"
+        },
+        {
+          "monster_name": "Pac Pinky",
+          "monster_id": "9420509"
+        },
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "450,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Zard",
+      "src": "/src/assets/weapon/Zard.png"
+    }
+  },
+  {
+    "name": "Broadsword",
+    "requirements": {
+      "level": 25,
+      "strength": 85,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "45 (40 - 50)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Drumming Bunny",
+          "monster_id": "3230400"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Broadsword",
+      "src": "/src/assets/weapon/Broadsword.png"
+    }
+  },
+  {
+    "name": "Wooden Baseball Bat",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Rooster",
+          "monster_id": "9420005"
+        },
+        {
+          "monster_name": "Axe Stump",
+          "monster_id": "1130100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        },
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "30,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Wooden Baseball Bat",
+      "src": "/src/assets/weapon/Wooden Baseball Bat.png"
+    }
+  },
+  {
+    "name": "Aluminum Baseball Bat",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "48 (43 - 53)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Sand Dwarf",
+          "monster_id": "3110301"
+        },
+        {
+          "monster_name": "Lupin",
+          "monster_id": "3210800"
+        },
+        {
+          "monster_name": "Yellow Bubble Tea",
+          "monster_id": "9410006"
+        },
+        {
+          "monster_name": "Drumming Bunny",
+          "monster_id": "3230400"
+        },
+        {
+          "monster_name": "Sand Dwarf",
+          "monster_id": "3100101"
+        },
+        {
+          "monster_name": "Propelly",
+          "monster_id": "3230303"
+        },
+        {
+          "monster_name": "Stylish Stray Dog",
+          "monster_id": "9410001"
+        },
+        {
+          "monster_name": "Cube Slime",
+          "monster_id": "3110300"
+        },
+        {
+          "monster_name": "Trixter",
+          "monster_id": "2230103"
+        },
+        {
+          "monster_name": "Duck",
+          "monster_id": "9600002"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        },
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "150,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Aluminum Baseball Bat",
+      "src": "/src/assets/weapon/Aluminum Baseball Bat.png"
+    }
+  },
+  {
+    "name": "Sparta",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mr. Alli",
+          "monster_id": "6130204"
+        },
+        {
+          "monster_name": "Cerebes",
+          "monster_id": "7130001"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "MT-09",
+          "monster_id": "5120100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sparta",
+      "src": "/src/assets/weapon/Sparta.png"
+    }
+  },
+  {
+    "name": "Doombringer",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stormbreaker",
+          "monster_id": "9400581"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Yeti and Coketump",
+          "monster_id": "9500147"
+        },
+        {
+          "monster_name": "Lucida",
+          "monster_id": "7130000"
+        },
+        {
+          "monster_name": "Homunculus",
+          "monster_id": "7110301"
+        },
+        {
+          "monster_name": "Hankie",
+          "monster_id": "7130004"
+        },
+        {
+          "monster_name": "Vikerola",
+          "monster_id": "9420539"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Kid Mannequin",
+          "monster_id": "9410032"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        },
+        {
+          "monster_name": "Werewolf",
+          "monster_id": "7130200"
+        },
+        {
+          "monster_name": "Green King Goblin",
+          "monster_id": "7130402"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        },
+        {
+          "monster_name": "D. Roy",
+          "monster_id": "7110300"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Doombringer",
+      "src": "/src/assets/weapon/Doombringer.png"
+    }
+  },
+  {
+    "name": "Japanese Map",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "weapon_attack": "68 (63 - 73)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Leprechaun",
+          "monster_id": "9400583"
+        },
+        {
+          "monster_name": "Male Boss",
+          "monster_id": "9400120"
+        },
+        {
+          "monster_name": "Ninto",
+          "monster_id": "9400403"
+        },
+        {
+          "monster_name": "Male Boss",
+          "monster_id": "9400122"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Japanese Map",
+      "src": "/src/assets/weapon/Japanese Map.png"
+    }
+  },
+  {
+    "name": "Thermometer",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "mp": "80 (72 - 88)",
+      "weapon_attack": "30 (27 - 33)",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Chunin",
+          "monster_id": "9400401"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Thermometer",
+      "src": "/src/assets/weapon/Thermometer.png"
+    }
+  },
+  {
+    "name": "Heaven's Gate",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Eye of Time",
+          "monster_id": "8200000"
+        },
+        {
+          "monster_name": "Latest Hits Compilation",
+          "monster_id": "9410030"
+        },
+        {
+          "monster_name": "Gigantic Spirit Viking",
+          "monster_id": "8141100"
+        },
+        {
+          "monster_name": "Fancy Amplifier",
+          "monster_id": "9410029"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Gate",
+      "src": "/src/assets/weapon/Heaven's Gate.png"
+    }
+  },
+  {
+    "name": "Devil's Sunrise",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "95 (90 - 100)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Memory Monk Trainee",
+          "monster_id": "8200002"
+        },
+        {
+          "monster_name": "Montrecer",
+          "monster_id": "9420518"
+        },
+        {
+          "monster_name": "Headless Horseman",
+          "monster_id": "9400549"
+        },
+        {
+          "monster_name": "Dark Cornian",
+          "monster_id": "8150201"
+        },
+        {
+          "monster_name": "Jr. Newtie",
+          "monster_id": "8190000"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Wooden Fish",
+          "monster_id": "9600018"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Devil's Sunrise",
+      "src": "/src/assets/weapon/Devil's Sunrise.png"
+    }
+  },
+  {
+    "name": "Daiwa Sword",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "dex": "2 (1 - 3)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Kunoichi",
+          "monster_id": "9400406"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Daiwa Sword",
+      "src": "/src/assets/weapon/Daiwa Sword.png"
+    }
+  },
+  {
+    "name": "Wooden Samurai Sword",
+    "requirements": {
+      "level": 15,
+      "strength": 35,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pig",
+          "monster_id": "9300058"
+        },
+        {
+          "monster_name": "Pig",
+          "monster_id": "1210100"
+        },
+        {
+          "monster_name": "Ashigaru",
+          "monster_id": "9400404"
+        },
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Wooden Samurai Sword",
+      "src": "/src/assets/weapon/Wooden Samurai Sword.png"
+    }
+  },
+  {
+    "name": "Scimitar",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "60 (55 - 65)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Scimitar",
+      "src": "/src/assets/weapon/Scimitar.png"
+    }
+  },
+  {
+    "name": "Lion's Fang",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lion's Fang",
+      "src": "/src/assets/weapon/Lion's Fang.png"
+    }
+  },
+  {
+    "name": "Sparta",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sparta",
+      "src": "/src/assets/weapon/Sparta.png"
+    }
+  },
+  {
+    "name": "Doombringer",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "95 (90 - 100)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Doombringer",
+      "src": "/src/assets/weapon/Doombringer.png"
+    }
+  },
+  {
+    "name": "Heaven's Gate",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "100 (95 - 105)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Gate",
+      "src": "/src/assets/weapon/Heaven's Gate.png"
+    }
+  },
+  {
+    "name": "Scimitar",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "60 (55 - 65)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Scimitar",
+      "src": "/src/assets/weapon/Scimitar.png"
+    }
+  },
+  {
+    "name": "Lion's Fang",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lion's Fang",
+      "src": "/src/assets/weapon/Lion's Fang.png"
+    }
+  },
+  {
+    "name": "Sparta",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sparta",
+      "src": "/src/assets/weapon/Sparta.png"
+    }
+  },
+  {
+    "name": "Doombringer",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "95 (90 - 100)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Doombringer",
+      "src": "/src/assets/weapon/Doombringer.png"
+    }
+  },
+  {
+    "name": "Heaven's Gate",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "100 (95 - 105)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Gate",
+      "src": "/src/assets/weapon/Heaven's Gate.png"
+    }
+  },
+  {
+    "name": "Aluminum Bat",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "65 (60 - 70)",
+      "accuracy": "8 (7 - 9)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Kunoichi",
+          "monster_id": "9400406"
+        },
+        {
+          "monster_name": "Kacchuu Musha",
+          "monster_id": "9400405"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Aluminum Bat",
+      "src": "/src/assets/weapon/Aluminum Bat.png"
+    }
+  },
+  {
+    "name": "Scimitar",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "50 (45 - 55)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Scimitar",
+      "src": "/src/assets/weapon/Scimitar.png"
+    }
+  },
+  {
+    "name": "Lion's Fang",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "70 (65 - 75)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lion's Fang",
+      "src": "/src/assets/weapon/Lion's Fang.png"
+    }
+  },
+  {
+    "name": "Sparta",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sparta",
+      "src": "/src/assets/weapon/Sparta.png"
+    }
+  },
+  {
+    "name": "Doombringer",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Doombringer",
+      "src": "/src/assets/weapon/Doombringer.png"
+    }
+  },
+  {
+    "name": "Heaven's Gate",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Gate",
+      "src": "/src/assets/weapon/Heaven's Gate.png"
+    }
+  },
+  {
+    "name": "The Beheader",
+    "requirements": {
+      "level": 100,
+      "strength": 310,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "100 (95 - 105)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Griffey",
+          "monster_id": "8180001"
+        },
+        {
+          "monster_name": "Veetron",
+          "monster_id": "9420515"
+        },
+        {
+          "monster_name": "Black Kentaurus",
+          "monster_id": "8140101"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Oblivion Monk",
+          "monster_id": "8200009"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Maverick Y",
+          "monster_id": "9400257"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        },
+        {
+          "monster_name": "Lilynouch",
+          "monster_id": "8220005"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Beheader",
+      "src": "/src/assets/weapon/The Beheader.png"
+    }
+  },
+  {
+    "name": "Dragon Claymore",
+    "requirements": {
+      "level": 110,
+      "strength": 340,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "105 (100 - 110)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Claymore",
+      "src": "/src/assets/weapon/Dragon Claymore.png"
+    }
+  },
+  {
+    "name": "Stonetooth Sword",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "101 (96 - 106)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bodyguards A B Boss",
+          "monster_id": "9400116"
+        },
+        {
+          "monster_name": "Black Crow",
+          "monster_id": "9400014"
+        },
+        {
+          "monster_name": "Castellan Toad",
+          "monster_id": "9400409"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stonetooth Sword",
+      "src": "/src/assets/weapon/Stonetooth Sword.png"
+    }
+  },
+  {
+    "name": "Toy of 101",
+    "requirements": {
+      "level": 85,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Toy of 101",
+      "src": "/src/assets/weapon/Toy of 101.png"
+    }
+  },
+  {
+    "name": "Maple Soul Rohen",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "4 (3 - 5)",
+      "weapon_attack": "83 (78 - 88)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Soul Rohen",
+      "src": "/src/assets/weapon/Maple Soul Rohen.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "50 (45 - 55)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "70 (65 - 75)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (Two Handed Sword)",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "50 (45 - 55)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (Two Handed Sword)",
+      "src": "/src/assets/weapon/Singapore Flag (Two Handed Sword).png"
+    }
+  },
+  {
+    "name": "Pumpkin Lantern",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "hp": "50 (45 - 55)",
+      "weapon_attack": "55 (50 - 60)",
+      "magic_attack": "55 (50 - 60)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pumpkin Lantern",
+      "src": "/src/assets/weapon/Pumpkin Lantern.png"
+    }
+  },
+  {
+    "name": "Tiger's Fang",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "72 (67 - 77)",
+      "accuracy": "8 (7 - 9)",
+      "speed": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tiger's Fang",
+      "src": "/src/assets/weapon/Tiger's Fang.png"
+    }
+  },
+  {
+    "name": "Timeless Nibleheim",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "112 (110 - 114)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Nibleheim",
+      "src": "/src/assets/weapon/Timeless Nibleheim.png"
+    }
+  },
+  {
+    "name": "Reverse Nibleheim",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "110 (108 - 112)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Nibleheim",
+      "src": "/src/assets/weapon/Reverse Nibleheim.png"
+    }
+  },
+  {
+    "name": "Raven's Wing",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Raven's Wing",
+      "src": "/src/assets/weapon/Raven's Wing.png"
+    }
+  },
+  {
+    "name": "Night Raven's Wing",
+    "requirements": {
+      "level": 90,
+      "strength": 265,
+      "dexterity": 95,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "96 (91 - 101)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Night Raven's Wing",
+      "src": "/src/assets/weapon/Night Raven's Wing.png"
+    }
+  },
+  {
+    "name": "Dawn Raven's Wing",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "4 (3 - 5)",
+      "weapon_attack": "99 (94 - 104)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dawn Raven's Wing",
+      "src": "/src/assets/weapon/Dawn Raven's Wing.png"
+    }
+  },
+  {
+    "name": "Dusk Raven's Wing",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "weapon_attack": "90 (85 - 95)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dusk Raven's Wing",
+      "src": "/src/assets/weapon/Dusk Raven's Wing.png"
+    }
+  },
+  {
+    "name": "Seraphim Two-handed Sword",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "83 (78 - 88)",
+      "accuracy": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Two-handed Sword",
+      "src": "/src/assets/weapon/Seraphim Two-handed Sword.png"
+    }
+  },
+  {
+    "name": "Speargrave (Two-Handed Sword)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "108 (103 - 113)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (Two-Handed Sword)",
+      "src": "/src/assets/weapon/Speargrave (Two-Handed Sword).png"
+    }
+  },
+  {
+    "name": "Flairgrave (Two-Handed Sword)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "108 (103 - 113)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (Two-Handed Sword)",
+      "src": "/src/assets/weapon/Flairgrave (Two-Handed Sword).png"
+    }
+  },
+  {
+    "name": "Balrog's Blue Screamer",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "88 (83 - 93)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Blue Screamer",
+      "src": "/src/assets/weapon/Balrog's Blue Screamer.png"
+    }
+  },
+  {
+    "name": "Heaven's Gate of Balrog",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Gate of Balrog",
+      "src": "/src/assets/weapon/Heaven's Gate of Balrog.png"
+    }
+  },
+  {
+    "name": "Balrog's Berzerker",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Berzerker",
+      "src": "/src/assets/weapon/Balrog's Berzerker.png"
+    }
+  },
+  {
+    "name": "Devil's Sunrise of Balrog",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Devil's Sunrise of Balrog",
+      "src": "/src/assets/weapon/Devil's Sunrise of Balrog.png"
+    }
+  },
+  {
+    "name": "GMS Claymore",
+    "requirements": {
+      "level": 120,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "GMS Claymore",
+      "src": "/src/assets/weapon/GMS Claymore.png"
+    }
+  },
+  {
+    "name": "Bain Sword",
+    "requirements": {
+      "level": 58,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "83 (78 - 88)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bain Sword",
+      "src": "/src/assets/weapon/Bain Sword.png"
+    }
+  },
+  {
+    "name": "King Pepe Highlander",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "60 (55 - 65)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Highlander",
+      "src": "/src/assets/weapon/King Pepe Highlander.png"
+    }
+  },
+  {
+    "name": "Astaroth Two-Handed Sword",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Sword",
+      "attack_speed": "Normal (6)",
+      "str": "10 (9 - 11)",
+      "weapon_attack": "45 (40 - 50)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth Two-Handed Sword",
+      "src": "/src/assets/weapon/Astaroth Two-Handed Sword.png"
+    }
+  }
+]

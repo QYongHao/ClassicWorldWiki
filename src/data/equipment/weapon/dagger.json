@@ -1,0 +1,3910 @@
+[
+  {
+    "name": "Triangular Zamadar",
+    "requirements": {
+      "level": 12,
+      "strength": 0,
+      "dexterity": 25,
+      "intelligence": 0,
+      "luck": 25
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "27 (24 - 30)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stump",
+          "monster_id": "130100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "4,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Triangular Zamadar",
+      "src": "/src/assets/weapon/Triangular Zamadar.png"
+    }
+  },
+  {
+    "name": "Halfmoon Zamadar",
+    "requirements": {
+      "level": 32,
+      "strength": 0,
+      "dexterity": 65,
+      "intelligence": 0,
+      "luck": 85
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "47 (42 - 52)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Trucker",
+          "monster_id": "9420507"
+        },
+        {
+          "monster_name": "Jr. Grupin",
+          "monster_id": "3210202"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "4230103"
+        },
+        {
+          "monster_name": "Stopnow",
+          "monster_id": "9420500"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "9300060"
+        },
+        {
+          "monster_name": "Blue Mushroom",
+          "monster_id": "2220100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Halfmoon Zamadar",
+      "src": "/src/assets/weapon/Halfmoon Zamadar.png"
+    }
+  },
+  {
+    "name": "Triple-Tipped Zamadar",
+    "requirements": {
+      "level": 17,
+      "strength": 0,
+      "dexterity": 35,
+      "intelligence": 0,
+      "luck": 40
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "8,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Triple-Tipped Zamadar",
+      "src": "/src/assets/weapon/Triple-Tipped Zamadar.png"
+    }
+  },
+  {
+    "name": "Shinkita",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 150
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Malady",
+          "monster_id": "5300100"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Chief Gray",
+          "monster_id": "4240000"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Zeta Gray",
+          "monster_id": "4230117"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Shinkita",
+      "src": "/src/assets/weapon/Shinkita.png"
+    }
+  },
+  {
+    "name": "Forked Dagger",
+    "requirements": {
+      "level": 27,
+      "strength": 0,
+      "dexterity": 55,
+      "intelligence": 0,
+      "luck": 70
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Krip",
+          "monster_id": "3000006"
+        },
+        {
+          "monster_name": "Krappy",
+          "monster_id": "2230107"
+        },
+        {
+          "monster_name": "Chirppy",
+          "monster_id": "3230307"
+        },
+        {
+          "monster_name": "Scarf Plead",
+          "monster_id": "2100107"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "38,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "38,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "38,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "38,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Forked Dagger",
+      "src": "/src/assets/weapon/Forked Dagger.png"
+    }
+  },
+  {
+    "name": "Razor",
+    "requirements": {
+      "level": 5,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Sid",
+          "npc_id": "11000",
+          "price": "500",
+          "npc_image": "/static/images/lib/npc/0011000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Razor",
+      "src": "/src/assets/weapon/Razor.png"
+    }
+  },
+  {
+    "name": "Field Dagger",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Shroom",
+          "monster_id": "120100"
+        },
+        {
+          "monster_name": "Blue Mushroom",
+          "monster_id": "2220100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "7,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "7,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Field Dagger",
+      "src": "/src/assets/weapon/Field Dagger.png"
+    }
+  },
+  {
+    "name": "Fruit Knife",
+    "requirements": {
+      "level": 8,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "22 (19 - 25)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Silver",
+          "npc_id": "1001000",
+          "price": "1,000",
+          "npc_image": "/static/images/lib/npc/1001000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fruit Knife",
+      "src": "/src/assets/weapon/Fruit Knife.png"
+    }
+  },
+  {
+    "name": "Coconut Knife",
+    "requirements": {
+      "level": 20,
+      "strength": 10,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Necki",
+          "monster_id": "2130103"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Coconut Knife",
+      "src": "/src/assets/weapon/Coconut Knife.png"
+    }
+  },
+  {
+    "name": "Cass",
+    "requirements": {
+      "level": 30,
+      "strength": 20,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "45 (40 - 50)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "Ratz",
+          "monster_id": "3110102"
+        },
+        {
+          "monster_name": "Scorpion",
+          "monster_id": "2110301"
+        },
+        {
+          "monster_name": "Cico",
+          "monster_id": "2230106"
+        },
+        {
+          "monster_name": "Stray Dog",
+          "monster_id": "9410000"
+        },
+        {
+          "monster_name": "Meercat",
+          "monster_id": "2100108"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        },
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "44,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cass",
+      "src": "/src/assets/weapon/Cass.png"
+    }
+  },
+  {
+    "name": "Iron Dagger",
+    "requirements": {
+      "level": 25,
+      "strength": 15,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "40 (36 - 44)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Green Trixter",
+          "monster_id": "2230104"
+        },
+        {
+          "monster_name": "Desert Rabbit (F)",
+          "monster_id": "2100100"
+        },
+        {
+          "monster_name": "Freezer",
+          "monster_id": "9420501"
+        },
+        {
+          "monster_name": "Wooden Mask",
+          "monster_id": "2230110"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Iron Dagger",
+      "src": "/src/assets/weapon/Iron Dagger.png"
+    }
+  },
+  {
+    "name": "Bazlud",
+    "requirements": {
+      "level": 40,
+      "strength": 30,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "55 (50 - 60)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Straw Target Dummy",
+          "monster_id": "5120503"
+        },
+        {
+          "monster_name": "Jr. Seal",
+          "monster_id": "3230405"
+        },
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "Goat",
+          "monster_id": "9600004"
+        },
+        {
+          "monster_name": "Hodori",
+          "monster_id": "5100003"
+        },
+        {
+          "monster_name": "Reinforced Mithril Mutae",
+          "monster_id": "5110300"
+        },
+        {
+          "monster_name": "Roloduck",
+          "monster_id": "3210204"
+        },
+        {
+          "monster_name": "Plow Ox",
+          "monster_id": "9600007"
+        },
+        {
+          "monster_name": "Miner Zombie",
+          "monster_id": "5130108"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "425,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bazlud",
+      "src": "/src/assets/weapon/Bazlud.png"
+    }
+  },
+  {
+    "name": "Reef Claw",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "45 (40 - 50)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Lioner",
+          "monster_id": "3210201"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        },
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "42,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reef Claw",
+      "src": "/src/assets/weapon/Reef Claw.png"
+    }
+  },
+  {
+    "name": "Stinger",
+    "requirements": {
+      "level": 22,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 55
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "Cico",
+          "monster_id": "2230106"
+        },
+        {
+          "monster_name": "Stray Dog",
+          "monster_id": "9410000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "15,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stinger",
+      "src": "/src/assets/weapon/Stinger.png"
+    }
+  },
+  {
+    "name": "Gephart",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "50 (45 - 55)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "Goat",
+          "monster_id": "9600004"
+        },
+        {
+          "monster_name": "Jr. Cellion",
+          "monster_id": "3210200"
+        },
+        {
+          "monster_name": "Plow Ox",
+          "monster_id": "9600007"
+        },
+        {
+          "monster_name": "Ligator",
+          "monster_id": "3110100"
+        },
+        {
+          "monster_name": "Scuba Pepe",
+          "monster_id": "3210450"
+        },
+        {
+          "monster_name": "Dark Leatty",
+          "monster_id": "5300001"
+        },
+        {
+          "monster_name": "Leatty",
+          "monster_id": "5300000"
+        },
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "375,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gephart",
+      "src": "/src/assets/weapon/Gephart.png"
+    }
+  },
+  {
+    "name": "Deadly Fin",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "Cerebes",
+          "monster_id": "7130001"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Mr. Anchor",
+          "monster_id": "9420512"
+        },
+        {
+          "monster_name": "Primitive Boar",
+          "monster_id": "5250002"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        },
+        {
+          "monster_name": "Grupin",
+          "monster_id": "5120003"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Deadly Fin",
+      "src": "/src/assets/weapon/Deadly Fin.png"
+    }
+  },
+  {
+    "name": "Sai",
+    "requirements": {
+      "level": 50,
+      "strength": 40,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "65 (60 - 70)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Ice Golem",
+          "monster_id": "9500150"
+        },
+        {
+          "monster_name": "Tick-Tock",
+          "monster_id": "4230113"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Firebomb",
+          "monster_id": "5100002"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        },
+        {
+          "monster_name": "Drake",
+          "monster_id": "5130100"
+        },
+        {
+          "monster_name": "Skeledog",
+          "monster_id": "4230125"
+        },
+        {
+          "monster_name": "Copper Drake",
+          "monster_id": "4130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sai",
+      "src": "/src/assets/weapon/Sai.png"
+    }
+  },
+  {
+    "name": "Serpent's Coil",
+    "requirements": {
+      "level": 60,
+      "strength": 50,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "75 (70 - 80)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Python",
+          "monster_id": "9420002"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Water Goblin",
+          "monster_id": "9400012"
+        },
+        {
+          "monster_name": "Dark Pepe",
+          "monster_id": "6230200"
+        },
+        {
+          "monster_name": "Hector",
+          "monster_id": "5130104"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Serpent's Coil",
+      "src": "/src/assets/weapon/Serpent's Coil.png"
+    }
+  },
+  {
+    "name": "Kandine",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 190
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "77 (72 - 82)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Thanatos",
+          "monster_id": "8170000"
+        },
+        {
+          "monster_name": "Rash",
+          "monster_id": "7130500"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Captain",
+          "monster_id": "7130104"
+        },
+        {
+          "monster_name": "Blue Mushmom",
+          "monster_id": "9400205"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Cheap Amplifier",
+          "monster_id": "9410028"
+        },
+        {
+          "monster_name": "Kid Mannequin",
+          "monster_id": "9410032"
+        },
+        {
+          "monster_name": "Werewolf",
+          "monster_id": "7130200"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        },
+        {
+          "monster_name": "D. Roy",
+          "monster_id": "7110300"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kandine",
+      "src": "/src/assets/weapon/Kandine.png"
+    }
+  },
+  {
+    "name": "Golden River",
+    "requirements": {
+      "level": 70,
+      "strength": 55,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Thanatos",
+          "monster_id": "8170000"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Master Soul Teddy",
+          "monster_id": "6230500"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Blue Mushmom",
+          "monster_id": "9400205"
+        },
+        {
+          "monster_name": "Sage Cat",
+          "monster_id": "6130209"
+        },
+        {
+          "monster_name": "Separated Dark Yeti",
+          "monster_id": "6400002"
+        },
+        {
+          "monster_name": "Hobi",
+          "monster_id": "7130600"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        },
+        {
+          "monster_name": "Beetle",
+          "monster_id": "7130002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden River",
+      "src": "/src/assets/weapon/Golden River.png"
+    }
+  },
+  {
+    "name": "Korean Fan",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "50 (45 - 55)",
+      "accuracy": "5 (4 - 6)",
+      "avoidability": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Helly",
+          "monster_id": "3210206"
+        },
+        {
+          "monster_name": "Dark Sand Dwarf",
+          "monster_id": "3110301"
+        },
+        {
+          "monster_name": "Flyeye",
+          "monster_id": "4230107"
+        },
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "Nependeath",
+          "monster_id": "4230105"
+        },
+        {
+          "monster_name": "Goat",
+          "monster_id": "9600004"
+        },
+        {
+          "monster_name": "Yellow Bubble Tea",
+          "monster_id": "9410006"
+        },
+        {
+          "monster_name": "Nependeath",
+          "monster_id": "4230122"
+        },
+        {
+          "monster_name": "Doll Vending Machine",
+          "monster_id": "9410013"
+        },
+        {
+          "monster_name": "Sand Dwarf",
+          "monster_id": "3100101"
+        },
+        {
+          "monster_name": "Mask Fish",
+          "monster_id": "3230104"
+        },
+        {
+          "monster_name": "Black Goat",
+          "monster_id": "9600005"
+        },
+        {
+          "monster_name": "Stylish Stray Dog",
+          "monster_id": "9410001"
+        },
+        {
+          "monster_name": "Freezer",
+          "monster_id": "9420501"
+        },
+        {
+          "monster_name": "Cube Slime",
+          "monster_id": "3110300"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        },
+        {
+          "monster_name": "UFO Catcher",
+          "monster_id": "9410012"
+        },
+        {
+          "monster_name": "Trixter",
+          "monster_id": "2230103"
+        },
+        {
+          "monster_name": "Fire Boar",
+          "monster_id": "3210100"
+        },
+        {
+          "monster_name": "Fire Raccoon",
+          "monster_id": "9400001"
+        },
+        {
+          "monster_name": "Duck",
+          "monster_id": "9600002"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Korean Fan",
+      "src": "/src/assets/weapon/Korean Fan.png"
+    }
+  },
+  {
+    "name": "Plastic Bottle",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "53 (48 - 58)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Extra A",
+          "monster_id": "9400100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Plastic Bottle",
+      "src": "/src/assets/weapon/Plastic Bottle.png"
+    }
+  },
+  {
+    "name": "Angelic Betrayal",
+    "requirements": {
+      "level": 80,
+      "strength": 60,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Latest Hits Compilation",
+          "monster_id": "9410030"
+        },
+        {
+          "monster_name": "Shark",
+          "monster_id": "8150100"
+        },
+        {
+          "monster_name": "Death Teddy",
+          "monster_id": "7130010"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Censer",
+          "monster_id": "9600017"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Angelic Betrayal",
+      "src": "/src/assets/weapon/Angelic Betrayal.png"
+    }
+  },
+  {
+    "name": "Dragon's Tail",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 210
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Eagle Swordsman",
+          "monster_id": "9600014"
+        },
+        {
+          "monster_name": "Gigantic Spirit Viking",
+          "monster_id": "8141100"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Female Thief",
+          "monster_id": "9600016"
+        },
+        {
+          "monster_name": "Phantom Watch",
+          "monster_id": "8142000"
+        },
+        {
+          "monster_name": "Red Kentaurus",
+          "monster_id": "8140102"
+        },
+        {
+          "monster_name": "Male Thief",
+          "monster_id": "9600015"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon's Tail",
+      "src": "/src/assets/weapon/Dragon's Tail.png"
+    }
+  },
+  {
+    "name": "Bushido",
+    "requirements": {
+      "level": 55,
+      "strength": 30,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "70 (65 - 75)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "2,000,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        },
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "2,000,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bushido",
+      "src": "/src/assets/weapon/Bushido.png"
+    }
+  },
+  {
+    "name": "Maple Wagner",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "58 (53 - 63)",
+      "accuracy": "10 (9 - 11)",
+      "avoidability": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Wagner",
+      "src": "/src/assets/weapon/Maple Wagner.png"
+    }
+  },
+  {
+    "name": "Cursayer",
+    "requirements": {
+      "level": 90,
+      "strength": 65,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Papulatus",
+          "monster_id": "8500002"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        },
+        {
+          "monster_name": "Capt. Latanica",
+          "monster_id": "9420513"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cursayer",
+      "src": "/src/assets/weapon/Cursayer.png"
+    }
+  },
+  {
+    "name": "Varkit",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 230
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "88 (83 - 93)",
+      "avoidability": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Red Dragon Turtle",
+          "monster_id": "8140701"
+        },
+        {
+          "monster_name": "Papulatus",
+          "monster_id": "8500002"
+        },
+        {
+          "monster_name": "Memory Guardian",
+          "monster_id": "8200003"
+        },
+        {
+          "monster_name": "Dark Wyvern",
+          "monster_id": "8150302"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Typhon",
+          "monster_id": "9400574"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Varkit",
+      "src": "/src/assets/weapon/Varkit.png"
+    }
+  },
+  {
+    "name": "Maple Dagger",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "50 (45 - 55)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Liu Bei Dagger",
+    "requirements": {
+      "level": 53,
+      "strength": 4,
+      "dexterity": 4,
+      "intelligence": 4,
+      "luck": 4
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "69 (64 - 74)",
+      "avoidability": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Giant Centipede",
+          "monster_id": "9600010"
+        },
+        {
+          "monster_name": "Paper Lantern Ghost",
+          "monster_id": "9400011"
+        },
+        {
+          "monster_name": "Extra A",
+          "monster_id": "9400100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Liu Bei Dagger",
+      "src": "/src/assets/weapon/Liu Bei Dagger.png"
+    }
+  },
+  {
+    "name": "Fan",
+    "requirements": {
+      "level": 65,
+      "strength": 35,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "hp": "100 (90 - 110)",
+      "weapon_attack": "78 (73 - 83)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fan",
+      "src": "/src/assets/weapon/Fan.png"
+    }
+  },
+  {
+    "name": "Dragon Toenail",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 110
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "55 (50 - 60)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Seal",
+          "monster_id": "3230405"
+        },
+        {
+          "monster_name": "Panda Teddy",
+          "monster_id": "3210203"
+        },
+        {
+          "monster_name": "Scuba Pepe",
+          "monster_id": "3210450"
+        },
+        {
+          "monster_name": "Croco",
+          "monster_id": "5130103"
+        },
+        {
+          "monster_name": "Fire Tusk",
+          "monster_id": "9400542"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Toenail",
+      "src": "/src/assets/weapon/Dragon Toenail.png"
+    }
+  },
+  {
+    "name": "Christmas Tree",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "22 (19 - 25)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Christmas Tree",
+      "src": "/src/assets/weapon/Christmas Tree.png"
+    }
+  },
+  {
+    "name": "Reef Claw",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 45
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "55 (50 - 60)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reef Claw",
+      "src": "/src/assets/weapon/Reef Claw.png"
+    }
+  },
+  {
+    "name": "Shinkita",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "72 (67 - 77)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Shinkita",
+      "src": "/src/assets/weapon/Shinkita.png"
+    }
+  },
+  {
+    "name": "Deadly Fin",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 150
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "82 (77 - 87)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Deadly Fin",
+      "src": "/src/assets/weapon/Deadly Fin.png"
+    }
+  },
+  {
+    "name": "Kandine",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "87 (82 - 92)",
+      "accuracy": "5 (4 - 6)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kandine",
+      "src": "/src/assets/weapon/Kandine.png"
+    }
+  },
+  {
+    "name": "Dragon's Tail",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 190
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "95 (90 - 100)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon's Tail",
+      "src": "/src/assets/weapon/Dragon's Tail.png"
+    }
+  },
+  {
+    "name": "Reef Claw",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 45
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "55 (50 - 60)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reef Claw",
+      "src": "/src/assets/weapon/Reef Claw.png"
+    }
+  },
+  {
+    "name": "Shinkita",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "72 (67 - 77)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Shinkita",
+      "src": "/src/assets/weapon/Shinkita.png"
+    }
+  },
+  {
+    "name": "Deadly Fin",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 150
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "82 (77 - 87)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Deadly Fin",
+      "src": "/src/assets/weapon/Deadly Fin.png"
+    }
+  },
+  {
+    "name": "Kandine",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "87 (82 - 92)",
+      "accuracy": "5 (4 - 6)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kandine",
+      "src": "/src/assets/weapon/Kandine.png"
+    }
+  },
+  {
+    "name": "Dragon's Tail",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 190
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "95 (90 - 100)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon's Tail",
+      "src": "/src/assets/weapon/Dragon's Tail.png"
+    }
+  },
+  {
+    "name": "Reef Claw",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 45
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "45 (40 - 50)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reef Claw",
+      "src": "/src/assets/weapon/Reef Claw.png"
+    }
+  },
+  {
+    "name": "Shinkita",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Shinkita",
+      "src": "/src/assets/weapon/Shinkita.png"
+    }
+  },
+  {
+    "name": "Deadly Fin",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 150
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Deadly Fin",
+      "src": "/src/assets/weapon/Deadly Fin.png"
+    }
+  },
+  {
+    "name": "Kandine",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "77 (72 - 82)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kandine",
+      "src": "/src/assets/weapon/Kandine.png"
+    }
+  },
+  {
+    "name": "Dragon's Tail",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 190
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon's Tail",
+      "src": "/src/assets/weapon/Dragon's Tail.png"
+    }
+  },
+  {
+    "name": "Dragon Kanzir",
+    "requirements": {
+      "level": 110,
+      "strength": 75,
+      "dexterity": 150,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "100 (95 - 105)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Kanzir",
+      "src": "/src/assets/weapon/Dragon Kanzir.png"
+    }
+  },
+  {
+    "name": "Dragon Kreda",
+    "requirements": {
+      "level": 110,
+      "strength": 0,
+      "dexterity": 150,
+      "intelligence": 0,
+      "luck": 270
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Kreda",
+      "src": "/src/assets/weapon/Dragon Kreda.png"
+    }
+  },
+  {
+    "name": "Gold Double Knife",
+    "requirements": {
+      "level": 100,
+      "strength": 70,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "95 (90 - 100)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Skelegon",
+          "monster_id": "8190003"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Griffey",
+          "monster_id": "8180001"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Silver Giant",
+          "monster_id": "9600022"
+        },
+        {
+          "monster_name": "Mini Gold Martial Artist",
+          "monster_id": "9600019"
+        },
+        {
+          "monster_name": "Silver Spearman",
+          "monster_id": "9600024"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Golden Giant",
+          "monster_id": "9600021"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Maverick A",
+          "monster_id": "9400256"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Double Knife",
+      "src": "/src/assets/weapon/Gold Double Knife.png"
+    }
+  },
+  {
+    "name": "Blood Dagger",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 250
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Birk",
+          "monster_id": "8140110"
+        },
+        {
+          "monster_name": "Dodo",
+          "monster_id": "8220004"
+        },
+        {
+          "monster_name": "Qualm Guardian",
+          "monster_id": "8200007"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Berserkie",
+          "monster_id": "9420514"
+        },
+        {
+          "monster_name": "Maverick A",
+          "monster_id": "9400256"
+        },
+        {
+          "monster_name": "Jr. Newtie",
+          "monster_id": "8190000"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Wooden Fish",
+          "monster_id": "9600018"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        },
+        {
+          "monster_name": "Typhon",
+          "monster_id": "9400574"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blood Dagger",
+      "src": "/src/assets/weapon/Blood Dagger.png"
+    }
+  },
+  {
+    "name": "Kebob",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "hp": "50 (45 - 55)",
+      "weapon_attack": "82 (77 - 87)",
+      "magic_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Kebob",
+      "src": "/src/assets/weapon/Kebob.png"
+    }
+  },
+  {
+    "name": "Diamond Dagger",
+    "requirements": {
+      "level": 50,
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 150
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "dex": "3 (2 - 4)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Kunoichi",
+          "monster_id": "9400406"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Diamond Dagger",
+      "src": "/src/assets/weapon/Diamond Dagger.png"
+    }
+  },
+  {
+    "name": "Maple Dark Mate",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "75 (70 - 80)",
+      "accuracy": "15 (13 - 17)",
+      "avoidability": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Dark Mate",
+      "src": "/src/assets/weapon/Maple Dark Mate.png"
+    }
+  },
+  {
+    "name": "Maple Asura Dagger",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "77 (72 - 82)",
+      "accuracy": "15 (13 - 17)",
+      "avoidability": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Asura Dagger",
+      "src": "/src/assets/weapon/Maple Asura Dagger.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "45 (40 - 50)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "67 (62 - 72)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (Dagger)",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "45 (40 - 50)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (Dagger)",
+      "src": "/src/assets/weapon/Singapore Flag (Dagger).png"
+    }
+  },
+  {
+    "name": "Malaysia Flag (Dagger)",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "45 (40 - 50)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Malaysia Flag (Dagger)",
+      "src": "/src/assets/weapon/Malaysia Flag (Dagger).png"
+    }
+  },
+  {
+    "name": "Beginner Thief's short sword",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 25,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "22 (19 - 25)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Beginner Thief's short sword",
+      "src": "/src/assets/weapon/Beginner Thief's short sword.png"
+    }
+  },
+  {
+    "name": "Nebula Dagger 1 (LUK)",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 190
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "80 (75 - 85)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Nebula Dagger 1 (LUK)",
+      "src": "/src/assets/weapon/Nebula Dagger 1 (LUK).png"
+    }
+  },
+  {
+    "name": "Nebula Dagger 2 (STR)",
+    "requirements": {
+      "level": 70,
+      "strength": 55,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Nebula Dagger 2 (STR)",
+      "src": "/src/assets/weapon/Nebula Dagger 2 (STR).png"
+    }
+  },
+  {
+    "name": "Razor",
+    "requirements": {
+      "level": 5,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Razor",
+      "src": "/src/assets/weapon/Razor.png"
+    }
+  },
+  {
+    "name": "Maku(LUK)",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 20,
+      "intelligence": 0,
+      "luck": 20
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "28 (25 - 31)",
+      "speed": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maku(LUK)",
+      "src": "/src/assets/weapon/Maku(LUK).png"
+    }
+  },
+  {
+    "name": "Makusuma(LUK)",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 110
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "58 (53 - 63)",
+      "speed": "4 (3 - 5)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Makusuma(LUK)",
+      "src": "/src/assets/weapon/Makusuma(LUK).png"
+    }
+  },
+  {
+    "name": "Makumagna(LUK)",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 210
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "85 (80 - 90)",
+      "speed": "6 (5 - 7)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Makumagna(LUK)",
+      "src": "/src/assets/weapon/Makumagna(LUK).png"
+    }
+  },
+  {
+    "name": "Maku(STR)",
+    "requirements": {
+      "level": 10,
+      "strength": 5,
+      "dexterity": 20,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "30 (27 - 33)",
+      "speed": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maku(STR)",
+      "src": "/src/assets/weapon/Maku(STR).png"
+    }
+  },
+  {
+    "name": "Makusuma(STR)",
+    "requirements": {
+      "level": 40,
+      "strength": 60,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "60 (55 - 65)",
+      "speed": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Makusuma(STR)",
+      "src": "/src/assets/weapon/Makusuma(STR).png"
+    }
+  },
+  {
+    "name": "Makumagna(STR)",
+    "requirements": {
+      "level": 80,
+      "strength": 60,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "87 (82 - 92)",
+      "speed": "2 (1 - 3)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Makumagna(STR)",
+      "src": "/src/assets/weapon/Makumagna(STR).png"
+    }
+  },
+  {
+    "name": "Timeless Pescas",
+    "requirements": {
+      "level": 150,
+      "strength": 75,
+      "dexterity": 160,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "107 (105 - 109)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Pescas",
+      "src": "/src/assets/weapon/Timeless Pescas.png"
+    }
+  },
+  {
+    "name": "Timeless Killic",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 160,
+      "intelligence": 0,
+      "luck": 290
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "105 (103 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Killic",
+      "src": "/src/assets/weapon/Timeless Killic.png"
+    }
+  },
+  {
+    "name": "Reverse Pescas",
+    "requirements": {
+      "level": 150,
+      "strength": 75,
+      "dexterity": 160,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "105 (103 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Pescas",
+      "src": "/src/assets/weapon/Reverse Pescas.png"
+    }
+  },
+  {
+    "name": "Reverse Killic",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 160,
+      "intelligence": 0,
+      "luck": 290
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "103 (101 - 105)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Killic",
+      "src": "/src/assets/weapon/Reverse Killic.png"
+    }
+  },
+  {
+    "name": "Raven's Beak",
+    "requirements": {
+      "level": 80,
+      "strength": 60,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Raven's Beak",
+      "src": "/src/assets/weapon/Raven's Beak.png"
+    }
+  },
+  {
+    "name": "Night Raven's Beak",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 230
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "luk": "2 (1 - 3)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Night Raven's Beak",
+      "src": "/src/assets/weapon/Night Raven's Beak.png"
+    }
+  },
+  {
+    "name": "Dawn Raven's Beak",
+    "requirements": {
+      "level": 90,
+      "strength": 60,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "luk": "4 (3 - 5)",
+      "weapon_attack": "95 (90 - 100)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dawn Raven's Beak",
+      "src": "/src/assets/weapon/Dawn Raven's Beak.png"
+    }
+  },
+  {
+    "name": "Dusk Raven's Beak",
+    "requirements": {
+      "level": 80,
+      "strength": 60,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (5)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "85 (80 - 90)",
+      "avoidability": "7 (6 - 8)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dusk Raven's Beak",
+      "src": "/src/assets/weapon/Dusk Raven's Beak.png"
+    }
+  },
+  {
+    "name": "Seraphim Dagger",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "77 (72 - 82)",
+      "accuracy": "15 (13 - 17)",
+      "avoidability": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Dagger",
+      "src": "/src/assets/weapon/Seraphim Dagger.png"
+    }
+  },
+  {
+    "name": "Speargrave (Dagger)",
+    "requirements": {
+      "level": 115,
+      "strength": 0,
+      "dexterity": 155,
+      "intelligence": 0,
+      "luck": 280
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "8 (7 - 9)",
+      "weapon_attack": "103 (98 - 108)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (Dagger)",
+      "src": "/src/assets/weapon/Speargrave (Dagger).png"
+    }
+  },
+  {
+    "name": "Flairgrave (Dagger)",
+    "requirements": {
+      "level": 115,
+      "strength": 75,
+      "dexterity": 155,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "luk": "8 (7 - 9)",
+      "weapon_attack": "103 (98 - 108)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (Dagger)",
+      "src": "/src/assets/weapon/Flairgrave (Dagger).png"
+    }
+  },
+  {
+    "name": "Balrog's Angelic Betrayal",
+    "requirements": {
+      "level": 80,
+      "strength": 60,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Angelic Betrayal",
+      "src": "/src/assets/weapon/Balrog's Angelic Betrayal.png"
+    }
+  },
+  {
+    "name": "Dragon's Tail of Balrog",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 210
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon's Tail of Balrog",
+      "src": "/src/assets/weapon/Dragon's Tail of Balrog.png"
+    }
+  },
+  {
+    "name": "Balrog's Cursayer",
+    "requirements": {
+      "level": 90,
+      "strength": 65,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Cursayer",
+      "src": "/src/assets/weapon/Balrog's Cursayer.png"
+    }
+  },
+  {
+    "name": "Balrog's Varkit",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 230
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "91 (86 - 96)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Varkit",
+      "src": "/src/assets/weapon/Balrog's Varkit.png"
+    }
+  },
+  {
+    "name": "King Pepe Gephart",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "55 (50 - 60)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Gephart",
+      "src": "/src/assets/weapon/King Pepe Gephart.png"
+    }
+  },
+  {
+    "name": "Astaroth Short Sword",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Dagger",
+      "attack_speed": "Faster (3)",
+      "dex": "10 (9 - 11)",
+      "weapon_attack": "40 (36 - 44)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth Short Sword",
+      "src": "/src/assets/weapon/Astaroth Short Sword.png"
+    }
+  }
+]

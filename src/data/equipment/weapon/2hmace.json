@@ -1,0 +1,1946 @@
+[
+  {
+    "name": "Wooden Mallet",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Bowman",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pig",
+          "monster_id": "9300058"
+        },
+        {
+          "monster_name": "Pig",
+          "monster_id": "1210100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Wooden Mallet",
+      "src": "/src/assets/weapon/Wooden Mallet.png"
+    }
+  },
+  {
+    "name": "Mithril Maul",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Evil Eye",
+          "monster_id": "2230100"
+        },
+        {
+          "monster_name": "Ligator",
+          "monster_id": "3110100"
+        },
+        {
+          "monster_name": "Flower Fish",
+          "monster_id": "2230200"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "47,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "45,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Maul",
+      "src": "/src/assets/weapon/Mithril Maul.png"
+    }
+  },
+  {
+    "name": "Heavy Mace",
+    "requirements": {
+      "level": 15,
+      "strength": 45,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "6,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heavy Mace",
+      "src": "/src/assets/weapon/Heavy Mace.png"
+    }
+  },
+  {
+    "name": "Square Hammer",
+    "requirements": {
+      "level": 20,
+      "strength": 70,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Square Hammer",
+      "src": "/src/assets/weapon/Square Hammer.png"
+    }
+  },
+  {
+    "name": "Monkey Wrench",
+    "requirements": {
+      "level": 25,
+      "strength": 25,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Bowman",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "47 (42 - 52)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Karl",
+          "npc_id": "1011000",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/1011000.png"
+        },
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Monkey Wrench",
+      "src": "/src/assets/weapon/Monkey Wrench.png"
+    }
+  },
+  {
+    "name": "Golden Mole",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Master Chronos",
+          "monster_id": "4230115"
+        },
+        {
+          "monster_name": "Ultra Gray",
+          "monster_id": "4230118"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        },
+        {
+          "monster_name": "Green King Goblin",
+          "monster_id": "7130402"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Mole",
+      "src": "/src/assets/weapon/Golden Mole.png"
+    }
+  },
+  {
+    "name": "Pickaxe",
+    "requirements": {
+      "level": 20,
+      "strength": 20,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pickaxe",
+      "src": "/src/assets/weapon/Pickaxe.png"
+    }
+  },
+  {
+    "name": "Titan",
+    "requirements": {
+      "level": 40,
+      "strength": 130,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Cerebes",
+          "monster_id": "4230108"
+        },
+        {
+          "monster_name": "Luster Pixie",
+          "monster_id": "5120000"
+        },
+        {
+          "monster_name": "Angry Stray Dog",
+          "monster_id": "9410002"
+        },
+        {
+          "monster_name": "Hogul",
+          "monster_id": "5100005"
+        },
+        {
+          "monster_name": "Jr. Pepe",
+          "monster_id": "5400000"
+        },
+        {
+          "monster_name": "Skeledog",
+          "monster_id": "4230125"
+        },
+        {
+          "monster_name": "Ice Sentinel",
+          "monster_id": "5200001"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "250,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Titan",
+      "src": "/src/assets/weapon/Titan.png"
+    }
+  },
+  {
+    "name": "Sledgehammer",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Fang",
+          "monster_id": "5140000"
+        },
+        {
+          "monster_name": "Tweeter",
+          "monster_id": "3230308"
+        },
+        {
+          "monster_name": "Jr. Pepe",
+          "monster_id": "5400000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "200,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sledgehammer",
+      "src": "/src/assets/weapon/Sledgehammer.png"
+    }
+  },
+  {
+    "name": "The Blessing",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "White Mama Monkey",
+          "monster_id": "9420010"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Hector",
+          "monster_id": "5130104"
+        },
+        {
+          "monster_name": "Blue King Goblin",
+          "monster_id": "7130401"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Blessing",
+      "src": "/src/assets/weapon/The Blessing.png"
+    }
+  },
+  {
+    "name": "Gigantic Sledge",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rash",
+          "monster_id": "7130500"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Taurospear",
+          "monster_id": "7130101"
+        },
+        {
+          "monster_name": "Captain",
+          "monster_id": "7130104"
+        },
+        {
+          "monster_name": "Risell Squid",
+          "monster_id": "8142100"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Cheap Amplifier",
+          "monster_id": "9410028"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        },
+        {
+          "monster_name": "Spirit Viking",
+          "monster_id": "8141000"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gigantic Sledge",
+      "src": "/src/assets/weapon/Gigantic Sledge.png"
+    }
+  },
+  {
+    "name": "Sake Bottle",
+    "requirements": {
+      "level": 30,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "100 (95 - 105)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sake Bottle",
+      "src": "/src/assets/weapon/Sake Bottle.png"
+    }
+  },
+  {
+    "name": "The Morningstar",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Goby",
+          "monster_id": "7130020"
+        },
+        {
+          "monster_name": "Leprechaun",
+          "monster_id": "9400583"
+        },
+        {
+          "monster_name": "Male Boss",
+          "monster_id": "9400120"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Booper Scarlion",
+          "monster_id": "9420538"
+        },
+        {
+          "monster_name": "Male Boss",
+          "monster_id": "9400122"
+        },
+        {
+          "monster_name": "Grim Phantom Watch",
+          "monster_id": "8143000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Morningstar",
+      "src": "/src/assets/weapon/The Morningstar.png"
+    }
+  },
+  {
+    "name": "Leomite",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Snowman",
+          "monster_id": "8220001"
+        },
+        {
+          "monster_name": "Blue Wyvern",
+          "monster_id": "8150301"
+        },
+        {
+          "monster_name": "Chief Memory Guardian",
+          "monster_id": "8200004"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Leomite",
+      "src": "/src/assets/weapon/Leomite.png"
+    }
+  },
+  {
+    "name": "Maple Doom Singer",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "68 (63 - 73)",
+      "accuracy": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Doom Singer",
+      "src": "/src/assets/weapon/Maple Doom Singer.png"
+    }
+  },
+  {
+    "name": "Golden Mole",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Mole",
+      "src": "/src/assets/weapon/Golden Mole.png"
+    }
+  },
+  {
+    "name": "The Blessing",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Blessing",
+      "src": "/src/assets/weapon/The Blessing.png"
+    }
+  },
+  {
+    "name": "Gigantic Sledge",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gigantic Sledge",
+      "src": "/src/assets/weapon/Gigantic Sledge.png"
+    }
+  },
+  {
+    "name": "The Morningstar",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Morningstar",
+      "src": "/src/assets/weapon/The Morningstar.png"
+    }
+  },
+  {
+    "name": "Golden Mole",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Mole",
+      "src": "/src/assets/weapon/Golden Mole.png"
+    }
+  },
+  {
+    "name": "The Blessing",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Blessing",
+      "src": "/src/assets/weapon/The Blessing.png"
+    }
+  },
+  {
+    "name": "Gigantic Sledge",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gigantic Sledge",
+      "src": "/src/assets/weapon/Gigantic Sledge.png"
+    }
+  },
+  {
+    "name": "The Morningstar",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Morningstar",
+      "src": "/src/assets/weapon/The Morningstar.png"
+    }
+  },
+  {
+    "name": "Golden Mole",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Mole",
+      "src": "/src/assets/weapon/Golden Mole.png"
+    }
+  },
+  {
+    "name": "The Blessing",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Blessing",
+      "src": "/src/assets/weapon/The Blessing.png"
+    }
+  },
+  {
+    "name": "Gigantic Sledge",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gigantic Sledge",
+      "src": "/src/assets/weapon/Gigantic Sledge.png"
+    }
+  },
+  {
+    "name": "The Morningstar",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Morningstar",
+      "src": "/src/assets/weapon/The Morningstar.png"
+    }
+  },
+  {
+    "name": "Golden Smith Hammer",
+    "requirements": {
+      "level": 100,
+      "strength": 310,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Skelegon",
+          "monster_id": "8190003"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Griffey",
+          "monster_id": "8180001"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Silver Giant",
+          "monster_id": "9600022"
+        },
+        {
+          "monster_name": "Mini Gold Martial Artist",
+          "monster_id": "9600019"
+        },
+        {
+          "monster_name": "Silver Spearman",
+          "monster_id": "9600024"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Golden Giant",
+          "monster_id": "9600021"
+        },
+        {
+          "monster_name": "Qualm Guardian",
+          "monster_id": "8200007"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Overlord",
+          "monster_id": "9400254"
+        },
+        {
+          "monster_name": "Red Kentaurus",
+          "monster_id": "8140102"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Smith Hammer",
+      "src": "/src/assets/weapon/Golden Smith Hammer.png"
+    }
+  },
+  {
+    "name": "Dragon Flame",
+    "requirements": {
+      "level": 110,
+      "strength": 340,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "107 (102 - 112)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Flame",
+      "src": "/src/assets/weapon/Dragon Flame.png"
+    }
+  },
+  {
+    "name": "Maple Belzet",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "6 (5 - 7)",
+      "weapon_attack": "85 (80 - 90)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Belzet",
+      "src": "/src/assets/weapon/Maple Belzet.png"
+    }
+  },
+  {
+    "name": "Pink Seal Cushion",
+    "requirements": {
+      "level": 105,
+      "strength": 300,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "dex": "1 (0 - 2)",
+      "weapon_attack": "103 (98 - 108)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Seal Cushion",
+      "src": "/src/assets/weapon/Pink Seal Cushion.png"
+    }
+  },
+  {
+    "name": "Blue Seal Cushion",
+    "requirements": {
+      "level": 105,
+      "strength": 290,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "accuracy": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Kacchuu Musha",
+          "monster_id": "9400405"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Seal Cushion",
+      "src": "/src/assets/weapon/Blue Seal Cushion.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "70 (65 - 75)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (Two Handed Mace)",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (Two Handed Mace)",
+      "src": "/src/assets/weapon/Singapore Flag (Two Handed Mace).png"
+    }
+  },
+  {
+    "name": "Toymaker Hammer",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "55 (50 - 60)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Toymaker Hammer",
+      "src": "/src/assets/weapon/Toymaker Hammer.png"
+    }
+  },
+  {
+    "name": "Timeless Bellocce",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "124 (122 - 126)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Bellocce",
+      "src": "/src/assets/weapon/Timeless Bellocce.png"
+    }
+  },
+  {
+    "name": "Reverse Bellocce",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "122 (120 - 124)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Bellocce",
+      "src": "/src/assets/weapon/Reverse Bellocce.png"
+    }
+  },
+  {
+    "name": "Seraphim Two-handed Blunt Weapon",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "85 (80 - 90)",
+      "accuracy": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Two-handed Blunt Weapon",
+      "src": "/src/assets/weapon/Seraphim Two-handed Blunt Weapon.png"
+    }
+  },
+  {
+    "name": "Speargrave (Two-Handed Mace)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (Two-Handed Mace)",
+      "src": "/src/assets/weapon/Speargrave (Two-Handed Mace).png"
+    }
+  },
+  {
+    "name": "Flairgrave (Two-Handed Mace)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (Two-Handed Mace)",
+      "src": "/src/assets/weapon/Flairgrave (Two-Handed Mace).png"
+    }
+  },
+  {
+    "name": "Balrog's Morningstar",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "89 (84 - 94)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Morningstar",
+      "src": "/src/assets/weapon/Balrog's Morningstar.png"
+    }
+  },
+  {
+    "name": "Balrog's Leomite",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Leomite",
+      "src": "/src/assets/weapon/Balrog's Leomite.png"
+    }
+  },
+  {
+    "name": "GMS Maul",
+    "requirements": {
+      "level": 120,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "112 (107 - 117)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "GMS Maul",
+      "src": "/src/assets/weapon/GMS Maul.png"
+    }
+  },
+  {
+    "name": "King Pepe Big Hammer",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Two Handed Mace",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Big Hammer",
+      "src": "/src/assets/weapon/King Pepe Big Hammer.png"
+    }
+  }
+]

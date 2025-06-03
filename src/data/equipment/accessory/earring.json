@@ -1,0 +1,2664 @@
+[
+  {
+    "name": "Weighted Earrings",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yellow Lizard",
+          "monster_id": "9420004"
+        },
+        {
+          "monster_name": "Zombie Mushroom",
+          "monster_id": "2230101"
+        },
+        {
+          "monster_name": "Wild Boar",
+          "monster_id": "2230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Weighted Earrings",
+      "src": "/src/assets/accessory/Weighted Earrings.png"
+    }
+  },
+  {
+    "name": "Single Earring",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 3500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Octopus",
+          "monster_id": "1120100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Sam",
+          "npc_id": "1011001",
+          "price": "7,000",
+          "npc_image": "/static/images/lib/npc/1011001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Single Earring",
+      "src": "/src/assets/accessory/Single Earring.png"
+    }
+  },
+  {
+    "name": "Sapphire Earrings",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 27500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Toy Trojan",
+          "monster_id": "3230305"
+        },
+        {
+          "monster_name": "Jr. Cellion",
+          "monster_id": "3210200"
+        },
+        {
+          "monster_name": "Tippo Blue",
+          "monster_id": "9420505"
+        },
+        {
+          "monster_name": "Ashigaru",
+          "monster_id": "9400404"
+        },
+        {
+          "monster_name": "Leatty",
+          "monster_id": "5300000"
+        },
+        {
+          "monster_name": "Wild Boar",
+          "monster_id": "2230102"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Teyandei",
+          "npc_id": "9110101",
+          "price": "110,000",
+          "npc_image": "/static/images/lib/npc/9110101.png"
+        },
+        {
+          "npc_name": "Hanako",
+          "npc_id": "9120001",
+          "price": "110,000",
+          "npc_image": "/static/images/lib/npc/9120001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sapphire Earrings",
+      "src": "/src/assets/accessory/Sapphire Earrings.png"
+    }
+  },
+  {
+    "name": "Amethyst Earrings",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 3500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Red Snail",
+          "monster_id": "130101"
+        },
+        {
+          "monster_name": "Ribbon Pig",
+          "monster_id": "9300059"
+        },
+        {
+          "monster_name": "Ribbon Pig",
+          "monster_id": "1210101"
+        },
+        {
+          "monster_name": "Axe Stump",
+          "monster_id": "1130100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Sam",
+          "npc_id": "1011001",
+          "price": "7,000",
+          "npc_image": "/static/images/lib/npc/1011001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Amethyst Earrings",
+      "src": "/src/assets/accessory/Amethyst Earrings.png"
+    }
+  },
+  {
+    "name": "Gold Earrings",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "Stray Dog",
+          "monster_id": "9410000"
+        },
+        {
+          "monster_name": "Sand Rat",
+          "monster_id": "2110300"
+        },
+        {
+          "monster_name": "Ear Plug Plead",
+          "monster_id": "2100106"
+        },
+        {
+          "monster_name": "Flaming Raccoon",
+          "monster_id": "9400010"
+        },
+        {
+          "monster_name": "Zombie Mushroom",
+          "monster_id": "2230101"
+        },
+        {
+          "monster_name": "Transformed Pink Perfume",
+          "monster_id": "9410027"
+        },
+        {
+          "monster_name": "Fire Raccoon",
+          "monster_id": "9400001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Earrings",
+      "src": "/src/assets/accessory/Gold Earrings.png"
+    }
+  },
+  {
+    "name": "Red Cross Earrings",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Seacle",
+          "monster_id": "2230105"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Cross Earrings",
+      "src": "/src/assets/accessory/Red Cross Earrings.png"
+    }
+  },
+  {
+    "name": "Lightning Earrings",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 20000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mighty Maple Eater",
+          "monster_id": "9400548"
+        },
+        {
+          "monster_name": "Jr. Cactus",
+          "monster_id": "2100102"
+        },
+        {
+          "monster_name": "Trixter",
+          "monster_id": "2230103"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lightning Earrings",
+      "src": "/src/assets/accessory/Lightning Earrings.png"
+    }
+  },
+  {
+    "name": "Emerald Earrings",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 20000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Sand Dwarf",
+          "monster_id": "3110301"
+        },
+        {
+          "monster_name": "Sand Dwarf",
+          "monster_id": "3100101"
+        },
+        {
+          "monster_name": "Cube Slime",
+          "monster_id": "3110300"
+        },
+        {
+          "monster_name": "Bubble Fish",
+          "monster_id": "2230109"
+        },
+        {
+          "monster_name": "Extra A",
+          "monster_id": "9400100"
+        },
+        {
+          "monster_name": "Ginseng Jar",
+          "monster_id": "4230506"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Emerald Earrings",
+      "src": "/src/assets/accessory/Emerald Earrings.png"
+    }
+  },
+  {
+    "name": "Cat's Eye",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 27500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Killa Bee",
+          "monster_id": "9400540"
+        },
+        {
+          "monster_name": "Cloud Fox",
+          "monster_id": "9400002"
+        },
+        {
+          "monster_name": "Blue Flower Serpent",
+          "monster_id": "4230503"
+        },
+        {
+          "monster_name": "Retz",
+          "monster_id": "3210208"
+        },
+        {
+          "monster_name": "Evil Eye",
+          "monster_id": "2230100"
+        },
+        {
+          "monster_name": "Jr. Cellion",
+          "monster_id": "3210200"
+        },
+        {
+          "monster_name": "Paper Lantern Ghost",
+          "monster_id": "9400011"
+        },
+        {
+          "monster_name": "Freezer",
+          "monster_id": "9420501"
+        },
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        },
+        {
+          "monster_name": "Wraith",
+          "monster_id": "4230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cat's Eye",
+      "src": "/src/assets/accessory/Cat's Eye.png"
+    }
+  },
+  {
+    "name": "Yellow Square",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Killa Bee",
+          "monster_id": "9400540"
+        },
+        {
+          "monster_name": "Evil Eye",
+          "monster_id": "2230100"
+        },
+        {
+          "monster_name": "Fire Sentinel",
+          "monster_id": "5200002"
+        },
+        {
+          "monster_name": "Desert Rabbit (F)",
+          "monster_id": "2100100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Square",
+      "src": "/src/assets/accessory/Yellow Square.png"
+    }
+  },
+  {
+    "name": "Star Earrings",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 20000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Scuba Pepe",
+          "monster_id": "3210450"
+        },
+        {
+          "monster_name": "Toad",
+          "monster_id": "9420000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Star Earrings",
+      "src": "/src/assets/accessory/Star Earrings.png"
+    }
+  },
+  {
+    "name": "Blue Moon",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Charmer",
+          "monster_id": "9420534"
+        },
+        {
+          "monster_name": "Jr. Grupin",
+          "monster_id": "3210202"
+        },
+        {
+          "monster_name": "Big Cloud Fox",
+          "monster_id": "9400004"
+        },
+        {
+          "monster_name": "Peach Monkey",
+          "monster_id": "6130207"
+        },
+        {
+          "monster_name": "Moon Bunny",
+          "monster_id": "4230300"
+        },
+        {
+          "monster_name": "Sophilia Doll",
+          "monster_id": "9400560"
+        },
+        {
+          "monster_name": "Slimy",
+          "monster_id": "9420510"
+        },
+        {
+          "monster_name": "Grupin",
+          "monster_id": "5120003"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Moon",
+      "src": "/src/assets/accessory/Blue Moon.png"
+    }
+  },
+  {
+    "name": "Skull Earrings",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 75000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "Iron Mutae",
+          "monster_id": "4110300"
+        },
+        {
+          "monster_name": "Plow Ox",
+          "monster_id": "9600007"
+        },
+        {
+          "monster_name": "Red Bubble Tea",
+          "monster_id": "9410005"
+        },
+        {
+          "monster_name": "Ultra Gray",
+          "monster_id": "4230118"
+        },
+        {
+          "monster_name": "Freezer",
+          "monster_id": "4230124"
+        },
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Skull Earrings",
+      "src": "/src/assets/accessory/Skull Earrings.png"
+    }
+  },
+  {
+    "name": "Red-Hearted Earrings",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Sakura Cellion",
+          "monster_id": "9400509"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Red Slime",
+          "monster_id": "9400204"
+        },
+        {
+          "monster_name": "Firebrand",
+          "monster_id": "9400578"
+        },
+        {
+          "monster_name": "Cellion",
+          "monster_id": "5120001"
+        },
+        {
+          "monster_name": "Mushmom",
+          "monster_id": "6130101"
+        },
+        {
+          "monster_name": "Deo",
+          "monster_id": "3220001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red-Hearted Earrings",
+      "src": "/src/assets/accessory/Red-Hearted Earrings.png"
+    }
+  },
+  {
+    "name": "Pink-Flowered Earrings",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "40 (36 - 44)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 100000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Fang",
+          "monster_id": "5140000"
+        },
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Cerebes",
+          "monster_id": "7130001"
+        },
+        {
+          "monster_name": "Zombie Mushmom",
+          "monster_id": "6300005"
+        },
+        {
+          "monster_name": "Sage Cat",
+          "monster_id": "6130209"
+        },
+        {
+          "monster_name": "MT-09",
+          "monster_id": "5120100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink-Flowered Earrings",
+      "src": "/src/assets/accessory/Pink-Flowered Earrings.png"
+    }
+  },
+  {
+    "name": "Metal Silver Earrings",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "50 (45 - 55)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 125000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Klock",
+          "monster_id": "8140200"
+        },
+        {
+          "monster_name": "Windraider",
+          "monster_id": "9400576"
+        },
+        {
+          "monster_name": "Transformed Yellow Perfume",
+          "monster_id": "9410025"
+        },
+        {
+          "monster_name": "Dark Yeti",
+          "monster_id": "6400000"
+        },
+        {
+          "monster_name": "Site",
+          "monster_id": "6110301"
+        },
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Mr. Anchor",
+          "monster_id": "9420512"
+        },
+        {
+          "monster_name": "Kru",
+          "monster_id": "6130208"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Metal Silver Earrings",
+      "src": "/src/assets/accessory/Metal Silver Earrings.png"
+    }
+  },
+  {
+    "name": "Metal Heart Earrings",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "60 (54 - 66)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 150000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Cerebes",
+          "monster_id": "7130001"
+        },
+        {
+          "monster_name": "Dual Ghost Pirate",
+          "monster_id": "7160000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Metal Heart Earrings",
+      "src": "/src/assets/accessory/Metal Heart Earrings.png"
+    }
+  },
+  {
+    "name": "Rose Earrings",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "70 (63 - 77)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 175000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Skelegon",
+          "monster_id": "8190003"
+        },
+        {
+          "monster_name": "Thanatos",
+          "monster_id": "8170000"
+        },
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Snowman",
+          "monster_id": "8220001"
+        },
+        {
+          "monster_name": "Silver Giant",
+          "monster_id": "9600022"
+        },
+        {
+          "monster_name": "Mini Gold Martial Artist",
+          "monster_id": "9600019"
+        },
+        {
+          "monster_name": "Silver Spearman",
+          "monster_id": "9600024"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        },
+        {
+          "monster_name": "Golden Giant",
+          "monster_id": "9600021"
+        },
+        {
+          "monster_name": "Bone Fish",
+          "monster_id": "8140600"
+        },
+        {
+          "monster_name": "Risell Squid",
+          "monster_id": "8142100"
+        },
+        {
+          "monster_name": "Shark",
+          "monster_id": "8150100"
+        },
+        {
+          "monster_name": "Censer",
+          "monster_id": "9600017"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Rose Earrings",
+      "src": "/src/assets/accessory/Rose Earrings.png"
+    }
+  },
+  {
+    "name": "Pansy Earrings",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "25 (22 - 28)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 65000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Red Porky",
+          "monster_id": "4230501"
+        },
+        {
+          "monster_name": "Iron Boar",
+          "monster_id": "4230400"
+        },
+        {
+          "monster_name": "Tick-Tock",
+          "monster_id": "4230113"
+        },
+        {
+          "monster_name": "Miner Zombie",
+          "monster_id": "5130108"
+        },
+        {
+          "monster_name": "Triple Rumo",
+          "monster_id": "3110303"
+        },
+        {
+          "monster_name": "Block Golem",
+          "monster_id": "4230109"
+        },
+        {
+          "monster_name": "Emo Slime",
+          "monster_id": "9420528"
+        },
+        {
+          "monster_name": "Planey",
+          "monster_id": "3230304"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pansy Earrings",
+      "src": "/src/assets/accessory/Pansy Earrings.png"
+    }
+  },
+  {
+    "name": "Crystal Flower Earrings",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 95000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bellflower Root",
+          "monster_id": "5120501"
+        },
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Coolie Zombie",
+          "monster_id": "5130107"
+        },
+        {
+          "monster_name": "Transformed Blue Perfume",
+          "monster_id": "9410023"
+        },
+        {
+          "monster_name": "Malady",
+          "monster_id": "5300100"
+        },
+        {
+          "monster_name": "Homun",
+          "monster_id": "6110300"
+        },
+        {
+          "monster_name": "Green King Goblin",
+          "monster_id": "7130402"
+        },
+        {
+          "monster_name": "Dreamy Ghost",
+          "monster_id": "9400013"
+        },
+        {
+          "monster_name": "Grupin",
+          "monster_id": "5120003"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crystal Flower Earrings",
+      "src": "/src/assets/accessory/Crystal Flower Earrings.png"
+    }
+  },
+  {
+    "name": "Gold Drop Earrings",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "45 (40 - 50)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 115000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Transformed Yellow Perfume",
+          "monster_id": "9410025"
+        },
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Latest Hits Compilation",
+          "monster_id": "9410030"
+        },
+        {
+          "monster_name": "Rash",
+          "monster_id": "7130500"
+        },
+        {
+          "monster_name": "Stormbreaker",
+          "monster_id": "9400581"
+        },
+        {
+          "monster_name": "Master Soul Teddy",
+          "monster_id": "6230500"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Squid",
+          "monster_id": "8141300"
+        },
+        {
+          "monster_name": "Homun",
+          "monster_id": "6110300"
+        },
+        {
+          "monster_name": "Captain",
+          "monster_id": "7130104"
+        },
+        {
+          "monster_name": "Jester Scarlion",
+          "monster_id": "9420535"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Drop Earrings",
+      "src": "/src/assets/accessory/Gold Drop Earrings.png"
+    }
+  },
+  {
+    "name": "Holy Cross Earrings",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 95000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Samiho",
+          "monster_id": "5100004"
+        },
+        {
+          "monster_name": "Dark Stone Golem",
+          "monster_id": "5130102"
+        },
+        {
+          "monster_name": "Froscola",
+          "monster_id": "9420536"
+        },
+        {
+          "monster_name": "Transformed Yeti",
+          "monster_id": "6300001"
+        },
+        {
+          "monster_name": "Grizzly",
+          "monster_id": "5120500"
+        },
+        {
+          "monster_name": "Biker Monkey",
+          "monster_id": "9410004"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Holy Cross Earrings",
+      "src": "/src/assets/accessory/Holy Cross Earrings.png"
+    }
+  },
+  {
+    "name": "Half Earrings",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "55 (49 - 61)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 140000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Klock",
+          "monster_id": "8140200"
+        },
+        {
+          "monster_name": "Deep Buffoon",
+          "monster_id": "6400100"
+        },
+        {
+          "monster_name": "Transformed Yellow Perfume",
+          "monster_id": "9410025"
+        },
+        {
+          "monster_name": "Hankie",
+          "monster_id": "7130004"
+        },
+        {
+          "monster_name": "Blood Harp",
+          "monster_id": "8140002"
+        },
+        {
+          "monster_name": "Female Mannequin",
+          "monster_id": "9410033"
+        },
+        {
+          "monster_name": "Red Kentaurus",
+          "monster_id": "8140102"
+        },
+        {
+          "monster_name": "Blue King Goblin",
+          "monster_id": "7130401"
+        },
+        {
+          "monster_name": "Male Mannequin",
+          "monster_id": "9410034"
+        },
+        {
+          "monster_name": "Green King Goblin",
+          "monster_id": "7130402"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Half Earrings",
+      "src": "/src/assets/accessory/Half Earrings.png"
+    }
+  },
+  {
+    "name": "Strawberry Earrings",
+    "requirements": {
+      "level": 85,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "65 (58 - 72)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 165000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Leprechaun",
+          "monster_id": "9400583"
+        },
+        {
+          "monster_name": "Male Boss",
+          "monster_id": "9400120"
+        },
+        {
+          "monster_name": "Bigfoot",
+          "monster_id": "9400575"
+        },
+        {
+          "monster_name": "Gatekeeper",
+          "monster_id": "8160000"
+        },
+        {
+          "monster_name": "Veetron",
+          "monster_id": "9420515"
+        },
+        {
+          "monster_name": "Black Kentaurus",
+          "monster_id": "8140101"
+        },
+        {
+          "monster_name": "Cold Shark",
+          "monster_id": "8150101"
+        },
+        {
+          "monster_name": "Wolf Spider",
+          "monster_id": "9400545"
+        },
+        {
+          "monster_name": "Dual Birk",
+          "monster_id": "8140111"
+        },
+        {
+          "monster_name": "Lycanthrope",
+          "monster_id": "8140000"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190005"
+        },
+        {
+          "monster_name": "Qualm Monk Trainee",
+          "monster_id": "8200006"
+        },
+        {
+          "monster_name": "Male Boss",
+          "monster_id": "9400122"
+        },
+        {
+          "monster_name": "Black Bear Swordsman",
+          "monster_id": "9600012"
+        },
+        {
+          "monster_name": "Petrifighter",
+          "monster_id": "9420517"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190002"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Strawberry Earrings",
+      "src": "/src/assets/accessory/Strawberry Earrings.png"
+    }
+  },
+  {
+    "name": "Leaf Earrings",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "mp": "50 (45 - 55)",
+      "magic_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Leaf Earrings",
+      "src": "/src/assets/accessory/Leaf Earrings.png"
+    }
+  },
+  {
+    "name": "Gold Emerald Earrings",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "dex": "2 (1 - 3)",
+      "int": "5 (4 - 6)",
+      "magic_def": "58 (52 - 64)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 30000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bodyguards A B Boss",
+          "monster_id": "9400116"
+        },
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Maverick B",
+          "monster_id": "9400258"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Emerald Earrings",
+      "src": "/src/assets/accessory/Gold Emerald Earrings.png"
+    }
+  },
+  {
+    "name": "Black Emerald Earrings",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "mp": "30 (27 - 33)",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 20000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Black Crow",
+          "monster_id": "9400014"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Emerald Earrings",
+      "src": "/src/assets/accessory/Black Emerald Earrings.png"
+    }
+  },
+  {
+    "name": "Red Emerald Earrings",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "int": "2 (1 - 3)",
+      "magic_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Emerald Earrings",
+      "src": "/src/assets/accessory/Red Emerald Earrings.png"
+    }
+  },
+  {
+    "name": "Sword Earrings",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "hp": "30 (27 - 33)",
+      "magic_def": "80 (72 - 88)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Blue Mushmom",
+          "monster_id": "9400205"
+        },
+        {
+          "monster_name": "Overlord",
+          "monster_id": "9400254"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sword Earrings",
+      "src": "/src/assets/accessory/Sword Earrings.png"
+    }
+  },
+  {
+    "name": "Timeless Earrings",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "80 (72 - 88)",
+      "accuracy": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Earrings",
+      "src": "/src/assets/accessory/Timeless Earrings.png"
+    }
+  },
+  {
+    "name": "Fallen Leaf Earrings",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "hp": "25 (22 - 28)",
+      "mp": "25 (22 - 28)",
+      "magic_attack": "1 (0 - 2)",
+      "magic_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Red Slime",
+          "monster_id": "9400204"
+        },
+        {
+          "monster_name": "Firebrand",
+          "monster_id": "9400578"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fallen Leaf Earrings",
+      "src": "/src/assets/accessory/Fallen Leaf Earrings.png"
+    }
+  },
+  {
+    "name": "Protector Rock",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Protector Rock",
+      "src": "/src/assets/accessory/Protector Rock.png"
+    }
+  },
+  {
+    "name": "Blue Crystal Earring",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "25 (22 - 28)",
+      "avoidability": "2 (1 - 3)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Crystal Earring",
+      "src": "/src/assets/accessory/Blue Crystal Earring.png"
+    }
+  },
+  {
+    "name": "Eclipse Earrings",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Fire Tusk",
+          "monster_id": "9400542"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Eclipse Earrings",
+      "src": "/src/assets/accessory/Eclipse Earrings.png"
+    }
+  },
+  {
+    "name": "Maple Earring",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Earring",
+      "src": "/src/assets/accessory/Maple Earring.png"
+    }
+  },
+  {
+    "name": "Maple Earring",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "hp": "15 (13 - 17)",
+      "mp": "15 (13 - 17)",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Earring",
+      "src": "/src/assets/accessory/Maple Earring.png"
+    }
+  },
+  {
+    "name": "Maple Earring",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "hp": "25 (22 - 28)",
+      "mp": "25 (22 - 28)",
+      "magic_def": "50 (45 - 55)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 125000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Earring",
+      "src": "/src/assets/accessory/Maple Earring.png"
+    }
+  },
+  {
+    "name": "Cecelia's Earrings",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "55 (49 - 61)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 150000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cecelia's Earrings",
+      "src": "/src/assets/accessory/Cecelia's Earrings.png"
+    }
+  },
+  {
+    "name": "Moonstar Earrings",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "27 (24 - 30)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Moonstar Earrings",
+      "src": "/src/assets/accessory/Moonstar Earrings.png"
+    }
+  },
+  {
+    "name": "Celestial Earrings",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "25 (22 - 28)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 27500",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Celestial Earrings",
+      "src": "/src/assets/accessory/Celestial Earrings.png"
+    }
+  },
+  {
+    "name": "Spider Venom Earrings",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 0",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Spider Venom Earrings",
+      "src": "/src/assets/accessory/Spider Venom Earrings.png"
+    }
+  },
+  {
+    "name": "Coke Earring",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "hp": "10 (9 - 11)",
+      "mp": "10 (9 - 11)",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Coke Earring",
+      "src": "/src/assets/accessory/Coke Earring.png"
+    }
+  },
+  {
+    "name": "Crystal Leaf Earrings",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_attack": "3 (2 - 4)",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "6"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crystal Leaf Earrings",
+      "src": "/src/assets/accessory/Crystal Leaf Earrings.png"
+    }
+  },
+  {
+    "name": "Dark Shards",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "weapon_def": "3 (2 - 4)",
+      "magic_def": "37 (33 - 41)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Shards",
+      "src": "/src/assets/accessory/Dark Shards.png"
+    }
+  },
+  {
+    "name": "Snail's Eye",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "15 (13 - 17)",
+      "speed": "2 (1 - 3)",
+      "jump": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 62500",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Snail's Eye",
+      "src": "/src/assets/accessory/Snail's Eye.png"
+    }
+  },
+  {
+    "name": "Coca-Cola Zero Earrings",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "hp": "10 (9 - 11)",
+      "mp": "10 (9 - 11)",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Coca-Cola Zero Earrings",
+      "src": "/src/assets/accessory/Coca-Cola Zero Earrings.png"
+    }
+  },
+  {
+    "name": "Altaire Earrings",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "magic_def": "25 (22 - 28)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Altaire Earrings",
+      "src": "/src/assets/accessory/Altaire Earrings.png"
+    }
+  },
+  {
+    "name": "Glittering Altaire Earrings",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "int": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "magic_def": "25 (22 - 28)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Glittering Altaire Earrings",
+      "src": "/src/assets/accessory/Glittering Altaire Earrings.png"
+    }
+  },
+  {
+    "name": "Element Pierce",
+    "requirements": {
+      "level": 110,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "magic_attack": "2 (1 - 3)",
+      "magic_def": "100 (90 - 110)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 25000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Element Pierce",
+      "src": "/src/assets/accessory/Element Pierce.png"
+    }
+  },
+  {
+    "name": "Shield Earrings",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "magic_def": "80 (72 - 88)",
+      "accuracy": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Furious Scarlion Boss",
+          "monster_id": "9420549"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Shield Earrings",
+      "src": "/src/assets/accessory/Shield Earrings.png"
+    }
+  },
+  {
+    "name": "Free Spirit Piercing",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "number_of_upgrades_available": "4"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Free Spirit Piercing",
+      "src": "/src/assets/accessory/Free Spirit Piercing.png"
+    }
+  },
+  {
+    "name": "Rex's Green Earrings",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 4900",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Rex's Green Earrings",
+      "src": "/src/assets/accessory/Rex's Green Earrings.png"
+    }
+  },
+  {
+    "name": "Rex's Red Earrings",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 4900",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Rex's Red Earrings",
+      "src": "/src/assets/accessory/Rex's Red Earrings.png"
+    }
+  },
+  {
+    "name": "Rex's Blue Earrings",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "dex": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 4900",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Rex's Blue Earrings",
+      "src": "/src/assets/accessory/Rex's Blue Earrings.png"
+    }
+  },
+  {
+    "name": "Tangy Earrings",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 0",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tangy Earrings",
+      "src": "/src/assets/accessory/Tangy Earrings.png"
+    }
+  },
+  {
+    "name": "Octopus Earrings",
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Earring",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "20 (18 - 22)",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Octopus Earrings",
+      "src": "/src/assets/accessory/Octopus Earrings.png"
+    }
+  }
+]

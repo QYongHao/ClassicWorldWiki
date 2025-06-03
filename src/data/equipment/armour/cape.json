@@ -1,0 +1,3450 @@
+[
+  {
+    "name": "Green Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Desert Giant",
+          "monster_id": "4230600"
+        },
+        {
+          "monster_name": "Plow Ox",
+          "monster_id": "9600007"
+        },
+        {
+          "monster_name": "Hector",
+          "monster_id": "5130104"
+        },
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Adventurer Cape",
+      "src": "/src/assets/armour/Green Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "Blue Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Blue Flower Serpent",
+          "monster_id": "4230503"
+        },
+        {
+          "monster_name": "Angry Stray Dog",
+          "monster_id": "9410002"
+        },
+        {
+          "monster_name": "Black Goat",
+          "monster_id": "9600005"
+        },
+        {
+          "monster_name": "Moon Bunny",
+          "monster_id": "4230300"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Adventurer Cape",
+      "src": "/src/assets/armour/Blue Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "Red Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Adventurer Cape",
+      "src": "/src/assets/armour/Red Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "White Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Emo Slime",
+          "monster_id": "9420528"
+        },
+        {
+          "monster_name": "Ginseng Jar",
+          "monster_id": "4230506"
+        },
+        {
+          "monster_name": "Tippo Red",
+          "monster_id": "9420504"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Adventurer Cape",
+      "src": "/src/assets/armour/White Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "Black Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Adventurer Cape",
+      "src": "/src/assets/armour/Black Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "Blue Justice Cape",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "13 (11 - 15)",
+      "magic_def": "18 (16 - 20)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 70000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Justice Cape",
+      "src": "/src/assets/armour/Blue Justice Cape.png"
+    }
+  },
+  {
+    "name": "Red Justice Cape",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "13 (11 - 15)",
+      "magic_def": "18 (16 - 20)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 70000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stormbreaker",
+          "monster_id": "9400581"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Justice Cape",
+      "src": "/src/assets/armour/Red Justice Cape.png"
+    }
+  },
+  {
+    "name": "White Justice Cape",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "13 (11 - 15)",
+      "magic_def": "18 (16 - 20)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 70000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dreamy Ghost",
+          "monster_id": "9400013"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Justice Cape",
+      "src": "/src/assets/armour/White Justice Cape.png"
+    }
+  },
+  {
+    "name": "Black Justice Cape",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "13 (11 - 15)",
+      "magic_def": "18 (16 - 20)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 70000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Justice Cape",
+      "src": "/src/assets/armour/Black Justice Cape.png"
+    }
+  },
+  {
+    "name": "Blue Magic Cape",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "16 (14 - 18)",
+      "magic_def": "21 (18 - 24)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "Selkie Jr.",
+          "monster_id": "9420511"
+        },
+        {
+          "monster_name": "Dark Jr. Yeti",
+          "monster_id": "5130105"
+        },
+        {
+          "monster_name": "Panda",
+          "monster_id": "6130203"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Magic Cape",
+      "src": "/src/assets/armour/Blue Magic Cape.png"
+    }
+  },
+  {
+    "name": "Red Magic Cape",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "16 (14 - 18)",
+      "magic_def": "21 (18 - 24)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Wild Kargo",
+          "monster_id": "6230100"
+        },
+        {
+          "monster_name": "Selkie Jr.",
+          "monster_id": "9420511"
+        },
+        {
+          "monster_name": "Coolie Zombie",
+          "monster_id": "5130107"
+        },
+        {
+          "monster_name": "Chief Gray",
+          "monster_id": "4240000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Magic Cape",
+      "src": "/src/assets/armour/Red Magic Cape.png"
+    }
+  },
+  {
+    "name": "White Magic Cape",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "16 (14 - 18)",
+      "magic_def": "21 (18 - 24)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Peach Monkey",
+          "monster_id": "6130207"
+        },
+        {
+          "monster_name": "Miner Zombie",
+          "monster_id": "5130108"
+        },
+        {
+          "monster_name": "Slimy",
+          "monster_id": "9420510"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Magic Cape",
+      "src": "/src/assets/armour/White Magic Cape.png"
+    }
+  },
+  {
+    "name": "Black Magic Cape",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "18 (16 - 20)",
+      "magic_def": "23 (20 - 26)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Stone Golem",
+          "monster_id": "5130102"
+        },
+        {
+          "monster_name": "Python",
+          "monster_id": "9420002"
+        },
+        {
+          "monster_name": "Morphed Blin",
+          "monster_id": "6130202"
+        },
+        {
+          "monster_name": "Dark Pepe",
+          "monster_id": "6230200"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Magic Cape",
+      "src": "/src/assets/armour/Black Magic Cape.png"
+    }
+  },
+  {
+    "name": "Blue Gaia Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "19 (17 - 21)",
+      "magic_def": "24 (21 - 27)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 140000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Fang",
+          "monster_id": "5140000"
+        },
+        {
+          "monster_name": "Yellow King Goblin",
+          "monster_id": "7130400"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Gaia Cape",
+      "src": "/src/assets/armour/Blue Gaia Cape.png"
+    }
+  },
+  {
+    "name": "Red Gaia Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "19 (17 - 21)",
+      "magic_def": "24 (21 - 27)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 140000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Homun",
+          "monster_id": "6110300"
+        },
+        {
+          "monster_name": "Transformed Pink Perfume",
+          "monster_id": "9410027"
+        },
+        {
+          "monster_name": "Red Drake",
+          "monster_id": "6130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Gaia Cape",
+      "src": "/src/assets/armour/Red Gaia Cape.png"
+    }
+  },
+  {
+    "name": "White Gaia Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "19 (17 - 21)",
+      "magic_def": "24 (21 - 27)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 140000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rash",
+          "monster_id": "7130500"
+        },
+        {
+          "monster_name": "Captain",
+          "monster_id": "7130104"
+        },
+        {
+          "monster_name": "Cheap Amplifier",
+          "monster_id": "9410028"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Gaia Cape",
+      "src": "/src/assets/armour/White Gaia Cape.png"
+    }
+  },
+  {
+    "name": "Black Gaia Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "21 (18 - 24)",
+      "magic_def": "26 (23 - 29)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 140000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Zombie Mushmom",
+          "monster_id": "6300005"
+        },
+        {
+          "monster_name": "Pepe",
+          "monster_id": "6130103"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Gaia Cape",
+      "src": "/src/assets/armour/Black Gaia Cape.png"
+    }
+  },
+  {
+    "name": "Green Seraph Cape",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "25 (22 - 28)",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Squid",
+          "monster_id": "8141300"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Seraph Cape",
+      "src": "/src/assets/armour/Green Seraph Cape.png"
+    }
+  },
+  {
+    "name": "Blue Seraph Cape",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "25 (22 - 28)",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Rash",
+          "monster_id": "7130501"
+        },
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Seraph Cape",
+      "src": "/src/assets/armour/Blue Seraph Cape.png"
+    }
+  },
+  {
+    "name": "Red Seraph Cape",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "25 (22 - 28)",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Eye of Time",
+          "monster_id": "8200000"
+        },
+        {
+          "monster_name": "Taurospear",
+          "monster_id": "7130101"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Seraph Cape",
+      "src": "/src/assets/armour/Red Seraph Cape.png"
+    }
+  },
+  {
+    "name": "White Seraph Cape",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "25 (22 - 28)",
+      "magic_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Wolf Spider",
+          "monster_id": "9400545"
+        },
+        {
+          "monster_name": "Lycanthrope",
+          "monster_id": "8140000"
+        },
+        {
+          "monster_name": "Booper Scarlion",
+          "monster_id": "9420538"
+        },
+        {
+          "monster_name": "Hankie",
+          "monster_id": "7130004"
+        },
+        {
+          "monster_name": "Black Bear Swordsman",
+          "monster_id": "9600012"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Seraph Cape",
+      "src": "/src/assets/armour/White Seraph Cape.png"
+    }
+  },
+  {
+    "name": "Black Seraph Cape",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "27 (24 - 30)",
+      "magic_def": "32 (28 - 36)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Blood Harp",
+          "monster_id": "8140002"
+        },
+        {
+          "monster_name": "Bone Fish",
+          "monster_id": "8140600"
+        },
+        {
+          "monster_name": "Black Crow",
+          "monster_id": "9400014"
+        },
+        {
+          "monster_name": "Death Teddy",
+          "monster_id": "7130010"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Seraph Cape",
+      "src": "/src/assets/armour/Black Seraph Cape.png"
+    }
+  },
+  {
+    "name": "Green Giles Cape",
+    "requirements": {
+      "level": 85,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "31 (27 - 35)",
+      "magic_def": "36 (32 - 40)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Thanatos",
+          "monster_id": "8170000"
+        },
+        {
+          "monster_name": "Homunscullo",
+          "monster_id": "8110300"
+        },
+        {
+          "monster_name": "Harp",
+          "monster_id": "8140001"
+        },
+        {
+          "monster_name": "Vikerola",
+          "monster_id": "9420539"
+        },
+        {
+          "monster_name": "Male Mannequin",
+          "monster_id": "9410034"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Giles Cape",
+      "src": "/src/assets/armour/Green Giles Cape.png"
+    }
+  },
+  {
+    "name": "Purple Giles Cape",
+    "requirements": {
+      "level": 85,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "31 (27 - 35)",
+      "magic_def": "36 (32 - 40)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Goby",
+          "monster_id": "7130020"
+        },
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Giles Cape",
+      "src": "/src/assets/armour/Purple Giles Cape.png"
+    }
+  },
+  {
+    "name": "Red Giles Cape",
+    "requirements": {
+      "level": 85,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "31 (27 - 35)",
+      "magic_def": "36 (32 - 40)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Giles Cape",
+      "src": "/src/assets/armour/Red Giles Cape.png"
+    }
+  },
+  {
+    "name": "Blue Giles Cape",
+    "requirements": {
+      "level": 85,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "31 (27 - 35)",
+      "magic_def": "36 (32 - 40)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Kacchuu Musha",
+          "monster_id": "9400405"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Giles Cape",
+      "src": "/src/assets/armour/Blue Giles Cape.png"
+    }
+  },
+  {
+    "name": "Black Giles Cape",
+    "requirements": {
+      "level": 85,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "33 (29 - 37)",
+      "magic_def": "38 (34 - 42)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Goby",
+          "monster_id": "7130020"
+        },
+        {
+          "monster_name": "Vikerola",
+          "monster_id": "9420539"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Giles Cape",
+      "src": "/src/assets/armour/Black Giles Cape.png"
+    }
+  },
+  {
+    "name": "Yellow Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "1 (0 - 2)",
+      "magic_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "8"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bodyguards A B Boss",
+          "monster_id": "9400116"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Adventurer Cape",
+      "src": "/src/assets/armour/Yellow Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "Pink Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_attack": "2 (1 - 3)",
+      "weapon_def": "7 (6 - 8)",
+      "magic_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Adventurer Cape",
+      "src": "/src/assets/armour/Pink Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "Purple Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "magic_attack": "7 (6 - 8)",
+      "weapon_def": "7 (6 - 8)",
+      "magic_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Adventurer Cape",
+      "src": "/src/assets/armour/Purple Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "Brown Adventurer Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "15 (13 - 17)",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bodyguards A B Boss",
+          "monster_id": "9400116"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Brown Adventurer Cape",
+      "src": "/src/assets/armour/Brown Adventurer Cape.png"
+    }
+  },
+  {
+    "name": "Blue Musketeer Cape",
+    "requirements": {
+      "level": 95,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "37 (33 - 41)",
+      "magic_def": "42 (37 - 47)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 340000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Musketeer Cape",
+      "src": "/src/assets/armour/Blue Musketeer Cape.png"
+    }
+  },
+  {
+    "name": "Turquoise Musketeer Cape",
+    "requirements": {
+      "level": 95,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "37 (33 - 41)",
+      "magic_def": "42 (37 - 47)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 340000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Turquoise Musketeer Cape",
+      "src": "/src/assets/armour/Turquoise Musketeer Cape.png"
+    }
+  },
+  {
+    "name": "Red Musketeer Cape",
+    "requirements": {
+      "level": 95,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "39 (35 - 43)",
+      "magic_def": "44 (39 - 49)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 340000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Musketeer Cape",
+      "src": "/src/assets/armour/Red Musketeer Cape.png"
+    }
+  },
+  {
+    "name": "Old Raggedy Cape",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 2000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Old Raggedy Cape",
+      "src": "/src/assets/armour/Old Raggedy Cape.png"
+    }
+  },
+  {
+    "name": "Icarus Cape (1)",
+    "requirements": {
+      "level": 42,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "avoidability": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 40000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Icarus Cape (1)",
+      "src": "/src/assets/armour/Icarus Cape (1).png"
+    }
+  },
+  {
+    "name": "Icarus Cape (2)",
+    "requirements": {
+      "level": 42,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "speed": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 40000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Icarus Cape (2)",
+      "src": "/src/assets/armour/Icarus Cape (2).png"
+    }
+  },
+  {
+    "name": "Icarus Cape (3)",
+    "requirements": {
+      "level": 42,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "jump": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 40000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Icarus Cape (3)",
+      "src": "/src/assets/armour/Icarus Cape (3).png"
+    }
+  },
+  {
+    "name": "Ludibrium Cape",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "43 (38 - 48)",
+      "magic_def": "48 (43 - 53)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ludibrium Cape",
+      "src": "/src/assets/armour/Ludibrium Cape.png"
+    }
+  },
+  {
+    "name": "Oxygen Tank",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 32000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Oxygen Tank",
+      "src": "/src/assets/armour/Oxygen Tank.png"
+    }
+  },
+  {
+    "name": "Goblin Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "5 (4 - 6)",
+      "weapon_def": "19 (17 - 21)",
+      "magic_def": "19 (17 - 21)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Goblin Cape",
+      "src": "/src/assets/armour/Goblin Cape.png"
+    }
+  },
+  {
+    "name": "Eclipse Cloak",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "27 (24 - 30)",
+      "magic_def": "32 (28 - 36)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Eclipse Cloak",
+      "src": "/src/assets/armour/Eclipse Cloak.png"
+    }
+  },
+  {
+    "name": "Ragged Red Cape",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ragged Red Cape",
+      "src": "/src/assets/armour/Ragged Red Cape.png"
+    }
+  },
+  {
+    "name": "Ragged Blue Cape",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "magic_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ragged Blue Cape",
+      "src": "/src/assets/armour/Ragged Blue Cape.png"
+    }
+  },
+  {
+    "name": "Ragged Yellow Cape",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ragged Yellow Cape",
+      "src": "/src/assets/armour/Ragged Yellow Cape.png"
+    }
+  },
+  {
+    "name": "Ragged Black Cape",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_attack": "1 (0 - 2)",
+      "magic_attack": "1 (0 - 2)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ragged Black Cape",
+      "src": "/src/assets/armour/Ragged Black Cape.png"
+    }
+  },
+  {
+    "name": "Ragged Green Cape",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "1 (0 - 2)",
+      "magic_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ragged Green Cape",
+      "src": "/src/assets/armour/Ragged Green Cape.png"
+    }
+  },
+  {
+    "name": "Pink Gaia Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_attack": "3 (2 - 4)",
+      "weapon_def": "18 (16 - 20)",
+      "magic_def": "22 (19 - 25)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Gaia Cape",
+      "src": "/src/assets/armour/Pink Gaia Cape.png"
+    }
+  },
+  {
+    "name": "Yellow Gaia Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "8"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Gaia Cape",
+      "src": "/src/assets/armour/Yellow Gaia Cape.png"
+    }
+  },
+  {
+    "name": "Purple Gaia Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "magic_attack": "6 (5 - 7)",
+      "weapon_def": "19 (17 - 21)",
+      "magic_def": "24 (21 - 27)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Gaia Cape",
+      "src": "/src/assets/armour/Purple Gaia Cape.png"
+    }
+  },
+  {
+    "name": "Green Gaia Cape",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "22 (19 - 25)",
+      "magic_def": "18 (16 - 20)",
+      "avoidability": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Gaia Cape",
+      "src": "/src/assets/armour/Green Gaia Cape.png"
+    }
+  },
+  {
+    "name": "Amos's Royal Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "20 (18 - 22)",
+      "magic_def": "18 (16 - 20)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Amos's Royal Cape",
+      "src": "/src/assets/armour/Amos's Royal Cape.png"
+    }
+  },
+  {
+    "name": "Amos's Spirit Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "18 (16 - 20)",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Amos's Spirit Cape",
+      "src": "/src/assets/armour/Amos's Spirit Cape.png"
+    }
+  },
+  {
+    "name": "The Legendary Elias Cape 1",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Legendary Elias Cape 1",
+      "src": "/src/assets/armour/The Legendary Elias Cape 1.png"
+    }
+  },
+  {
+    "name": "The Legendary Elias Cape 2",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Legendary Elias Cape 2",
+      "src": "/src/assets/armour/The Legendary Elias Cape 2.png"
+    }
+  },
+  {
+    "name": "The Legendary Elias Cape 3",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Legendary Elias Cape 3",
+      "src": "/src/assets/armour/The Legendary Elias Cape 3.png"
+    }
+  },
+  {
+    "name": "Cecelia Cloak 1",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cecelia Cloak 1",
+      "src": "/src/assets/armour/Cecelia Cloak 1.png"
+    }
+  },
+  {
+    "name": "Cecelia Cloak 2",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cecelia Cloak 2",
+      "src": "/src/assets/armour/Cecelia Cloak 2.png"
+    }
+  },
+  {
+    "name": "Cecelia Cloak 3",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cecelia Cloak 3",
+      "src": "/src/assets/armour/Cecelia Cloak 3.png"
+    }
+  },
+  {
+    "name": "Cape of Warmness",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "7 (6 - 8)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 35000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cape of Warmness",
+      "src": "/src/assets/armour/Cape of Warmness.png"
+    }
+  },
+  {
+    "name": "Zenumist's Cape",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "speed": "5 (4 - 6)",
+      "jump": "2 (1 - 3)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Zenumist's Cape",
+      "src": "/src/assets/armour/Zenumist's Cape.png"
+    }
+  },
+  {
+    "name": "Alcadno's Cape",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "speed": "5 (4 - 6)",
+      "jump": "2 (1 - 3)"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Alcadno's Cape",
+      "src": "/src/assets/armour/Alcadno's Cape.png"
+    }
+  },
+  {
+    "name": "Zenumist's Cape",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "28 (25 - 31)",
+      "magic_def": "33 (29 - 37)",
+      "speed": "7 (6 - 8)",
+      "jump": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Zenumist's Cape",
+      "src": "/src/assets/armour/Zenumist's Cape.png"
+    }
+  },
+  {
+    "name": "Alcadno's Cape",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "15 (13 - 17)",
+      "weapon_def": "28 (25 - 31)",
+      "magic_def": "33 (29 - 37)",
+      "speed": "7 (6 - 8)",
+      "jump": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Alcadno's Cape",
+      "src": "/src/assets/armour/Alcadno's Cape.png"
+    }
+  },
+  {
+    "name": "Sirius Cloak",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "12 (10 - 14)",
+      "magic_def": "15 (13 - 17)",
+      "avoidability": "6 (5 - 7)",
+      "speed": "6 (5 - 7)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sirius Cloak",
+      "src": "/src/assets/armour/Sirius Cloak.png"
+    }
+  },
+  {
+    "name": "Zeta Cape",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "19 (17 - 21)",
+      "magic_def": "24 (21 - 27)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Zeta Cape",
+      "src": "/src/assets/armour/Zeta Cape.png"
+    }
+  },
+  {
+    "name": "Toymaker Cape",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "20 (18 - 22)",
+      "mp": "35 (31 - 39)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 40000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Toymaker Cape",
+      "src": "/src/assets/armour/Toymaker Cape.png"
+    }
+  },
+  {
+    "name": "Taru Spirit Cape",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 85,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "3 (2 - 4)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Taru Spirit Cape",
+      "src": "/src/assets/armour/Taru Spirit Cape.png"
+    }
+  },
+  {
+    "name": "Maple Cape",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 25000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Cape",
+      "src": "/src/assets/armour/Maple Cape.png"
+    }
+  },
+  {
+    "name": "Maple Cape",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "8 (7 - 9)",
+      "magic_def": "12 (10 - 14)",
+      "speed": "5 (4 - 6)",
+      "jump": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 38000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Cape",
+      "src": "/src/assets/armour/Maple Cape.png"
+    }
+  },
+  {
+    "name": "Maple Cape",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "23 (20 - 26)",
+      "magic_def": "28 (25 - 31)",
+      "speed": "10 (9 - 11)",
+      "jump": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 180000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Cape",
+      "src": "/src/assets/armour/Maple Cape.png"
+    }
+  },
+  {
+    "name": "Timeless Moonlight",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "55 (49 - 61)",
+      "magic_def": "60 (54 - 66)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 510000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Moonlight",
+      "src": "/src/assets/armour/Timeless Moonlight.png"
+    }
+  },
+  {
+    "name": "Stirgeman Cape",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "1 (0 - 2)",
+      "mp": "1 (0 - 2)",
+      "weapon_def": "2 (1 - 3)",
+      "avoidability": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirgeman Cape",
+      "src": "/src/assets/armour/Stirgeman Cape.png"
+    }
+  },
+  {
+    "name": "Stirgeman Raggedy Cape",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "avoidability": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirgeman Raggedy Cape",
+      "src": "/src/assets/armour/Stirgeman Raggedy Cape.png"
+    }
+  },
+  {
+    "name": "Stirgeman Cape Mk II",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "mp": "10 (9 - 11)",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "5 (4 - 6)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirgeman Cape Mk II",
+      "src": "/src/assets/armour/Stirgeman Cape Mk II.png"
+    }
+  },
+  {
+    "name": "Stirgeman Cape Mk III",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "40 (36 - 44)",
+      "mp": "40 (36 - 44)",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "10 (9 - 11)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirgeman Cape Mk III",
+      "src": "/src/assets/armour/Stirgeman Cape Mk III.png"
+    }
+  },
+  {
+    "name": "Stirgeman Cape Mk IV",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirgeman Cape Mk IV",
+      "src": "/src/assets/armour/Stirgeman Cape Mk IV.png"
+    }
+  },
+  {
+    "name": "Stirgeman's Cloak of Wiliness",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "110 (100 - 120)",
+      "mp": "110 (100 - 120)",
+      "weapon_def": "10 (9 - 11)",
+      "magic_def": "25 (22 - 28)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirgeman's Cloak of Wiliness",
+      "src": "/src/assets/armour/Stirgeman's Cloak of Wiliness.png"
+    }
+  },
+  {
+    "name": "Stirgeman's Cloak of Darkness",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "25 (22 - 28)",
+      "magic_def": "10 (9 - 11)",
+      "avoidability": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirgeman's Cloak of Darkness",
+      "src": "/src/assets/armour/Stirgeman's Cloak of Darkness.png"
+    }
+  },
+  {
+    "name": "Stirgeman's Cloak of Justice",
+    "requirements": {
+      "level": 75,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "2 (1 - 3)",
+      "weapon_def": "30 (27 - 33)",
+      "magic_def": "25 (22 - 28)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirgeman's Cloak of Justice",
+      "src": "/src/assets/armour/Stirgeman's Cloak of Justice.png"
+    }
+  },
+  {
+    "name": "El Nathian Cape",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "50 (45 - 55)",
+      "mp": "50 (45 - 55)",
+      "weapon_def": "22 (19 - 25)",
+      "magic_def": "22 (19 - 25)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "El Nathian Cape",
+      "src": "/src/assets/armour/El Nathian Cape.png"
+    }
+  },
+  {
+    "name": "Wrath of El Nath",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "100 (90 - 110)",
+      "mp": "100 (90 - 110)",
+      "weapon_def": "45 (40 - 50)",
+      "magic_def": "48 (43 - 53)",
+      "avoidability": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Wrath of El Nath",
+      "src": "/src/assets/armour/Wrath of El Nath.png"
+    }
+  },
+  {
+    "name": "Cloak of Corruption",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "25 (22 - 28)",
+      "magic_def": "25 (22 - 28)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cloak of Corruption",
+      "src": "/src/assets/armour/Cloak of Corruption.png"
+    }
+  },
+  {
+    "name": "Shroud of Zakum",
+    "requirements": {
+      "level": 120,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_def": "50 (45 - 55)",
+      "magic_def": "55 (49 - 61)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Shroud of Zakum",
+      "src": "/src/assets/armour/Shroud of Zakum.png"
+    }
+  },
+  {
+    "name": "Crimsonheart Cloak",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "4 (3 - 5)",
+      "dex": "4 (3 - 5)",
+      "int": "4 (3 - 5)",
+      "luk": "4 (3 - 5)",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "40 (36 - 44)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crimsonheart Cloak",
+      "src": "/src/assets/armour/Crimsonheart Cloak.png"
+    }
+  },
+  {
+    "name": "Blackfist Cloak",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "300 (290 - 310)",
+      "weapon_attack": "4 (3 - 5)",
+      "weapon_def": "43 (38 - 48)",
+      "magic_def": "48 (43 - 53)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blackfist Cloak",
+      "src": "/src/assets/armour/Blackfist Cloak.png"
+    }
+  },
+  {
+    "name": "Goldensoul Cape",
+    "requirements": {
+      "level": 120,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "int": "3 (2 - 4)",
+      "mp": "100 (90 - 110)",
+      "weapon_def": "50 (45 - 55)",
+      "magic_def": "55 (49 - 61)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Goldensoul Cape",
+      "src": "/src/assets/armour/Goldensoul Cape.png"
+    }
+  },
+  {
+    "name": "Ensign's Scarf",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "20 (18 - 22)",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "6"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ensign's Scarf",
+      "src": "/src/assets/armour/Ensign's Scarf.png"
+    }
+  },
+  {
+    "name": "Captain's Scarf",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "hp": "20 (18 - 22)",
+      "mp": "20 (18 - 22)",
+      "weapon_def": "20 (18 - 22)",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Captain's Scarf",
+      "src": "/src/assets/armour/Captain's Scarf.png"
+    }
+  },
+  {
+    "name": "Ludibrium Cape",
+    "requirements": {
+      "level": 115,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "weapon_def": "43 (38 - 48)",
+      "magic_def": "48 (43 - 53)",
+      "accuracy": "420 (415 - 425)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ludibrium Cape",
+      "src": "/src/assets/armour/Ludibrium Cape.png"
+    }
+  },
+  {
+    "name": "Masked Gentleman's Cape",
+    "requirements": {
+      "level": 33,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Cape",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "1 (0 - 2)",
+      "magic_attack": "1 (0 - 2)",
+      "weapon_def": "33 (29 - 37)",
+      "magic_def": "33 (29 - 37)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  }
+]

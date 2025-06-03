@@ -1,0 +1,3033 @@
+[
+  {
+    "name": "Mace",
+    "requirements": {
+      "level": 15,
+      "strength": 20,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Magician"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "34 (30 - 38)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mace",
+      "src": "/src/assets/weapon/Mace.png"
+    }
+  },
+  {
+    "name": "Hammer",
+    "requirements": {
+      "level": 15,
+      "strength": 20,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "34 (30 - 38)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "6,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hammer",
+      "src": "/src/assets/weapon/Hammer.png"
+    }
+  },
+  {
+    "name": "Iron Mace",
+    "requirements": {
+      "level": 20,
+      "strength": 25,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Magician"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "39 (35 - 43)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Demon Slime",
+          "monster_id": "9410039"
+        },
+        {
+          "monster_name": "Jr. Sentinel",
+          "monster_id": "5200000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Flora the Fairy",
+          "npc_id": "1031000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1031000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Iron Mace",
+      "src": "/src/assets/weapon/Iron Mace.png"
+    }
+  },
+  {
+    "name": "Lollipop",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tweeter",
+          "monster_id": "3230308"
+        },
+        {
+          "monster_name": "Propelly",
+          "monster_id": "3230303"
+        },
+        {
+          "monster_name": "Rumo",
+          "monster_id": "3110302"
+        },
+        {
+          "monster_name": "Royal Cactus",
+          "monster_id": "2100104"
+        },
+        {
+          "monster_name": "Curse Eye",
+          "monster_id": "3230100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lollipop",
+      "src": "/src/assets/weapon/Lollipop.png"
+    }
+  },
+  {
+    "name": "Fusion Mace",
+    "requirements": {
+      "level": 25,
+      "strength": 25,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Magician"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "44 (39 - 49)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Demon Slime",
+          "monster_id": "9410039"
+        },
+        {
+          "monster_name": "Seacle",
+          "monster_id": "2230105"
+        },
+        {
+          "monster_name": "Jr. Sentinel",
+          "monster_id": "5200000"
+        },
+        {
+          "monster_name": "Genin",
+          "monster_id": "9400400"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "22,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fusion Mace",
+      "src": "/src/assets/weapon/Fusion Mace.png"
+    }
+  },
+  {
+    "name": "Wooden Club",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "19 (17 - 21)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stump",
+          "monster_id": "130100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Sid",
+          "npc_id": "11000",
+          "price": "50",
+          "npc_image": "/static/images/lib/npc/0011000.png"
+        },
+        {
+          "npc_name": "Silver",
+          "npc_id": "1001000",
+          "price": "50",
+          "npc_image": "/static/images/lib/npc/1001000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Wooden Club",
+      "src": "/src/assets/weapon/Wooden Club.png"
+    }
+  },
+  {
+    "name": "Steel Pipe",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "29 (26 - 32)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Pipe",
+      "src": "/src/assets/weapon/Steel Pipe.png"
+    }
+  },
+  {
+    "name": "Leather Purse",
+    "requirements": {
+      "level": 15,
+      "strength": 20,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "34 (30 - 38)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Red Snail",
+          "monster_id": "130101"
+        },
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Karl",
+          "npc_id": "1011000",
+          "price": "6,000",
+          "npc_image": "/static/images/lib/npc/1011000.png"
+        },
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "6,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Leather Purse",
+      "src": "/src/assets/weapon/Leather Purse.png"
+    }
+  },
+  {
+    "name": "Hard Briefcase",
+    "requirements": {
+      "level": 20,
+      "strength": 25,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "39 (35 - 43)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Sentinel",
+          "monster_id": "5200000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Karl",
+          "npc_id": "1011000",
+          "price": "12,000",
+          "npc_image": "/static/images/lib/npc/1011000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hard Briefcase",
+      "src": "/src/assets/weapon/Hard Briefcase.png"
+    }
+  },
+  {
+    "name": "Plunger",
+    "requirements": {
+      "level": 25,
+      "strength": 30,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "44 (39 - 49)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Cactus",
+          "monster_id": "2100103"
+        },
+        {
+          "monster_name": "Jr. Cellion",
+          "monster_id": "3210200"
+        },
+        {
+          "monster_name": "Ligator",
+          "monster_id": "3110100"
+        },
+        {
+          "monster_name": "Yabber Doo",
+          "monster_id": "9420537"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        },
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        },
+        {
+          "monster_name": "Ice Sentinel",
+          "monster_id": "5200001"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Plunger",
+      "src": "/src/assets/weapon/Plunger.png"
+    }
+  },
+  {
+    "name": "Square Shovel",
+    "requirements": {
+      "level": 15,
+      "strength": 20,
+      "dexterity": 20,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "34 (30 - 38)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Fire Raccoon",
+          "monster_id": "9400001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Square Shovel",
+      "src": "/src/assets/weapon/Square Shovel.png"
+    }
+  },
+  {
+    "name": "Pointed Shovel",
+    "requirements": {
+      "level": 20,
+      "strength": 25,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "39 (35 - 43)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Fire Raccoon",
+          "monster_id": "9400001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pointed Shovel",
+      "src": "/src/assets/weapon/Pointed Shovel.png"
+    }
+  },
+  {
+    "name": "Red Brick",
+    "requirements": {
+      "level": 15,
+      "strength": 20,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "34 (30 - 38)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rodeo",
+          "monster_id": "9420533"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "15,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        },
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "15,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Brick",
+      "src": "/src/assets/weapon/Red Brick.png"
+    }
+  },
+  {
+    "name": "Wizet Secret Agent Suitcase",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Faster (2)",
+      "weapon_attack": "200 (195 - 205)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Wizet Secret Agent Suitcase",
+      "src": "/src/assets/weapon/Wizet Secret Agent Suitcase.png"
+    }
+  },
+  {
+    "name": "War Hammer",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "49 (44 - 54)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Brown Teddy",
+          "monster_id": "3000005"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "42,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "War Hammer",
+      "src": "/src/assets/weapon/War Hammer.png"
+    }
+  },
+  {
+    "name": "Heavy Hammer",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "54 (49 - 59)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Barnard Gray",
+          "monster_id": "4230116"
+        },
+        {
+          "monster_name": "Jr. Grupin",
+          "monster_id": "3210202"
+        },
+        {
+          "monster_name": "Fire Raccoon",
+          "monster_id": "9400001"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heavy Hammer",
+      "src": "/src/assets/weapon/Heavy Hammer.png"
+    }
+  },
+  {
+    "name": "Jacker",
+    "requirements": {
+      "level": 40,
+      "strength": 125,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "59 (54 - 64)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Coolie Zombie",
+          "monster_id": "5130107"
+        },
+        {
+          "monster_name": "Ratz",
+          "monster_id": "3110102"
+        },
+        {
+          "monster_name": "Chief Gray",
+          "monster_id": "4240000"
+        },
+        {
+          "monster_name": "Copper Drake",
+          "monster_id": "4130100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Jacker",
+      "src": "/src/assets/weapon/Jacker.png"
+    }
+  },
+  {
+    "name": "Knuckle Mace",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "69 (64 - 74)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "4230103"
+        },
+        {
+          "monster_name": "Hodori",
+          "monster_id": "5100003"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "9300060"
+        },
+        {
+          "monster_name": "Tick-Tock",
+          "monster_id": "4230113"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Firebomb",
+          "monster_id": "5100002"
+        },
+        {
+          "monster_name": "Emo Slime",
+          "monster_id": "9420528"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Knuckle Mace",
+      "src": "/src/assets/weapon/Knuckle Mace.png"
+    }
+  },
+  {
+    "name": "Tamus",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Site",
+          "monster_id": "6110301"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Kru",
+          "monster_id": "6130208"
+        },
+        {
+          "monster_name": "Grupin",
+          "monster_id": "5120003"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tamus",
+      "src": "/src/assets/weapon/Tamus.png"
+    }
+  },
+  {
+    "name": "The Judgement",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "83 (78 - 88)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Klock",
+          "monster_id": "8140200"
+        },
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Green Hobi",
+          "monster_id": "7130601"
+        },
+        {
+          "monster_name": "Blue Mushmom",
+          "monster_id": "9400205"
+        },
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Judgement",
+      "src": "/src/assets/weapon/The Judgement.png"
+    }
+  },
+  {
+    "name": "Bent Judgement",
+    "requirements": {
+      "level": 75,
+      "strength": 215,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Lycanthrope",
+          "monster_id": "8140000"
+        },
+        {
+          "monster_name": "Dark Klock",
+          "monster_id": "8140300"
+        },
+        {
+          "monster_name": "Kid Mannequin",
+          "monster_id": "9410032"
+        },
+        {
+          "monster_name": "Werewolf",
+          "monster_id": "7130200"
+        },
+        {
+          "monster_name": "D. Roy",
+          "monster_id": "7110300"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bent Judgement",
+      "src": "/src/assets/weapon/Bent Judgement.png"
+    }
+  },
+  {
+    "name": "Black Tube",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "65 (60 - 70)",
+      "avoidability": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tortie",
+          "monster_id": "4130101"
+        },
+        {
+          "monster_name": "Jonin",
+          "monster_id": "9400402"
+        },
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Tube",
+      "src": "/src/assets/weapon/Black Tube.png"
+    }
+  },
+  {
+    "name": "Red Flowery Tube",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "40 (36 - 44)",
+      "speed": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Seacle",
+          "monster_id": "2230105"
+        },
+        {
+          "monster_name": "Trixter",
+          "monster_id": "2230103"
+        },
+        {
+          "monster_name": "Genin",
+          "monster_id": "9400400"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Flowery Tube",
+      "src": "/src/assets/weapon/Red Flowery Tube.png"
+    }
+  },
+  {
+    "name": "Blue Flowery Tube",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "15 (13 - 17)",
+      "accuracy": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Cico",
+          "monster_id": "2230106"
+        },
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Flowery Tube",
+      "src": "/src/assets/weapon/Blue Flowery Tube.png"
+    }
+  },
+  {
+    "name": "Purple Tube",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "mp": "50 (45 - 55)",
+      "weapon_attack": "55 (50 - 60)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bubble Fish",
+          "monster_id": "2230109"
+        },
+        {
+          "monster_name": "Flower Fish",
+          "monster_id": "2230200"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Tube",
+      "src": "/src/assets/weapon/Purple Tube.png"
+    }
+  },
+  {
+    "name": "Emergency Rescue Tube",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "hp": "150 (140 - 160)",
+      "weapon_attack": "75 (70 - 80)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Grupin",
+          "monster_id": "5120003"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Emergency Rescue Tube",
+      "src": "/src/assets/weapon/Emergency Rescue Tube.png"
+    }
+  },
+  {
+    "name": "Colorful Tube",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "85 (80 - 90)",
+      "jump": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tortie",
+          "monster_id": "4130101"
+        },
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Mask Fish",
+          "monster_id": "3230104"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Colorful Tube",
+      "src": "/src/assets/weapon/Colorful Tube.png"
+    }
+  },
+  {
+    "name": "Frying Pan",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "49 (44 - 54)",
+      "weapon_def": "6 (5 - 7)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Star Pixie",
+          "monster_id": "3230200"
+        },
+        {
+          "monster_name": "Cloud Fox",
+          "monster_id": "9400002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Frying Pan",
+      "src": "/src/assets/weapon/Frying Pan.png"
+    }
+  },
+  {
+    "name": "Heaven's Justice",
+    "requirements": {
+      "level": 80,
+      "strength": 230,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "88 (83 - 93)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Hankie",
+          "monster_id": "7130004"
+        },
+        {
+          "monster_name": "Nightshadow",
+          "monster_id": "9400579"
+        },
+        {
+          "monster_name": "Shark",
+          "monster_id": "8150100"
+        },
+        {
+          "monster_name": "Censer",
+          "monster_id": "9600017"
+        },
+        {
+          "monster_name": "Spirit Viking",
+          "monster_id": "8141000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Justice",
+      "src": "/src/assets/weapon/Heaven's Justice.png"
+    }
+  },
+  {
+    "name": "Ruin Hammer",
+    "requirements": {
+      "level": 90,
+      "strength": 245,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pianus (R)",
+          "monster_id": "8510000"
+        },
+        {
+          "monster_name": "Pianus (L)",
+          "monster_id": "8520000"
+        },
+        {
+          "monster_name": "Brexton",
+          "monster_id": "8140703"
+        },
+        {
+          "monster_name": "Qualm Monk",
+          "monster_id": "8200005"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Ruin Hammer",
+      "src": "/src/assets/weapon/Ruin Hammer.png"
+    }
+  },
+  {
+    "name": "Pig Illustrated",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Faster (3)",
+      "weapon_attack": "42 (37 - 47)",
+      "accuracy": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pig Illustrated",
+      "src": "/src/assets/weapon/Pig Illustrated.png"
+    }
+  },
+  {
+    "name": "Iron Hammer",
+    "requirements": {
+      "level": 10,
+      "strength": 35,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Magician"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Iron Hammer",
+      "src": "/src/assets/weapon/Iron Hammer.png"
+    }
+  },
+  {
+    "name": "Goblin Bat",
+    "requirements": {
+      "level": 65,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "int": "5 (4 - 6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Goblin Bat",
+      "src": "/src/assets/weapon/Goblin Bat.png"
+    }
+  },
+  {
+    "name": "Metal Bar",
+    "requirements": {
+      "level": 11,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Metal Bar",
+      "src": "/src/assets/weapon/Metal Bar.png"
+    }
+  },
+  {
+    "name": "War Hammer",
+    "requirements": {
+      "level": 20,
+      "strength": 65,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "59 (54 - 64)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "War Hammer",
+      "src": "/src/assets/weapon/War Hammer.png"
+    }
+  },
+  {
+    "name": "Knuckle Mace",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "79 (74 - 84)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Knuckle Mace",
+      "src": "/src/assets/weapon/Knuckle Mace.png"
+    }
+  },
+  {
+    "name": "Tamus",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tamus",
+      "src": "/src/assets/weapon/Tamus.png"
+    }
+  },
+  {
+    "name": "The Judgement",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Judgement",
+      "src": "/src/assets/weapon/The Judgement.png"
+    }
+  },
+  {
+    "name": "Heaven's Justice",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Justice",
+      "src": "/src/assets/weapon/Heaven's Justice.png"
+    }
+  },
+  {
+    "name": "War Hammer",
+    "requirements": {
+      "level": 20,
+      "strength": 65,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "59 (54 - 64)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "War Hammer",
+      "src": "/src/assets/weapon/War Hammer.png"
+    }
+  },
+  {
+    "name": "Knuckle Mace",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "79 (74 - 84)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Knuckle Mace",
+      "src": "/src/assets/weapon/Knuckle Mace.png"
+    }
+  },
+  {
+    "name": "Tamus",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tamus",
+      "src": "/src/assets/weapon/Tamus.png"
+    }
+  },
+  {
+    "name": "The Judgement",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Judgement",
+      "src": "/src/assets/weapon/The Judgement.png"
+    }
+  },
+  {
+    "name": "Heaven's Justice",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Justice",
+      "src": "/src/assets/weapon/Heaven's Justice.png"
+    }
+  },
+  {
+    "name": "Battle Hammer",
+    "requirements": {
+      "level": 100,
+      "strength": 260,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Mini Bronze Martial Artist",
+          "monster_id": "9600020"
+        },
+        {
+          "monster_name": "Bronze Staffman",
+          "monster_id": "9600023"
+        },
+        {
+          "monster_name": "Skelosaurus",
+          "monster_id": "8190004"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dodo",
+          "monster_id": "8220004"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Red Kentaurus",
+          "monster_id": "8140102"
+        },
+        {
+          "monster_name": "Duku",
+          "monster_id": "9420519"
+        },
+        {
+          "monster_name": "Chief Oblivion Guardian",
+          "monster_id": "8200012"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Oblivion Guardian",
+          "monster_id": "8200011"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Battle Hammer",
+      "src": "/src/assets/weapon/Battle Hammer.png"
+    }
+  },
+  {
+    "name": "War Hammer",
+    "requirements": {
+      "level": 20,
+      "strength": 65,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "49 (44 - 54)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "War Hammer",
+      "src": "/src/assets/weapon/War Hammer.png"
+    }
+  },
+  {
+    "name": "Knuckle Mace",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "69 (64 - 74)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Knuckle Mace",
+      "src": "/src/assets/weapon/Knuckle Mace.png"
+    }
+  },
+  {
+    "name": "Tamus",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tamus",
+      "src": "/src/assets/weapon/Tamus.png"
+    }
+  },
+  {
+    "name": "The Judgement",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "83 (78 - 88)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Judgement",
+      "src": "/src/assets/weapon/The Judgement.png"
+    }
+  },
+  {
+    "name": "Heaven's Justice",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "88 (83 - 93)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heaven's Justice",
+      "src": "/src/assets/weapon/Heaven's Justice.png"
+    }
+  },
+  {
+    "name": "Fruity Bamboo",
+    "requirements": {
+      "level": 22,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "40 (36 - 44)",
+      "magic_attack": "37 (33 - 41)",
+      "speed": "8 (7 - 9)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fruity Bamboo",
+      "src": "/src/assets/weapon/Fruity Bamboo.png"
+    }
+  },
+  {
+    "name": "Dragon Mace",
+    "requirements": {
+      "level": 110,
+      "strength": 275,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "103 (98 - 108)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Mace",
+      "src": "/src/assets/weapon/Dragon Mace.png"
+    }
+  },
+  {
+    "name": "Golden Mace",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "(15)",
+      "weapon_attack": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Mace",
+      "src": "/src/assets/weapon/Golden Mace.png"
+    }
+  },
+  {
+    "name": "Maple Havoc Hammer",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "str": "1 (0 - 2)",
+      "weapon_attack": "81 (76 - 86)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Havoc Hammer",
+      "src": "/src/assets/weapon/Maple Havoc Hammer.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "67 (62 - 72)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (One Handed Mace)",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (One Handed Mace)",
+      "src": "/src/assets/weapon/Singapore Flag (One Handed Mace).png"
+    }
+  },
+  {
+    "name": "Malaysia Flag (One Handed Mace)",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Malaysia Flag (One Handed Mace)",
+      "src": "/src/assets/weapon/Malaysia Flag (One Handed Mace).png"
+    }
+  },
+  {
+    "name": "Cosmic Scepter",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cosmic Scepter",
+      "src": "/src/assets/weapon/Cosmic Scepter.png"
+    }
+  },
+  {
+    "name": "Timeless Allargando",
+    "requirements": {
+      "level": 150,
+      "strength": 290,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "120 (118 - 122)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Allargando",
+      "src": "/src/assets/weapon/Timeless Allargando.png"
+    }
+  },
+  {
+    "name": "Reverse Allargando",
+    "requirements": {
+      "level": 150,
+      "strength": 290,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "118 (116 - 120)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Allargando",
+      "src": "/src/assets/weapon/Reverse Allargando.png"
+    }
+  },
+  {
+    "name": "Crushed Skull",
+    "requirements": {
+      "level": 120,
+      "strength": 300,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "115 (110 - 120)",
+      "accuracy": "12 (10 - 14)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crushed Skull",
+      "src": "/src/assets/weapon/Crushed Skull.png"
+    }
+  },
+  {
+    "name": "Duck tube",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "65 (60 - 70)",
+      "avoidability": "3 (2 - 4)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Gryphon",
+          "monster_id": "9400544"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Duck tube",
+      "src": "/src/assets/weapon/Duck tube.png"
+    }
+  },
+  {
+    "name": "Duck tube",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "90 (85 - 95)",
+      "avoidability": "3 (2 - 4)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Duck tube",
+      "src": "/src/assets/weapon/Duck tube.png"
+    }
+  },
+  {
+    "name": "Seraphim One-handed Blunt Weapon",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim One-handed Blunt Weapon",
+      "src": "/src/assets/weapon/Seraphim One-handed Blunt Weapon.png"
+    }
+  },
+  {
+    "name": "Speargrave (One-Handed Mace)",
+    "requirements": {
+      "level": 115,
+      "strength": 283,
+      "dexterity": 125,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (4)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "103 (98 - 108)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (One-Handed Mace)",
+      "src": "/src/assets/weapon/Speargrave (One-Handed Mace).png"
+    }
+  },
+  {
+    "name": "Flairgrave (One-Handed Mace)",
+    "requirements": {
+      "level": 115,
+      "strength": 283,
+      "dexterity": 125,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Fast (4)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "103 (98 - 108)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (One-Handed Mace)",
+      "src": "/src/assets/weapon/Flairgrave (One-Handed Mace).png"
+    }
+  },
+  {
+    "name": "Balrog's Golden Hammer",
+    "requirements": {
+      "level": 80,
+      "strength": 230,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Golden Hammer",
+      "src": "/src/assets/weapon/Balrog's Golden Hammer.png"
+    }
+  },
+  {
+    "name": "Balrog's Runi Hammer",
+    "requirements": {
+      "level": 90,
+      "strength": 245,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Runi Hammer",
+      "src": "/src/assets/weapon/Balrog's Runi Hammer.png"
+    }
+  },
+  {
+    "name": "GMS Flame",
+    "requirements": {
+      "level": 120,
+      "strength": 290,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "108 (103 - 113)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "GMS Flame",
+      "src": "/src/assets/weapon/GMS Flame.png"
+    }
+  },
+  {
+    "name": "King Pepe Heavy Hammer",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Mace",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "59 (54 - 64)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Heavy Hammer",
+      "src": "/src/assets/weapon/King Pepe Heavy Hammer.png"
+    }
+  }
+]

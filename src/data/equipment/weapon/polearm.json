@@ -1,0 +1,3449 @@
+[
+  {
+    "name": "Pole Arm",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Bowman",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Stump",
+          "monster_id": "1110101"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pole Arm",
+      "src": "/src/assets/weapon/Pole Arm.png"
+    }
+  },
+  {
+    "name": "Mithril Pole Arm",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "9300060"
+        },
+        {
+          "monster_name": "Royal Cactus",
+          "monster_id": "2100104"
+        },
+        {
+          "monster_name": "Horny Mushroom",
+          "monster_id": "2110200"
+        },
+        {
+          "monster_name": "Jr. Lioner",
+          "monster_id": "3210201"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        },
+        {
+          "monster_name": "Blue Mushroom",
+          "monster_id": "2220100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "62,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "60,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mithril Pole Arm",
+      "src": "/src/assets/weapon/Mithril Pole Arm.png"
+    }
+  },
+  {
+    "name": "Eviscerator",
+    "requirements": {
+      "level": 120,
+      "strength": 310,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "(9)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Eviscerator",
+      "src": "/src/assets/weapon/Eviscerator.png"
+    }
+  },
+  {
+    "name": "Axe Pole Arm",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Ice Sentinel",
+          "monster_id": "5200001"
+        },
+        {
+          "monster_name": "King Bloctopus",
+          "monster_id": "3230103"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Axe Pole Arm",
+      "src": "/src/assets/weapon/Axe Pole Arm.png"
+    }
+  },
+  {
+    "name": "Janitor's Mop",
+    "requirements": {
+      "level": 25,
+      "strength": 25,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Bowman",
+      "Thief"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "47 (42 - 52)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Genin",
+          "monster_id": "9400400"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Karl",
+          "npc_id": "1011000",
+          "price": "24,000",
+          "npc_image": "/static/images/lib/npc/1011000.png"
+        },
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "24,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "24,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "24,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "24,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "24,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Janitor's Mop",
+      "src": "/src/assets/weapon/Janitor's Mop.png"
+    }
+  },
+  {
+    "name": "The Nine Dragons",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Yeti",
+          "monster_id": "6400000"
+        },
+        {
+          "monster_name": "Jr. Cerebes",
+          "monster_id": "4230108"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Tree Rod",
+          "monster_id": "4250001"
+        },
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Nine Dragons",
+      "src": "/src/assets/weapon/The Nine Dragons.png"
+    }
+  },
+  {
+    "name": "Iron Ball",
+    "requirements": {
+      "level": 15,
+      "strength": 15,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "8,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Iron Ball",
+      "src": "/src/assets/weapon/Iron Ball.png"
+    }
+  },
+  {
+    "name": "Studded Polearm",
+    "requirements": {
+      "level": 20,
+      "strength": 20,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Krip",
+          "monster_id": "3000006"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "12,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Studded Polearm",
+      "src": "/src/assets/weapon/Studded Polearm.png"
+    }
+  },
+  {
+    "name": "The Gold Dragon",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Deep Buffoon",
+          "monster_id": "6400100"
+        },
+        {
+          "monster_name": "Homunscullo",
+          "monster_id": "8110300"
+        },
+        {
+          "monster_name": "Stormbreaker",
+          "monster_id": "9400581"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Squid",
+          "monster_id": "8141300"
+        },
+        {
+          "monster_name": "Wolf Spider",
+          "monster_id": "9400545"
+        },
+        {
+          "monster_name": "Lycanthrope",
+          "monster_id": "8140000"
+        },
+        {
+          "monster_name": "Harp",
+          "monster_id": "8140001"
+        },
+        {
+          "monster_name": "Buffoon",
+          "monster_id": "6300100"
+        },
+        {
+          "monster_name": "Black Bear Swordsman",
+          "monster_id": "9600012"
+        },
+        {
+          "monster_name": "Male Mannequin",
+          "monster_id": "9410034"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Fancy Amplifier",
+          "monster_id": "9410029"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Gold Dragon",
+      "src": "/src/assets/weapon/The Gold Dragon.png"
+    }
+  },
+  {
+    "name": "Crescent Polearm",
+    "requirements": {
+      "level": 40,
+      "strength": 130,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rombot",
+          "monster_id": "4130103"
+        },
+        {
+          "monster_name": "Toy Trojan",
+          "monster_id": "3230305"
+        },
+        {
+          "monster_name": "Bloctopus",
+          "monster_id": "3230302"
+        },
+        {
+          "monster_name": "Sparker",
+          "monster_id": "4230123"
+        },
+        {
+          "monster_name": "Morphed Blin",
+          "monster_id": "6130202"
+        },
+        {
+          "monster_name": "Jester Scarlion",
+          "monster_id": "9420535"
+        },
+        {
+          "monster_name": "Black Porky",
+          "monster_id": "4230502"
+        },
+        {
+          "monster_name": "Chunin",
+          "monster_id": "9400401"
+        },
+        {
+          "monster_name": "Jr. Yeti",
+          "monster_id": "5100000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "300,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crescent Polearm",
+      "src": "/src/assets/weapon/Crescent Polearm.png"
+    }
+  },
+  {
+    "name": "Skylar",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "The Book Ghost",
+          "monster_id": "5120506"
+        },
+        {
+          "monster_name": "Wild Kargo",
+          "monster_id": "6230100"
+        },
+        {
+          "monster_name": "Transformed Blue Perfume",
+          "monster_id": "9410023"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Phantom Watch",
+          "monster_id": "8142000"
+        },
+        {
+          "monster_name": "Blue King Goblin",
+          "monster_id": "7130401"
+        },
+        {
+          "monster_name": "Dark Drake",
+          "monster_id": "6230601"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Skylar",
+      "src": "/src/assets/weapon/Skylar.png"
+    }
+  },
+  {
+    "name": "Surfboard",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "48 (43 - 53)",
+      "jump": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Clang",
+          "monster_id": "4230104"
+        },
+        {
+          "monster_name": "Ligator",
+          "monster_id": "3110100"
+        },
+        {
+          "monster_name": "Bubble Fish",
+          "monster_id": "2230109"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Surfboard",
+      "src": "/src/assets/weapon/Surfboard.png"
+    }
+  },
+  {
+    "name": "Sky Snowboard",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "18 (16 - 20)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stump",
+          "monster_id": "130100"
+        },
+        {
+          "monster_name": "Pig",
+          "monster_id": "1210100"
+        },
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sky Snowboard",
+      "src": "/src/assets/weapon/Sky Snowboard.png"
+    }
+  },
+  {
+    "name": "Aqua Snowboard",
+    "requirements": {
+      "level": 12,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Octopus",
+          "monster_id": "1120100"
+        },
+        {
+          "monster_name": "Crow",
+          "monster_id": "9400000"
+        },
+        {
+          "monster_name": "Green Mushroom",
+          "monster_id": "1110100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Aqua Snowboard",
+      "src": "/src/assets/weapon/Aqua Snowboard.png"
+    }
+  },
+  {
+    "name": "Silver Snowboard",
+    "requirements": {
+      "level": 24,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Cico",
+          "monster_id": "2230106"
+        },
+        {
+          "monster_name": "Jr. Sentinel",
+          "monster_id": "5200000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Silver Snowboard",
+      "src": "/src/assets/weapon/Silver Snowboard.png"
+    }
+  },
+  {
+    "name": "Golden Snowboard",
+    "requirements": {
+      "level": 36,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "54 (49 - 59)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Drumming Bunny",
+          "monster_id": "3230400"
+        },
+        {
+          "monster_name": "Extra A",
+          "monster_id": "9400100"
+        },
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        },
+        {
+          "monster_name": "Curse Eye",
+          "monster_id": "3230100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Golden Snowboard",
+      "src": "/src/assets/weapon/Golden Snowboard.png"
+    }
+  },
+  {
+    "name": "Dark Snowboard",
+    "requirements": {
+      "level": 48,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "66 (61 - 71)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mecateon",
+          "monster_id": "4230121"
+        },
+        {
+          "monster_name": "Hodori",
+          "monster_id": "5100003"
+        },
+        {
+          "monster_name": "Tortie",
+          "monster_id": "4130101"
+        },
+        {
+          "monster_name": "Chunin",
+          "monster_id": "9400401"
+        },
+        {
+          "monster_name": "Extra C",
+          "monster_id": "9400102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dark Snowboard",
+      "src": "/src/assets/weapon/Dark Snowboard.png"
+    }
+  },
+  {
+    "name": "Blood Snowboard",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "78 (73 - 83)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Master Death Teddy",
+          "monster_id": "7130300"
+        },
+        {
+          "monster_name": "Giant Centipede",
+          "monster_id": "9600010"
+        },
+        {
+          "monster_name": "Mixed Golem",
+          "monster_id": "5150000"
+        },
+        {
+          "monster_name": "Miner Zombie",
+          "monster_id": "5130108"
+        },
+        {
+          "monster_name": "Black Bear Swordsman",
+          "monster_id": "9600012"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blood Snowboard",
+      "src": "/src/assets/weapon/Blood Snowboard.png"
+    }
+  },
+  {
+    "name": "Frozen Tuna",
+    "requirements": {
+      "level": 20,
+      "strength": 80,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "(9)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Frozen Tuna",
+      "src": "/src/assets/weapon/Frozen Tuna.png"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Gatekeeper",
+          "monster_id": "8160000"
+        },
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Eclipse",
+      "src": "/src/assets/weapon/Eclipse.png"
+    }
+  },
+  {
+    "name": "Hellslayer",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Snowman",
+          "monster_id": "8220001"
+        },
+        {
+          "monster_name": "Dark Wyvern",
+          "monster_id": "8150302"
+        },
+        {
+          "monster_name": "Brexton",
+          "monster_id": "8140703"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Kacchuu Musha",
+          "monster_id": "9400405"
+        },
+        {
+          "monster_name": "Typhon",
+          "monster_id": "9400574"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hellslayer",
+      "src": "/src/assets/weapon/Hellslayer.png"
+    }
+  },
+  {
+    "name": "Yellow Mop",
+    "requirements": {
+      "level": 13,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "(9)",
+      "weapon_attack": "24 (21 - 27)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Fire Raccoon",
+          "monster_id": "9400001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Mop",
+      "src": "/src/assets/weapon/Yellow Mop.png"
+    }
+  },
+  {
+    "name": "White Mop",
+    "requirements": {
+      "level": 65,
+      "strength": 230,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "84 (79 - 89)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Mop",
+      "src": "/src/assets/weapon/White Mop.png"
+    }
+  },
+  {
+    "name": "Maroon Mop",
+    "requirements": {
+      "level": 36,
+      "strength": 130,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "(9)",
+      "weapon_attack": "220 (215 - 225)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maroon Mop",
+      "src": "/src/assets/weapon/Maroon Mop.png"
+    }
+  },
+  {
+    "name": "Maple Scorpio",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "68 (63 - 73)",
+      "accuracy": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Scorpio",
+      "src": "/src/assets/weapon/Maple Scorpio.png"
+    }
+  },
+  {
+    "name": "Guan Yu Pole Arm",
+    "requirements": {
+      "level": 48,
+      "strength": 4,
+      "dexterity": 4,
+      "intelligence": 4,
+      "luck": 4
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "dex": "2 (1 - 3)",
+      "weapon_attack": "71 (66 - 76)",
+      "accuracy": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Guan Yu Pole Arm",
+      "src": "/src/assets/weapon/Guan Yu Pole Arm.png"
+    }
+  },
+  {
+    "name": "Red Surfboard",
+    "requirements": {
+      "level": 95,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "99 (94 - 104)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Squid",
+          "monster_id": "8141300"
+        },
+        {
+          "monster_name": "Bone Fish",
+          "monster_id": "8140600"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Surfboard",
+      "src": "/src/assets/weapon/Red Surfboard.png"
+    }
+  },
+  {
+    "name": "Green Surfboard",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "dex": "2 (1 - 3)",
+      "weapon_attack": "75 (70 - 80)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tortie",
+          "monster_id": "4130101"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Surfboard",
+      "src": "/src/assets/weapon/Green Surfboard.png"
+    }
+  },
+  {
+    "name": "Black Surfboard",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "64 (59 - 69)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tortie",
+          "monster_id": "4130101"
+        },
+        {
+          "monster_name": "Ligator",
+          "monster_id": "3110100"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Surfboard",
+      "src": "/src/assets/weapon/Black Surfboard.png"
+    }
+  },
+  {
+    "name": "Gold Surfboard",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "39 (35 - 43)",
+      "jump": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        },
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gold Surfboard",
+      "src": "/src/assets/weapon/Gold Surfboard.png"
+    }
+  },
+  {
+    "name": "Maple Snowboard",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Snowboard",
+      "src": "/src/assets/weapon/Maple Snowboard.png"
+    }
+  },
+  {
+    "name": "The Nine Dragons",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Nine Dragons",
+      "src": "/src/assets/weapon/The Nine Dragons.png"
+    }
+  },
+  {
+    "name": "Skylar",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Skylar",
+      "src": "/src/assets/weapon/Skylar.png"
+    }
+  },
+  {
+    "name": "The Gold Dragon",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Gold Dragon",
+      "src": "/src/assets/weapon/The Gold Dragon.png"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Eclipse",
+      "src": "/src/assets/weapon/Eclipse.png"
+    }
+  },
+  {
+    "name": "The Nine Dragons",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Nine Dragons",
+      "src": "/src/assets/weapon/The Nine Dragons.png"
+    }
+  },
+  {
+    "name": "Skylar",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Skylar",
+      "src": "/src/assets/weapon/Skylar.png"
+    }
+  },
+  {
+    "name": "The Gold Dragon",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "97 (92 - 102)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Gold Dragon",
+      "src": "/src/assets/weapon/The Gold Dragon.png"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Eclipse",
+      "src": "/src/assets/weapon/Eclipse.png"
+    }
+  },
+  {
+    "name": "Frozen Tuna",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "(9)",
+      "weapon_attack": "60 (55 - 65)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Frozen Tuna",
+      "src": "/src/assets/weapon/Frozen Tuna.png"
+    }
+  },
+  {
+    "name": "The Nine Dragons",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "72 (67 - 77)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Nine Dragons",
+      "src": "/src/assets/weapon/The Nine Dragons.png"
+    }
+  },
+  {
+    "name": "Skylar",
+    "requirements": {
+      "level": 50,
+      "strength": 160,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "82 (77 - 87)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Skylar",
+      "src": "/src/assets/weapon/Skylar.png"
+    }
+  },
+  {
+    "name": "The Gold Dragon",
+    "requirements": {
+      "level": 60,
+      "strength": 190,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Gold Dragon",
+      "src": "/src/assets/weapon/The Gold Dragon.png"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "92 (87 - 97)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Eclipse",
+      "src": "/src/assets/weapon/Eclipse.png"
+    }
+  },
+  {
+    "name": "Zedbug",
+    "requirements": {
+      "level": 100,
+      "strength": 310,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "102 (97 - 107)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Memory Monk Trainee",
+          "monster_id": "8200002"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Griffey",
+          "monster_id": "8180001"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Dual Birk",
+          "monster_id": "8140111"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Zedbug",
+      "src": "/src/assets/weapon/Zedbug.png"
+    }
+  },
+  {
+    "name": "Dragon Chelbird",
+    "requirements": {
+      "level": 110,
+      "strength": 340,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "107 (102 - 112)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Chelbird",
+      "src": "/src/assets/weapon/Dragon Chelbird.png"
+    }
+  },
+  {
+    "name": "Super Snowboard",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "75 (70 - 80)",
+      "magic_attack": "75 (70 - 80)",
+      "speed": "8 (7 - 9)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Iruvata",
+          "monster_id": "9400260"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Super Snowboard",
+      "src": "/src/assets/weapon/Super Snowboard.png"
+    }
+  },
+  {
+    "name": "Yellow Valentine Rose",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yellow Lizard",
+          "monster_id": "9420004"
+        },
+        {
+          "monster_name": "Helly",
+          "monster_id": "3210206"
+        },
+        {
+          "monster_name": "Master Death Teddy",
+          "monster_id": "7130300"
+        },
+        {
+          "monster_name": "Straw Target Dummy",
+          "monster_id": "5120503"
+        },
+        {
+          "monster_name": "Orange Mushroom",
+          "monster_id": "1210102"
+        },
+        {
+          "monster_name": "Luster Pixie",
+          "monster_id": "5120000"
+        },
+        {
+          "monster_name": "Gryphon",
+          "monster_id": "9400544"
+        },
+        {
+          "monster_name": "Jr. Lioner",
+          "monster_id": "3210201"
+        },
+        {
+          "monster_name": "Yellow Perfume",
+          "monster_id": "9410024"
+        },
+        {
+          "monster_name": "Biker Monkey",
+          "monster_id": "9410004"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Valentine Rose",
+      "src": "/src/assets/weapon/Yellow Valentine Rose.png"
+    }
+  },
+  {
+    "name": "Red Valentine Rose",
+    "requirements": {
+      "level": 12,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Krip",
+          "monster_id": "3000006"
+        },
+        {
+          "monster_name": "Reinforced Mithril Mutae",
+          "monster_id": "5110300"
+        },
+        {
+          "monster_name": "Female Thief",
+          "monster_id": "9600016"
+        },
+        {
+          "monster_name": "Coke Mushroom",
+          "monster_id": "9500152"
+        },
+        {
+          "monster_name": "Red Snail",
+          "monster_id": "130101"
+        },
+        {
+          "monster_name": "Red Bubble Tea",
+          "monster_id": "9410005"
+        },
+        {
+          "monster_name": "Oblivion Monk",
+          "monster_id": "8200009"
+        },
+        {
+          "monster_name": "Red Kentaurus",
+          "monster_id": "8140102"
+        },
+        {
+          "monster_name": "Sophilia Doll",
+          "monster_id": "9400560"
+        },
+        {
+          "monster_name": "Red Drake",
+          "monster_id": "6130100"
+        },
+        {
+          "monster_name": "Chunin",
+          "monster_id": "9400401"
+        },
+        {
+          "monster_name": "Fire Boar",
+          "monster_id": "3210100"
+        },
+        {
+          "monster_name": "Spirit Viking",
+          "monster_id": "8141000"
+        },
+        {
+          "monster_name": "Tippo Red",
+          "monster_id": "9420504"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Valentine Rose",
+      "src": "/src/assets/weapon/Red Valentine Rose.png"
+    }
+  },
+  {
+    "name": "Blue Valentine Rose",
+    "requirements": {
+      "level": 48,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "70 (65 - 75)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Blue Flower Serpent",
+          "monster_id": "4230503"
+        },
+        {
+          "monster_name": "Ice Drake",
+          "monster_id": "6230600"
+        },
+        {
+          "monster_name": "Robo",
+          "monster_id": "4230111"
+        },
+        {
+          "monster_name": "Ghost Pirate",
+          "monster_id": "7140000"
+        },
+        {
+          "monster_name": "Wolf Spider",
+          "monster_id": "9400545"
+        },
+        {
+          "monster_name": "Harp",
+          "monster_id": "8140001"
+        },
+        {
+          "monster_name": "Blue Snail",
+          "monster_id": "100101"
+        },
+        {
+          "monster_name": "Pepe",
+          "monster_id": "6130103"
+        },
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        },
+        {
+          "monster_name": "Royal Cactus",
+          "monster_id": "2100104"
+        },
+        {
+          "monster_name": "Bubble Fish",
+          "monster_id": "2230109"
+        },
+        {
+          "monster_name": "Igloo Turtle",
+          "monster_id": "9500148"
+        },
+        {
+          "monster_name": "Voodoo",
+          "monster_id": "9400561"
+        },
+        {
+          "monster_name": "Chief Qualm Guardian",
+          "monster_id": "8200008"
+        },
+        {
+          "monster_name": "Grupin",
+          "monster_id": "5120003"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Valentine Rose",
+      "src": "/src/assets/weapon/Blue Valentine Rose.png"
+    }
+  },
+  {
+    "name": "White Valentine Rose",
+    "requirements": {
+      "level": 24,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "49 (44 - 54)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Fang",
+          "monster_id": "5140000"
+        },
+        {
+          "monster_name": "Stone Golem",
+          "monster_id": "5130101"
+        },
+        {
+          "monster_name": "Coke Seal",
+          "monster_id": "9500145"
+        },
+        {
+          "monster_name": "Desert Rabbit (F)",
+          "monster_id": "2100100"
+        },
+        {
+          "monster_name": "Iron Mutae",
+          "monster_id": "4110300"
+        },
+        {
+          "monster_name": "Ratatula",
+          "monster_id": "9420532"
+        },
+        {
+          "monster_name": "Hankie",
+          "monster_id": "7130004"
+        },
+        {
+          "monster_name": "Jonin",
+          "monster_id": "9400402"
+        },
+        {
+          "monster_name": "Snail",
+          "monster_id": "100100"
+        },
+        {
+          "monster_name": "Sentinel",
+          "monster_id": "3000000"
+        },
+        {
+          "monster_name": "Leatty",
+          "monster_id": "5300000"
+        },
+        {
+          "monster_name": "Cold Eye",
+          "monster_id": "4230100"
+        },
+        {
+          "monster_name": "Skeledog",
+          "monster_id": "4230125"
+        },
+        {
+          "monster_name": "Jr. Yeti",
+          "monster_id": "5100000"
+        },
+        {
+          "monster_name": "Chronos",
+          "monster_id": "3230306"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "White Valentine Rose",
+      "src": "/src/assets/weapon/White Valentine Rose.png"
+    }
+  },
+  {
+    "name": "Maple Karstan",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "weapon_attack": "85 (80 - 90)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Karstan",
+      "src": "/src/assets/weapon/Maple Karstan.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "70 (65 - 75)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Red Surfboard",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "39 (35 - 43)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Surfboard",
+      "src": "/src/assets/weapon/Red Surfboard.png"
+    }
+  },
+  {
+    "name": "Green Surfboard",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "64 (59 - 69)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Surfboard",
+      "src": "/src/assets/weapon/Green Surfboard.png"
+    }
+  },
+  {
+    "name": "Sky Blue Surfboard",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "75 (70 - 80)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sky Blue Surfboard",
+      "src": "/src/assets/weapon/Sky Blue Surfboard.png"
+    }
+  },
+  {
+    "name": "Purple Surfboard",
+    "requirements": {
+      "level": 95,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "99 (94 - 104)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Purple Surfboard",
+      "src": "/src/assets/weapon/Purple Surfboard.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (Pole Arm)",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "52 (47 - 57)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (Pole Arm)",
+      "src": "/src/assets/weapon/Singapore Flag (Pole Arm).png"
+    }
+  },
+  {
+    "name": "Heavenly Messenger",
+    "requirements": {
+      "level": 70,
+      "strength": 220,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Heavenly Messenger",
+      "src": "/src/assets/weapon/Heavenly Messenger.png"
+    }
+  },
+  {
+    "name": "Versalmas Cactus",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "hp": "100 (90 - 110)",
+      "weapon_attack": "54 (49 - 59)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Versalmas Cactus",
+      "src": "/src/assets/weapon/Versalmas Cactus.png"
+    }
+  },
+  {
+    "name": "Timeless Diesra",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "114 (112 - 116)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Diesra",
+      "src": "/src/assets/weapon/Timeless Diesra.png"
+    }
+  },
+  {
+    "name": "Tsunami Wave",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "48 (43 - 53)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tsunami Wave",
+      "src": "/src/assets/weapon/Tsunami Wave.png"
+    }
+  },
+  {
+    "name": "Bullseye Board",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "78 (73 - 83)",
+      "accuracy": "3 (2 - 4)",
+      "jump": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bullseye Board",
+      "src": "/src/assets/weapon/Bullseye Board.png"
+    }
+  },
+  {
+    "name": "Reverse Diesra",
+    "requirements": {
+      "level": 150,
+      "strength": 370,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "112 (110 - 114)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Diesra",
+      "src": "/src/assets/weapon/Reverse Diesra.png"
+    }
+  },
+  {
+    "name": "Crimson Arcglaive",
+    "requirements": {
+      "level": 100,
+      "strength": 300,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "102 (97 - 107)",
+      "magic_attack": "89 (84 - 94)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crimson Arcglaive",
+      "src": "/src/assets/weapon/Crimson Arcglaive.png"
+    }
+  },
+  {
+    "name": "Seraphim Pole Arm",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "68 (63 - 73)",
+      "accuracy": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim Pole Arm",
+      "src": "/src/assets/weapon/Seraphim Pole Arm.png"
+    }
+  },
+  {
+    "name": "Speargrave (Polearm)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (Polearm)",
+      "src": "/src/assets/weapon/Speargrave (Polearm).png"
+    }
+  },
+  {
+    "name": "Flairgrave (Polearm)",
+    "requirements": {
+      "level": 115,
+      "strength": 355,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "110 (105 - 115)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (Polearm)",
+      "src": "/src/assets/weapon/Flairgrave (Polearm).png"
+    }
+  },
+  {
+    "name": "Balrog's Eclipse",
+    "requirements": {
+      "level": 80,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (7)",
+      "weapon_attack": "89 (84 - 94)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Eclipse",
+      "src": "/src/assets/weapon/Balrog's Eclipse.png"
+    }
+  },
+  {
+    "name": "Balrog's Hellslayer",
+    "requirements": {
+      "level": 90,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "94 (89 - 99)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Hellslayer",
+      "src": "/src/assets/weapon/Balrog's Hellslayer.png"
+    }
+  },
+  {
+    "name": "Practice Polearm",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Practice Polearm",
+      "src": "/src/assets/weapon/Practice Polearm.png"
+    }
+  },
+  {
+    "name": "Bain Pole Arm",
+    "requirements": {
+      "level": 58,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "86 (81 - 91)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bain Pole Arm",
+      "src": "/src/assets/weapon/Bain Pole Arm.png"
+    }
+  },
+  {
+    "name": "Basic Polearm",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "22 (19 - 25)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Basic Polearm",
+      "src": "/src/assets/weapon/Basic Polearm.png"
+    }
+  },
+  {
+    "name": "Steel Polearm",
+    "requirements": {
+      "level": 30,
+      "strength": 100,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Steel Polearm",
+      "src": "/src/assets/weapon/Steel Polearm.png"
+    }
+  },
+  {
+    "name": "Tru's Mithril Polearm",
+    "requirements": {
+      "level": 29,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "52 (47 - 57)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tru's Mithril Polearm",
+      "src": "/src/assets/weapon/Tru's Mithril Polearm.png"
+    }
+  },
+  {
+    "name": "King Pepe Axe Polearm",
+    "requirements": {
+      "level": 35,
+      "strength": 115,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Slow (8)",
+      "weapon_attack": "62 (57 - 67)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Axe Polearm",
+      "src": "/src/assets/weapon/King Pepe Axe Polearm.png"
+    }
+  },
+  {
+    "name": "Astaroth Polearm",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Polearm",
+      "attack_speed": "Fast (5)",
+      "str": "10 (9 - 11)",
+      "weapon_attack": "46 (41 - 51)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth Polearm",
+      "src": "/src/assets/weapon/Astaroth Polearm.png"
+    }
+  }
+]

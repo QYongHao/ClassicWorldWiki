@@ -1,0 +1,4152 @@
+[
+  {
+    "name": "Sword",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "17 (15 - 19)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Red Snail",
+          "monster_id": "130101"
+        },
+        {
+          "monster_name": "Snail",
+          "monster_id": "100100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Sid",
+          "npc_id": "11000",
+          "price": "50",
+          "npc_image": "/static/images/lib/npc/0011000.png"
+        },
+        {
+          "npc_name": "Silver",
+          "npc_id": "1001000",
+          "price": "50",
+          "npc_image": "/static/images/lib/npc/1001000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sword",
+      "src": "/src/assets/weapon/Sword.png"
+    }
+  },
+  {
+    "name": "Saw",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "27 (24 - 30)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Saw",
+      "src": "/src/assets/weapon/Saw.png"
+    }
+  },
+  {
+    "name": "Viking Sword",
+    "requirements": {
+      "level": 20,
+      "strength": 65,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rocky Mask",
+          "monster_id": "2230111"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Viking Sword",
+      "src": "/src/assets/weapon/Viking Sword.png"
+    }
+  },
+  {
+    "name": "Eloon",
+    "requirements": {
+      "level": 25,
+      "strength": 30,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Lupin",
+          "monster_id": "3210800"
+        },
+        {
+          "monster_name": "Coke Mushroom",
+          "monster_id": "9500152"
+        },
+        {
+          "monster_name": "Trixter",
+          "monster_id": "2230103"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Eloon",
+      "src": "/src/assets/weapon/Eloon.png"
+    }
+  },
+  {
+    "name": "Cutlus",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yeti Doll",
+          "monster_id": "9410009"
+        },
+        {
+          "monster_name": "Chirppy",
+          "monster_id": "3230307"
+        },
+        {
+          "monster_name": "Evil Eye",
+          "monster_id": "2230100"
+        },
+        {
+          "monster_name": "Scuba Pepe",
+          "monster_id": "3210450"
+        },
+        {
+          "monster_name": "Zombie Mushmom",
+          "monster_id": "6300005"
+        },
+        {
+          "monster_name": "Red Bubble Tea",
+          "monster_id": "9410005"
+        },
+        {
+          "monster_name": "Horny Mushroom",
+          "monster_id": "2110200"
+        },
+        {
+          "monster_name": "Toad",
+          "monster_id": "9420000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Cutlus",
+      "src": "/src/assets/weapon/Cutlus.png"
+    }
+  },
+  {
+    "name": "Sabre",
+    "requirements": {
+      "level": 15,
+      "strength": 40,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "6,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sabre",
+      "src": "/src/assets/weapon/Sabre.png"
+    }
+  },
+  {
+    "name": "Machete",
+    "requirements": {
+      "level": 20,
+      "strength": 25,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior",
+      "Thief"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bellamoa",
+          "monster_id": "2100105"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "10,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Machete",
+      "src": "/src/assets/weapon/Machete.png"
+    }
+  },
+  {
+    "name": "Long Sword",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "27 (24 - 30)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Silver",
+          "npc_id": "1001000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1001000.png"
+        },
+        {
+          "npc_name": "Karl",
+          "npc_id": "1011000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1011000.png"
+        },
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Cutthroat Manny",
+          "npc_id": "1051000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1051000.png"
+        },
+        {
+          "npc_name": "Morgan",
+          "npc_id": "1091000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1091000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Long Sword",
+      "src": "/src/assets/weapon/Long Sword.png"
+    }
+  },
+  {
+    "name": "Gladius",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "47 (42 - 52)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "42,000",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gladius",
+      "src": "/src/assets/weapon/Gladius.png"
+    }
+  },
+  {
+    "name": "Traus",
+    "requirements": {
+      "level": 40,
+      "strength": 125,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Star Pixie",
+          "monster_id": "3230200"
+        },
+        {
+          "monster_name": "Jr. Seal",
+          "monster_id": "3230405"
+        },
+        {
+          "monster_name": "Paper Lantern Ghost",
+          "monster_id": "9400011"
+        },
+        {
+          "monster_name": "Firebomb",
+          "monster_id": "5100002"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "225,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Traus",
+      "src": "/src/assets/weapon/Traus.png"
+    }
+  },
+  {
+    "name": "Jeweled Katar",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "67 (62 - 72)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Ice Golem",
+          "monster_id": "9500150"
+        },
+        {
+          "monster_name": "Robo",
+          "monster_id": "4230111"
+        },
+        {
+          "monster_name": "Master Robo",
+          "monster_id": "4230112"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Red Bubble Tea",
+          "monster_id": "9410005"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        },
+        {
+          "monster_name": "Lioner",
+          "monster_id": "5120002"
+        },
+        {
+          "monster_name": "Copper Drake",
+          "monster_id": "4130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Jeweled Katar",
+      "src": "/src/assets/weapon/Jeweled Katar.png"
+    }
+  },
+  {
+    "name": "Neocora",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Yeti",
+          "monster_id": "6400000"
+        },
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Mr. Anchor",
+          "monster_id": "9420512"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Neocora",
+      "src": "/src/assets/weapon/Neocora.png"
+    }
+  },
+  {
+    "name": "Red Katana",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "83 (78 - 88)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nightghost",
+          "monster_id": "9400003"
+        },
+        {
+          "monster_name": "White Mama Monkey",
+          "monster_id": "9420010"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Blue Mushmom",
+          "monster_id": "9400205"
+        },
+        {
+          "monster_name": "Pepe",
+          "monster_id": "6130103"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        },
+        {
+          "monster_name": "Tae Roon",
+          "monster_id": "7220000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Katana",
+      "src": "/src/assets/weapon/Red Katana.png"
+    }
+  },
+  {
+    "name": "Red Whip",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "48 (43 - 53)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Nependeath",
+          "monster_id": "4130102"
+        },
+        {
+          "monster_name": "Nightghost",
+          "monster_id": "9400003"
+        },
+        {
+          "monster_name": "King Block Golem",
+          "monster_id": "4230110"
+        },
+        {
+          "monster_name": "Yellow Bubble Tea",
+          "monster_id": "9410006"
+        },
+        {
+          "monster_name": "Drumming Bunny",
+          "monster_id": "3230400"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Red Bubble Tea",
+          "monster_id": "9410005"
+        },
+        {
+          "monster_name": "Dark Nependeath",
+          "monster_id": "4130104"
+        },
+        {
+          "monster_name": "Cow",
+          "monster_id": "9600006"
+        },
+        {
+          "monster_name": "Wraith",
+          "monster_id": "4230102"
+        },
+        {
+          "monster_name": "Ginseng Jar",
+          "monster_id": "4230506"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Whip",
+      "src": "/src/assets/weapon/Red Whip.png"
+    }
+  },
+  {
+    "name": "Old Gladius",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "10 (9 - 11)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Old Gladius",
+      "src": "/src/assets/weapon/Old Gladius.png"
+    }
+  },
+  {
+    "name": "Hero's Gladius",
+    "requirements": {
+      "level": 45,
+      "strength": 140,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "1 (0 - 2)",
+      "weapon_attack": "63 (58 - 68)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Zeta Gray",
+          "monster_id": "4230117"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hero's Gladius",
+      "src": "/src/assets/weapon/Hero's Gladius.png"
+    }
+  },
+  {
+    "name": "Yellow Umbrella",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "52 (47 - 57)",
+      "magic_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Barnard Gray",
+          "monster_id": "4230116"
+        },
+        {
+          "monster_name": "Clang",
+          "monster_id": "4230104"
+        },
+        {
+          "monster_name": "Goat",
+          "monster_id": "9600004"
+        },
+        {
+          "monster_name": "Trucker",
+          "monster_id": "9420507"
+        },
+        {
+          "monster_name": "Master Robo",
+          "monster_id": "4230112"
+        },
+        {
+          "monster_name": "Gryphon",
+          "monster_id": "9400544"
+        },
+        {
+          "monster_name": "Red Bubble Tea",
+          "monster_id": "9410005"
+        },
+        {
+          "monster_name": "Black Goat",
+          "monster_id": "9600005"
+        },
+        {
+          "monster_name": "Stylish Stray Dog",
+          "monster_id": "9410001"
+        },
+        {
+          "monster_name": "Moon Bunny",
+          "monster_id": "4230300"
+        },
+        {
+          "monster_name": "Lunar Pixie",
+          "monster_id": "4230106"
+        },
+        {
+          "monster_name": "Emo Slime",
+          "monster_id": "9420528"
+        },
+        {
+          "monster_name": "Death Teddy",
+          "monster_id": "7130010"
+        },
+        {
+          "monster_name": "I.AM.ROBOT",
+          "monster_id": "9400546"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Yellow Umbrella",
+      "src": "/src/assets/weapon/Yellow Umbrella.png"
+    }
+  },
+  {
+    "name": "Sky Blue Umbrella",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "15 (13 - 17)",
+      "magic_attack": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Star Pixie",
+          "monster_id": "3230200"
+        },
+        {
+          "monster_name": "Cloud Fox",
+          "monster_id": "9400002"
+        },
+        {
+          "monster_name": "Yellow Bubble Tea",
+          "monster_id": "9410006"
+        },
+        {
+          "monster_name": "Trucker",
+          "monster_id": "9420507"
+        },
+        {
+          "monster_name": "Jr. Grupin",
+          "monster_id": "3210202"
+        },
+        {
+          "monster_name": "Stylish Stray Dog",
+          "monster_id": "9410001"
+        },
+        {
+          "monster_name": "Freezer",
+          "monster_id": "9420501"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        },
+        {
+          "monster_name": "Duck",
+          "monster_id": "9600002"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sky Blue Umbrella",
+      "src": "/src/assets/weapon/Sky Blue Umbrella.png"
+    }
+  },
+  {
+    "name": "Khan",
+    "requirements": {
+      "level": 80,
+      "strength": 230,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "88 (83 - 93)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Rash",
+          "monster_id": "7130501"
+        },
+        {
+          "monster_name": "Master Death Teddy",
+          "monster_id": "7130300"
+        },
+        {
+          "monster_name": "Latest Hits Compilation",
+          "monster_id": "9410030"
+        },
+        {
+          "monster_name": "Cold Shark",
+          "monster_id": "8150101"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Khan",
+      "src": "/src/assets/weapon/Khan.png"
+    }
+  },
+  {
+    "name": "Nameless Sword",
+    "requirements": {
+      "level": 45,
+      "strength": 145,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "67 (62 - 72)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Nameless Sword",
+      "src": "/src/assets/weapon/Nameless Sword.png"
+    }
+  },
+  {
+    "name": "Maple Sword",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "48 (43 - 53)",
+      "accuracy": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Sword",
+      "src": "/src/assets/weapon/Maple Sword.png"
+    }
+  },
+  {
+    "name": "Pico-Pico Hammer",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "1 (0 - 2)",
+      "speed": "12 (10 - 14)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "1,250,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        },
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "1,250,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pico-Pico Hammer",
+      "src": "/src/assets/weapon/Pico-Pico Hammer.png"
+    }
+  },
+  {
+    "name": "Bamboo Sword",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "43 (38 - 48)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "80,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        },
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "80,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Bamboo Sword",
+      "src": "/src/assets/weapon/Bamboo Sword.png"
+    }
+  },
+  {
+    "name": "Fraute",
+    "requirements": {
+      "level": 90,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Red Dragon Turtle",
+          "monster_id": "8140701"
+        },
+        {
+          "monster_name": "Latest Hits Compilation",
+          "monster_id": "9410030"
+        },
+        {
+          "monster_name": "Pianus (R)",
+          "monster_id": "8510000"
+        },
+        {
+          "monster_name": "Pianus (L)",
+          "monster_id": "8520000"
+        },
+        {
+          "monster_name": "Qualm Monk",
+          "monster_id": "8200005"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fraute",
+      "src": "/src/assets/weapon/Fraute.png"
+    }
+  },
+  {
+    "name": "Newspaper Sword",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "19 (17 - 21)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Newspaper Sword",
+      "src": "/src/assets/weapon/Newspaper Sword.png"
+    }
+  },
+  {
+    "name": "Red Umbrella",
+    "requirements": {
+      "level": 55,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "73 (68 - 78)",
+      "jump": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Big Cloud Fox",
+          "monster_id": "9400004"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Umbrella",
+      "src": "/src/assets/weapon/Red Umbrella.png"
+    }
+  },
+  {
+    "name": "Black Umbrella",
+    "requirements": {
+      "level": 70,
+      "strength": 6,
+      "dexterity": 6,
+      "intelligence": 6,
+      "luck": 6
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "85 (80 - 90)",
+      "magic_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Male Boss",
+          "monster_id": "9400120"
+        },
+        {
+          "monster_name": "Male Boss",
+          "monster_id": "9400122"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Umbrella",
+      "src": "/src/assets/weapon/Black Umbrella.png"
+    }
+  },
+  {
+    "name": "Green Umbrella",
+    "requirements": {
+      "level": 8,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 10
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "12 (10 - 14)",
+      "magic_attack": "25 (22 - 28)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Crow",
+          "monster_id": "9400000"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Umbrella",
+      "src": "/src/assets/weapon/Green Umbrella.png"
+    }
+  },
+  {
+    "name": "Light Purple Umbrella",
+    "requirements": {
+      "level": 25,
+      "strength": 6,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "41 (36 - 46)",
+      "magic_attack": "39 (35 - 43)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Light Purple Umbrella",
+      "src": "/src/assets/weapon/Light Purple Umbrella.png"
+    }
+  },
+  {
+    "name": "Beige Umbrella",
+    "requirements": {
+      "level": 43,
+      "strength": 5,
+      "dexterity": 5,
+      "intelligence": 5,
+      "luck": 5
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "60 (55 - 65)",
+      "magic_attack": "60 (55 - 65)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Beige Umbrella",
+      "src": "/src/assets/weapon/Beige Umbrella.png"
+    }
+  },
+  {
+    "name": "Maple Soul Singer",
+    "requirements": {
+      "level": 43,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "60 (55 - 65)",
+      "accuracy": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Soul Singer",
+      "src": "/src/assets/weapon/Maple Soul Singer.png"
+    }
+  },
+  {
+    "name": "Diao Chan Sword",
+    "requirements": {
+      "level": 48,
+      "strength": 4,
+      "dexterity": 4,
+      "intelligence": 4,
+      "luck": 4
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "weapon_attack": "69 (64 - 74)",
+      "magic_attack": "60 (55 - 65)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Cloud Fox",
+          "monster_id": "9400002"
+        },
+        {
+          "monster_name": "Giant Centipede",
+          "monster_id": "9600010"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Diao Chan Sword",
+      "src": "/src/assets/weapon/Diao Chan Sword.png"
+    }
+  },
+  {
+    "name": "Maple Flag",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Flag",
+      "src": "/src/assets/weapon/Maple Flag.png"
+    }
+  },
+  {
+    "name": "Pumpkin Basket",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Faster (3)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pumpkin Basket",
+      "src": "/src/assets/weapon/Pumpkin Basket.png"
+    }
+  },
+  {
+    "name": "Maple Flag : 1000 Days",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "22 (19 - 25)",
+      "avoidability": "1 (0 - 2)",
+      "speed": "8 (7 - 9)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Flag : 1000 Days",
+      "src": "/src/assets/weapon/Maple Flag   1000 Days.png"
+    }
+  },
+  {
+    "name": "Maple Flag : 1000 Days",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "30 (27 - 33)",
+      "avoidability": "3 (2 - 4)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Flag : 1000 Days",
+      "src": "/src/assets/weapon/Maple Flag   1000 Days.png"
+    }
+  },
+  {
+    "name": "Trumpet",
+    "requirements": {
+      "level": 63,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "weapon_attack": "79 (74 - 84)",
+      "magic_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Trumpet",
+      "src": "/src/assets/weapon/Trumpet.png"
+    }
+  },
+  {
+    "name": "Gladius",
+    "requirements": {
+      "level": 20,
+      "strength": 65,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gladius",
+      "src": "/src/assets/weapon/Gladius.png"
+    }
+  },
+  {
+    "name": "Jeweled Katar",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Jeweled Katar",
+      "src": "/src/assets/weapon/Jeweled Katar.png"
+    }
+  },
+  {
+    "name": "Neocora",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Neocora",
+      "src": "/src/assets/weapon/Neocora.png"
+    }
+  },
+  {
+    "name": "Red Katana",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Katana",
+      "src": "/src/assets/weapon/Red Katana.png"
+    }
+  },
+  {
+    "name": "Khan",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Khan",
+      "src": "/src/assets/weapon/Khan.png"
+    }
+  },
+  {
+    "name": "Gladius",
+    "requirements": {
+      "level": 20,
+      "strength": 65,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gladius",
+      "src": "/src/assets/weapon/Gladius.png"
+    }
+  },
+  {
+    "name": "Jeweled Katar",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Jeweled Katar",
+      "src": "/src/assets/weapon/Jeweled Katar.png"
+    }
+  },
+  {
+    "name": "Neocora",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Neocora",
+      "src": "/src/assets/weapon/Neocora.png"
+    }
+  },
+  {
+    "name": "Red Katana",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Katana",
+      "src": "/src/assets/weapon/Red Katana.png"
+    }
+  },
+  {
+    "name": "Khan",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Khan",
+      "src": "/src/assets/weapon/Khan.png"
+    }
+  },
+  {
+    "name": "Glowing Whip",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "70 (65 - 75)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Zeno",
+          "monster_id": "6220001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Glowing Whip",
+      "src": "/src/assets/weapon/Glowing Whip.png"
+    }
+  },
+  {
+    "name": "Gladius",
+    "requirements": {
+      "level": 20,
+      "strength": 65,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "47 (42 - 52)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gladius",
+      "src": "/src/assets/weapon/Gladius.png"
+    }
+  },
+  {
+    "name": "Jeweled Katar",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "67 (62 - 72)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Jeweled Katar",
+      "src": "/src/assets/weapon/Jeweled Katar.png"
+    }
+  },
+  {
+    "name": "Neocora",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Neocora",
+      "src": "/src/assets/weapon/Neocora.png"
+    }
+  },
+  {
+    "name": "Red Katana",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "83 (78 - 88)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Red Katana",
+      "src": "/src/assets/weapon/Red Katana.png"
+    }
+  },
+  {
+    "name": "Khan",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "88 (83 - 93)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Khan",
+      "src": "/src/assets/weapon/Khan.png"
+    }
+  },
+  {
+    "name": "Sparta",
+    "requirements": {
+      "level": 100,
+      "strength": 280,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Skelegon",
+          "monster_id": "8190003"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Furious Scarlion Boss",
+          "monster_id": "9420549"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Mini Bronze Martial Artist",
+          "monster_id": "9600020"
+        },
+        {
+          "monster_name": "Bronze Staffman",
+          "monster_id": "9600023"
+        },
+        {
+          "monster_name": "Skelosaurus",
+          "monster_id": "8190004"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Birk",
+          "monster_id": "8140110"
+        },
+        {
+          "monster_name": "Chief Memory Guardian",
+          "monster_id": "8200004"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Berserkie",
+          "monster_id": "9420514"
+        },
+        {
+          "monster_name": "Duku",
+          "monster_id": "9420519"
+        },
+        {
+          "monster_name": "Maverick Y",
+          "monster_id": "9400257"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Sparta",
+      "src": "/src/assets/weapon/Sparta.png"
+    }
+  },
+  {
+    "name": "The Stars and Stripes",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "10 (9 - 11)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "The Stars and Stripes",
+      "src": "/src/assets/weapon/The Stars and Stripes.png"
+    }
+  },
+  {
+    "name": "Maple Umbrella",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "45 (40 - 50)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Umbrella",
+      "src": "/src/assets/weapon/Maple Umbrella.png"
+    }
+  },
+  {
+    "name": "Dragon Carabella",
+    "requirements": {
+      "level": 110,
+      "strength": 310,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "103 (98 - 108)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Carabella",
+      "src": "/src/assets/weapon/Dragon Carabella.png"
+    }
+  },
+  {
+    "name": "Huckle's Lamp",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Huckle's Lamp",
+      "src": "/src/assets/weapon/Huckle's Lamp.png"
+    }
+  },
+  {
+    "name": "Pumpkin Basket (2006 SE)",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Faster (3)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "hp": "10 (9 - 11)",
+      "weapon_attack": "1 (0 - 2)",
+      "speed": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pumpkin Basket (2006 SE)",
+      "src": "/src/assets/weapon/Pumpkin Basket (2006 SE).png"
+    }
+  },
+  {
+    "name": "Flaming Katana",
+    "requirements": {
+      "level": 38,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "65 (60 - 70)",
+      "magic_attack": "40 (36 - 44)",
+      "speed": "17 (15 - 19)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flaming Katana",
+      "src": "/src/assets/weapon/Flaming Katana.png"
+    }
+  },
+  {
+    "name": "Maple Glory Sword",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "weapon_attack": "81 (76 - 86)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Glory Sword",
+      "src": "/src/assets/weapon/Maple Glory Sword.png"
+    }
+  },
+  {
+    "name": "Blue Maple Flag",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "1 (0 - 2)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Maple Flag",
+      "src": "/src/assets/weapon/Blue Maple Flag.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "38 (34 - 42)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Onyx Blade",
+    "requirements": {
+      "level": 45,
+      "strength": 145,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "67 (62 - 72)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "352,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Onyx Blade",
+      "src": "/src/assets/weapon/Onyx Blade.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "67 (62 - 72)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Singapore Flag (Beginner)",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "38 (34 - 42)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (Beginner)",
+      "src": "/src/assets/weapon/Singapore Flag (Beginner).png"
+    }
+  },
+  {
+    "name": "Malaysia Flag (Beginner)",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "38 (34 - 42)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Malaysia Flag (Beginner)",
+      "src": "/src/assets/weapon/Malaysia Flag (Beginner).png"
+    }
+  },
+  {
+    "name": "Singapore Flag (One Handed Sword)",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Singapore Flag (One Handed Sword)",
+      "src": "/src/assets/weapon/Singapore Flag (One Handed Sword).png"
+    }
+  },
+  {
+    "name": "Malaysia Flag (One Handed Sword)",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Malaysia Flag (One Handed Sword)",
+      "src": "/src/assets/weapon/Malaysia Flag (One Handed Sword).png"
+    }
+  },
+  {
+    "name": "Beginner Warrior's sword",
+    "requirements": {
+      "level": 10,
+      "strength": 35,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "24 (21 - 27)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Beginner Warrior's sword",
+      "src": "/src/assets/weapon/Beginner Warrior's sword.png"
+    }
+  },
+  {
+    "name": "Astral Blade",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "86 (81 - 91)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astral Blade",
+      "src": "/src/assets/weapon/Astral Blade.png"
+    }
+  },
+  {
+    "name": "Maplemas Lights",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "43 (38 - 48)",
+      "speed": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Anniversary Cake",
+          "monster_id": "9400570"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maplemas Lights",
+      "src": "/src/assets/weapon/Maplemas Lights.png"
+    }
+  },
+  {
+    "name": "Timeless Executioners",
+    "requirements": {
+      "level": 150,
+      "strength": 340,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "110 (108 - 112)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Executioners",
+      "src": "/src/assets/weapon/Timeless Executioners.png"
+    }
+  },
+  {
+    "name": "Torch",
+    "requirements": {
+      "level": 8,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "10 (9 - 11)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Torch",
+      "src": "/src/assets/weapon/Torch.png"
+    }
+  },
+  {
+    "name": "Fork",
+    "requirements": {
+      "level": 8,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "10 (9 - 11)"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fork",
+      "src": "/src/assets/weapon/Fork.png"
+    }
+  },
+  {
+    "name": "Reverse Executioners",
+    "requirements": {
+      "level": 150,
+      "strength": 340,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "108 (106 - 110)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Executioners",
+      "src": "/src/assets/weapon/Reverse Executioners.png"
+    }
+  },
+  {
+    "name": "Stirge-on-a-String",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "25 (22 - 28)",
+      "speed": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirge-on-a-String",
+      "src": "/src/assets/weapon/Stirge-on-a-String.png"
+    }
+  },
+  {
+    "name": "Stirge-on-a-Rope",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "50 (45 - 55)",
+      "speed": "8 (7 - 9)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirge-on-a-Rope",
+      "src": "/src/assets/weapon/Stirge-on-a-Rope.png"
+    }
+  },
+  {
+    "name": "Stirge-o-Whip",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "70 (65 - 75)",
+      "speed": "12 (10 - 14)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirge-o-Whip",
+      "src": "/src/assets/weapon/Stirge-o-Whip.png"
+    }
+  },
+  {
+    "name": "Stirge Grappler",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "73 (68 - 78)",
+      "jump": "13 (11 - 15)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Stirge Grappler",
+      "src": "/src/assets/weapon/Stirge Grappler.png"
+    }
+  },
+  {
+    "name": "Swooping Stirge",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "78 (73 - 83)",
+      "magic_attack": "80 (75 - 85)",
+      "speed": "13 (11 - 15)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Swooping Stirge",
+      "src": "/src/assets/weapon/Swooping Stirge.png"
+    }
+  },
+  {
+    "name": "Frantic Strige",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "79 (74 - 84)",
+      "avoidability": "10 (9 - 11)",
+      "speed": "12 (10 - 14)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Frantic Strige",
+      "src": "/src/assets/weapon/Frantic Strige.png"
+    }
+  },
+  {
+    "name": "Angry Stirge",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "85 (80 - 90)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Angry Stirge",
+      "src": "/src/assets/weapon/Angry Stirge.png"
+    }
+  },
+  {
+    "name": "Lifeguard Saver",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "39 (35 - 43)",
+      "speed": "10 (9 - 11)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lifeguard Saver",
+      "src": "/src/assets/weapon/Lifeguard Saver.png"
+    }
+  },
+  {
+    "name": "Lunch box (Lv 20)",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lunch box (Lv 20)",
+      "src": "/src/assets/weapon/Lunch box (Lv 20).png"
+    }
+  },
+  {
+    "name": "Lunch box (Lv 60)",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lunch box (Lv 60)",
+      "src": "/src/assets/weapon/Lunch box (Lv 60).png"
+    }
+  },
+  {
+    "name": "Lunch box (Lv 90)",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lunch box (Lv 90)",
+      "src": "/src/assets/weapon/Lunch box (Lv 90).png"
+    }
+  },
+  {
+    "name": "Lunch box (Lv 120)",
+    "requirements": {
+      "level": 120,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "109 (104 - 114)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Lunch box (Lv 120)",
+      "src": "/src/assets/weapon/Lunch box (Lv 120).png"
+    }
+  },
+  {
+    "name": "Seraphim One-handed Sword",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "30 (27 - 33)",
+      "avoidability": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim One-handed Sword",
+      "src": "/src/assets/weapon/Seraphim One-handed Sword.png"
+    }
+  },
+  {
+    "name": "Crystal Blade",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "45 (40 - 50)",
+      "accuracy": "25 (22 - 28)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Crystal Blade",
+      "src": "/src/assets/weapon/Crystal Blade.png"
+    }
+  },
+  {
+    "name": "Black Crystal Blade",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "weapon_attack": "99 (94 - 104)",
+      "accuracy": "50 (45 - 55)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Crystal Blade",
+      "src": "/src/assets/weapon/Black Crystal Blade.png"
+    }
+  },
+  {
+    "name": "Speargrave (One-Handed Sword)",
+    "requirements": {
+      "level": 115,
+      "strength": 325,
+      "dexterity": 125,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "100 (95 - 105)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (One-Handed Sword)",
+      "src": "/src/assets/weapon/Speargrave (One-Handed Sword).png"
+    }
+  },
+  {
+    "name": "Flairgrave (One-Handed Sword)",
+    "requirements": {
+      "level": 115,
+      "strength": 325,
+      "dexterity": 125,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "100 (95 - 105)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (One-Handed Sword)",
+      "src": "/src/assets/weapon/Flairgrave (One-Handed Sword).png"
+    }
+  },
+  {
+    "name": "Balrog's Khan",
+    "requirements": {
+      "level": 80,
+      "strength": 230,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Khan",
+      "src": "/src/assets/weapon/Balrog's Khan.png"
+    }
+  },
+  {
+    "name": "Balrog's Fraute",
+    "requirements": {
+      "level": 90,
+      "strength": 250,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Fraute",
+      "src": "/src/assets/weapon/Balrog's Fraute.png"
+    }
+  },
+  {
+    "name": "GMS Carabella",
+    "requirements": {
+      "level": 120,
+      "strength": 340,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "108 (103 - 113)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "GMS Carabella",
+      "src": "/src/assets/weapon/GMS Carabella.png"
+    }
+  },
+  {
+    "name": "King Pepe Cutlass",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Cutlass",
+      "src": "/src/assets/weapon/King Pepe Cutlass.png"
+    }
+  },
+  {
+    "name": "Angel Sword",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "17 (15 - 19)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Angel Sword",
+      "src": "/src/assets/weapon/Angel Sword.png"
+    }
+  },
+  {
+    "name": "Broomstick",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "31 (27 - 35)",
+      "speed": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Broomstick",
+      "src": "/src/assets/weapon/Broomstick.png"
+    }
+  },
+  {
+    "name": "Astaroth One-Handed Sword",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "str": "10 (9 - 11)",
+      "weapon_attack": "42 (37 - 47)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "10"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Astaroth One-Handed Sword",
+      "src": "/src/assets/weapon/Astaroth One-Handed Sword.png"
+    }
+  },
+  {
+    "name": "Fiery Fox",
+    "requirements": {
+      "level": 40,
+      "strength": 125,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Sword",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fiery Fox",
+      "src": "/src/assets/weapon/Fiery Fox.png"
+    }
+  }
+]

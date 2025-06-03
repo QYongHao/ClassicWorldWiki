@@ -1,0 +1,2007 @@
+[
+  {
+    "name": "Double Axe",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "27 (24 - 30)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Orange Mushroom",
+          "monster_id": "1210102"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Silver",
+          "npc_id": "1001000",
+          "price": "3,000",
+          "npc_image": "/static/images/lib/npc/1001000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Double Axe",
+      "src": "/src/assets/weapon/Double Axe.png"
+    }
+  },
+  {
+    "name": "Battle Axe",
+    "requirements": {
+      "level": 15,
+      "strength": 40,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "6,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Battle Axe",
+      "src": "/src/assets/weapon/Battle Axe.png"
+    }
+  },
+  {
+    "name": "Scythe",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 35
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "32 (28 - 36)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Scythe",
+      "src": "/src/assets/weapon/Scythe.png"
+    }
+  },
+  {
+    "name": "Misthil Axe",
+    "requirements": {
+      "level": 25,
+      "strength": 80,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "42 (37 - 47)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Seacle",
+          "monster_id": "2230105"
+        },
+        {
+          "monster_name": "Trixter",
+          "monster_id": "2230103"
+        },
+        {
+          "monster_name": "Genin",
+          "monster_id": "9400400"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "20,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Misthil Axe",
+      "src": "/src/assets/weapon/Misthil Axe.png"
+    }
+  },
+  {
+    "name": "Hand Axe",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "17 (15 - 19)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Shroom",
+          "monster_id": "120100"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Sid",
+          "npc_id": "11000",
+          "price": "50",
+          "npc_image": "/static/images/lib/npc/0011000.png"
+        },
+        {
+          "npc_name": "Silver",
+          "npc_id": "1001000",
+          "price": "50",
+          "npc_image": "/static/images/lib/npc/1001000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hand Axe",
+      "src": "/src/assets/weapon/Hand Axe.png"
+    }
+  },
+  {
+    "name": "Fireman's Axe",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "47 (42 - 52)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Chirppy",
+          "monster_id": "3230307"
+        },
+        {
+          "monster_name": "Mighty Maple Eater",
+          "monster_id": "9400548"
+        },
+        {
+          "monster_name": "Coke Mushroom",
+          "monster_id": "9500152"
+        },
+        {
+          "monster_name": "Red Bubble Tea",
+          "monster_id": "9410005"
+        },
+        {
+          "monster_name": "Propelly",
+          "monster_id": "3230303"
+        },
+        {
+          "monster_name": "Sentinel",
+          "monster_id": "3000000"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "River",
+          "npc_id": "1021000",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/1021000.png"
+        },
+        {
+          "npc_name": "Neri the Fairy",
+          "npc_id": "2012003",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2012003.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Mu Tan",
+          "npc_id": "2093000",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2093000.png"
+        },
+        {
+          "npc_name": "Zaid",
+          "npc_id": "2100002",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/2100002.png"
+        },
+        {
+          "npc_name": "Kyle",
+          "npc_id": "9201059",
+          "price": "42,500",
+          "npc_image": "/static/images/lib/npc/9201059.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Xia Po Lang",
+          "npc_id": "9310038",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9310038.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "40,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Fireman's Axe",
+      "src": "/src/assets/weapon/Fireman's Axe.png"
+    }
+  },
+  {
+    "name": "Dankke",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "52 (47 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Cloud Fox",
+          "monster_id": "9400002"
+        },
+        {
+          "monster_name": "Ratz",
+          "monster_id": "3110102"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "4230103"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "9300060"
+        },
+        {
+          "monster_name": "Black Sheep",
+          "monster_id": "9600008"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dankke",
+      "src": "/src/assets/weapon/Dankke.png"
+    }
+  },
+  {
+    "name": "Blue Counter",
+    "requirements": {
+      "level": 40,
+      "strength": 125,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Seal",
+          "monster_id": "3230405"
+        },
+        {
+          "monster_name": "Panda Teddy",
+          "monster_id": "3210203"
+        },
+        {
+          "monster_name": "Zombie Mushroom",
+          "monster_id": "2230101"
+        },
+        {
+          "monster_name": "Moon Bunny",
+          "monster_id": "4230300"
+        },
+        {
+          "monster_name": "Lioner",
+          "monster_id": "5120002"
+        }
+      ],
+      "sold_by": [
+        {
+          "npc_name": "Scott",
+          "npc_id": "2020001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2020001.png"
+        },
+        {
+          "npc_name": "Hid",
+          "npc_id": "2041002",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2041002.png"
+        },
+        {
+          "npc_name": "Dr. San",
+          "npc_id": "2050000",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2050000.png"
+        },
+        {
+          "npc_name": "Calypso",
+          "npc_id": "2060007",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2060007.png"
+        },
+        {
+          "npc_name": "Moki",
+          "npc_id": "2070002",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2070002.png"
+        },
+        {
+          "npc_name": "Gong Gong",
+          "npc_id": "2090001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/2090001.png"
+        },
+        {
+          "npc_name": "Dang",
+          "npc_id": "9250007",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9250007.png"
+        },
+        {
+          "npc_name": "Chan",
+          "npc_id": "9270019",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9270019.png"
+        },
+        {
+          "npc_name": "Chiang",
+          "npc_id": "9270055",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9270055.png"
+        },
+        {
+          "npc_name": "Lady Li",
+          "npc_id": "9310001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9310001.png"
+        },
+        {
+          "npc_name": "Uncle Wang",
+          "npc_id": "9330001",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9330001.png"
+        },
+        {
+          "npc_name": "Kevin",
+          "npc_id": "9330047",
+          "price": "175,000",
+          "npc_image": "/static/images/lib/npc/9330047.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Blue Counter",
+      "src": "/src/assets/weapon/Blue Counter.png"
+    }
+  },
+  {
+    "name": "Buck",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "67 (62 - 72)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rombot",
+          "monster_id": "4130103"
+        },
+        {
+          "monster_name": "Straw Target Dummy",
+          "monster_id": "5120503"
+        },
+        {
+          "monster_name": "Coolie Zombie",
+          "monster_id": "5130107"
+        },
+        {
+          "monster_name": "Ice Golem",
+          "monster_id": "9500150"
+        },
+        {
+          "monster_name": "Hodori",
+          "monster_id": "5100003"
+        },
+        {
+          "monster_name": "Electrophant",
+          "monster_id": "9400543"
+        },
+        {
+          "monster_name": "Taurospear",
+          "monster_id": "7130101"
+        },
+        {
+          "monster_name": "Reinforced Mithril Mutae",
+          "monster_id": "5110300"
+        },
+        {
+          "monster_name": "Seruf",
+          "monster_id": "4220000"
+        },
+        {
+          "monster_name": "Platoon Chronos",
+          "monster_id": "4230114"
+        },
+        {
+          "monster_name": "Slimy",
+          "monster_id": "9420510"
+        },
+        {
+          "monster_name": "Faust",
+          "monster_id": "5220002"
+        },
+        {
+          "monster_name": "Zeta Gray",
+          "monster_id": "4230117"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Buck",
+      "src": "/src/assets/weapon/Buck.png"
+    }
+  },
+  {
+    "name": "Hawkhead",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stone Golem",
+          "monster_id": "5130101"
+        },
+        {
+          "monster_name": "Cerebes",
+          "monster_id": "7130001"
+        },
+        {
+          "monster_name": "Rodeo",
+          "monster_id": "9420533"
+        },
+        {
+          "monster_name": "Timer",
+          "monster_id": "5220003"
+        },
+        {
+          "monster_name": "Mr. Anchor",
+          "monster_id": "9420512"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hawkhead",
+      "src": "/src/assets/weapon/Hawkhead.png"
+    }
+  },
+  {
+    "name": "Mikhail",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "83 (78 - 88)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "Homunscullo",
+          "monster_id": "8110300"
+        },
+        {
+          "monster_name": "Snack Bar",
+          "monster_id": "9410015"
+        },
+        {
+          "monster_name": "Transformed Yeti",
+          "monster_id": "6300001"
+        },
+        {
+          "monster_name": "Harp",
+          "monster_id": "8140001"
+        },
+        {
+          "monster_name": "Blue Mushmom",
+          "monster_id": "9400205"
+        },
+        {
+          "monster_name": "Male Mannequin",
+          "monster_id": "9410034"
+        },
+        {
+          "monster_name": "Dyle",
+          "monster_id": "6220000"
+        },
+        {
+          "monster_name": "Jr. Balrog",
+          "monster_id": "8130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mikhail",
+      "src": "/src/assets/weapon/Mikhail.png"
+    }
+  },
+  {
+    "name": "Gaea",
+    "requirements": {
+      "level": 80,
+      "strength": 230,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "88 (83 - 93)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Cold Shark",
+          "monster_id": "8150101"
+        },
+        {
+          "monster_name": "King Sage Cat",
+          "monster_id": "7220002"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gaea",
+      "src": "/src/assets/weapon/Gaea.png"
+    }
+  },
+  {
+    "name": "Hula Hoop",
+    "requirements": {
+      "level": 45,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "64 (59 - 69)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hula Hoop",
+      "src": "/src/assets/weapon/Hula Hoop.png"
+    }
+  },
+  {
+    "name": "Green Paint Brush",
+    "requirements": {
+      "level": 30,
+      "strength": 5,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "hp": "30 (27 - 33)",
+      "weapon_attack": "48 (43 - 53)",
+      "magic_attack": "45 (40 - 50)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": [
+        {
+          "npc_name": "Yokoda",
+          "npc_id": "9110100",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9110100.png"
+        },
+        {
+          "npc_name": "Shinta",
+          "npc_id": "9120000",
+          "price": "100,000",
+          "npc_image": "/static/images/lib/npc/9120000.png"
+        }
+      ]
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Green Paint Brush",
+      "src": "/src/assets/weapon/Green Paint Brush.png"
+    }
+  },
+  {
+    "name": "Black Paint Brush",
+    "requirements": {
+      "level": 55,
+      "strength": 5,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "75 (70 - 80)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Black Paint Brush",
+      "src": "/src/assets/weapon/Black Paint Brush.png"
+    }
+  },
+  {
+    "name": "Vifennis",
+    "requirements": {
+      "level": 90,
+      "strength": 260,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Memory Monk",
+          "monster_id": "8200001"
+        },
+        {
+          "monster_name": "Papulatus",
+          "monster_id": "8500002"
+        },
+        {
+          "monster_name": "Female Thief",
+          "monster_id": "9600016"
+        },
+        {
+          "monster_name": "Rexton",
+          "monster_id": "8140702"
+        },
+        {
+          "monster_name": "Capt. Latanica",
+          "monster_id": "9420513"
+        },
+        {
+          "monster_name": "Male Thief",
+          "monster_id": "9600015"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Zakum3",
+          "monster_id": "8800002"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        },
+        {
+          "monster_name": "Kimera",
+          "monster_id": "8220002"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Vifennis",
+      "src": "/src/assets/weapon/Vifennis.png"
+    }
+  },
+  {
+    "name": "Contra Axe",
+    "requirements": {
+      "level": 20,
+      "strength": 65,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "weapon_attack": "37 (33 - 41)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mighty Maple Eater",
+          "monster_id": "9400548"
+        },
+        {
+          "monster_name": "Sentinel",
+          "monster_id": "3000000"
+        },
+        {
+          "monster_name": "Axe Stump",
+          "monster_id": "1130100"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Contra Axe",
+      "src": "/src/assets/weapon/Contra Axe.png"
+    }
+  },
+  {
+    "name": "Chief Axe",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (4)",
+      "weapon_attack": "30 (27 - 33)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Chief Axe",
+      "src": "/src/assets/weapon/Chief Axe.png"
+    }
+  },
+  {
+    "name": "Buck",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Buck",
+      "src": "/src/assets/weapon/Buck.png"
+    }
+  },
+  {
+    "name": "Hawkhead",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hawkhead",
+      "src": "/src/assets/weapon/Hawkhead.png"
+    }
+  },
+  {
+    "name": "Mikhail",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mikhail",
+      "src": "/src/assets/weapon/Mikhail.png"
+    }
+  },
+  {
+    "name": "Gaea",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gaea",
+      "src": "/src/assets/weapon/Gaea.png"
+    }
+  },
+  {
+    "name": "Buck",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Buck",
+      "src": "/src/assets/weapon/Buck.png"
+    }
+  },
+  {
+    "name": "Hawkhead",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "87 (82 - 92)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hawkhead",
+      "src": "/src/assets/weapon/Hawkhead.png"
+    }
+  },
+  {
+    "name": "Mikhail",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "93 (88 - 98)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mikhail",
+      "src": "/src/assets/weapon/Mikhail.png"
+    }
+  },
+  {
+    "name": "Gaea",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "5 (4 - 6)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gaea",
+      "src": "/src/assets/weapon/Gaea.png"
+    }
+  },
+  {
+    "name": "Buck",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "67 (62 - 72)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Buck",
+      "src": "/src/assets/weapon/Buck.png"
+    }
+  },
+  {
+    "name": "Hawkhead",
+    "requirements": {
+      "level": 50,
+      "strength": 155,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "77 (72 - 82)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Hawkhead",
+      "src": "/src/assets/weapon/Hawkhead.png"
+    }
+  },
+  {
+    "name": "Mikhail",
+    "requirements": {
+      "level": 60,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "83 (78 - 88)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Mikhail",
+      "src": "/src/assets/weapon/Mikhail.png"
+    }
+  },
+  {
+    "name": "Gaea",
+    "requirements": {
+      "level": 70,
+      "strength": 200,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "88 (83 - 93)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Gaea",
+      "src": "/src/assets/weapon/Gaea.png"
+    }
+  },
+  {
+    "name": "Tomahawk",
+    "requirements": {
+      "level": 100,
+      "strength": 290,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "98 (93 - 103)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Krexel",
+          "monster_id": "9420522"
+        },
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Veetron",
+          "monster_id": "9420515"
+        },
+        {
+          "monster_name": "Black Kentaurus",
+          "monster_id": "8140101"
+        },
+        {
+          "monster_name": "Leviathan",
+          "monster_id": "8220003"
+        },
+        {
+          "monster_name": "Manon",
+          "monster_id": "8180000"
+        },
+        {
+          "monster_name": "Iruvata",
+          "monster_id": "9400260"
+        },
+        {
+          "monster_name": "Spirit of Rock",
+          "monster_id": "9410035"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400270"
+        },
+        {
+          "monster_name": "Oblivion Monk Trainee",
+          "monster_id": "8200010"
+        },
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        },
+        {
+          "monster_name": "Tokyo stuff",
+          "monster_id": "8810028"
+        },
+        {
+          "monster_name": "Bergamot",
+          "monster_id": "9400265"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Tomahawk",
+      "src": "/src/assets/weapon/Tomahawk.png"
+    }
+  },
+  {
+    "name": "Dragon Axe",
+    "requirements": {
+      "level": 110,
+      "strength": 320,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "103 (98 - 108)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Horntail",
+          "monster_id": "8810018"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Dragon Axe",
+      "src": "/src/assets/weapon/Dragon Axe.png"
+    }
+  },
+  {
+    "name": "Maple Steel Axe",
+    "requirements": {
+      "level": 64,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "1 (0 - 2)",
+      "weapon_attack": "81 (76 - 86)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple Steel Axe",
+      "src": "/src/assets/weapon/Maple Steel Axe.png"
+    }
+  },
+  {
+    "name": "Maple 1500 Anniv. Flag",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Maple 1500 Anniv. Flag",
+      "src": "/src/assets/weapon/Maple 1500 Anniv. Flag.png"
+    }
+  },
+  {
+    "name": "Pink Flower Tube",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "67 (62 - 72)",
+      "accuracy": "5 (4 - 6)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Pink Flower Tube",
+      "src": "/src/assets/weapon/Pink Flower Tube.png"
+    }
+  },
+  {
+    "name": "Malaysia Flag (One Handed Axe)",
+    "requirements": {
+      "level": 30,
+      "strength": 95,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_attack": "47 (42 - 52)",
+      "speed": "15 (13 - 17)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Malaysia Flag (One Handed Axe)",
+      "src": "/src/assets/weapon/Malaysia Flag (One Handed Axe).png"
+    }
+  },
+  {
+    "name": "Timeless Bardiche",
+    "requirements": {
+      "level": 150,
+      "strength": 350,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "110 (108 - 112)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Timeless Bardiche",
+      "src": "/src/assets/weapon/Timeless Bardiche.png"
+    }
+  },
+  {
+    "name": "Reverse Bardiche",
+    "requirements": {
+      "level": 150,
+      "strength": 350,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "108 (106 - 110)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Reverse Bardiche",
+      "src": "/src/assets/weapon/Reverse Bardiche.png"
+    }
+  },
+  {
+    "name": "Seraphim One-handed Axe",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "str": "3 (2 - 4)",
+      "dex": "3 (2 - 4)",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_attack": "30 (27 - 33)",
+      "accuracy": "35 (31 - 39)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Seraphim One-handed Axe",
+      "src": "/src/assets/weapon/Seraphim One-handed Axe.png"
+    }
+  },
+  {
+    "name": "Speargrave (One-Handed Axe)",
+    "requirements": {
+      "level": 115,
+      "strength": 335,
+      "dexterity": 125,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "105 (100 - 110)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Core Blaze",
+          "monster_id": "9400296"
+        },
+        {
+          "monster_name": "Nameless Magic Monster",
+          "monster_id": "9400266"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Speargrave (One-Handed Axe)",
+      "src": "/src/assets/weapon/Speargrave (One-Handed Axe).png"
+    }
+  },
+  {
+    "name": "Flairgrave (One-Handed Axe)",
+    "requirements": {
+      "level": 115,
+      "strength": 335,
+      "dexterity": 125,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Fast (5)",
+      "str": "2 (1 - 3)",
+      "weapon_attack": "105 (100 - 110)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nibelung",
+          "monster_id": "9400273"
+        },
+        {
+          "monster_name": "Aufheben",
+          "monster_id": "9400289"
+        },
+        {
+          "monster_name": "Dunas",
+          "monster_id": "9400294"
+        }
+      ],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Flairgrave (One-Handed Axe)",
+      "src": "/src/assets/weapon/Flairgrave (One-Handed Axe).png"
+    }
+  },
+  {
+    "name": "Balrog's Gaea",
+    "requirements": {
+      "level": 80,
+      "strength": 230,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "85 (80 - 90)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Gaea",
+      "src": "/src/assets/weapon/Balrog's Gaea.png"
+    }
+  },
+  {
+    "name": "Balrog's Vifennis",
+    "requirements": {
+      "level": 90,
+      "strength": 260,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "90 (85 - 95)",
+      "number_of_upgrades_available": "8"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "Balrog's Vifennis",
+      "src": "/src/assets/weapon/Balrog's Vifennis.png"
+    }
+  },
+  {
+    "name": "GMS Axe",
+    "requirements": {
+      "level": 120,
+      "strength": 350,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "108 (103 - 113)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "GMS Axe",
+      "src": "/src/assets/weapon/GMS Axe.png"
+    }
+  },
+  {
+    "name": "King Pepe Danker",
+    "requirements": {
+      "level": 35,
+      "strength": 110,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "One Handed Axe",
+      "attack_speed": "Normal (6)",
+      "weapon_attack": "57 (52 - 62)",
+      "number_of_upgrades_available": "7"
+    },
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    },
+    "icon": {
+      "type": "image",
+      "alt": "King Pepe Danker",
+      "src": "/src/assets/weapon/King Pepe Danker.png"
+    }
+  }
+]
