@@ -177,9 +177,11 @@ export default defineConfig({
 							label: 'Accessory',
 							collapsed: true,
 							items: [
-								{ label: 'Belt', slug: 'equipment/accessory/belt' },
 								{ label: 'Earring', slug: 'equipment/accessory/earring' },
-								{ label: 'Ring', slug: 'equipment/accessory/ring' }
+								{ label: 'Ring', slug: 'equipment/accessory/ring' },
+								{ label: 'Pendant', slug: 'equipment/accessory/pendant' },
+								{ label: 'Face Accessory', slug: 'equipment/accessory/faceacc' },
+								{ label: 'Eye Accessory', slug: 'equipment/accessory/eyeacc' }
 							]
 						},
 					],

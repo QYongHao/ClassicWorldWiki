@@ -569,6 +569,13 @@
   },
   {
     "name": "Pendant of the Spirit",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
     "classes": [
       "Beginner",
       "Warrior",

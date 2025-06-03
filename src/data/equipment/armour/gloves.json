@@ -1,0 +1,7517 @@
+[
+  {
+    "name": "Steel Fingerless Gloves",
+    "image_url": "/static/images/lib/character/01082000.png",
+    "requirements": {
+      "level": 15,
+      "strength": 40,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Coke Slime",
+          "monster_id": "9500151"
+        },
+        {
+          "monster_name": "Horny Mushroom",
+          "monster_id": "2110200"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "White Fingerless Gloves",
+    "image_url": "/static/images/lib/character/01082001.png",
+    "requirements": {
+      "level": 25,
+      "strength": 75,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "9 (8 - 10)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 15000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stray Dog",
+          "monster_id": "9410000"
+        },
+        {
+          "monster_name": "Pinboom",
+          "monster_id": "2230108"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Work Gloves",
+    "image_url": "/static/images/lib/character/01082002.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 2000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stirge",
+          "monster_id": "2300100"
+        },
+        {
+          "monster_name": "Desert Rabbit (F)",
+          "monster_id": "2100100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Juno",
+    "image_url": "/static/images/lib/character/01082003.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 2500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stump",
+          "monster_id": "130100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Venon",
+    "image_url": "/static/images/lib/character/01082004.png",
+    "requirements": {
+      "level": 20,
+      "strength": 60,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bellflower Root",
+          "monster_id": "5120501"
+        },
+        {
+          "monster_name": "Sr. Bellflower Root",
+          "monster_id": "5120502"
+        },
+        {
+          "monster_name": "Roid",
+          "monster_id": "5110301"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Steel Missel",
+    "image_url": "/static/images/lib/character/01082005.png",
+    "requirements": {
+      "level": 30,
+      "strength": 90,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "weapon_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 27500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Star Pixie",
+          "monster_id": "3230200"
+        },
+        {
+          "monster_name": "Krip",
+          "monster_id": "3000006"
+        },
+        {
+          "monster_name": "Scorpion",
+          "monster_id": "2110301"
+        },
+        {
+          "monster_name": "Meercat",
+          "monster_id": "2100108"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Orihalcon Missel",
+    "image_url": "/static/images/lib/character/01082006.png",
+    "requirements": {
+      "level": 30,
+      "strength": 90,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "weapon_def": "13 (11 - 15)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 30000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rocky Mask",
+          "monster_id": "2230111"
+        },
+        {
+          "monster_name": "Wooden Mask",
+          "monster_id": "2230110"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Bronze Missel",
+    "image_url": "/static/images/lib/character/01082007.png",
+    "requirements": {
+      "level": 30,
+      "strength": 90,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "11 (9 - 13)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 25000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Brown Teddy",
+          "monster_id": "3000005"
+        },
+        {
+          "monster_name": "Pink Teddy",
+          "monster_id": "3110101"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Steel Briggon",
+    "image_url": "/static/images/lib/character/01082008.png",
+    "requirements": {
+      "level": 35,
+      "strength": 125,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "13 (11 - 15)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 35000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Chirppy",
+          "monster_id": "3230307"
+        },
+        {
+          "monster_name": "Zeta Gray",
+          "monster_id": "4230117"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Steel Brist",
+    "image_url": "/static/images/lib/character/01082009.png",
+    "requirements": {
+      "level": 50,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "weapon_def": "19 (17 - 21)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Seal",
+          "monster_id": "3230405"
+        },
+        {
+          "monster_name": "Dark Stone Golem",
+          "monster_id": "5130102"
+        },
+        {
+          "monster_name": "Lioner",
+          "monster_id": "5120002"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Mithril Brist",
+    "image_url": "/static/images/lib/character/01082010.png",
+    "requirements": {
+      "level": 50,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 100000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mummydog",
+          "monster_id": "4230126"
+        },
+        {
+          "monster_name": "Tweeter",
+          "monster_id": "3230308"
+        },
+        {
+          "monster_name": "Coke Golem",
+          "monster_id": "9500149"
+        },
+        {
+          "monster_name": "Reinforced Iron Mutae",
+          "monster_id": "4110301"
+        },
+        {
+          "monster_name": "Mossy Mushroom",
+          "monster_id": "5250000"
+        },
+        {
+          "monster_name": "Triple Rumo",
+          "monster_id": "3110303"
+        },
+        {
+          "monster_name": "Chunin",
+          "monster_id": "9400401"
+        },
+        {
+          "monster_name": "MT-09",
+          "monster_id": "5120100"
+        },
+        {
+          "monster_name": "Planey",
+          "monster_id": "3230304"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        },
+        {
+          "monster_name": "Red Flower Serpent",
+          "monster_id": "4230504"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Brist",
+    "image_url": "/static/images/lib/character/01082011.png",
+    "requirements": {
+      "level": 50,
+      "strength": 180,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "3 (2 - 4)",
+      "weapon_def": "21 (18 - 24)",
+      "accuracy": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 110000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nependeath",
+          "monster_id": "4230105"
+        },
+        {
+          "monster_name": "Malady",
+          "monster_id": "5300100"
+        },
+        {
+          "monster_name": "Nependeath",
+          "monster_id": "4230122"
+        },
+        {
+          "monster_name": "Poison Poopa",
+          "monster_id": "4230201"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Basic Archer Gloves",
+    "image_url": "/static/images/lib/character/01082012.png",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Orange Mushroom",
+          "monster_id": "1210102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Diros",
+    "image_url": "/static/images/lib/character/01082013.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "6 (5 - 7)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Diros",
+    "image_url": "/static/images/lib/character/01082014.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 12000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Diros",
+    "image_url": "/static/images/lib/character/01082015.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 14000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Savata",
+    "image_url": "/static/images/lib/character/01082016.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 75,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 15000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Rooster",
+          "monster_id": "9420005"
+        },
+        {
+          "monster_name": "Seacle",
+          "monster_id": "2230105"
+        },
+        {
+          "monster_name": "Cactus",
+          "monster_id": "2100103"
+        },
+        {
+          "monster_name": "Leatty",
+          "monster_id": "5300000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Savata",
+    "image_url": "/static/images/lib/character/01082017.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 75,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "9 (8 - 10)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 17000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Trixter",
+          "monster_id": "2230103"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Savata",
+    "image_url": "/static/images/lib/character/01082018.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 75,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 20000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Ghost Stump",
+          "monster_id": "1140100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Lemona",
+    "image_url": "/static/images/lib/character/01082019.png",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 48,
+      "luck": 18
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Slime",
+          "monster_id": "210100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Morrican",
+    "image_url": "/static/images/lib/character/01082020.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 62,
+      "luck": 23
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "6 (5 - 7)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bellamoa",
+          "monster_id": "2100105"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Morrican",
+    "image_url": "/static/images/lib/character/01082021.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 62,
+      "luck": 23
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "1 (0 - 2)",
+      "weapon_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 12000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Purple Morrican",
+    "image_url": "/static/images/lib/character/01082022.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 62,
+      "luck": 23
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "weapon_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 14000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Iron Knuckle",
+    "image_url": "/static/images/lib/character/01082023.png",
+    "requirements": {
+      "level": 40,
+      "strength": 150,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "weapon_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 50000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Chirppy",
+          "monster_id": "3230307"
+        },
+        {
+          "monster_name": "Psycho Jack",
+          "monster_id": "9400558"
+        },
+        {
+          "monster_name": "Tick-Tock",
+          "monster_id": "4230113"
+        },
+        {
+          "monster_name": "Mask Fish",
+          "monster_id": "3230104"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Adamantium Knuckle",
+    "image_url": "/static/images/lib/character/01082024.png",
+    "requirements": {
+      "level": 40,
+      "strength": 150,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "weapon_def": "16 (14 - 18)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 60000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tick",
+          "monster_id": "3210207"
+        },
+        {
+          "monster_name": "Plow Ox",
+          "monster_id": "9600007"
+        },
+        {
+          "monster_name": "Ultra Gray",
+          "monster_id": "4230118"
+        },
+        {
+          "monster_name": "Poison Poopa",
+          "monster_id": "4230201"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Knuckle",
+    "image_url": "/static/images/lib/character/01082025.png",
+    "requirements": {
+      "level": 40,
+      "strength": 150,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "3 (2 - 4)",
+      "weapon_def": "17 (15 - 19)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 75000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stone Golem",
+          "monster_id": "5130101"
+        },
+        {
+          "monster_name": "Robo",
+          "monster_id": "4230111"
+        },
+        {
+          "monster_name": "Master Robo",
+          "monster_id": "4230112"
+        },
+        {
+          "monster_name": "Panda Teddy",
+          "monster_id": "3210203"
+        },
+        {
+          "monster_name": "Stumpy",
+          "monster_id": "3220000"
+        },
+        {
+          "monster_name": "Mateon",
+          "monster_id": "4230119"
+        },
+        {
+          "monster_name": "Deo",
+          "monster_id": "3220001"
+        },
+        {
+          "monster_name": "I.AM.ROBOT",
+          "monster_id": "9400546"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Ocean Mesana",
+    "image_url": "/static/images/lib/character/01082026.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 78,
+      "luck": 28
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 15000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Krappy",
+          "monster_id": "2230107"
+        },
+        {
+          "monster_name": "Evil Eye",
+          "monster_id": "2230100"
+        },
+        {
+          "monster_name": "Coketump",
+          "monster_id": "9500153"
+        },
+        {
+          "monster_name": "Wooden Mask",
+          "monster_id": "2230110"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blood Mesana",
+    "image_url": "/static/images/lib/character/01082027.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 78,
+      "luck": 28
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "1 (0 - 2)",
+      "weapon_def": "9 (8 - 10)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 17000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Mesana",
+    "image_url": "/static/images/lib/character/01082028.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 78,
+      "luck": 28
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 20000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mano",
+          "monster_id": "2220000"
+        },
+        {
+          "monster_name": "Dark Fission",
+          "monster_id": "9420529"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Duo",
+    "image_url": "/static/images/lib/character/01082029.png",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 35
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Coke Slime",
+          "monster_id": "9500151"
+        },
+        {
+          "monster_name": "Red Snail",
+          "monster_id": "130101"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Duo",
+    "image_url": "/static/images/lib/character/01082030.png",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 35
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Black Duo",
+    "image_url": "/static/images/lib/character/01082031.png",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 35
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Bronze Mischief",
+    "image_url": "/static/images/lib/character/01082032.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "6 (5 - 7)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Crow",
+          "monster_id": "9400000"
+        },
+        {
+          "monster_name": "Genin",
+          "monster_id": "9400400"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Mithril Mischief",
+    "image_url": "/static/images/lib/character/01082033.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 12000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Mischief",
+    "image_url": "/static/images/lib/character/01082034.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 50
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 14000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Yellow Briggon",
+    "image_url": "/static/images/lib/character/01082035.png",
+    "requirements": {
+      "level": 35,
+      "strength": 125,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "weapon_def": "14 (12 - 16)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 35000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Teddy",
+          "monster_id": "3110101"
+        },
+        {
+          "monster_name": "King Bloctopus",
+          "monster_id": "3230103"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Briggon",
+    "image_url": "/static/images/lib/character/01082036.png",
+    "requirements": {
+      "level": 35,
+      "strength": 125,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "weapon_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 35000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yeti Doll",
+          "monster_id": "9410009"
+        },
+        {
+          "monster_name": "Dark Leatty",
+          "monster_id": "5300001"
+        },
+        {
+          "monster_name": "Lunar Pixie",
+          "monster_id": "4230106"
+        },
+        {
+          "monster_name": "Zeta Gray",
+          "monster_id": "4230117"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Bronze Wolfskin",
+    "image_url": "/static/images/lib/character/01082037.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 65
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 15000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Wraith",
+          "monster_id": "3230101"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Mighty Maple Eater",
+          "monster_id": "9400548"
+        },
+        {
+          "monster_name": "Zombie Lupin",
+          "monster_id": "4230101"
+        },
+        {
+          "monster_name": "Sentinel",
+          "monster_id": "3000000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Mithril Wolfskin",
+    "image_url": "/static/images/lib/character/01082038.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 65
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "9 (8 - 10)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 17000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Yeti",
+          "monster_id": "5100000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Wolfskin",
+    "image_url": "/static/images/lib/character/01082039.png",
+    "requirements": {
+      "level": 25,
+      "strength": 0,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 65
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 20000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Steel Sylvia",
+    "image_url": "/static/images/lib/character/01082042.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 25000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Green Trixter",
+          "monster_id": "2230104"
+        },
+        {
+          "monster_name": "Jr. Cellion",
+          "monster_id": "3210200"
+        },
+        {
+          "monster_name": "Toad",
+          "monster_id": "9420000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Silver Sylvia",
+    "image_url": "/static/images/lib/character/01082043.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "11 (9 - 13)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 27500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Boomer",
+          "monster_id": "9400547"
+        },
+        {
+          "monster_name": "Green Trixter",
+          "monster_id": "2230104"
+        },
+        {
+          "monster_name": "Jr. Cellion",
+          "monster_id": "3210200"
+        },
+        {
+          "monster_name": "Wooden Mask",
+          "monster_id": "2230110"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Sylvia",
+    "image_url": "/static/images/lib/character/01082044.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 80
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 30000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Fire Boar",
+          "monster_id": "3210100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Arbion",
+    "image_url": "/static/images/lib/character/01082045.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "14 (12 - 16)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 40000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Coketump Lite",
+          "monster_id": "9500154"
+        },
+        {
+          "monster_name": "Jr. Grupin",
+          "monster_id": "3210202"
+        },
+        {
+          "monster_name": "Lunar Pixie",
+          "monster_id": "4230106"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Steel Arbion",
+    "image_url": "/static/images/lib/character/01082046.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 35000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Krip",
+          "monster_id": "3000006"
+        },
+        {
+          "monster_name": "Dark Sand Dwarf",
+          "monster_id": "3110301"
+        },
+        {
+          "monster_name": "Brown Teddy",
+          "monster_id": "3000005"
+        },
+        {
+          "monster_name": "Sand Dwarf",
+          "monster_id": "3100101"
+        },
+        {
+          "monster_name": "Ligator",
+          "monster_id": "3110100"
+        },
+        {
+          "monster_name": "Propelly",
+          "monster_id": "3230303"
+        },
+        {
+          "monster_name": "Cube Slime",
+          "monster_id": "3110300"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Orihalcon Arbion",
+    "image_url": "/static/images/lib/character/01082047.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 95
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "13 (11 - 15)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 37500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mecateon",
+          "monster_id": "4230121"
+        },
+        {
+          "monster_name": "Jr. Wraith",
+          "monster_id": "3230101"
+        },
+        {
+          "monster_name": "Zeta Gray",
+          "monster_id": "4230117"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Marker",
+    "image_url": "/static/images/lib/character/01082048.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 95,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 25000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tick",
+          "monster_id": "3210207"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Marker",
+    "image_url": "/static/images/lib/character/01082049.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 95,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "11 (9 - 13)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 27500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rocky Mask",
+          "monster_id": "2230111"
+        },
+        {
+          "monster_name": "Ligator",
+          "monster_id": "3110100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Black Marker",
+    "image_url": "/static/images/lib/character/01082050.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 95,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 30000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Star Pixie",
+          "monster_id": "3230200"
+        },
+        {
+          "monster_name": "Emo Slime",
+          "monster_id": "9420528"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Lutia",
+    "image_url": "/static/images/lib/character/01082051.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 92,
+      "luck": 33
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 24000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rocky Mask",
+          "monster_id": "2230111"
+        },
+        {
+          "monster_name": "Ratz",
+          "monster_id": "3110102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Lutia",
+    "image_url": "/static/images/lib/character/01082052.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 92,
+      "luck": 33
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "1 (0 - 2)",
+      "weapon_def": "11 (9 - 13)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 25000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Fire Sentinel",
+          "monster_id": "5200002"
+        },
+        {
+          "monster_name": "Royal Cactus",
+          "monster_id": "2100104"
+        },
+        {
+          "monster_name": "Fire Boar",
+          "monster_id": "3210100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Black Lutia",
+    "image_url": "/static/images/lib/character/01082053.png",
+    "requirements": {
+      "level": 30,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 92,
+      "luck": 33
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "weapon_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 27500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Drumming Bunny",
+          "monster_id": "3230400"
+        },
+        {
+          "monster_name": "Roloduck",
+          "monster_id": "3210204"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Noel",
+    "image_url": "/static/images/lib/character/01082054.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 108,
+      "luck": 38
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 32500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Seal",
+          "monster_id": "3230405"
+        },
+        {
+          "monster_name": "Leatty",
+          "monster_id": "5300000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Noel",
+    "image_url": "/static/images/lib/character/01082055.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 108,
+      "luck": 38
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "1 (0 - 2)",
+      "weapon_def": "13 (11 - 15)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 35000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tick",
+          "monster_id": "3210207"
+        },
+        {
+          "monster_name": "Desert Giant",
+          "monster_id": "4230600"
+        },
+        {
+          "monster_name": "Poison Poopa",
+          "monster_id": "4230201"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Noel",
+    "image_url": "/static/images/lib/character/01082056.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 108,
+      "luck": 38
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "weapon_def": "14 (12 - 16)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 37500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Leprechaun",
+          "monster_id": "9400583"
+        },
+        {
+          "monster_name": "Jr. Wraith",
+          "monster_id": "3230101"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Bronze Clench",
+    "image_url": "/static/images/lib/character/01082059.png",
+    "requirements": {
+      "level": 60,
+      "strength": 210,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "weapon_def": "23 (20 - 26)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 120000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Klock",
+          "monster_id": "8140200"
+        },
+        {
+          "monster_name": "Dark Jr. Yeti",
+          "monster_id": "5130105"
+        },
+        {
+          "monster_name": "Mummydog",
+          "monster_id": "4230126"
+        },
+        {
+          "monster_name": "Transformed Blue Perfume",
+          "monster_id": "9410023"
+        },
+        {
+          "monster_name": "Skeledog",
+          "monster_id": "4230125"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Sapphire Clench",
+    "image_url": "/static/images/lib/character/01082060.png",
+    "requirements": {
+      "level": 60,
+      "strength": 210,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "weapon_def": "24 (21 - 27)",
+      "accuracy": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 130000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Pepe",
+          "monster_id": "6130103"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Clench",
+    "image_url": "/static/images/lib/character/01082061.png",
+    "requirements": {
+      "level": 60,
+      "strength": 210,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "3 (2 - 4)",
+      "weapon_def": "25 (22 - 28)",
+      "accuracy": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 140000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Wild Kargo",
+          "monster_id": "6230100"
+        },
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "King Clang",
+          "monster_id": "5220000"
+        },
+        {
+          "monster_name": "Voodoo",
+          "monster_id": "9400561"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Arten",
+    "image_url": "/static/images/lib/character/01082062.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 128,
+      "luck": 43
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "1 (0 - 2)",
+      "weapon_def": "14 (12 - 16)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 40000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Barnard Gray",
+          "monster_id": "4230116"
+        },
+        {
+          "monster_name": "Mr. Alli",
+          "monster_id": "6130204"
+        },
+        {
+          "monster_name": "Coolie Zombie",
+          "monster_id": "5130107"
+        },
+        {
+          "monster_name": "Rooster",
+          "monster_id": "9600001"
+        },
+        {
+          "monster_name": "Zombie Mushroom",
+          "monster_id": "2230101"
+        },
+        {
+          "monster_name": "Sheep",
+          "monster_id": "9600003"
+        },
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        },
+        {
+          "monster_name": "Jr. Pepe",
+          "monster_id": "5400000"
+        },
+        {
+          "monster_name": "Black Sheep",
+          "monster_id": "9600008"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Arten",
+    "image_url": "/static/images/lib/character/01082063.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 128,
+      "luck": 43
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "weapon_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 42500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Nependeath",
+          "monster_id": "4130102"
+        },
+        {
+          "monster_name": "Flyeye",
+          "monster_id": "4230107"
+        },
+        {
+          "monster_name": "Scuba Pepe",
+          "monster_id": "3210450"
+        },
+        {
+          "monster_name": "Dark Nependeath",
+          "monster_id": "4130104"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Arten",
+    "image_url": "/static/images/lib/character/01082064.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 128,
+      "luck": 43
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "3 (2 - 4)",
+      "weapon_def": "16 (14 - 18)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 45000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Toy Trojan",
+          "monster_id": "3230305"
+        },
+        {
+          "monster_name": "Hector",
+          "monster_id": "5130104"
+        },
+        {
+          "monster_name": "Deo",
+          "monster_id": "3220001"
+        },
+        {
+          "monster_name": "Copper Drake",
+          "monster_id": "4130100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Moon Gloves",
+    "image_url": "/static/images/lib/character/01082065.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "18 (16 - 20)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 85000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tweeter",
+          "monster_id": "3230308"
+        },
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Master Chronos",
+          "monster_id": "4230115"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Moon Gloves",
+    "image_url": "/static/images/lib/character/01082066.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "3 (2 - 4)",
+      "weapon_def": "20 (18 - 22)",
+      "avoidability": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 95000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Wild Kargo",
+          "monster_id": "6230100"
+        },
+        {
+          "monster_name": "White Fang",
+          "monster_id": "5140000"
+        },
+        {
+          "monster_name": "Selkie Jr.",
+          "monster_id": "9420511"
+        },
+        {
+          "monster_name": "Samiho",
+          "monster_id": "5100004"
+        },
+        {
+          "monster_name": "Mummydog",
+          "monster_id": "4230126"
+        },
+        {
+          "monster_name": "Reindeer",
+          "monster_id": "5120505"
+        },
+        {
+          "monster_name": "Coke Golem",
+          "monster_id": "9500149"
+        },
+        {
+          "monster_name": "Mixed Golem",
+          "monster_id": "5150000"
+        },
+        {
+          "monster_name": "Grizzly",
+          "monster_id": "5120500"
+        },
+        {
+          "monster_name": "Play Seal",
+          "monster_id": "9500146"
+        },
+        {
+          "monster_name": "Neo Huroid",
+          "monster_id": "5110302"
+        },
+        {
+          "monster_name": "Cold Eye",
+          "monster_id": "4230100"
+        },
+        {
+          "monster_name": "Tree Rod",
+          "monster_id": "4250001"
+        },
+        {
+          "monster_name": "Wraith",
+          "monster_id": "4230102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Moon Gloves",
+    "image_url": "/static/images/lib/character/01082067.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 140
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "19 (17 - 21)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Python",
+          "monster_id": "9420002"
+        },
+        {
+          "monster_name": "Red Drake",
+          "monster_id": "6130100"
+        },
+        {
+          "monster_name": "Mateon",
+          "monster_id": "4230119"
+        },
+        {
+          "monster_name": "MT-09",
+          "monster_id": "5120100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Bronze Scaler",
+    "image_url": "/static/images/lib/character/01082068.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 115,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 35000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Coketump Lite",
+          "monster_id": "9500154"
+        },
+        {
+          "monster_name": "Ratz",
+          "monster_id": "3110102"
+        },
+        {
+          "monster_name": "Sand Rat",
+          "monster_id": "2110300"
+        },
+        {
+          "monster_name": "Ear Plug Plead",
+          "monster_id": "2100106"
+        },
+        {
+          "monster_name": "Mateon",
+          "monster_id": "4230119"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Mithril Scaler",
+    "image_url": "/static/images/lib/character/01082069.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 115,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "13 (11 - 15)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 37500",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Yeti UFO Catcher",
+          "monster_id": "9410008"
+        },
+        {
+          "monster_name": "Jr. Wraith",
+          "monster_id": "3230101"
+        },
+        {
+          "monster_name": "Master Chronos",
+          "monster_id": "4230115"
+        },
+        {
+          "monster_name": "Chronos",
+          "monster_id": "3230306"
+        },
+        {
+          "monster_name": "Kiyo",
+          "monster_id": "3100102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Scaler",
+    "image_url": "/static/images/lib/character/01082070.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 115,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "14 (12 - 16)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 40000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Block Golem",
+          "monster_id": "4230109"
+        },
+        {
+          "monster_name": "Jr. Lioner",
+          "monster_id": "3210201"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Aqua Brace",
+    "image_url": "/static/images/lib/character/01082071.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "14 (12 - 16)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 45000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rombot",
+          "monster_id": "4130103"
+        },
+        {
+          "monster_name": "Coolie Zombie",
+          "monster_id": "5130107"
+        },
+        {
+          "monster_name": "Iron Boar",
+          "monster_id": "4230400"
+        },
+        {
+          "monster_name": "Roloduck",
+          "monster_id": "3210204"
+        },
+        {
+          "monster_name": "Tick-Tock",
+          "monster_id": "4230113"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Brace",
+    "image_url": "/static/images/lib/character/01082072.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 55000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Fang",
+          "monster_id": "5140000"
+        },
+        {
+          "monster_name": "Flyeye",
+          "monster_id": "4230107"
+        },
+        {
+          "monster_name": "Mecateon",
+          "monster_id": "4230121"
+        },
+        {
+          "monster_name": "Retz",
+          "monster_id": "3210208"
+        },
+        {
+          "monster_name": "Moon Bunny",
+          "monster_id": "4230300"
+        },
+        {
+          "monster_name": "Dark Fission",
+          "monster_id": "9420529"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Brace",
+    "image_url": "/static/images/lib/character/01082073.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "3 (2 - 4)",
+      "weapon_def": "16 (14 - 18)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 65000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Cerebes",
+          "monster_id": "4230108"
+        },
+        {
+          "monster_name": "Tweeter",
+          "monster_id": "3230308"
+        },
+        {
+          "monster_name": "Jr. Cellion",
+          "monster_id": "3210200"
+        },
+        {
+          "monster_name": "Mask Fish",
+          "monster_id": "3230104"
+        },
+        {
+          "monster_name": "Deo",
+          "monster_id": "3220001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Cleave",
+    "image_url": "/static/images/lib/character/01082074.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 110
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "3 (2 - 4)",
+      "weapon_def": "16 (14 - 18)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 65000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Goat",
+          "monster_id": "9600004"
+        },
+        {
+          "monster_name": "Sakura Cellion",
+          "monster_id": "9400509"
+        },
+        {
+          "monster_name": "Stumpy",
+          "monster_id": "3220000"
+        },
+        {
+          "monster_name": "Platoon Chronos",
+          "monster_id": "4230114"
+        },
+        {
+          "monster_name": "Black Goat",
+          "monster_id": "9600005"
+        },
+        {
+          "monster_name": "Cellion",
+          "monster_id": "5120001"
+        },
+        {
+          "monster_name": "Deo",
+          "monster_id": "3220001"
+        },
+        {
+          "monster_name": "Lorang",
+          "monster_id": "3230102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Cleave",
+    "image_url": "/static/images/lib/character/01082075.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 110
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "14 (12 - 16)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 45000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Toy Trojan",
+          "monster_id": "3230305"
+        },
+        {
+          "monster_name": "Hector",
+          "monster_id": "5130104"
+        },
+        {
+          "monster_name": "Black Ratz",
+          "monster_id": "3210205"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Cleave",
+    "image_url": "/static/images/lib/character/01082076.png",
+    "requirements": {
+      "level": 40,
+      "strength": 0,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 110
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 55000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Stone Golem",
+          "monster_id": "5130101"
+        },
+        {
+          "monster_name": "Retz",
+          "monster_id": "3210208"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "4230103"
+        },
+        {
+          "monster_name": "Iron Hog",
+          "monster_id": "9300060"
+        },
+        {
+          "monster_name": "Dark Drake",
+          "monster_id": "6230601"
+        },
+        {
+          "monster_name": "Jr. Pepe Doll",
+          "monster_id": "9410011"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Penance",
+    "image_url": "/static/images/lib/character/01082080.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 145,
+      "luck": 50
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "3 (2 - 4)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "20 (18 - 22)",
+      "magic_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 100000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Chief Gray",
+          "monster_id": "4240000"
+        },
+        {
+          "monster_name": "Propelly",
+          "monster_id": "3230303"
+        },
+        {
+          "monster_name": "Mateon",
+          "monster_id": "4230119"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Pennance",
+    "image_url": "/static/images/lib/character/01082081.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 145,
+      "luck": 50
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "1 (0 - 2)",
+      "weapon_def": "18 (16 - 20)",
+      "magic_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 80000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Samiho",
+          "monster_id": "5100004"
+        },
+        {
+          "monster_name": "King Block Golem",
+          "monster_id": "4230110"
+        },
+        {
+          "monster_name": "Grizzly",
+          "monster_id": "5120500"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        },
+        {
+          "monster_name": "Lioner",
+          "monster_id": "5120002"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Pennance",
+    "image_url": "/static/images/lib/character/01082082.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 145,
+      "luck": 50
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "19 (17 - 21)",
+      "magic_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 90000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Play Seal",
+          "monster_id": "9500146"
+        },
+        {
+          "monster_name": "Triple Rumo",
+          "monster_id": "3110303"
+        },
+        {
+          "monster_name": "Mr. Anchor",
+          "monster_id": "9420512"
+        },
+        {
+          "monster_name": "Planey",
+          "monster_id": "3230304"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        },
+        {
+          "monster_name": "Grupin",
+          "monster_id": "5120003"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Willow",
+    "image_url": "/static/images/lib/character/01082083.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 165,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "3 (2 - 4)",
+      "mp": "20 (18 - 22)",
+      "weapon_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 105000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "King Block Golem",
+          "monster_id": "4230110"
+        },
+        {
+          "monster_name": "Tweeter",
+          "monster_id": "3230308"
+        },
+        {
+          "monster_name": "Mossy Snail",
+          "monster_id": "4250000"
+        },
+        {
+          "monster_name": "Drake",
+          "monster_id": "5130100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Willow",
+    "image_url": "/static/images/lib/character/01082084.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 165,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "18 (16 - 20)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 85000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Yeti",
+          "monster_id": "6400000"
+        },
+        {
+          "monster_name": "Dark Nependeath",
+          "monster_id": "4130102"
+        },
+        {
+          "monster_name": "Plateon",
+          "monster_id": "4230120"
+        },
+        {
+          "monster_name": "Extra D",
+          "monster_id": "9400103"
+        },
+        {
+          "monster_name": "Dark Nependeath",
+          "monster_id": "4130104"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Willow",
+    "image_url": "/static/images/lib/character/01082085.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 165,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "mp": "10 (9 - 11)",
+      "weapon_def": "19 (17 - 21)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 95000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Master Soul Teddy",
+          "monster_id": "6230500"
+        },
+        {
+          "monster_name": "Triple Rumo",
+          "monster_id": "3110303"
+        },
+        {
+          "monster_name": "Planey",
+          "monster_id": "3230304"
+        },
+        {
+          "monster_name": "Female Boss",
+          "monster_id": "9400121"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Steel Manute",
+    "image_url": "/static/images/lib/character/01082086.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 188,
+      "luck": 63
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "22 (19 - 25)",
+      "magic_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 105000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Luster Pixie",
+          "monster_id": "5120000"
+        },
+        {
+          "monster_name": "Morphed Blin",
+          "monster_id": "6130202"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Manute",
+    "image_url": "/static/images/lib/character/01082087.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 188,
+      "luck": 63
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "luk": "1 (0 - 2)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "22 (19 - 25)",
+      "magic_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 115000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "Mixed Golem",
+          "monster_id": "5150000"
+        },
+        {
+          "monster_name": "Python",
+          "monster_id": "9420002"
+        },
+        {
+          "monster_name": "Dark Pepe",
+          "monster_id": "6230200"
+        },
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Primitive Boar",
+          "monster_id": "5250002"
+        },
+        {
+          "monster_name": "Igloo Turtle",
+          "monster_id": "9500148"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Manute",
+    "image_url": "/static/images/lib/character/01082088.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 188,
+      "luck": 63
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "3 (2 - 4)",
+      "luk": "1 (0 - 2)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "22 (19 - 25)",
+      "magic_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 125000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Stone Golem",
+          "monster_id": "5130102"
+        },
+        {
+          "monster_name": "King Clang",
+          "monster_id": "5220000"
+        },
+        {
+          "monster_name": "Python",
+          "monster_id": "9420002"
+        },
+        {
+          "monster_name": "Dark Pepe",
+          "monster_id": "6230200"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Oaker Garner",
+    "image_url": "/static/images/lib/character/01082089.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 190,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "22 (19 - 25)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 110000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mummydog",
+          "monster_id": "4230126"
+        },
+        {
+          "monster_name": "Transformed Yeti",
+          "monster_id": "6300001"
+        },
+        {
+          "monster_name": "Igloo Turtle",
+          "monster_id": "9500148"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Sephia Garner",
+    "image_url": "/static/images/lib/character/01082090.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 190,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "dex": "2 (1 - 3)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "23 (20 - 26)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 120000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Wild Kargo",
+          "monster_id": "6230100"
+        },
+        {
+          "monster_name": "Dark Jr. Yeti",
+          "monster_id": "5130105"
+        },
+        {
+          "monster_name": "Green King Goblin",
+          "monster_id": "7130402"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Garner",
+    "image_url": "/static/images/lib/character/01082091.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 190,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "dex": "3 (2 - 4)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "24 (21 - 27)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 130000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "King Clang",
+          "monster_id": "5220000"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        },
+        {
+          "monster_name": "Voodoo",
+          "monster_id": "9400561"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Bronze Pow",
+    "image_url": "/static/images/lib/character/01082092.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "22 (19 - 25)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 110000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mummydog",
+          "monster_id": "4230126"
+        },
+        {
+          "monster_name": "Transformed Yeti",
+          "monster_id": "6300001"
+        },
+        {
+          "monster_name": "Croco",
+          "monster_id": "5130103"
+        },
+        {
+          "monster_name": "Yeti and Pepe",
+          "monster_id": "7130102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Steal Pow",
+    "image_url": "/static/images/lib/character/01082093.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "luk": "2 (1 - 3)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "22 (19 - 25)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 120000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Malady",
+          "monster_id": "5300100"
+        },
+        {
+          "monster_name": "Morphed Blin",
+          "monster_id": "6130202"
+        },
+        {
+          "monster_name": "Voodoo",
+          "monster_id": "9400561"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Pow",
+    "image_url": "/static/images/lib/character/01082094.png",
+    "requirements": {
+      "level": 60,
+      "strength": 0,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 170
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "luk": "3 (2 - 4)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "24 (21 - 27)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 130000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "King Clang",
+          "monster_id": "5220000"
+        },
+        {
+          "monster_name": "Miner Zombie",
+          "monster_id": "5130108"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Bronze Rover",
+    "image_url": "/static/images/lib/character/01082095.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "26 (23 - 29)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 150000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Ice Drake",
+          "monster_id": "6230600"
+        },
+        {
+          "monster_name": "Ice Golem",
+          "monster_id": "9500150"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Yeti and Coketump",
+          "monster_id": "9500147"
+        },
+        {
+          "monster_name": "Pepe",
+          "monster_id": "6130103"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Silver Rover",
+    "image_url": "/static/images/lib/character/01082096.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "3 (2 - 4)",
+      "weapon_def": "27 (24 - 30)",
+      "avoidability": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 160000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Lazy Buffy",
+          "monster_id": "6230300"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        },
+        {
+          "monster_name": "Dual Beetle",
+          "monster_id": "7130003"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Rover",
+    "image_url": "/static/images/lib/character/01082097.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 200
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "4 (3 - 5)",
+      "weapon_def": "28 (25 - 31)",
+      "avoidability": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 170000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Yeti",
+          "monster_id": "6400000"
+        },
+        {
+          "monster_name": "Old Fox",
+          "monster_id": "7220001"
+        },
+        {
+          "monster_name": "Buffoon",
+          "monster_id": "6300100"
+        },
+        {
+          "monster_name": "Jester Scarlion",
+          "monster_id": "9420535"
+        },
+        {
+          "monster_name": "Cheap Amplifier",
+          "monster_id": "9410028"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Lorin",
+    "image_url": "/static/images/lib/character/01082098.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 218,
+      "luck": 73
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "weapon_def": "26 (23 - 29)",
+      "magic_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 140000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Deep Buffoon",
+          "monster_id": "6400100"
+        },
+        {
+          "monster_name": "Ice Drake",
+          "monster_id": "6230600"
+        },
+        {
+          "monster_name": "Buffy",
+          "monster_id": "6130200"
+        },
+        {
+          "monster_name": "Ice Golem",
+          "monster_id": "9500150"
+        },
+        {
+          "monster_name": "Female Mannequin",
+          "monster_id": "9410033"
+        },
+        {
+          "monster_name": "Dark Drake",
+          "monster_id": "6230601"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Lorin",
+    "image_url": "/static/images/lib/character/01082099.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 218,
+      "luck": 73
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "3 (2 - 4)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "27 (24 - 30)",
+      "magic_def": "6 (5 - 7)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 145000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Soul Teddy",
+          "monster_id": "6230400"
+        },
+        {
+          "monster_name": "Dark Yeti and Pepe",
+          "monster_id": "8140100"
+        },
+        {
+          "monster_name": "Yeti and Coketump",
+          "monster_id": "9500147"
+        },
+        {
+          "monster_name": "Vikerola",
+          "monster_id": "9420539"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Lorin",
+    "image_url": "/static/images/lib/character/01082100.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 218,
+      "luck": 73
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "4 (3 - 5)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "28 (25 - 31)",
+      "magic_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 150000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Taurospear",
+          "monster_id": "7130101"
+        },
+        {
+          "monster_name": "Kid Mannequin",
+          "monster_id": "9410032"
+        },
+        {
+          "monster_name": "Werewolf",
+          "monster_id": "7130200"
+        },
+        {
+          "monster_name": "Beetle",
+          "monster_id": "7130002"
+        },
+        {
+          "monster_name": "D. Roy",
+          "monster_id": "7110300"
+        },
+        {
+          "monster_name": "Zeno",
+          "monster_id": "6220001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Bronze Husk",
+    "image_url": "/static/images/lib/character/01082103.png",
+    "requirements": {
+      "level": 70,
+      "strength": 240,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "weapon_def": "27 (24 - 30)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 150000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Master Soul Teddy",
+          "monster_id": "6230500"
+        },
+        {
+          "monster_name": "Dual Ghost Pirate",
+          "monster_id": "7160000"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Mithril Husk",
+    "image_url": "/static/images/lib/character/01082104.png",
+    "requirements": {
+      "level": 70,
+      "strength": 240,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "3 (2 - 4)",
+      "weapon_def": "28 (25 - 31)",
+      "accuracy": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 160000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Klock",
+          "monster_id": "8140200"
+        },
+        {
+          "monster_name": "Transformed Yellow Perfume",
+          "monster_id": "9410025"
+        },
+        {
+          "monster_name": "Charmer",
+          "monster_id": "9420534"
+        },
+        {
+          "monster_name": "Taurospear",
+          "monster_id": "7130101"
+        },
+        {
+          "monster_name": "Yeti and Coketump",
+          "monster_id": "9500147"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Husk",
+    "image_url": "/static/images/lib/character/01082105.png",
+    "requirements": {
+      "level": 70,
+      "strength": 240,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "4 (3 - 5)",
+      "weapon_def": "29 (26 - 32)",
+      "accuracy": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 170000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dark Rash",
+          "monster_id": "7130501"
+        },
+        {
+          "monster_name": "Cerebes",
+          "monster_id": "7130001"
+        },
+        {
+          "monster_name": "Froscola",
+          "monster_id": "9420536"
+        },
+        {
+          "monster_name": "Gigantic Spirit Viking",
+          "monster_id": "8141100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Eyes",
+    "image_url": "/static/images/lib/character/01082106.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 215,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "26 (23 - 29)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 140000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Wild Kargo",
+          "monster_id": "6230100"
+        },
+        {
+          "monster_name": "Ice Golem",
+          "monster_id": "9500150"
+        },
+        {
+          "monster_name": "Dual Birk",
+          "monster_id": "8140111"
+        },
+        {
+          "monster_name": "Red Drake",
+          "monster_id": "6130100"
+        },
+        {
+          "monster_name": "Officer Skeleton",
+          "monster_id": "6230602"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Gold Eyes",
+    "image_url": "/static/images/lib/character/01082107.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 215,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "3 (2 - 4)",
+      "weapon_def": "27 (24 - 30)",
+      "avoidability": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 150000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Eagle Swordsman",
+          "monster_id": "9600014"
+        },
+        {
+          "monster_name": "Transformed Yellow Perfume",
+          "monster_id": "9410025"
+        },
+        {
+          "monster_name": "Yeti",
+          "monster_id": "6300000"
+        },
+        {
+          "monster_name": "Transformed Yeti",
+          "monster_id": "6300001"
+        },
+        {
+          "monster_name": "Yeti and Coketump",
+          "monster_id": "9500147"
+        },
+        {
+          "monster_name": "Homun",
+          "monster_id": "6110300"
+        },
+        {
+          "monster_name": "Female Thief",
+          "monster_id": "9600016"
+        },
+        {
+          "monster_name": "Hankie",
+          "monster_id": "7130004"
+        },
+        {
+          "monster_name": "Phantom Watch",
+          "monster_id": "8142000"
+        },
+        {
+          "monster_name": "Male Thief",
+          "monster_id": "9600015"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Eyes",
+    "image_url": "/static/images/lib/character/01082108.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 215,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "4 (3 - 5)",
+      "weapon_def": "28 (25 - 31)",
+      "avoidability": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 160000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Cerebes",
+          "monster_id": "7130001"
+        },
+        {
+          "monster_name": "Buffoon",
+          "monster_id": "6300100"
+        },
+        {
+          "monster_name": "Bone Fish",
+          "monster_id": "8140600"
+        },
+        {
+          "monster_name": "Vikerola",
+          "monster_id": "9420539"
+        },
+        {
+          "monster_name": "Fancy Amplifier",
+          "monster_id": "9410029"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Cordon",
+    "image_url": "/static/images/lib/character/01082109.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 240,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "dex": "2 (1 - 3)",
+      "mp": "10 (9 - 11)",
+      "weapon_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Buffoon",
+          "monster_id": "6300100"
+        },
+        {
+          "monster_name": "Dual Ghost Pirate",
+          "monster_id": "7160000"
+        },
+        {
+          "monster_name": "Dark Drake",
+          "monster_id": "6230601"
+        },
+        {
+          "monster_name": "Fancy Amplifier",
+          "monster_id": "9410029"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Cordon",
+    "image_url": "/static/images/lib/character/01082110.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 240,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "3 (2 - 4)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "31 (27 - 35)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 205000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Master Death Teddy",
+          "monster_id": "7130300"
+        },
+        {
+          "monster_name": "Rash",
+          "monster_id": "7130500"
+        },
+        {
+          "monster_name": "Captain",
+          "monster_id": "7130104"
+        },
+        {
+          "monster_name": "Cheap Amplifier",
+          "monster_id": "9410028"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Cordon",
+    "image_url": "/static/images/lib/character/01082111.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 240,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "3 (2 - 4)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "32 (28 - 36)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 205000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Cordon",
+    "image_url": "/static/images/lib/character/01082112.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 240,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "4 (3 - 5)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "32 (28 - 36)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 210000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Eagle Swordsman",
+          "monster_id": "9600014"
+        },
+        {
+          "monster_name": "Eye of Time",
+          "monster_id": "8200000"
+        },
+        {
+          "monster_name": "Female Thief",
+          "monster_id": "9600016"
+        },
+        {
+          "monster_name": "Blood Harp",
+          "monster_id": "8140002"
+        },
+        {
+          "monster_name": "Phantom Watch",
+          "monster_id": "8142000"
+        },
+        {
+          "monster_name": "Male Thief",
+          "monster_id": "9600015"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Sapphire Emperor",
+    "image_url": "/static/images/lib/character/01082114.png",
+    "requirements": {
+      "level": 80,
+      "strength": 270,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "1 (0 - 2)",
+      "mp": "10 (9 - 11)",
+      "weapon_def": "31 (27 - 35)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 210000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Klock",
+          "monster_id": "8140200"
+        },
+        {
+          "monster_name": "Transformed Yellow Perfume",
+          "monster_id": "9410025"
+        },
+        {
+          "monster_name": "Homunscullo",
+          "monster_id": "8110300"
+        },
+        {
+          "monster_name": "Ghost Pirate",
+          "monster_id": "7140000"
+        },
+        {
+          "monster_name": "Harp",
+          "monster_id": "8140001"
+        },
+        {
+          "monster_name": "Female Mannequin",
+          "monster_id": "9410033"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Emerald Emperor",
+    "image_url": "/static/images/lib/character/01082115.png",
+    "requirements": {
+      "level": 80,
+      "strength": 270,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "3 (2 - 4)",
+      "dex": "2 (1 - 3)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "32 (28 - 36)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 215000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Spirit Viking",
+          "monster_id": "8141000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blood Emperor",
+    "image_url": "/static/images/lib/character/01082116.png",
+    "requirements": {
+      "level": 80,
+      "strength": 270,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "4 (3 - 5)",
+      "mp": "20 (18 - 22)",
+      "weapon_def": "33 (29 - 37)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 220000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Eagle Swordsman",
+          "monster_id": "9600014"
+        },
+        {
+          "monster_name": "Deep Buffoon",
+          "monster_id": "6400100"
+        },
+        {
+          "monster_name": "Blue Kentaurus",
+          "monster_id": "8140103"
+        },
+        {
+          "monster_name": "Female Thief",
+          "monster_id": "9600016"
+        },
+        {
+          "monster_name": "Phantom Watch",
+          "monster_id": "8142000"
+        },
+        {
+          "monster_name": "Vikerola",
+          "monster_id": "9420539"
+        },
+        {
+          "monster_name": "Dual Ghost Pirate",
+          "monster_id": "7160000"
+        },
+        {
+          "monster_name": "Male Thief",
+          "monster_id": "9600015"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Emperor",
+    "image_url": "/static/images/lib/character/01082117.png",
+    "requirements": {
+      "level": 80,
+      "strength": 270,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "4 (3 - 5)",
+      "dex": "2 (1 - 3)",
+      "mp": "20 (18 - 22)",
+      "weapon_def": "33 (29 - 37)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 220000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Veetron",
+          "monster_id": "9420515"
+        },
+        {
+          "monster_name": "Black Kentaurus",
+          "monster_id": "8140101"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        },
+        {
+          "monster_name": "Bone Fish",
+          "monster_id": "8140600"
+        },
+        {
+          "monster_name": "Grim Phantom Watch",
+          "monster_id": "8143000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Larceny",
+    "image_url": "/static/images/lib/character/01082118.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 220
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "luk": "2 (1 - 3)",
+      "mp": "10 (9 - 11)",
+      "weapon_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Ghost Pirate",
+          "monster_id": "7140000"
+        },
+        {
+          "monster_name": "Red Kentaurus",
+          "monster_id": "8140102"
+        },
+        {
+          "monster_name": "Tauromacis",
+          "monster_id": "7130100"
+        },
+        {
+          "monster_name": "Death Teddy",
+          "monster_id": "7130010"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Purple Larceny",
+    "image_url": "/static/images/lib/character/01082119.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 220
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "luk": "3 (2 - 4)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "31 (27 - 35)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 205000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Gigantic Spirit Viking",
+          "monster_id": "8141100"
+        },
+        {
+          "monster_name": "Birk",
+          "monster_id": "8140110"
+        },
+        {
+          "monster_name": "Berserkie",
+          "monster_id": "9420514"
+        },
+        {
+          "monster_name": "Hobi",
+          "monster_id": "7130600"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blood Larceny",
+    "image_url": "/static/images/lib/character/01082120.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 220
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "luk": "4 (3 - 5)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "32 (28 - 36)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 210000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Grim Phantom Watch",
+          "monster_id": "8143000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Clarity",
+    "image_url": "/static/images/lib/character/01082121.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 248,
+      "luck": 83
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "luk": "1 (0 - 2)",
+      "mp": "10 (9 - 11)",
+      "weapon_def": "30 (27 - 33)",
+      "magic_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        },
+        {
+          "monster_name": "Dual Ghost Pirate",
+          "monster_id": "7160000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Clarity",
+    "image_url": "/static/images/lib/character/01082122.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 248,
+      "luck": 83
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "3 (2 - 4)",
+      "luk": "2 (1 - 3)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "31 (27 - 35)",
+      "magic_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 205000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dual Birk",
+          "monster_id": "8140111"
+        },
+        {
+          "monster_name": "Buffoon",
+          "monster_id": "6300100"
+        },
+        {
+          "monster_name": "Grim Phantom Watch",
+          "monster_id": "8143000"
+        },
+        {
+          "monster_name": "Fancy Amplifier",
+          "monster_id": "9410029"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Clarity",
+    "image_url": "/static/images/lib/character/01082123.png",
+    "requirements": {
+      "level": 80,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 248,
+      "luck": 83
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "4 (3 - 5)",
+      "luk": "2 (1 - 3)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "32 (28 - 36)",
+      "magic_def": "9 (8 - 10)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 210000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Master Death Teddy",
+          "monster_id": "7130300"
+        },
+        {
+          "monster_name": "Gatekeeper",
+          "monster_id": "8160000"
+        },
+        {
+          "monster_name": "Black Kentaurus",
+          "monster_id": "8140101"
+        },
+        {
+          "monster_name": "Dual Birk",
+          "monster_id": "8140111"
+        },
+        {
+          "monster_name": "Death Teddy",
+          "monster_id": "7130010"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Focus",
+    "image_url": "/static/images/lib/character/01082125.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 265,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "dex": "3 (2 - 4)",
+      "weapon_def": "34 (30 - 38)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 230000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Green Hobi",
+          "monster_id": "7130601"
+        },
+        {
+          "monster_name": "Dual Ghost Pirate",
+          "monster_id": "7160000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Focus",
+    "image_url": "/static/images/lib/character/01082126.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 265,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "4 (3 - 5)",
+      "weapon_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 230000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "White Tiger Swordsman",
+          "monster_id": "9600013"
+        },
+        {
+          "monster_name": "Red Goblin",
+          "monster_id": "9420011"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Focus",
+    "image_url": "/static/images/lib/character/01082127.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 265,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "5 (4 - 6)",
+      "weapon_def": "36 (32 - 40)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 250000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Papulatus",
+          "monster_id": "8500002"
+        },
+        {
+          "monster_name": "Dark Wyvern",
+          "monster_id": "8150302"
+        },
+        {
+          "monster_name": "Qualm Monk",
+          "monster_id": "8200005"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Imperial",
+    "image_url": "/static/images/lib/character/01082128.png",
+    "requirements": {
+      "level": 90,
+      "strength": 300,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "3 (2 - 4)",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "35 (31 - 39)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 240000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Ghost Pirate",
+          "monster_id": "7140000"
+        },
+        {
+          "monster_name": "Bain",
+          "monster_id": "8140500"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Purple Imperial",
+    "image_url": "/static/images/lib/character/01082129.png",
+    "requirements": {
+      "level": 90,
+      "strength": 300,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "4 (3 - 5)",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "36 (32 - 40)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 245000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Slygie",
+          "monster_id": "9420516"
+        },
+        {
+          "monster_name": "Red Wyvern",
+          "monster_id": "8150300"
+        },
+        {
+          "monster_name": "Wolf Spider",
+          "monster_id": "9400545"
+        },
+        {
+          "monster_name": "Lycanthrope",
+          "monster_id": "8140000"
+        },
+        {
+          "monster_name": "Black Bear Swordsman",
+          "monster_id": "9600012"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Imperial",
+    "image_url": "/static/images/lib/character/01082130.png",
+    "requirements": {
+      "level": 90,
+      "strength": 300,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "37 (33 - 41)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 250000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Memory Guardian",
+          "monster_id": "8200003"
+        },
+        {
+          "monster_name": "Eliza",
+          "monster_id": "8220000"
+        },
+        {
+          "monster_name": "Grim Phantom Watch",
+          "monster_id": "8143000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Sage",
+    "image_url": "/static/images/lib/character/01082131.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 278,
+      "luck": 93
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "3 (2 - 4)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "34 (30 - 38)",
+      "magic_def": "9 (8 - 10)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 230000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dual Ghost Pirate",
+          "monster_id": "7160000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Sage",
+    "image_url": "/static/images/lib/character/01082132.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 278,
+      "luck": 93
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "4 (3 - 5)",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 235000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Chief Memory Guardian",
+          "monster_id": "8200004"
+        },
+        {
+          "monster_name": "Spirit Viking",
+          "monster_id": "8141000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Sage",
+    "image_url": "/static/images/lib/character/01082133.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 278,
+      "luck": 93
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "4 (3 - 5)",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "35 (31 - 39)",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 235000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Eagle Swordsman",
+          "monster_id": "9600014"
+        },
+        {
+          "monster_name": "Phantom Watch",
+          "monster_id": "8142000"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Pachone",
+    "image_url": "/static/images/lib/character/01082134.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 278,
+      "luck": 93
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "5 (4 - 6)",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "36 (32 - 40)",
+      "magic_def": "11 (9 - 13)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 240000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Ninto",
+          "monster_id": "9400403"
+        },
+        {
+          "monster_name": "Gigantic Spirit Viking",
+          "monster_id": "8141100"
+        },
+        {
+          "monster_name": "Eliza",
+          "monster_id": "8220000"
+        },
+        {
+          "monster_name": "Blue Dragon Turtle",
+          "monster_id": "8140700"
+        },
+        {
+          "monster_name": "Gallopera",
+          "monster_id": "9420540"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Anelin",
+    "image_url": "/static/images/lib/character/01082135.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 260
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "4 (3 - 5)",
+      "luk": "3 (2 - 4)",
+      "weapon_def": "37 (33 - 41)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 260000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Skelegon",
+          "monster_id": "8190003"
+        },
+        {
+          "monster_name": "Silver Giant",
+          "monster_id": "9600022"
+        },
+        {
+          "monster_name": "Mini Gold Martial Artist",
+          "monster_id": "9600019"
+        },
+        {
+          "monster_name": "Silver Spearman",
+          "monster_id": "9600024"
+        },
+        {
+          "monster_name": "Golden Giant",
+          "monster_id": "9600021"
+        },
+        {
+          "monster_name": "Qualm Monk Trainee",
+          "monster_id": "8200006"
+        },
+        {
+          "monster_name": "Green Cornian",
+          "monster_id": "8150200"
+        },
+        {
+          "monster_name": "Censer",
+          "monster_id": "9600017"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Anelin",
+    "image_url": "/static/images/lib/character/01082136.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 260
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "3 (2 - 4)",
+      "luk": "4 (3 - 5)",
+      "weapon_def": "38 (34 - 42)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 265000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Montrecer",
+          "monster_id": "9420518"
+        },
+        {
+          "monster_name": "Dark Cornian",
+          "monster_id": "8150201"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Anelin",
+    "image_url": "/static/images/lib/character/01082137.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 260
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "3 (2 - 4)",
+      "luk": "4 (3 - 5)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "39 (35 - 43)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 265000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Anelin",
+    "image_url": "/static/images/lib/character/01082138.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 140,
+      "intelligence": 0,
+      "luck": 260
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "3 (2 - 4)",
+      "luk": "5 (4 - 6)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "40 (36 - 44)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Oblivion Guardian",
+          "monster_id": "8200011"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Korben",
+    "image_url": "/static/images/lib/character/01082139.png",
+    "requirements": {
+      "level": 100,
+      "strength": 330,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "2 (1 - 3)",
+      "mp": "10 (9 - 11)",
+      "weapon_def": "39 (35 - 43)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Female Thief",
+          "monster_id": "9600016"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190005"
+        },
+        {
+          "monster_name": "Rexton",
+          "monster_id": "8140702"
+        },
+        {
+          "monster_name": "Petrifighter",
+          "monster_id": "9420517"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190002"
+        },
+        {
+          "monster_name": "Male Thief",
+          "monster_id": "9600015"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Korben",
+    "image_url": "/static/images/lib/character/01082140.png",
+    "requirements": {
+      "level": 100,
+      "strength": 330,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "3 (2 - 4)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "40 (36 - 44)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 275000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Skelegon",
+          "monster_id": "8190003"
+        },
+        {
+          "monster_name": "Silver Giant",
+          "monster_id": "9600022"
+        },
+        {
+          "monster_name": "Mini Gold Martial Artist",
+          "monster_id": "9600019"
+        },
+        {
+          "monster_name": "Silver Spearman",
+          "monster_id": "9600024"
+        },
+        {
+          "monster_name": "Golden Giant",
+          "monster_id": "9600021"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Korben",
+    "image_url": "/static/images/lib/character/01082141.png",
+    "requirements": {
+      "level": 100,
+      "strength": 330,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "3 (2 - 4)",
+      "mp": "20 (18 - 22)",
+      "weapon_def": "41 (36 - 46)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Dodo",
+          "monster_id": "8220004"
+        },
+        {
+          "monster_name": "Rexton",
+          "monster_id": "8140702"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Mystra",
+    "image_url": "/static/images/lib/character/01082142.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 240
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_def": "33 (29 - 37)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 215000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jonin",
+          "monster_id": "9400402"
+        },
+        {
+          "monster_name": "Shark",
+          "monster_id": "8150100"
+        },
+        {
+          "monster_name": "Death Teddy",
+          "monster_id": "7130010"
+        },
+        {
+          "monster_name": "Censer",
+          "monster_id": "9600017"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Purple Mystra",
+    "image_url": "/static/images/lib/character/01082143.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 240
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "3 (2 - 4)",
+      "weapon_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 215000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Master Death Teddy",
+          "monster_id": "7130300"
+        },
+        {
+          "monster_name": "Cold Shark",
+          "monster_id": "8150101"
+        },
+        {
+          "monster_name": "Blue Wyvern",
+          "monster_id": "8150301"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dark Mystra",
+    "image_url": "/static/images/lib/character/01082144.png",
+    "requirements": {
+      "level": 90,
+      "strength": 0,
+      "dexterity": 130,
+      "intelligence": 0,
+      "luck": 240
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "4 (3 - 5)",
+      "luk": "3 (2 - 4)",
+      "mp": "25 (22 - 28)",
+      "weapon_def": "30 (27 - 33)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 215000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Memory Monk",
+          "monster_id": "8200001"
+        },
+        {
+          "monster_name": "Red Dragon Turtle",
+          "monster_id": "8140701"
+        },
+        {
+          "monster_name": "Eliza",
+          "monster_id": "8220000"
+        },
+        {
+          "monster_name": "Ravana",
+          "monster_id": "9420014"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Yellow Work Gloves",
+    "image_url": "/static/images/lib/character/01082145.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "1 (0 - 2)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 3000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Cheap Amplifier",
+          "monster_id": "9410028"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Work Gloves",
+    "image_url": "/static/images/lib/character/01082146.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 3000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Work Gloves",
+    "image_url": "/static/images/lib/character/01082147.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 3000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Purple Work Gloves",
+    "image_url": "/static/images/lib/character/01082148.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 3000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Work Gloves",
+    "image_url": "/static/images/lib/character/01082149.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 3000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bodyguards A B Boss",
+          "monster_id": "9400116"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Grey Work Gloves",
+    "image_url": "/static/images/lib/character/01082150.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "3 (2 - 4)",
+      "magic_def": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 3000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Bodyguards A B Boss",
+          "monster_id": "9400116"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Ciara",
+    "image_url": "/static/images/lib/character/01082151.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 308,
+      "luck": 103
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "3 (2 - 4)",
+      "luk": "3 (2 - 4)",
+      "weapon_def": "37 (33 - 41)",
+      "magic_def": "11 (9 - 13)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 260000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Mini Bronze Martial Artist",
+          "monster_id": "9600020"
+        },
+        {
+          "monster_name": "Silver Giant",
+          "monster_id": "9600022"
+        },
+        {
+          "monster_name": "Mini Gold Martial Artist",
+          "monster_id": "9600019"
+        },
+        {
+          "monster_name": "Silver Spearman",
+          "monster_id": "9600024"
+        },
+        {
+          "monster_name": "Bronze Staffman",
+          "monster_id": "9600023"
+        },
+        {
+          "monster_name": "Skelosaurus",
+          "monster_id": "8190004"
+        },
+        {
+          "monster_name": "Golden Giant",
+          "monster_id": "9600021"
+        },
+        {
+          "monster_name": "Duku",
+          "monster_id": "9420519"
+        },
+        {
+          "monster_name": "Brexton",
+          "monster_id": "8140703"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Ciara",
+    "image_url": "/static/images/lib/character/01082152.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 308,
+      "luck": 103
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "4 (3 - 5)",
+      "luk": "3 (2 - 4)",
+      "weapon_def": "38 (34 - 42)",
+      "magic_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 265000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190005"
+        },
+        {
+          "monster_name": "Petrifighter",
+          "monster_id": "9420517"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190002"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Ciara",
+    "image_url": "/static/images/lib/character/01082153.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 308,
+      "luck": 103
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "3 (2 - 4)",
+      "luk": "4 (3 - 5)",
+      "weapon_def": "39 (35 - 43)",
+      "magic_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 265000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Oblivion Monk",
+          "monster_id": "8200009"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Purple Ciara",
+    "image_url": "/static/images/lib/character/01082154.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 308,
+      "luck": 103
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "4 (3 - 5)",
+      "luk": "4 (3 - 5)",
+      "weapon_def": "40 (36 - 44)",
+      "magic_def": "13 (11 - 15)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Lilynouch",
+          "monster_id": "8220005"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Arcina",
+    "image_url": "/static/images/lib/character/01082158.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 290,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "4 (3 - 5)",
+      "mp": "10 (9 - 11)",
+      "weapon_def": "38 (34 - 42)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 260000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jiaoceng",
+          "monster_id": "9600025"
+        },
+        {
+          "monster_name": "Montrecer",
+          "monster_id": "9420518"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190005"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190002"
+        },
+        {
+          "monster_name": "Dark Cornian",
+          "monster_id": "8150201"
+        },
+        {
+          "monster_name": "Oblivion Monk Trainee",
+          "monster_id": "8200010"
+        },
+        {
+          "monster_name": "Jr. Newtie",
+          "monster_id": "8190000"
+        },
+        {
+          "monster_name": "Wooden Fish",
+          "monster_id": "9600018"
+        },
+        {
+          "monster_name": "Typhon",
+          "monster_id": "9400574"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Arcina",
+    "image_url": "/static/images/lib/character/01082159.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 290,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "5 (4 - 6)",
+      "mp": "20 (18 - 22)",
+      "weapon_def": "39 (35 - 43)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 265000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Brexton",
+          "monster_id": "8140703"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Arcina",
+    "image_url": "/static/images/lib/character/01082160.png",
+    "requirements": {
+      "level": 100,
+      "strength": 0,
+      "dexterity": 290,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "6 (5 - 7)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "40 (36 - 44)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 270000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Lyka",
+          "monster_id": "8220006"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Hunter Gloves",
+    "image_url": "/static/images/lib/character/01082163.png",
+    "requirements": {
+      "level": 110,
+      "strength": 0,
+      "dexterity": 315,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "6 (5 - 7)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "44 (39 - 49)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Elemental Gloves",
+    "image_url": "/static/images/lib/character/01082164.png",
+    "requirements": {
+      "level": 110,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 338,
+      "luck": 113
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "5 (4 - 6)",
+      "luk": "5 (4 - 6)",
+      "weapon_def": "45 (40 - 50)",
+      "magic_def": "15 (13 - 17)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Black Garina Gloves",
+    "image_url": "/static/images/lib/character/01082167.png",
+    "requirements": {
+      "level": 110,
+      "strength": 0,
+      "dexterity": 150,
+      "intelligence": 0,
+      "luck": 280
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "5 (4 - 6)",
+      "luk": "6 (5 - 7)",
+      "weapon_def": "43 (38 - 48)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Dragon Gauntlet",
+    "image_url": "/static/images/lib/character/01082168.png",
+    "requirements": {
+      "level": 110,
+      "strength": 360,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "3 (2 - 4)",
+      "mp": "20 (18 - 22)",
+      "weapon_def": "46 (41 - 51)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Lunar Gloves",
+    "image_url": "/static/images/lib/character/01082174.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "int": "1 (0 - 2)",
+      "luk": "1 (0 - 2)",
+      "weapon_def": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 3000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Marker",
+    "image_url": "/static/images/lib/character/01082175.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "weapon_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Marker",
+    "image_url": "/static/images/lib/character/01082176.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "weapon_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Purple Marker",
+    "image_url": "/static/images/lib/character/01082177.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "weapon_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Pink Marker",
+    "image_url": "/static/images/lib/character/01082178.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "2 (1 - 3)",
+      "weapon_def": "7 (6 - 8)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Yellow Marker",
+    "image_url": "/static/images/lib/character/01082179.png",
+    "requirements": {
+      "level": 20,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "3 (2 - 4)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Lagger Halfglove",
+    "image_url": "/static/images/lib/character/01082180.png",
+    "requirements": {
+      "level": 15,
+      "strength": 15,
+      "dexterity": 15,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "4 (3 - 5)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 5000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Rodeo",
+          "monster_id": "9420533"
+        },
+        {
+          "monster_name": "Bubbling",
+          "monster_id": "1210103"
+        },
+        {
+          "monster_name": "Ghost Stump",
+          "monster_id": "1140100"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Leather Armor Glove",
+    "image_url": "/static/images/lib/character/01082183.png",
+    "requirements": {
+      "level": 20,
+      "strength": 20,
+      "dexterity": 20,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "6 (5 - 7)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 10000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Desert Rabbit (M)",
+          "monster_id": "2100101"
+        },
+        {
+          "monster_name": "Zombie Mushroom",
+          "monster_id": "2230101"
+        },
+        {
+          "monster_name": "Jr. Cactus",
+          "monster_id": "2100102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Hard Leather Glove",
+    "image_url": "/static/images/lib/character/01082186.png",
+    "requirements": {
+      "level": 25,
+      "strength": 25,
+      "dexterity": 25,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "8 (7 - 9)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 15000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Royal Cactus",
+          "monster_id": "2100104"
+        },
+        {
+          "monster_name": "Jr. Cactus",
+          "monster_id": "2100102"
+        },
+        {
+          "monster_name": "Wild Boar",
+          "monster_id": "2230102"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Yellow Tartis",
+    "image_url": "/static/images/lib/character/01082189.png",
+    "requirements": {
+      "level": 30,
+      "strength": 30,
+      "dexterity": 30,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 25000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Krip",
+          "monster_id": "3000006"
+        },
+        {
+          "monster_name": "Dark Sand Dwarf",
+          "monster_id": "3110301"
+        },
+        {
+          "monster_name": "Pink Teddy",
+          "monster_id": "3110101"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Jeweled",
+    "image_url": "/static/images/lib/character/01082192.png",
+    "requirements": {
+      "level": 35,
+      "strength": 35,
+      "dexterity": 35,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "12 (10 - 14)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 30000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Jr. Seal",
+          "monster_id": "3230405"
+        },
+        {
+          "monster_name": "Lupin",
+          "monster_id": "3210800"
+        },
+        {
+          "monster_name": "Jr. Pepe",
+          "monster_id": "5400000"
+        },
+        {
+          "monster_name": "Black Ratz",
+          "monster_id": "3210205"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Barbee",
+    "image_url": "/static/images/lib/character/01082195.png",
+    "requirements": {
+      "level": 40,
+      "strength": 40,
+      "dexterity": 40,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "14 (12 - 16)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 40000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Barnard Gray",
+          "monster_id": "4230116"
+        },
+        {
+          "monster_name": "King Block Golem",
+          "monster_id": "4230110"
+        },
+        {
+          "monster_name": "Retz",
+          "monster_id": "3210208"
+        },
+        {
+          "monster_name": "Emo Slime",
+          "monster_id": "9420528"
+        },
+        {
+          "monster_name": "Mateon",
+          "monster_id": "4230119"
+        },
+        {
+          "monster_name": "Deo",
+          "monster_id": "3220001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Brown Royce",
+    "image_url": "/static/images/lib/character/01082198.png",
+    "requirements": {
+      "level": 50,
+      "strength": 50,
+      "dexterity": 50,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "weapon_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 85000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Mecateon",
+          "monster_id": "4230121"
+        },
+        {
+          "monster_name": "Mithril Mutae",
+          "monster_id": "4110302"
+        },
+        {
+          "monster_name": "Malady",
+          "monster_id": "5300100"
+        },
+        {
+          "monster_name": "Hodori",
+          "monster_id": "5100003"
+        },
+        {
+          "monster_name": "Stone Bug",
+          "monster_id": "5250001"
+        },
+        {
+          "monster_name": "Sparker",
+          "monster_id": "4230123"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Black Schult",
+    "image_url": "/static/images/lib/character/01082201.png",
+    "requirements": {
+      "level": 60,
+      "strength": 60,
+      "dexterity": 60,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "24 (21 - 27)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 110000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Luster Pixie",
+          "monster_id": "5120000"
+        },
+        {
+          "monster_name": "King Clang",
+          "monster_id": "5220000"
+        },
+        {
+          "monster_name": "Grizzly",
+          "monster_id": "5120500"
+        },
+        {
+          "monster_name": "Neo Huroid",
+          "monster_id": "5110302"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Black Bisk",
+    "image_url": "/static/images/lib/character/01082204.png",
+    "requirements": {
+      "level": 70,
+      "strength": 70,
+      "dexterity": 70,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "1 (0 - 2)",
+      "dex": "1 (0 - 2)",
+      "weapon_def": "28 (25 - 31)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 150000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Wild Kargo",
+          "monster_id": "6230100"
+        },
+        {
+          "monster_name": "Captain",
+          "monster_id": "7130104"
+        },
+        {
+          "monster_name": "D. Roy",
+          "monster_id": "7110300"
+        },
+        {
+          "monster_name": "Kru",
+          "monster_id": "6130208"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Blue Halfglove",
+    "image_url": "/static/images/lib/character/01082207.png",
+    "requirements": {
+      "level": 80,
+      "strength": 80,
+      "dexterity": 80,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "1 (0 - 2)",
+      "hp": "10 (9 - 11)",
+      "weapon_def": "32 (28 - 36)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 200000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Deep Buffoon",
+          "monster_id": "6400100"
+        },
+        {
+          "monster_name": "Commander Skeleton",
+          "monster_id": "7130103"
+        },
+        {
+          "monster_name": "Berserkie",
+          "monster_id": "9420514"
+        },
+        {
+          "monster_name": "Death Teddy",
+          "monster_id": "7130010"
+        },
+        {
+          "monster_name": "Blue Dragon Turtle",
+          "monster_id": "8140700"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Red Martier",
+    "image_url": "/static/images/lib/character/01082210.png",
+    "requirements": {
+      "level": 90,
+      "strength": 90,
+      "dexterity": 90,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "dex": "4 (3 - 5)",
+      "weapon_def": "36 (32 - 40)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 230000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Memory Monk Trainee",
+          "monster_id": "8200002"
+        },
+        {
+          "monster_name": "Red Dragon Turtle",
+          "monster_id": "8140701"
+        },
+        {
+          "monster_name": "Green Cornian",
+          "monster_id": "8150200"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Black Skellduke",
+    "image_url": "/static/images/lib/character/01082213.png",
+    "requirements": {
+      "level": 100,
+      "strength": 100,
+      "dexterity": 100,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "3 (2 - 4)",
+      "dex": "4 (3 - 5)",
+      "weapon_def": "40 (36 - 44)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 265000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Papulatus",
+          "monster_id": "8500002"
+        },
+        {
+          "monster_name": "Blue Wyvern",
+          "monster_id": "8150301"
+        },
+        {
+          "monster_name": "Prototype Lord",
+          "monster_id": "9400255"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190005"
+        },
+        {
+          "monster_name": "Qualm Guardian",
+          "monster_id": "8200007"
+        },
+        {
+          "monster_name": "Chief Oblivion Guardian",
+          "monster_id": "8200012"
+        },
+        {
+          "monster_name": "Nest Golem",
+          "monster_id": "8190002"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Canopus Glove",
+    "image_url": "/static/images/lib/character/01082216.png",
+    "requirements": {
+      "level": 110,
+      "strength": 110,
+      "dexterity": 110,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "5 (4 - 6)",
+      "hp": "15 (13 - 17)",
+      "weapon_def": "44 (39 - 49)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 300000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Dragon Gauntlet",
+    "image_url": "/static/images/lib/character/01082218.png",
+    "requirements": {
+      "level": 70,
+      "strength": 240,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "4 (3 - 5)",
+      "weapon_def": "29 (26 - 32)",
+      "accuracy": "1 (0 - 2)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 170000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Mechanical Glove",
+    "image_url": "/static/images/lib/character/01082222.png",
+    "requirements": {
+      "level": 70,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "20 (18 - 22)",
+      "magic_def": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 150000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Stormcaster Gloves",
+    "image_url": "/static/images/lib/character/01082223.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_attack": "5 (4 - 6)",
+      "weapon_def": "5 (4 - 6)",
+      "magic_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Green Mittens",
+    "image_url": "/static/images/lib/character/01082228.png",
+    "requirements": {
+      "level": 15,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "magic_def": "5 (4 - 6)",
+      "number_of_upgrades_available": "6"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Glitter Gloves",
+    "image_url": "/static/images/lib/character/01082230.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "mp": "200 (190 - 210)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Goddess Wristband",
+    "image_url": "/static/images/lib/character/01082232.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_attack": "1 (0 - 2)",
+      "magic_attack": "1 (0 - 2)",
+      "weapon_def": "20 (18 - 22)",
+      "magic_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 80000",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Timeless Bergamot",
+    "image_url": "/static/images/lib/character/01082234.png",
+    "requirements": {
+      "level": 150,
+      "strength": 390,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "7 (6 - 8)",
+      "dex": "4 (3 - 5)",
+      "mp": "25 (22 - 28)",
+      "weapon_def": "51 (45 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 330000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Timeless Hermosa",
+    "image_url": "/static/images/lib/character/01082235.png",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 368,
+      "luck": 100
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "6 (5 - 7)",
+      "luk": "6 (5 - 7)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "50 (45 - 55)",
+      "magic_def": "17 (15 - 19)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 330000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Timeless Presto",
+    "image_url": "/static/images/lib/character/01082236.png",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 340,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "7 (6 - 8)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "48 (43 - 53)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 330000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Timeless Lubav",
+    "image_url": "/static/images/lib/character/01082237.png",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 160,
+      "intelligence": 0,
+      "luck": 300
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "6 (5 - 7)",
+      "luk": "7 (6 - 8)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "46 (41 - 51)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 330000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Timeless Charlston",
+    "image_url": "/static/images/lib/character/01082238.png",
+    "requirements": {
+      "level": 150,
+      "strength": 120,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "6 (5 - 7)",
+      "dex": "6 (5 - 7)",
+      "hp": "20 (18 - 22)",
+      "weapon_def": "48 (43 - 53)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 335000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Reverse Bergamot",
+    "image_url": "/static/images/lib/character/01082239.png",
+    "requirements": {
+      "level": 150,
+      "strength": 390,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "6 (5 - 7)",
+      "dex": "4 (3 - 5)",
+      "mp": "25 (22 - 28)",
+      "weapon_def": "51 (45 - 57)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 330000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Reverse Hermosa",
+    "image_url": "/static/images/lib/character/01082240.png",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 368,
+      "luck": 100
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "5 (4 - 6)",
+      "luk": "5 (4 - 6)",
+      "mp": "15 (13 - 17)",
+      "weapon_def": "50 (45 - 55)",
+      "magic_def": "17 (15 - 19)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 330000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Reverse Presto",
+    "image_url": "/static/images/lib/character/01082241.png",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 340,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "6 (5 - 7)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "48 (43 - 53)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 330000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Reverse Lubav",
+    "image_url": "/static/images/lib/character/01082242.png",
+    "requirements": {
+      "level": 150,
+      "strength": 0,
+      "dexterity": 160,
+      "intelligence": 0,
+      "luck": 300
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "6 (5 - 7)",
+      "luk": "6 (5 - 7)",
+      "mp": "30 (27 - 33)",
+      "weapon_def": "46 (41 - 51)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 330000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Reverse Charlston",
+    "image_url": "/static/images/lib/character/01082243.png",
+    "requirements": {
+      "level": 150,
+      "strength": 120,
+      "dexterity": 120,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "5 (4 - 6)",
+      "dex": "5 (4 - 6)",
+      "hp": "20 (18 - 22)",
+      "weapon_def": "48 (43 - 53)",
+      "number_of_upgrades_available": "7"
+    },
+    "sell_price": "Sell Price: 335000",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Pink Bean",
+          "monster_id": "8820001"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Flamekeeper Cordon",
+    "image_url": "/static/images/lib/character/01082246.png",
+    "requirements": {
+      "level": 50,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "magic_attack": "8 (7 - 9)",
+      "accuracy": "20 (18 - 22)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Firebrand",
+          "monster_id": "9400578"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Maple Gage",
+    "image_url": "/static/images/lib/character/01082252.png",
+    "requirements": {
+      "level": 13,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_def": "10 (9 - 11)",
+      "number_of_upgrades_available": "5"
+    },
+    "sources": {
+      "dropped_by": [
+        {
+          "monster_name": "Anniversary Cake",
+          "monster_id": "9400570"
+        }
+      ],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Mushking Leather Glove",
+    "image_url": "/static/images/lib/character/01082254.png",
+    "requirements": {
+      "level": 35,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Beginner",
+      "Warrior",
+      "Magician",
+      "Bowman",
+      "Thief",
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "weapon_attack": "1 (0 - 2)",
+      "magic_attack": "2 (1 - 3)",
+      "number_of_upgrades_available": "5"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Andras Gloves",
+    "image_url": "/static/images/lib/character/01082256.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Warrior"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "str": "2 (1 - 3)",
+      "hp": "10 (9 - 11)",
+      "number_of_upgrades_available": "8"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Marbas Gloves",
+    "image_url": "/static/images/lib/character/01082257.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Magician"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "int": "2 (1 - 3)",
+      "mp": "10 (9 - 11)",
+      "number_of_upgrades_available": "8"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Valefor Gloves",
+    "image_url": "/static/images/lib/character/01082258.png",
+    "requirements": {
+      "level": 10,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Thief"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "luk": "2 (1 - 3)",
+      "hp": "10 (9 - 11)",
+      "number_of_upgrades_available": "8"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Amdusias Gloves",
+    "image_url": "/static/images/lib/character/01082259.png",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Bowman"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "hp": "10 (9 - 11)",
+      "number_of_upgrades_available": "8"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  },
+  {
+    "name": "Crocell Gloves",
+    "image_url": "/static/images/lib/character/01082260.png",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
+    "classes": [
+      "Pirate"
+    ],
+    "stats": {
+      "category": "Gloves",
+      "dex": "2 (1 - 3)",
+      "hp": "10 (9 - 11)",
+      "number_of_upgrades_available": "8"
+    },
+    "sell_price": "Sell Price: 1",
+    "sources": {
+      "dropped_by": [],
+      "sold_by": []
+    }
+  }
+]

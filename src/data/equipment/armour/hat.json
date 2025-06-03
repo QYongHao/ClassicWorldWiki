@@ -17956,6 +17956,13 @@
   },
   {
     "name": "3rd Anniversary Party Hat",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
     "classes": [
       "Beginner",
       "Warrior",
@@ -17981,6 +17988,13 @@
   },
   {
     "name": "5th Anniversary Giant Cake Hat",
+    "requirements": {
+      "level": 0,
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "luck": 0
+    },
     "classes": [
       "Beginner",
       "Warrior",
